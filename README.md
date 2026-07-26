@@ -15,16 +15,6 @@
 - [知乎热门话题](https://github.com/justjavac/zhihu-trending-hot-questions)
 - [微博热搜榜](https://github.com/justjavac/weibo-trending-hot-search)
 
-## 使用
-
-可通过访问 **jsdelivr** 提供的 CDN 文件路径获取到本项目的存档文件。
-
-如想获取**2020-11-29**当天的知乎热搜的原始数据，只需访问[**https://cdn.jsdelivr.net/gh/cxyfreedom/trending-in-one/raw/zhihu-search/2020-11-29.json**](https://cdn.jsdelivr.net/gh/cxyfreedom/trending-in-one/raw/zhihu-search/2020-11-29.json)
-即可；
-
-如需想访问**2020-11-29**当天的知乎热搜的归档数据，只需访问[**https://cdn.jsdelivr.net/gh/cxyfreedom/trending-in-one/archives/zhihu-search/2020-11-29.md**](https://cdn.jsdelivr.net/gh/cxyfreedom/trending-in-one/archives/zhihu-search/2020-11-29.md)
-即可；
-
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
