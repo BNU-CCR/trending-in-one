@@ -1,7 +1,9 @@
 # trending-in-one
 
-[![ci](https://github.com/cxyfreedom/trending-in-one/actions/workflows/ci.yml/badge.svg)](https://github.com/cxyfreedom/trending-in-one/actions/workflows/ci.yml)
-[![license](https://img.shields.io/github/license/cxyfreedom/trending-in-one)](https://github.com/cxyfreedom/trending-in-one/blob/master/LICENSE)
+> 本仓库基于上游项目 [huqi-pr/trending-in-one](https://github.com/huqi-pr/trending-in-one) 及其持续更新分支整理，补全了历史归档数据；内容由 GitHub Actions 自动抓取、归档并维护。
+
+[![ci](https://github.com/izukuuuu/trending-in-one/actions/workflows/ci.yml/badge.svg)](https://github.com/izukuuuu/trending-in-one/actions/workflows/ci.yml)
+[![license](https://img.shields.io/github/license/izukuuuu/trending-in-one)](https://github.com/izukuuuu/trending-in-one/blob/main/LICENSE)
 
 今日头条热搜,知乎热门视频，知乎热搜榜，知乎热门话题，微博热搜榜；记录从 2020-11-29
 日开始的热搜。每小时抓取一次数据，按天[归档](./archives)。
