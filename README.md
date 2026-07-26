@@ -1,6 +1,7 @@
 # trending-in-one
 
-> 本仓库基于上游项目 [huqi-pr/trending-in-one](https://github.com/huqi-pr/trending-in-one) 及其持续更新分支整理，补全了历史归档数据；内容由 GitHub Actions 自动抓取、归档并维护。
+> 本仓库基于上游项目 [huqi-pr/trending-in-one](https://github.com/huqi-pr/trending-in-one)
+> 及其持续更新分支整理，补全了历史归档数据；内容由 GitHub Actions 自动抓取、归档并维护。
 
 [![ci](https://github.com/izukuuuu/trending-in-one/actions/workflows/ci.yml/badge.svg)](https://github.com/izukuuuu/trending-in-one/actions/workflows/ci.yml)
 [![license](https://img.shields.io/github/license/izukuuuu/trending-in-one)](https://github.com/izukuuuu/trending-in-one/blob/main/LICENSE)
