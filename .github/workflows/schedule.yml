@@ -1,4 +1,4 @@
-name: schedule
+name: scheduled update and sync
 
 on:
   workflow_dispatch:
@@ -9,29 +9,48 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
-
     env:
       TZ: Asia/Shanghai
 
     steps:
-      - name: Clone repository
+      - name: Check out repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
-      - name: Install deno
+      - name: Install Deno
+        if: github.repository == 'izukuuuu/trending-in-one'
         uses: denoland/setup-deno@v2
 
-      - name: Run deno
+      - name: Update trending data
+        if: github.repository == 'izukuuuu/trending-in-one'
+        run: |
+          deno task start
+          deno fmt
+
+      - name: Commit updates
+        if: github.repository == 'izukuuuu/trending-in-one'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull origin main --rebase
-          deno task start
-          deno fmt
           git add .
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
           git commit -m "update by github action"
+          git push origin main
+
+      - name: Fast-forward from personal fork
+        if: github.repository == 'BNU-CCR/trending-in-one'
+        run: |
+          git remote add personal https://github.com/izukuuuu/trending-in-one.git
+          git fetch personal main
+          if git merge-base --is-ancestor personal/main HEAD; then
+            echo "Already up to date."
+            exit 0
+          fi
+          git merge --ff-only personal/main
           git push origin main
