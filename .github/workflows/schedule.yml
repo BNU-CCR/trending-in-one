@@ -46,7 +46,7 @@ jobs:
       - name: Fast-forward from personal fork
         if: github.repository == 'BNU-CCR/trending-in-one'
         run: |
-          git remote add personal https://github.com/izukuuuu/trending-in-one.git
+          git remote add personal https://github.com/nateafish/trending-in-one.git
           git fetch personal main
           if git merge-base --is-ancestor personal/main HEAD; then
             echo "Already up to date."
