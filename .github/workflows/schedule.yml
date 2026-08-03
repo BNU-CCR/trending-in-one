@@ -43,9 +43,11 @@ jobs:
           git commit -m "update by github action"
           git push origin main
 
-      - name: Fast-forward from personal fork
+      - name: Sync from personal fork
         if: github.repository == 'BNU-CCR/trending-in-one'
         run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git remote add personal https://github.com/nateafish/trending-in-one.git
           git fetch personal main
           if git merge-base --is-ancestor personal/main HEAD; then
