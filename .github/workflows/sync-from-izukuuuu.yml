@@ -26,7 +26,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git remote add source https://github.com/izukuuuu/trending-in-one.git || git remote set-url source https://github.com/izukuuuu/trending-in-one.git
+          git remote add source https://github.com/nateafish/trending-in-one.git || git remote set-url source https://github.com/nateafish/trending-in-one.git
           git fetch source main
           git merge --no-edit source/main
           git push origin main
