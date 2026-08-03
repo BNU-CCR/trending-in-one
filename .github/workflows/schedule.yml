@@ -21,17 +21,17 @@ jobs:
           fetch-depth: 0
 
       - name: Install Deno
-        if: github.repository == 'izukuuuu/trending-in-one'
+        if: github.repository == 'nateafish/trending-in-one'
         uses: denoland/setup-deno@v2
 
       - name: Update trending data
-        if: github.repository == 'izukuuuu/trending-in-one'
+        if: github.repository == 'nateafish/trending-in-one'
         run: |
           deno task start
           deno fmt
 
       - name: Commit updates
-        if: github.repository == 'izukuuuu/trending-in-one'
+        if: github.repository == 'nateafish/trending-in-one'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -52,5 +52,5 @@ jobs:
             echo "Already up to date."
             exit 0
           fi
-          git merge --ff-only personal/main
+          git merge --no-edit -X theirs personal/main
           git push origin main
