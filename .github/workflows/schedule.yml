@@ -52,5 +52,5 @@ jobs:
             echo "Already up to date."
             exit 0
           fi
-          git merge --ff-only personal/main
+          git merge --no-edit -X theirs personal/main
           git push origin main
