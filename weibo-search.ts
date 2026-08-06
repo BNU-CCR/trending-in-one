@@ -5,47 +5,52 @@ import { join } from "@std/path";
 import { exists } from "@std/fs";
 
 import type { Word } from "./types.ts";
-import { createArchive4Weibo, createReadme4Weibo, mergeWords4Weibo } from "./utils.ts";
+import { createArchive4Weibo, createReadme4Weibo, fetchWithRetry, mergeWords4Weibo } from "./utils.ts";
 
 const regexp = /<a href="(\/weibo\?q=[^"]+)".*?>(.+)<\/a>/g;
-
-const response = await fetch("https://s.weibo.com/top/summary", {
-  headers: {
-    "Cookie": "SUB=_2AkMVdRtlf8NxqwJRmfoWy2_lb4V0yQvEieKjKeq-JRMxHRl-yT8XqmYatRB6PvU1ijEk4CykabQQvFhJAy31x99v4Ejs;",
-  },
-});
-
-if (!response.ok) {
-  console.error(response.statusText);
-  Deno.exit(-1);
-}
-
-const result: string = await response.text();
-
-const matches = result.matchAll(regexp);
-
-const words: Word[] = Array.from(matches).map((x) => ({
-  url: x[1],
-  title: x[2],
-}));
 
 const yyyyMMdd = format(new Date(), "yyyy-MM-dd");
 const fullPath = join("raw/weibo-search", `${yyyyMMdd}.json`);
 
-let wordsAlreadyDownload: Word[] = [];
-if (await exists(fullPath)) {
-  const content = await Deno.readTextFile(fullPath);
-  wordsAlreadyDownload = JSON.parse(content);
+let queswordsAll: Word[] | null = null;
+
+try {
+  const response = await fetchWithRetry("https://s.weibo.com/top/summary", {
+    headers: {
+      "Cookie": "SUB=_2AkMVdRtlf8NxqwJRmfoWy2_lb4V0yQvEieKjKeq-JRMxHRl-yT8XqmYatRB6PvU1ijEk4CykabQQvFhJAy31x99v4Ejs;",
+    },
+  });
+  if (response && response.ok) {
+    const result: string = await response.text();
+
+    const matches = result.matchAll(regexp);
+
+    const words: Word[] = Array.from(matches).map((x) => ({
+      url: x[1],
+      title: x[2],
+    }));
+
+    let wordsAlreadyDownload: Word[] = [];
+    if (await exists(fullPath)) {
+      const content = await Deno.readTextFile(fullPath);
+      wordsAlreadyDownload = JSON.parse(content);
+    }
+
+    queswordsAll = mergeWords4Weibo(words, wordsAlreadyDownload);
+  }
+} catch (err) {
+  console.error(`[weibo-search] 处理失败，本轮跳过：${(err as Error).message ?? err}`);
 }
 
-const queswordsAll = mergeWords4Weibo(words, wordsAlreadyDownload);
-
-export const weiboSearchData = queswordsAll.map((x) => {
+export const weiboSearchData = (queswordsAll ?? []).map((x) => {
   x.realurl = `https://s.weibo.com/${x.url}`;
   return x;
 });
 
 export async function weiboSearch() {
+  if (queswordsAll == null) {
+    return;
+  }
   // 保存原始数据
   await Deno.writeTextFile(fullPath, JSON.stringify(queswordsAll));
 

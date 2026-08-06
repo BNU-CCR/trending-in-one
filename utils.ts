@@ -199,3 +199,31 @@ export function createArchive4Toutiao(
 ${createTuotiaoList(words)}
 `;
 }
+
+/** 带重试与超时的 fetch；全部失败返回 null，不抛异常 */
+export async function fetchWithRetry(
+  url: string,
+  init?: RequestInit,
+  retries = 3,
+  timeoutMs = 15000,
+): Promise<Response | null> {
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    try {
+      const response = await fetch(url, {
+        ...init,
+        signal: AbortSignal.timeout(timeoutMs),
+      });
+      if (response.ok) {
+        return response;
+      }
+      console.error(`[fetch] ${url} returned ${response.status} (attempt ${attempt}/${retries})`);
+    } catch (err) {
+      console.error(`[fetch] ${url} failed: ${(err as Error).message ?? err} (attempt ${attempt}/${retries})`);
+    }
+    if (attempt < retries) {
+      await new Promise((resolve) => setTimeout(resolve, 1000 * attempt));
+    }
+  }
+  console.error(`[fetch] ${url} giving up after ${retries} attempts`);
+  return null;
+}
