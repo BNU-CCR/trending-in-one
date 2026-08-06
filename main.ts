@@ -7,9 +7,13 @@ import { toutiaoSearch } from "./toutiao-search.ts";
 export async function init() {
   // await zhihuVideo();
   // await zhihuQuestions();
-  await zhihuSearch();
-  await weiboSearch();
-  await toutiaoSearch();
+  for (const fn of [zhihuSearch, weiboSearch, toutiaoSearch]) {
+    try {
+      await fn();
+    } catch (err) {
+      console.error(`[main] ${fn.name} 失败：${(err as Error).message ?? err}`);
+    }
+  }
 }
 
 init();

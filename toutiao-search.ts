@@ -5,39 +5,44 @@ import { join } from "@std/path";
 import { exists } from "@std/fs";
 
 import type { ToutiaoTopSearch, ToutiaoWord } from "./types.ts";
-import { createArchive4Toutiao, createReadme4Toutiao, mergeWords4Toutiao } from "./utils.ts";
-
-const response = await fetch(
-  "https://is-lq.snssdk.com/api/suggest_words/?business_id=10016",
-);
-
-if (!response.ok) {
-  console.error(response.statusText);
-  Deno.exit(-1);
-}
-
-const result: ToutiaoTopSearch = await response.json();
-const words = result.data[0].words;
+import { createArchive4Toutiao, createReadme4Toutiao, fetchWithRetry, mergeWords4Toutiao } from "./utils.ts";
 
 const yyyyMMdd = format(new Date(), "yyyy-MM-dd");
 const fullPath = join("raw/toutiao-search", `${yyyyMMdd}.json`);
 
-let wordsAlreadyDownload: ToutiaoWord[] = [];
-if (await exists(fullPath)) {
-  const content = await Deno.readTextFile(fullPath);
-  wordsAlreadyDownload = JSON.parse(content);
+let wordsAll: ToutiaoWord[] | null = null;
+
+try {
+  const response = await fetchWithRetry(
+    "https://is-lq.snssdk.com/api/suggest_words/?business_id=10016",
+  );
+  if (response && response.ok) {
+    const result: ToutiaoTopSearch = await response.json();
+    const words = result.data[0].words;
+
+    let wordsAlreadyDownload: ToutiaoWord[] = [];
+    if (await exists(fullPath)) {
+      const content = await Deno.readTextFile(fullPath);
+      wordsAlreadyDownload = JSON.parse(content);
+    }
+
+    const _words = words.map((x) => {
+      x.url = `https://so.toutiao.com/search?keyword=${x.word.replace(/(^\s+)|(\s+$)|\s+/g, "%20")}`;
+      return x;
+    });
+
+    wordsAll = mergeWords4Toutiao(_words, wordsAlreadyDownload);
+  }
+} catch (err) {
+  console.error(`[toutiao-search] 处理失败，本轮跳过：${(err as Error).message ?? err}`);
 }
-
-const _words = words.map((x) => {
-  x.url = `https://so.toutiao.com/search?keyword=${x.word.replace(/(^\s+)|(\s+$)|\s+/g, "%20")}`;
-  return x;
-});
-
-const wordsAll = mergeWords4Toutiao(_words, wordsAlreadyDownload);
 
 export const ToutiaoSearchData = wordsAll;
 
 export async function toutiaoSearch() {
+  if (wordsAll == null) {
+    return;
+  }
   // 保存原始数据
   await Deno.writeTextFile(fullPath, JSON.stringify(wordsAll));
 
@@ -49,4 +54,8 @@ export async function toutiaoSearch() {
   const archiveText = createArchive4Toutiao(wordsAll, yyyyMMdd);
   const archivePath = join("archives/toutiao-search", `${yyyyMMdd}.md`);
   await Deno.writeTextFile(archivePath, archiveText);
+}
+
+if (import.meta.main) {
+  await toutiaoSearch();
 }
