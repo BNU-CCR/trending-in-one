@@ -46,3 +46,7 @@ export async function zhihuSearch() {
   const archivePath = join("archives/zhihu-search", `${yyyyMMdd}.md`);
   await Deno.writeTextFile(archivePath, archiveText);
 }
+
+if (import.meta.main) {
+  await zhihuSearch();
+}

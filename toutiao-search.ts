@@ -55,3 +55,7 @@ export async function toutiaoSearch() {
   const archivePath = join("archives/toutiao-search", `${yyyyMMdd}.md`);
   await Deno.writeTextFile(archivePath, archiveText);
 }
+
+if (import.meta.main) {
+  await toutiaoSearch();
+}

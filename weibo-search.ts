@@ -63,3 +63,7 @@ export async function weiboSearch() {
   const archivePath = join("archives/weibo-search", `${yyyyMMdd}.md`);
   await Deno.writeTextFile(archivePath, archiveText);
 }
+
+if (import.meta.main) {
+  await weiboSearch();
+}
