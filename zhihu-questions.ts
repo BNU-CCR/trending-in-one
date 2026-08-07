@@ -1,57 +1,124 @@
-#!/usr/bin/env -S deno run --unstable --allow-net --allow-read --allow-write --import-map=import_map.json
+#!/usr/bin/env -S deno run --unstable --allow-net --allow-read --allow-write --allow-env --import-map=import_map.json
 // Copyright 2020 justjavac(迷渡). All rights reserved. MIT license.
 import { format } from "@std/datetime";
 import { join } from "@std/path";
 import { exists } from "@std/fs";
 
-import type { Question, ZhihuQuestionList } from "./types.ts";
-import { createArchive4Question, createReadme4Question, mergeQuestions } from "./utils.ts";
+import type { Question, ZhihuCookieStatus, ZhihuQuestionList } from "./types.ts";
+import {
+  createArchive4Question,
+  createReadme4Cookie,
+  createReadme4Question,
+  fetchWithRetry,
+  mergeQuestions,
+} from "./utils.ts";
 
-const response = await fetch(
-  "https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=100",
-  {
-    "headers": {
-      "cookie":
-        "_zap=6de89a99-3b6b-4d20-8dfa-a37ac1a275e4; d_c0=AfBR-ln-ohmPTlWYbo8fsGpGFz0JxV6XYT4=|1733215042; HMACCOUNT=D6C6DDA6A8FEF6B6; __snaker__id=167qicjwRlwmvZrm; q_c1=cade023a34dd49d3813d9f4df8a8fae0|1738903749000|1738903749000; edu_user_uuid=edu-v1|a96d9972-6e99-4f3f-9d9f-d6c87092a8f3; _xsrf=jDEfk6nNPnMBkUGbMc76zR3zoBB5ONf2; Hm_lvt_98beee57fd2ef70ccdd5ca52b9740c49=1743984445; Hm_lpvt_98beee57fd2ef70ccdd5ca52b9740c49=1743984445; z_c0=2|1:0|10:1744699435|4:z_c0|80:MS4xa2pzTUFBQUFBQUFtQUFBQVlBSlZUY2dSNDJqb3lBalB1a3l4bi1iS1hpbXhaQmFIRHRfRExnPT0=|5888bb74e117a3b4dc4968ba5e3d3ceb3c14d5b5a17d36a058f3e0eb83f982b7; q_c1=cade023a34dd49d3813d9f4df8a8fae0|1744943051000|1738903749000; __zse_ck=004_o4NzQAcuo1wIiEJIXbG4PK/Rfn198zC6eNXeyRXNlwIu4aGX3eMCLlQhH7fe64YEPL0bhBpcOpGcYHZ2C4m6N/482OvxQsZSL7deGNEKt3DIufXyz14mWwUuk4ULD3/P-rltGpa12CoBbs+2FLZl9lNk+EhNqtWiWN9SmG7Qn5VxFIP3/gJmfc67ipceessfIXsurJjL72pqxx6rIgzwS5bVdxhFbNfcJ2iXWpx4a8seXED6H7qnqZPSKrSpMsqRl; SESSIONID=GTH4iEWLcjAv09F0Kl4qplz7AqgAwTlVh0q4h62G3K1; JOID=UVAXBE6uexXex7jtT6iGRfybQkJX4iVY6Kj2sAbLGl6t9YegdYGvC7LKueJIF-L22sTTQ2KOmPKLNFzhXOibP5w=; osd=VlwdAUupdx_bwr_hRa2DQvCRR0dQ7i9d7a_6ugPOHVKn8IKneYuqDrXGs-dNEO7838HUT2iLnfWHPlnkW-SROpk=; tst=r; BEC=b7b0f394f3fd074c6bdd2ebbdd598b4e",
-    },
-  },
-);
-
-if (!response.ok) {
-  console.error(response.statusText);
-  Deno.exit(-1);
-}
-
-const result: ZhihuQuestionList = await response.json();
-
-const questions: Question[] = result.data.map((x) => ({
-  title: x.target.title,
-  url: `https://www.zhihu.com/question/${x.target.id}`,
-}));
+// 知乎热榜接口自 2025-05 起强制登录态，无有效 z_c0 会话时返回 401。
+// cookie 从环境变量 ZHIHU_COOKIE 注入（GitHub Actions Secrets，避免明文入库），
+// 未配置时本轮跳过，不影响其他数据源。cookie 过期后用 scripts/refresh-zhihu-cookie.ts 扫码重新获取。
+const ZHIHU_COOKIE = Deno.env.get("ZHIHU_COOKIE")?.trim() ?? "";
 
 const yyyyMMdd = format(new Date(), "yyyy-MM-dd");
 const fullPath = join("raw/zhihu-questions", `${yyyyMMdd}.json`);
+const cookieStatusPath = "raw/zhihu-cookie-status.json";
 
-let questionsAlreadyDownload: Question[] = [];
-if (await exists(fullPath)) {
-  const content = await Deno.readTextFile(fullPath);
-  questionsAlreadyDownload = JSON.parse(content);
+const now = () => format(new Date(), "yyyy-MM-dd HH:mm:ss");
+
+function defaultCookieStatus(): ZhihuCookieStatus {
+  return {
+    updatedAt: "从未刷新",
+    checkedAt: "",
+    valid: false,
+    note: "尚未检测",
+  };
 }
 
-const questionsAll = mergeQuestions(questions, questionsAlreadyDownload);
+async function loadCookieStatus(): Promise<ZhihuCookieStatus> {
+  try {
+    if (await exists(cookieStatusPath)) {
+      const parsed = JSON.parse(await Deno.readTextFile(cookieStatusPath)) as ZhihuCookieStatus;
+      return { ...defaultCookieStatus(), ...parsed };
+    }
+  } catch (err) {
+    console.error(`[zhihu-questions] 读取 cookie 状态失败：${(err as Error).message ?? err}`);
+  }
+  return defaultCookieStatus();
+}
 
-export const zhihuQuestionData = questionsAll;
+let questionsAll: Question[] | null = null;
+
+try {
+  const response = await fetchWithRetry(
+    "https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=100",
+    {
+      headers: {
+        "cookie": ZHIHU_COOKIE,
+        "referer": "https://www.zhihu.com/hot",
+        "user-agent":
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",
+      },
+    },
+  );
+  if (response && response.ok) {
+    const result: ZhihuQuestionList = await response.json();
+    const questions: Question[] = result.data.map((x) => ({
+      title: x.target.title,
+      url: `https://www.zhihu.com/question/${x.target.id}`,
+    }));
+
+    let questionsAlreadyDownload: Question[] = [];
+    if (await exists(fullPath)) {
+      const content = await Deno.readTextFile(fullPath);
+      questionsAlreadyDownload = JSON.parse(content);
+    }
+
+    questionsAll = mergeQuestions(questions, questionsAlreadyDownload);
+  } else if (!ZHIHU_COOKIE) {
+    console.error("[zhihu-questions] 未配置 ZHIHU_COOKIE，本轮跳过。");
+  }
+} catch (err) {
+  console.error(`[zhihu-questions] 处理失败，本轮跳过：${(err as Error).message ?? err}`);
+}
+
+export const zhihuQuestionData = questionsAll ?? [];
 
 export async function zhihuQuestions() {
+  // 记录 cookie 健康状态，供 README 顶部展示
+  const cookieStatus = await loadCookieStatus();
+  cookieStatus.checkedAt = now();
+  if (questionsAll != null) {
+    cookieStatus.valid = true;
+    cookieStatus.note = "cookie 有效，热榜数据正常";
+  } else if (!ZHIHU_COOKIE) {
+    cookieStatus.valid = false;
+    cookieStatus.note = "未配置 ZHIHU_COOKIE，热榜未抓取";
+  } else {
+    cookieStatus.valid = false;
+    cookieStatus.note = "cookie 已失效或接口异常，请运行 scripts/refresh-zhihu-cookie.ts 刷新";
+  }
+  await Deno.writeTextFile(cookieStatusPath, JSON.stringify(cookieStatus, null, 2));
+
+  if (questionsAll == null) {
+    // 本轮无数据，仍更新 README 中的 cookie 状态块
+    const readme = await createReadme4Cookie(cookieStatus);
+    await Deno.writeTextFile("./README.md", readme);
+    return;
+  }
+
   // 保存原始数据
   await Deno.writeTextFile(fullPath, JSON.stringify(questionsAll));
 
-  // 更新 README.md
-  const readme = await createReadme4Question(questionsAll);
+  // 更新 README.md（热榜 + cookie 状态）
+  let readme = await createReadme4Question(questionsAll);
+  readme = await createReadme4Cookie(cookieStatus, readme);
   await Deno.writeTextFile("./README.md", readme);
 
   // 更新 archives
   const archiveText = createArchive4Question(questionsAll, yyyyMMdd);
   const archivePath = join("archives/zhihu-questions", `${yyyyMMdd}.md`);
   await Deno.writeTextFile(archivePath, archiveText);
+}
+
+if (import.meta.main) {
+  await zhihuQuestions();
 }

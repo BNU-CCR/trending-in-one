@@ -1,7 +1,8 @@
 {
   "tasks": {
-    "start": "deno run --allow-net --allow-read --allow-write main.ts",
+    "start": "deno run --allow-net --allow-read --allow-write --allow-env main.ts",
     "zhihu": "deno run --allow-net --allow-read --allow-write zhihu-search.ts",
+    "zhihu-questions": "deno run --allow-net --allow-read --allow-write --allow-env zhihu-questions.ts",
     "weibo": "deno run --allow-net --allow-read --allow-write weibo-search.ts",
     "toutiao": "deno run --allow-net --allow-read --allow-write toutiao-search.ts",
     "test": "deno test --allow-read"

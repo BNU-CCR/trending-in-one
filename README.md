@@ -9,12 +9,40 @@
 今日头条热搜,知乎热门视频，知乎热搜榜，知乎热门话题，微博热搜榜；记录从 2020-11-29
 日开始的热搜。每小时抓取一次数据，按天[归档](./archives)。
 
+<!-- BEGIN ZHIHUCOOKIE -->
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-07 13:22:40
+<!-- END ZHIHUCOOKIE -->
+
 ## 相关项目
 
 - [知乎热门视频](https://github.com/justjavac/zhihu-trending-hot-video)
 - [知乎热搜榜](https://github.com/justjavac/zhihu-trending-top-search)
 - [知乎热门话题](https://github.com/justjavac/zhihu-trending-hot-questions)
 - [微博热搜榜](https://github.com/justjavac/weibo-trending-hot-search)
+
+## 知乎 Cookie 维护
+
+知乎热榜接口自 2025-05 起要求登录态，抓取依赖有效的 `z_c0` 会话 cookie。cookie 保存在 GitHub Actions Secret
+`ZHIHU_COOKIE` 中（不写入代码库）。本仓库每小时抓取时都会自动检测 cookie 有效性，并在此 README 顶部显示状态：
+
+- `✅ 有效` —— 热榜数据正常抓取；
+- `❌ 已失效` —— 需要重新扫码获取新 cookie。
+
+**刷新步骤**（每次 cookie 失效时执行一次）：
+
+```bash
+# 1. 扫码登录并验证新 cookie
+deno run -A scripts/refresh-zhihu-cookie.ts
+
+# 2. 把新 cookie 更新到仓库 Secret
+gh secret set ZHIHU_COOKIE -R nateafish/trending-in-one \
+  --body "$(cat /tmp/zhihu_new_cookie.txt)"
+
+# 3. 手动触发一次抓取，验证 README 顶部状态变为 ✅
+gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
+```
+
+首次使用需安装 playwright 浏览器：`npx playwright install chromium`。
 
 ## 今日头条热搜
 
@@ -144,39 +172,37 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Tue May 06 2025 09:19:13 GMT+0800 (China Standard Time) -->
-
-1. [赵心童夺得斯诺克世锦赛冠军，成为中国首位，也是亚洲首位斯诺克世锦赛冠军，如何评价他的比赛表现？](https://www.zhihu.com/question/1902560709012878000)
-1. [2025 五一档票房 7.43 亿，不及去年同档期票房一半，这一现象原因是什么？](https://www.zhihu.com/question/1902835234510214400)
-1. [南京明孝陵石兽遭涂鸦「到此一游」，景区称已进行修补保护，涉事游客可能出于什么心理？将受到哪些处罚？](https://www.zhihu.com/question/1902762657548821800)
-1. [孩子幼儿园，早上起不来，是该强行拖起来，还是让她睡够了再去幼儿园？](https://www.zhihu.com/question/13172991603)
-1. [阿诺德将在赛季结束后离开利物浦加盟皇家马德里，如何评价这一举措？](https://www.zhihu.com/question/1902785483890755000)
-1. [如何看待阿维塔再回应网传「风阻系数造假」，称近期将根据国家专业机构实验室排期公开测试？](https://www.zhihu.com/question/1902316343816074200)
-1. [SpaceX 星舰S35火箭在静态点火测试中发生爆炸，爆炸原因有哪些？](https://www.zhihu.com/question/1902415262592004400)
-1. [我是行政，老板说不招保洁了，让我一个月打扫一次厕所和会议室，给我涨工资500元，我怎么回？](https://www.zhihu.com/question/1902315003505270800)
-1. [五一假期结束了，如果真有「反方向的钟」，你最想把时间拨回到假期的哪一天？](https://www.zhihu.com/question/1902677957484443600)
-1. [哪道菜一出现就知道是妈妈的「敷衍式做饭」？](https://www.zhihu.com/question/1899914369975957200)
-1. [小米汽车将 SU7 新车定购页面中的「智驾」更名为「辅助驾驶」，这一调整是出于怎样的品牌定位考量？](https://www.zhihu.com/question/1902406018308211700)
-1. [贵州游船侧翻致 10 死，当地称日常有执法检查，曾发天气预警，为何悲剧仍发生？暴露了哪些问题？](https://www.zhihu.com/question/1902679450086237400)
-1. [DND世界观下巨龙靠什么能活到成年?](https://www.zhihu.com/question/11292701270)
-1. [孩子明明天天都在学习，可咋就不出成绩呢？](https://www.zhihu.com/question/1898247330764919000)
-1. [你在热血传奇里面打到的最贵的东西是什么？](https://www.zhihu.com/question/33399354)
-1. [学校为什么喜欢把食堂、宿舍等职能单位外包出去呢？](https://www.zhihu.com/question/1899419117401929700)
-1. [历史上有哪些很冷的冷知识?](https://www.zhihu.com/question/1895916425392132600)
-1. [日本的小学生上学、放学为什么不可以接送？](https://www.zhihu.com/question/5900994708)
-1. [5月是2025年牛市的起点吗？](https://www.zhihu.com/question/1898639747859079400)
-1. [美国男子注射蛇毒 18 年血液产生抗体，蛇毒在血液中是怎么产生抗体的？他的抗体有哪些研究价值？](https://www.zhihu.com/question/1902414257561232400)
-1. [巴菲特宣布年底退休，63 岁阿贝尔将接班，公司已囤积 3477 亿美元现金，哪些信息值得关注？](https://www.zhihu.com/question/1902313765539668500)
-1. [湖北江陵一男子跑马拉松心脏骤停，30 秒急救捡回一命，反映出什么问题？普通人怎么判断身体条件是否合适？](https://www.zhihu.com/question/1902078766752170200)
-1. [上班通勤在多久内可以接受啊？](https://www.zhihu.com/question/12996127786)
-1. [怎样增加深度睡眠时间？](https://www.zhihu.com/question/23273243)
-1. [孩子写作业不会，你教也听不懂，你会说孩子笨吗？](https://www.zhihu.com/question/1900219572537258200)
-1. [吕布在三国正史里是不是第一猛将？](https://www.zhihu.com/question/605192875)
-1. [金庸《笑傲江湖》中，同一本剑谱为什么采用两个命名？](https://www.zhihu.com/question/1896870169315353600)
-1. [声音是怎么影响人的情绪的？](https://www.zhihu.com/question/1901017819027584500)
-1. [《情深深雨濛濛》里方瑜为什么看上尔豪?](https://www.zhihu.com/question/663501446)
-1. [为什么漫威要在《雷霆特攻队*》里，让模仿大师两分钟暴毙？](https://www.zhihu.com/question/1901352690442831600)
-
+<!-- 最后更新时间 Fri Aug 07 2026 13:22:40 GMT+0800 (China Standard Time) -->
+1. [如何看待梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%？](https://www.zhihu.com/question/2068637080209421000)
+1. [为什么《黑悟空》游科公司不做国民IP的动作RPG《黑水浒》，而做没名气的《黑钟馗》？](https://www.zhihu.com/question/2068128337650792000)
+1. [网传南航一航班提供饮料为西梅汁，致乘客大排长队上厕所，是真的吗？如何评价这一事件？](https://www.zhihu.com/question/2068358710498255000)
+1. [新生儿入住月子会所 4 天后颅内出血进ICU，监控现护理人员拍打、吼叫行为，相关方应承担怎样责任？](https://www.zhihu.com/question/2068703340356003000)
+1. [如何看待韩媒曝韩国足协 7 场比赛性贿赂 20 名裁判，涉中韩国奥战+世预赛？暴露出哪些问题？](https://www.zhihu.com/question/2068833130803197000)
+1. [《蜘蛛侠：崭新之日》大爆，前三部导演乔恩·瓦茨遭网暴「永远别再执导蜘蛛侠了」，客观来说前三部质量如何？](https://www.zhihu.com/question/2068304398212495000)
+1. [电影《八仙！》里为什么把汉钟离的名字改成了钟离权？](https://www.zhihu.com/question/2062925324489340000)
+1. [泸溪河发布「桃酥出现金属牙冠」调查结论，排除生产带入可能性，消费者已澄清视频情况不属实，如何看待此事？](https://www.zhihu.com/question/2069020073851983600)
+1. [孩子准备上大一了，一个月跟我要1500的生活费，会不会太多了？](https://www.zhihu.com/question/2066558957930420200)
+1. [老乡鸡主动邀约求职者，得知二人同名后又直接拒绝，称喊一个名字会有两个人答应，仅因同名就拒绝录用合理吗？](https://www.zhihu.com/question/2067990469624305000)
+1. [立秋为什么要「贴秋膘」？](https://www.zhihu.com/question/2065129497867957000)
+1. [这个暑假「预制娃」火了，家长提前填鸭，学校二次加热，如何看待这种抢跑式教育？大脑发育经得起「预制」吗？](https://www.zhihu.com/question/2068724870267892000)
+1. [多家手机品牌回应将大规模涨价，OPPO、荣耀、小米等部分机型已上调价格，如何看待此次手机涨价潮？](https://www.zhihu.com/question/2068727171682718500)
+1. [胖东来宣布暂别行业会议和帮扶，是否意味着中国零售业「向胖东来学习」的热潮正在退去？](https://www.zhihu.com/question/2068641150270026500)
+1. [前日本奥运举重选手便利店偷鸡蛋，推倒店员致其骨折，被当场逮捕，为什么会做出此举？日本运动员的处境如何？](https://www.zhihu.com/question/2068423522058244600)
+1. [专家建议落实双休、增加假期，称「剪头发看电影等消费需要时间」，如何看待此建议？增加假期能带动消费吗？](https://www.zhihu.com/question/2068732573711329000)
+1. [知乎开放平台近期新推出的Zhihu CLI 能力，有哪些值得探索的玩法？](https://www.zhihu.com/question/2068735236100154400)
+1. [为什么可以说“站在地上”，却不能说“游在河里”？](https://www.zhihu.com/question/2008213346428662500)
+1. [比武招亲摆明是给采花大盗递刀,武侠游戏为什么还乐此不疲地设计这种擂台?](https://www.zhihu.com/question/2068266245296744200)
+1. [为什么《人民的名义》中唯独没有介绍侯亮平和钟小艾的家庭背景？是因为他们是正面人物要考虑影响吗？](https://www.zhihu.com/question/59229305)
+1. [如何看待日本网红Mina轻生离世，曾疑因偶像的含沙射影被大批粉丝人肉、网暴，直播含泪恳求停止网暴？](https://www.zhihu.com/question/2068633449532076500)
+1. [小米澎程系列配置「低速慢行灯」，时速低于 10km/h 自动开启，实用性如何？能解决哪些夜间驾驶痛点？](https://www.zhihu.com/question/2067414687868774100)
+1. [公司实行「上四休三」，但要降薪 1000 元，员工不接受只能辞职，这样合理吗？换做是你会如何选择？](https://www.zhihu.com/question/2068750826869413000)
+1. [WTT 横滨站，陈熠2-3被张本美和逆转，其赛中申请医疗暂停被驳回，裁判做法合理吗？如何评价本场比赛？](https://www.zhihu.com/question/2068777492261909200)
+1. [世卫组织建议新冠疫苗接种从「应急」转向「常规」，意味着以后要定期接种新冠疫苗了吗？](https://www.zhihu.com/question/2067928197945980200)
+1. [如何看待儿科医生韩杰「漏诊」获刑 1 年，本人称「认错但不认罪」？从专业角度看他应该获刑吗？](https://www.zhihu.com/question/2068723614723956700)
+1. [维尼休斯与皇马最终续约成功，如何看待这场谈判闹剧？](https://www.zhihu.com/question/2068962550973195000)
+1. [《崩坏3》第二部主线剧情正式完结，如何评价这场洛星之旅？](https://www.zhihu.com/question/2068780219134220000)
+1. [你敢坦然穿着几十块钱的普通衣服正常去公司上班吗？](https://www.zhihu.com/question/2064051997364507000)
+1. [南昌一星巴克员工对周杰伦海报做翻白眼等动作，现已被停职，如何看待这一处罚？个人喜好和工作冲突该咋办？](https://www.zhihu.com/question/2068287712507982800)
 <!-- END ZHIHUQUESTIONS -->
 
 历史归档 [./archives/zhihu-questions](./archives/zhihu-questions)
