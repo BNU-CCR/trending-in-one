@@ -1,4 +1,4 @@
-import type { Question, SearchWord, ToutiaoWord, Word } from "./types.ts";
+import type { Question, SearchWord, ToutiaoWord, Word, ZhihuCookieStatus } from "./types.ts";
 
 /** 合并两次热门话题并根据 id 去重 */
 export function mergeQuestions(
@@ -75,6 +75,21 @@ export async function createReadme4Question(
   return readme.replace(
     /<!-- BEGIN ZHIHUQUESTIONS -->[\W\w]*<!-- END ZHIHUQUESTIONS -->/,
     createQuestionList(words),
+  );
+}
+
+/** 更新 README 顶部的知乎 Cookie 健康状态块 */
+export async function createReadme4Cookie(
+  status: ZhihuCookieStatus,
+  content?: string,
+): Promise<string> {
+  const readme = content ?? (await Deno.readTextFile("./README.md"));
+  const badge = status.valid ? "✅ 有效" : "❌ 已失效";
+  const updated = status.updatedAt || "从未刷新";
+  const checked = status.checkedAt || "从未检测";
+  return readme.replace(
+    /<!-- BEGIN ZHIHUCOOKIE -->[\W\w]*<!-- END ZHIHUCOOKIE -->/,
+    `<!-- BEGIN ZHIHUCOOKIE -->\n**知乎热榜 Cookie**：${badge} ｜ 最近刷新：${updated} ｜ 最近检测：${checked}\n<!-- END ZHIHUCOOKIE -->`,
   );
 }
 

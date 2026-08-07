@@ -6,8 +6,15 @@
 [![ci](https://github.com/nateafish/trending-in-one/actions/workflows/ci.yml/badge.svg)](https://github.com/nateafish/trending-in-one/actions/workflows/ci.yml)
 [![license](https://img.shields.io/github/license/izukuuuu/trending-in-one)](https://github.com/nateafish/trending-in-one/blob/main/LICENSE)
 
-今日头条热搜,知乎热门视频，知乎热搜榜，知乎热门话题，微博热搜榜；记录从 2020-11-29
-日开始的热搜。每小时抓取一次数据，按天[归档](./archives)。
+今日头条热搜、知乎热搜榜、知乎热门话题、微博热搜榜；记录从 2020-11-29
+日开始的热搜。每小时抓取一次数据，按天[归档](./archives)。知乎视频热榜已下线（2025-05
+起停更），不再抓取，仅保留历史数据。
+
+<!-- BEGIN ZHIHUCOOKIE -->
+
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-07 13:26:55
+
+<!-- END ZHIHUCOOKIE -->
 
 ## 相关项目
 
@@ -16,29 +23,93 @@
 - [知乎热门话题](https://github.com/justjavac/zhihu-trending-hot-questions)
 - [微博热搜榜](https://github.com/justjavac/weibo-trending-hot-search)
 
+## 知乎 Cookie 维护
+
+知乎热榜接口自 2025-05 起要求登录态，抓取依赖有效的 `z_c0` 会话 cookie。cookie 保存在 GitHub Actions Secret
+`ZHIHU_COOKIE` 中（不写入代码库）。本仓库每小时抓取时都会自动检测 cookie 有效性，并在此 README 顶部显示状态：
+
+- `✅ 有效` —— 热榜数据正常抓取；
+- `❌ 已失效` —— 需要重新扫码获取新 cookie。
+
+**刷新步骤**（每次 cookie 失效时执行一次）：
+
+```bash
+# 1. 扫码登录并验证新 cookie
+deno run -A scripts/refresh-zhihu-cookie.ts
+
+# 2. 把新 cookie 更新到仓库 Secret
+gh secret set ZHIHU_COOKIE -R nateafish/trending-in-one \
+  --body "$(cat /tmp/zhihu_new_cookie.txt)"
+
+# 3. 手动触发一次抓取，验证 README 顶部状态变为 ✅
+gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
+```
+
+首次使用需安装 playwright 浏览器：`npx playwright install chromium`。
+
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Fri Aug 07 2026 08:50:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 07 2026 12:15:46 GMT+0800 (China Standard Time) -->
 
+1. [泰交通部副部长回应中国人遭歧视手势](https://so.toutiao.com/search?keyword=泰交通部副部长回应中国人遭歧视手势)
+1. [9岁120斤啦啦队女孩跳舞火出圈](https://so.toutiao.com/search?keyword=9岁120斤啦啦队女孩跳舞火出圈)
+1. [服务实体经济 财政金融打出组合拳](https://so.toutiao.com/search?keyword=服务实体经济%20财政金融打出组合拳)
+1. [男子结婚8年发现3个女儿均非亲生](https://so.toutiao.com/search?keyword=男子结婚8年发现3个女儿均非亲生)
+1. [今年是闭眼秋](https://so.toutiao.com/search?keyword=今年是闭眼秋)
+1. [命案逃犯躲进深山21年活得像野人](https://so.toutiao.com/search?keyword=命案逃犯躲进深山21年活得像野人)
+1. [狗子坐在酒馆台上突然“跟唱”](https://so.toutiao.com/search?keyword=狗子坐在酒馆台上突然“跟唱”)
+1. [“中国蔬菜之乡”最高温达41.8℃](https://so.toutiao.com/search?keyword=“中国蔬菜之乡”最高温达41.8℃)
+1. [宇树科技IPO能让多少人财富自由](https://so.toutiao.com/search?keyword=宇树科技IPO能让多少人财富自由)
 1. [今日立秋](https://so.toutiao.com/search?keyword=今日立秋)
-1. [眼镜店老板副业做的AI视频火到海外](https://so.toutiao.com/search?keyword=眼镜店老板副业做的AI视频火到海外)
-1. [我国编制完成新版全月地质图](https://so.toutiao.com/search?keyword=我国编制完成新版全月地质图)
-1. [立秋有哪些习俗](https://so.toutiao.com/search?keyword=立秋有哪些习俗)
+1. [开了空调就不开窗户？误区](https://so.toutiao.com/search?keyword=开了空调就不开窗户？误区)
+1. [发行市值610亿 谁是宇树科技背后赢家](https://so.toutiao.com/search?keyword=发行市值610亿%20谁是宇树科技背后赢家)
+1. [台风白海豚环流面积近似13个浙江](https://so.toutiao.com/search?keyword=台风白海豚环流面积近似13个浙江)
+1. [美媒称美国想用战术核武器对抗中俄](https://so.toutiao.com/search?keyword=美媒称美国想用战术核武器对抗中俄)
+1. [DeepSeek豪掷1.4亿护航宇树IPO](https://so.toutiao.com/search?keyword=DeepSeek豪掷1.4亿护航宇树IPO)
 1. [台风白海豚或吞并鲸鱼 登陆地点更新](https://so.toutiao.com/search?keyword=台风白海豚或吞并鲸鱼%20登陆地点更新)
-1. [普京八年前的话被军方用进对乌战报](https://so.toutiao.com/search?keyword=普京八年前的话被军方用进对乌战报)
-1. [女子遗失的名牌包意外网购入手](https://so.toutiao.com/search?keyword=女子遗失的名牌包意外网购入手)
+1. [97岁英国奶奶飞上天再破吉尼斯纪录](https://so.toutiao.com/search?keyword=97岁英国奶奶飞上天再破吉尼斯纪录)
+1. [对话重庆地铁吐血女孩](https://so.toutiao.com/search?keyword=对话重庆地铁吐血女孩)
+1. [上海启动Ⅲ级防汛防台响应](https://so.toutiao.com/search?keyword=上海启动Ⅲ级防汛防台响应)
+1. [立秋不意味真正秋季到来](https://so.toutiao.com/search?keyword=立秋不意味真正秋季到来)
+1. [泽连斯基解除4名乌克兰驻外大使职务](https://so.toutiao.com/search?keyword=泽连斯基解除4名乌克兰驻外大使职务)
+1. [游客没网新疆老板：给你开热rrrr点](https://so.toutiao.com/search?keyword=游客没网新疆老板：给你开热rrrr点)
+1. [立秋有哪些习俗](https://so.toutiao.com/search?keyword=立秋有哪些习俗)
+1. [野生大熊猫淌水过河差点踩空](https://so.toutiao.com/search?keyword=野生大熊猫淌水过河差点踩空)
+1. [全球为何再次囤积粮食](https://so.toutiao.com/search?keyword=全球为何再次囤积粮食)
+1. [做好4件事安稳度过换季过渡期](https://so.toutiao.com/search?keyword=做好4件事安稳度过换季过渡期)
+1. [俄批日本再军事化扰乱全球安全](https://so.toutiao.com/search?keyword=俄批日本再军事化扰乱全球安全)
+1. [夫妻花式晒证展示门当户对](https://so.toutiao.com/search?keyword=夫妻花式晒证展示门当户对)
+1. [美国大量囤铜有何目的](https://so.toutiao.com/search?keyword=美国大量囤铜有何目的)
+1. [比亚迪1-7月海外销量约97万辆](https://so.toutiao.com/search?keyword=比亚迪1-7月海外销量约97万辆)
+1. [俄称欧洲若想和平解决冲突应停止援乌](https://so.toutiao.com/search?keyword=俄称欧洲若想和平解决冲突应停止援乌)
+1. [27岁女子成组织卖淫集团主犯被通缉](https://so.toutiao.com/search?keyword=27岁女子成组织卖淫集团主犯被通缉)
+1. [朱洁静自曝患癌是前男友发现的](https://so.toutiao.com/search?keyword=朱洁静自曝患癌是前男友发现的)
+1. [女子开一天一夜空调后二氧化碳中毒](https://so.toutiao.com/search?keyword=女子开一天一夜空调后二氧化碳中毒)
+1. [中国军舰如何应对反辐射导弹](https://so.toutiao.com/search?keyword=中国军舰如何应对反辐射导弹)
 1. [立秋后北方要先凉快了](https://so.toutiao.com/search?keyword=立秋后北方要先凉快了)
+1. [印度地缘投机策略彻底玩砸了吗](https://so.toutiao.com/search?keyword=印度地缘投机策略彻底玩砸了吗)
+1. [北京外卖新规下骑手合规与超时困局](https://so.toutiao.com/search?keyword=北京外卖新规下骑手合规与超时困局)
+1. [泰国机场将推出安检新规](https://so.toutiao.com/search?keyword=泰国机场将推出安检新规)
+1. [普京八年前的话被军方用进对乌战报](https://so.toutiao.com/search?keyword=普京八年前的话被军方用进对乌战报)
+1. [立秋防“秋乏综合征”](https://so.toutiao.com/search?keyword=立秋防“秋乏综合征”)
+1. [2050年机器人足球队能赢人类冠军吗](https://so.toutiao.com/search?keyword=2050年机器人足球队能赢人类冠军吗)
+1. [什么原因导致全球高温热浪集体失控](https://so.toutiao.com/search?keyword=什么原因导致全球高温热浪集体失控)
+1. [下周将有4只新股发行](https://so.toutiao.com/search?keyword=下周将有4只新股发行)
+1. [985博士后被曝在妻子孕期出轨后续](https://so.toutiao.com/search?keyword=985博士后被曝在妻子孕期出轨后续)
+1. [八国外长联合谴责以色列](https://so.toutiao.com/search?keyword=八国外长联合谴责以色列)
+1. [台军“汉光秀”开场闹剧多](https://so.toutiao.com/search?keyword=台军“汉光秀”开场闹剧多)
+1. [眼镜店老板副业做的AI视频火到海外](https://so.toutiao.com/search?keyword=眼镜店老板副业做的AI视频火到海外)
+1. [《九门》高开高走 老IP如何破局](https://so.toutiao.com/search?keyword=《九门》高开高走%20老IP如何破局)
+1. [泰国一女公务员妆容引争议 本人回应](https://so.toutiao.com/search?keyword=泰国一女公务员妆容引争议%20本人回应)
+1. [我国编制完成新版全月地质图](https://so.toutiao.com/search?keyword=我国编制完成新版全月地质图)
+1. [女子遗失的名牌包意外网购入手](https://so.toutiao.com/search?keyword=女子遗失的名牌包意外网购入手)
 1. [银行午休1.5小时 留个窗口行不行](https://so.toutiao.com/search?keyword=银行午休1.5小时%20留个窗口行不行)
 1. [现代版摸金校尉落网查获400多枚古币](https://so.toutiao.com/search?keyword=现代版摸金校尉落网查获400多枚古币)
 1. [“深圳地面沉降致车辆损坏”不实](https://so.toutiao.com/search?keyword=“深圳地面沉降致车辆损坏”不实)
-1. [27岁女子成组织卖淫集团主犯被通缉](https://so.toutiao.com/search?keyword=27岁女子成组织卖淫集团主犯被通缉)
-1. [女子开一天一夜空调后二氧化碳中毒](https://so.toutiao.com/search?keyword=女子开一天一夜空调后二氧化碳中毒)
 1. [中方警告日本不要再走向历史被告席](https://so.toutiao.com/search?keyword=中方警告日本不要再走向历史被告席)
-1. [对话重庆地铁吐血女孩](https://so.toutiao.com/search?keyword=对话重庆地铁吐血女孩)
 1. [陈伟霆看见开始上水果天塌了](https://so.toutiao.com/search?keyword=陈伟霆看见开始上水果天塌了)
 1. [AI复原文人笔下的立秋](https://so.toutiao.com/search?keyword=AI复原文人笔下的立秋)
-1. [立秋不意味真正秋季到来](https://so.toutiao.com/search?keyword=立秋不意味真正秋季到来)
 1. [俄弹道导弹大量突破乌防线原因何在](https://so.toutiao.com/search?keyword=俄弹道导弹大量突破乌防线原因何在)
 1. [申聪回应梅姨真名：正义永不缺席](https://so.toutiao.com/search?keyword=申聪回应梅姨真名：正义永不缺席)
 1. [美国搞AI霸权“封杀”中国遭网友吐槽](https://so.toutiao.com/search?keyword=美国搞AI霸权“封杀”中国遭网友吐槽)
@@ -57,10 +128,8 @@
 1. [毛宁转发梯田音乐会视频海外网友赞叹](https://so.toutiao.com/search?keyword=毛宁转发梯田音乐会视频海外网友赞叹)
 1. [养老院将关停八旬老太无人接手](https://so.toutiao.com/search?keyword=养老院将关停八旬老太无人接手)
 1. [关之琳否认与27岁模特的恋情](https://so.toutiao.com/search?keyword=关之琳否认与27岁模特的恋情)
-1. [夫妻花式晒证展示门当户对](https://so.toutiao.com/search?keyword=夫妻花式晒证展示门当户对)
 1. [马卡：皇马引进6人后将开始着眼卖人](https://so.toutiao.com/search?keyword=马卡：皇马引进6人后将开始着眼卖人)
 1. [媒体：“领导先休假”是个必要的开始](https://so.toutiao.com/search?keyword=媒体：“领导先休假”是个必要的开始)
-1. [泰国一女公务员妆容引争议 本人回应](https://so.toutiao.com/search?keyword=泰国一女公务员妆容引争议%20本人回应)
 1. [湖北省委书记走访调研两部门](https://so.toutiao.com/search?keyword=湖北省委书记走访调研两部门)
 1. [美前国防官员炒作“中国AI威胁”](https://so.toutiao.com/search?keyword=美前国防官员炒作“中国AI威胁”)
 1. [怕芒果被风吹走男孩紧抓不松手](https://so.toutiao.com/search?keyword=怕芒果被风吹走男孩紧抓不松手)
@@ -106,44 +175,47 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Tue May 06 2025 09:19:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 07 2026 13:26:55 GMT+0800 (China Standard Time) -->
 
-1. [赵心童夺得斯诺克世锦赛冠军，成为中国首位，也是亚洲首位斯诺克世锦赛冠军，如何评价他的比赛表现？](https://www.zhihu.com/question/1902560709012878000)
-1. [2025 五一档票房 7.43 亿，不及去年同档期票房一半，这一现象原因是什么？](https://www.zhihu.com/question/1902835234510214400)
-1. [南京明孝陵石兽遭涂鸦「到此一游」，景区称已进行修补保护，涉事游客可能出于什么心理？将受到哪些处罚？](https://www.zhihu.com/question/1902762657548821800)
-1. [孩子幼儿园，早上起不来，是该强行拖起来，还是让她睡够了再去幼儿园？](https://www.zhihu.com/question/13172991603)
-1. [阿诺德将在赛季结束后离开利物浦加盟皇家马德里，如何评价这一举措？](https://www.zhihu.com/question/1902785483890755000)
-1. [如何看待阿维塔再回应网传「风阻系数造假」，称近期将根据国家专业机构实验室排期公开测试？](https://www.zhihu.com/question/1902316343816074200)
-1. [SpaceX 星舰S35火箭在静态点火测试中发生爆炸，爆炸原因有哪些？](https://www.zhihu.com/question/1902415262592004400)
-1. [我是行政，老板说不招保洁了，让我一个月打扫一次厕所和会议室，给我涨工资500元，我怎么回？](https://www.zhihu.com/question/1902315003505270800)
-1. [五一假期结束了，如果真有「反方向的钟」，你最想把时间拨回到假期的哪一天？](https://www.zhihu.com/question/1902677957484443600)
-1. [哪道菜一出现就知道是妈妈的「敷衍式做饭」？](https://www.zhihu.com/question/1899914369975957200)
-1. [小米汽车将 SU7 新车定购页面中的「智驾」更名为「辅助驾驶」，这一调整是出于怎样的品牌定位考量？](https://www.zhihu.com/question/1902406018308211700)
-1. [贵州游船侧翻致 10 死，当地称日常有执法检查，曾发天气预警，为何悲剧仍发生？暴露了哪些问题？](https://www.zhihu.com/question/1902679450086237400)
-1. [DND世界观下巨龙靠什么能活到成年?](https://www.zhihu.com/question/11292701270)
-1. [孩子明明天天都在学习，可咋就不出成绩呢？](https://www.zhihu.com/question/1898247330764919000)
-1. [你在热血传奇里面打到的最贵的东西是什么？](https://www.zhihu.com/question/33399354)
-1. [学校为什么喜欢把食堂、宿舍等职能单位外包出去呢？](https://www.zhihu.com/question/1899419117401929700)
-1. [历史上有哪些很冷的冷知识?](https://www.zhihu.com/question/1895916425392132600)
-1. [日本的小学生上学、放学为什么不可以接送？](https://www.zhihu.com/question/5900994708)
-1. [5月是2025年牛市的起点吗？](https://www.zhihu.com/question/1898639747859079400)
-1. [美国男子注射蛇毒 18 年血液产生抗体，蛇毒在血液中是怎么产生抗体的？他的抗体有哪些研究价值？](https://www.zhihu.com/question/1902414257561232400)
-1. [巴菲特宣布年底退休，63 岁阿贝尔将接班，公司已囤积 3477 亿美元现金，哪些信息值得关注？](https://www.zhihu.com/question/1902313765539668500)
-1. [湖北江陵一男子跑马拉松心脏骤停，30 秒急救捡回一命，反映出什么问题？普通人怎么判断身体条件是否合适？](https://www.zhihu.com/question/1902078766752170200)
-1. [上班通勤在多久内可以接受啊？](https://www.zhihu.com/question/12996127786)
-1. [怎样增加深度睡眠时间？](https://www.zhihu.com/question/23273243)
-1. [孩子写作业不会，你教也听不懂，你会说孩子笨吗？](https://www.zhihu.com/question/1900219572537258200)
-1. [吕布在三国正史里是不是第一猛将？](https://www.zhihu.com/question/605192875)
-1. [金庸《笑傲江湖》中，同一本剑谱为什么采用两个命名？](https://www.zhihu.com/question/1896870169315353600)
-1. [声音是怎么影响人的情绪的？](https://www.zhihu.com/question/1901017819027584500)
-1. [《情深深雨濛濛》里方瑜为什么看上尔豪?](https://www.zhihu.com/question/663501446)
-1. [为什么漫威要在《雷霆特攻队*》里，让模仿大师两分钟暴毙？](https://www.zhihu.com/question/1901352690442831600)
+1. [如何看待梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%？](https://www.zhihu.com/question/2068637080209421000)
+1. [新生儿入住月子会所 4 天后颅内出血进ICU，监控现护理人员拍打、吼叫行为，相关方应承担怎样责任？](https://www.zhihu.com/question/2068703340356003000)
+1. [网传南航一航班提供饮料为西梅汁，致乘客大排长队上厕所，是真的吗？如何评价这一事件？](https://www.zhihu.com/question/2068358710498255000)
+1. [如何看待韩媒曝韩国足协 7 场比赛性贿赂 20 名裁判，涉中韩国奥战+世预赛？暴露出哪些问题？](https://www.zhihu.com/question/2068833130803197000)
+1. [《蜘蛛侠：崭新之日》大爆，前三部导演乔恩·瓦茨遭网暴「永远别再执导蜘蛛侠了」，客观来说前三部质量如何？](https://www.zhihu.com/question/2068304398212495000)
+1. [电影《八仙！》里为什么把汉钟离的名字改成了钟离权？](https://www.zhihu.com/question/2062925324489340000)
+1. [孩子准备上大一了，一个月跟我要1500的生活费，会不会太多了？](https://www.zhihu.com/question/2066558957930420200)
+1. [泸溪河发布「桃酥出现金属牙冠」调查结论，排除生产带入可能性，消费者已澄清视频情况不属实，如何看待此事？](https://www.zhihu.com/question/2069020073851983600)
+1. [老乡鸡主动邀约求职者，得知二人同名后又直接拒绝，称喊一个名字会有两个人答应，仅因同名就拒绝录用合理吗？](https://www.zhihu.com/question/2067990469624305000)
+1. [这个暑假「预制娃」火了，家长提前填鸭，学校二次加热，如何看待这种抢跑式教育？大脑发育经得起「预制」吗？](https://www.zhihu.com/question/2068724870267892000)
+1. [立秋为什么要「贴秋膘」？](https://www.zhihu.com/question/2065129497867957000)
+1. [胖东来宣布暂别行业会议和帮扶，是否意味着中国零售业「向胖东来学习」的热潮正在退去？](https://www.zhihu.com/question/2068641150270026500)
+1. [多家手机品牌回应将大规模涨价，OPPO、荣耀、小米等部分机型已上调价格，如何看待此次手机涨价潮？](https://www.zhihu.com/question/2068727171682718500)
+1. [比武招亲摆明是给采花大盗递刀,武侠游戏为什么还乐此不疲地设计这种擂台?](https://www.zhihu.com/question/2068266245296744200)
+1. [前日本奥运举重选手便利店偷鸡蛋，推倒店员致其骨折，被当场逮捕，为什么会做出此举？日本运动员的处境如何？](https://www.zhihu.com/question/2068423522058244600)
+1. [专家建议落实双休、增加假期，称「剪头发看电影等消费需要时间」，如何看待此建议？增加假期能带动消费吗？](https://www.zhihu.com/question/2068732573711329000)
+1. [唐僧扫塔为什么不从最高层往下扫，而是从下往上扫？](https://www.zhihu.com/question/22432296)
+1. [知乎开放平台近期新推出的Zhihu CLI 能力，有哪些值得探索的玩法？](https://www.zhihu.com/question/2068735236100154400)
+1. [为什么可以说“站在地上”，却不能说“游在河里”？](https://www.zhihu.com/question/2008213346428662500)
+1. [为什么《人民的名义》中唯独没有介绍侯亮平和钟小艾的家庭背景？是因为他们是正面人物要考虑影响吗？](https://www.zhihu.com/question/59229305)
+1. [如何看待日本网红Mina轻生离世，曾疑因偶像的含沙射影被大批粉丝人肉、网暴，直播含泪恳求停止网暴？](https://www.zhihu.com/question/2068633449532076500)
+1. [小米澎程系列配置「低速慢行灯」，时速低于 10km/h 自动开启，实用性如何？能解决哪些夜间驾驶痛点？](https://www.zhihu.com/question/2067414687868774100)
+1. [WTT 横滨站，陈熠2-3被张本美和逆转，其赛中申请医疗暂停被驳回，裁判做法合理吗？如何评价本场比赛？](https://www.zhihu.com/question/2068777492261909200)
+1. [公司实行「上四休三」，但要降薪 1000 元，员工不接受只能辞职，这样合理吗？换做是你会如何选择？](https://www.zhihu.com/question/2068750826869413000)
+1. [世卫组织建议新冠疫苗接种从「应急」转向「常规」，意味着以后要定期接种新冠疫苗了吗？](https://www.zhihu.com/question/2067928197945980200)
+1. [如何看待儿科医生韩杰「漏诊」获刑 1 年，本人称「认错但不认罪」？从专业角度看他应该获刑吗？](https://www.zhihu.com/question/2068723614723956700)
+1. [维尼休斯与皇马最终续约成功，如何看待这场谈判闹剧？](https://www.zhihu.com/question/2068962550973195000)
+1. [《崩坏3》第二部主线剧情正式完结，如何评价这场洛星之旅？](https://www.zhihu.com/question/2068780219134220000)
+1. [你敢坦然穿着几十块钱的普通衣服正常去公司上班吗？](https://www.zhihu.com/question/2064051997364507000)
+1. [南昌一星巴克员工对周杰伦海报做翻白眼等动作，现已被停职，如何看待这一处罚？个人喜好和工作冲突该咋办？](https://www.zhihu.com/question/2068287712507982800)
+1. [为什么《黑悟空》游科公司不做国民IP的动作RPG《黑水浒》，而做没名气的《黑钟馗》？](https://www.zhihu.com/question/2068128337650792000)
 
 <!-- END ZHIHUQUESTIONS -->
 
 历史归档 [./archives/zhihu-questions](./archives/zhihu-questions)
 
 ## 知乎热门视频
+
+> ⚠️ 知乎视频热榜已下线（2025-05 起停更），抓取已在 workflow 中停用；本节为历史数据。
 
 <!-- BEGIN ZHIHUVIDEO -->
 <!-- 最后更新时间 Tue May 06 2025 09:19:13 GMT+0800 (China Standard Time) -->
@@ -186,9 +258,59 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Fri Aug 07 2026 08:46:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 07 2026 12:06:48 GMT+0800 (China Standard Time) -->
 
 1. [总书记高度重视防汛救灾工作](https://s.weibo.com//weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E9%AB%98%E5%BA%A6%E9%87%8D%E8%A7%86%E9%98%B2%E6%B1%9B%E6%95%91%E7%81%BE%E5%B7%A5%E4%BD%9C%23&Refer=new_time)
+1. [泸溪河牙冠事件消费者已致歉](https://s.weibo.com//weibo?q=%23%E6%B3%B8%E6%BA%AA%E6%B2%B3%E7%89%99%E5%86%A0%E4%BA%8B%E4%BB%B6%E6%B6%88%E8%B4%B9%E8%80%85%E5%B7%B2%E8%87%B4%E6%AD%89%23&t=31&band_rank=1&Refer=top)
+1. [泸溪河金属牙冠事件调查结果](https://s.weibo.com//weibo?q=%23%E6%B3%B8%E6%BA%AA%E6%B2%B3%E9%87%91%E5%B1%9E%E7%89%99%E5%86%A0%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%23&t=31&band_rank=2&Refer=top)
+1. [秋天第1个节气](https://s.weibo.com//weibo?q=%23%E7%A7%8B%E5%A4%A9%E7%AC%AC1%E4%B8%AA%E8%8A%82%E6%B0%94%23&t=31&band_rank=3&Refer=top)
+1. [于适 平儿都长这么大了](https://s.weibo.com//weibo?q=%E4%BA%8E%E9%80%82%20%E5%B9%B3%E5%84%BF%E9%83%BD%E9%95%BF%E8%BF%99%E4%B9%88%E5%A4%A7%E4%BA%86&t=31&band_rank=4&Refer=top)
+1. [1岁宝宝碰坏纸巾盒三亚酒店索赔924元](https://s.weibo.com//weibo?q=%231%E5%B2%81%E5%AE%9D%E5%AE%9D%E7%A2%B0%E5%9D%8F%E7%BA%B8%E5%B7%BE%E7%9B%92%E4%B8%89%E4%BA%9A%E9%85%92%E5%BA%97%E7%B4%A2%E8%B5%94924%E5%85%83%23&t=31&band_rank=5&Refer=top)
+1. [央视网评银行午休](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E7%BD%91%E8%AF%84%E9%93%B6%E8%A1%8C%E5%8D%88%E4%BC%91%23&t=31&band_rank=6&Refer=top)
+1. [张雅琪中餐厅早上读英语](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%9B%85%E7%90%AA%E4%B8%AD%E9%A4%90%E5%8E%85%E6%97%A9%E4%B8%8A%E8%AF%BB%E8%8B%B1%E8%AF%AD%23&t=31&band_rank=7&Refer=top)
+1. [今年是闭眼秋](https://s.weibo.com//weibo?q=%23%E4%BB%8A%E5%B9%B4%E6%98%AF%E9%97%AD%E7%9C%BC%E7%A7%8B%23&t=31&band_rank=8&Refer=top)
+1. [空调效果可视化了](https://s.weibo.com//weibo?q=%E7%A9%BA%E8%B0%83%E6%95%88%E6%9E%9C%E5%8F%AF%E8%A7%86%E5%8C%96%E4%BA%86&t=31&band_rank=9&Refer=top)
+1. [韩国被爆性贿赂世预赛裁判](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%A2%AB%E7%88%86%E6%80%A7%E8%B4%BF%E8%B5%82%E4%B8%96%E9%A2%84%E8%B5%9B%E8%A3%81%E5%88%A4%23&t=31&band_rank=10&Refer=top)
+1. [Mina同学发声](https://s.weibo.com//weibo?q=%23Mina%E5%90%8C%E5%AD%A6%E5%8F%91%E5%A3%B0%23&t=31&band_rank=11&Refer=top)
+1. [两儿子同患自毁容貌症妈妈说天塌了](https://s.weibo.com//weibo?q=%23%E4%B8%A4%E5%84%BF%E5%AD%90%E5%90%8C%E6%82%A3%E8%87%AA%E6%AF%81%E5%AE%B9%E8%B2%8C%E7%97%87%E5%A6%88%E5%A6%88%E8%AF%B4%E5%A4%A9%E5%A1%8C%E4%BA%86%23&t=31&band_rank=12&Refer=top)
+1. [王垲智向侯卓成致歉](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E5%9E%B2%E6%99%BA%E5%90%91%E4%BE%AF%E5%8D%93%E6%88%90%E8%87%B4%E6%AD%89%23&t=31&band_rank=13&Refer=top)
+1. [台风](https://s.weibo.com//weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=14&Refer=top)
+1. [粉笔公告自曝决策失误](https://s.weibo.com//weibo?q=%E7%B2%89%E7%AC%94%E5%85%AC%E5%91%8A%E8%87%AA%E6%9B%9D%E5%86%B3%E7%AD%96%E5%A4%B1%E8%AF%AF&t=31&band_rank=15&Refer=top)
+1. [iPhone18Pro十二大升级](https://s.weibo.com//weibo?q=%23iPhone18Pro%E5%8D%81%E4%BA%8C%E5%A4%A7%E5%8D%87%E7%BA%A7%23&t=31&band_rank=16&Refer=top)
+1. [伊能静自曝不太想录妻旅](https://s.weibo.com//weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E8%87%AA%E6%9B%9D%E4%B8%8D%E5%A4%AA%E6%83%B3%E5%BD%95%E5%A6%BB%E6%97%85%23&t=31&band_rank=17&Refer=top)
+1. [人活着是为了感受幸福的](https://s.weibo.com//weibo?q=%E4%BA%BA%E6%B4%BB%E7%9D%80%E6%98%AF%E4%B8%BA%E4%BA%86%E6%84%9F%E5%8F%97%E5%B9%B8%E7%A6%8F%E7%9A%84&t=31&band_rank=18&Refer=top)
+1. [美国科学家首次用AI设计出病毒](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%A6%96%E6%AC%A1%E7%94%A8AI%E8%AE%BE%E8%AE%A1%E5%87%BA%E7%97%85%E6%AF%92%23&t=31&band_rank=19&Refer=top)
+1. [排除牙冠混入泸溪河桃酥可能性](https://s.weibo.com//weibo?q=%23%E6%8E%92%E9%99%A4%E7%89%99%E5%86%A0%E6%B7%B7%E5%85%A5%E6%B3%B8%E6%BA%AA%E6%B2%B3%E6%A1%83%E9%85%A5%E5%8F%AF%E8%83%BD%E6%80%A7%23&t=31&band_rank=20&Refer=top)
+1. [王楚钦还是个起名天才](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%BF%98%E6%98%AF%E4%B8%AA%E8%B5%B7%E5%90%8D%E5%A4%A9%E6%89%8D&t=31&band_rank=21&Refer=top)
+1. [西村力大吧发长文回应](https://s.weibo.com//weibo?q=%23%E8%A5%BF%E6%9D%91%E5%8A%9B%E5%A4%A7%E5%90%A7%E5%8F%91%E9%95%BF%E6%96%87%E5%9B%9E%E5%BA%94%23&t=31&band_rank=22&Refer=top)
+1. [结婚8年3娃非亲生司法鉴定已出](https://s.weibo.com//weibo?q=%23%E7%BB%93%E5%A9%9A8%E5%B9%B43%E5%A8%83%E9%9D%9E%E4%BA%B2%E7%94%9F%E5%8F%B8%E6%B3%95%E9%89%B4%E5%AE%9A%E5%B7%B2%E5%87%BA%23&t=31&band_rank=23&Refer=top)
+1. [戚薇 AI漫剧](https://s.weibo.com//weibo?q=%E6%88%9A%E8%96%87%20AI%E6%BC%AB%E5%89%A7&t=31&band_rank=24&Refer=top)
+1. [立秋](https://s.weibo.com//weibo?q=%E7%AB%8B%E7%A7%8B&t=31&band_rank=25&Refer=top)
+1. [到底谁才是爱豆](https://s.weibo.com//weibo?q=%E5%88%B0%E5%BA%95%E8%B0%81%E6%89%8D%E6%98%AF%E7%88%B1%E8%B1%86&t=31&band_rank=26&Refer=top)
+1. [汪峰阻止14岁女儿买大牌](https://s.weibo.com//weibo?q=%23%E6%B1%AA%E5%B3%B0%E9%98%BB%E6%AD%A214%E5%B2%81%E5%A5%B3%E5%84%BF%E4%B9%B0%E5%A4%A7%E7%89%8C%23&t=31&band_rank=27&Refer=top)
+1. [何小鹏带队全球顶级媒体路测G9L](https://s.weibo.com//weibo?q=%23%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%B8%A6%E9%98%9F%E5%85%A8%E7%90%83%E9%A1%B6%E7%BA%A7%E5%AA%92%E4%BD%93%E8%B7%AF%E6%B5%8BG9L%23&t=31&band_rank=28&Refer=top)
+1. [苍兰诀](https://s.weibo.com//weibo?q=%E8%8B%8D%E5%85%B0%E8%AF%80&t=31&band_rank=29&Refer=top)
+1. [部分银行房贷利率降至2字头](https://s.weibo.com//weibo?q=%23%E9%83%A8%E5%88%86%E9%93%B6%E8%A1%8C%E6%88%BF%E8%B4%B7%E5%88%A9%E7%8E%87%E9%99%8D%E8%87%B32%E5%AD%97%E5%A4%B4%23&t=31&band_rank=30&Refer=top)
+1. [女子开一天一夜空调后二氧化碳中毒](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BC%80%E4%B8%80%E5%A4%A9%E4%B8%80%E5%A4%9C%E7%A9%BA%E8%B0%83%E5%90%8E%E4%BA%8C%E6%B0%A7%E5%8C%96%E7%A2%B3%E4%B8%AD%E6%AF%92%23&t=31&band_rank=31&Refer=top)
+1. [TF五代见面会官宣](https://s.weibo.com//weibo?q=TF%E4%BA%94%E4%BB%A3%E8%A7%81%E9%9D%A2%E4%BC%9A%E5%AE%98%E5%AE%A3&t=31&band_rank=32&Refer=top)
+1. [粉笔 公关话术](https://s.weibo.com//weibo?q=%E7%B2%89%E7%AC%94%20%E5%85%AC%E5%85%B3%E8%AF%9D%E6%9C%AF&t=31&band_rank=33&Refer=top)
+1. [看粉笔的公告笑了好几轮](https://s.weibo.com//weibo?q=%23%E7%9C%8B%E7%B2%89%E7%AC%94%E7%9A%84%E5%85%AC%E5%91%8A%E7%AC%91%E4%BA%86%E5%A5%BD%E5%87%A0%E8%BD%AE%23&t=31&band_rank=34&Refer=top)
+1. [Lisa 十周年见面会](https://s.weibo.com//weibo?q=Lisa%20%E5%8D%81%E5%91%A8%E5%B9%B4%E8%A7%81%E9%9D%A2%E4%BC%9A&t=31&band_rank=35&Refer=top)
+1. [东契奇前未婚妻索要5000万和解金](https://s.weibo.com//weibo?q=%23%E4%B8%9C%E5%A5%91%E5%A5%87%E5%89%8D%E6%9C%AA%E5%A9%9A%E5%A6%BB%E7%B4%A2%E8%A6%815000%E4%B8%87%E5%92%8C%E8%A7%A3%E9%87%91%23&t=31&band_rank=36&Refer=top)
+1. [女子怀孕以为发胖就医后产下第三胎](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%95%E4%BB%A5%E4%B8%BA%E5%8F%91%E8%83%96%E5%B0%B1%E5%8C%BB%E5%90%8E%E4%BA%A7%E4%B8%8B%E7%AC%AC%E4%B8%89%E8%83%8E%23&t=31&band_rank=37&Refer=top)
+1. [26岁女儿谈47岁妈妈突然产女](https://s.weibo.com//weibo?q=%2326%E5%B2%81%E5%A5%B3%E5%84%BF%E8%B0%8847%E5%B2%81%E5%A6%88%E5%A6%88%E7%AA%81%E7%84%B6%E4%BA%A7%E5%A5%B3%23&t=31&band_rank=38&Refer=top)
+1. [九门湘西线](https://s.weibo.com//weibo?q=%E4%B9%9D%E9%97%A8%E6%B9%98%E8%A5%BF%E7%BA%BF&t=31&band_rank=39&Refer=top)
+1. [AI客服太像真人是好事吗](https://s.weibo.com//weibo?q=AI%E5%AE%A2%E6%9C%8D%E5%A4%AA%E5%83%8F%E7%9C%9F%E4%BA%BA%E6%98%AF%E5%A5%BD%E4%BA%8B%E5%90%97&t=31&band_rank=40&Refer=top)
+1. [吃上时代少年团请的肯德基](https://s.weibo.com//weibo?q=%23%E5%90%83%E4%B8%8A%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E8%AF%B7%E7%9A%84%E8%82%AF%E5%BE%B7%E5%9F%BA%23&t=31&band_rank=41&Refer=top)
+1. [面试面出了吃火锅的感觉](https://s.weibo.com//weibo?q=%E9%9D%A2%E8%AF%95%E9%9D%A2%E5%87%BA%E4%BA%86%E5%90%83%E7%81%AB%E9%94%85%E7%9A%84%E6%84%9F%E8%A7%89&t=31&band_rank=42&Refer=top)
+1. [TF五代叫做无烬少年](https://s.weibo.com//weibo?q=%23TF%E4%BA%94%E4%BB%A3%E5%8F%AB%E5%81%9A%E6%97%A0%E7%83%AC%E5%B0%91%E5%B9%B4%23&t=31&band_rank=43&Refer=top)
+1. [47岁母亲产女全家心态发生巨大反转](https://s.weibo.com//weibo?q=%2347%E5%B2%81%E6%AF%8D%E4%BA%B2%E4%BA%A7%E5%A5%B3%E5%85%A8%E5%AE%B6%E5%BF%83%E6%80%81%E5%8F%91%E7%94%9F%E5%B7%A8%E5%A4%A7%E5%8F%8D%E8%BD%AC%23&t=31&band_rank=44&Refer=top)
+1. [结婚证对年轻人没有魔力](https://s.weibo.com//weibo?q=%E7%BB%93%E5%A9%9A%E8%AF%81%E5%AF%B9%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%B2%A1%E6%9C%89%E9%AD%94%E5%8A%9B&t=31&band_rank=45&Refer=top)
+1. [男子采完菌才发现手刚掠过五步蛇](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E9%87%87%E5%AE%8C%E8%8F%8C%E6%89%8D%E5%8F%91%E7%8E%B0%E6%89%8B%E5%88%9A%E6%8E%A0%E8%BF%87%E4%BA%94%E6%AD%A5%E8%9B%87%23&t=31&band_rank=46&Refer=top)
+1. [日本网友为Mina发声](https://s.weibo.com//weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E4%B8%BAMina%E5%8F%91%E5%A3%B0%23&t=31&band_rank=47&Refer=top)
+1. [王俊凯靳梦佳好舒服的一段对话](https://s.weibo.com//weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%9D%B3%E6%A2%A6%E4%BD%B3%E5%A5%BD%E8%88%92%E6%9C%8D%E7%9A%84%E4%B8%80%E6%AE%B5%E5%AF%B9%E8%AF%9D%23&t=31&band_rank=48&Refer=top)
+1. [Ning说TheShy贾克斯不如Bin](https://s.weibo.com//weibo?q=%23Ning%E8%AF%B4TheShy%E8%B4%BE%E5%85%8B%E6%96%AF%E4%B8%8D%E5%A6%82Bin%23&t=31&band_rank=49&Refer=top)
+1. [美火箭残骸撞击月球对比图](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E7%81%AB%E7%AE%AD%E6%AE%8B%E9%AA%B8%E6%92%9E%E5%87%BB%E6%9C%88%E7%90%83%E5%AF%B9%E6%AF%94%E5%9B%BE%23&t=31&band_rank=50&Refer=top)
 1. [央视网评银行午休](https://s.weibo.com//weibo?q=%23%E5%A4%AE%E8%A7%86%E7%BD%91%E8%AF%84%E9%93%B6%E8%A1%8C%E5%8D%88%E4%BC%91%23&t=31&band_rank=1&Refer=top)
 1. [立秋](https://s.weibo.com//weibo?q=%E7%AB%8B%E7%A7%8B&t=31&band_rank=2&Refer=top)
 1. [买火车票新增新生预约功能](https://s.weibo.com//weibo?q=%23%E4%B9%B0%E7%81%AB%E8%BD%A6%E7%A5%A8%E6%96%B0%E5%A2%9E%E6%96%B0%E7%94%9F%E9%A2%84%E7%BA%A6%E5%8A%9F%E8%83%BD%23&t=31&band_rank=3&Refer=top)
