@@ -6,8 +6,9 @@
 [![ci](https://github.com/nateafish/trending-in-one/actions/workflows/ci.yml/badge.svg)](https://github.com/nateafish/trending-in-one/actions/workflows/ci.yml)
 [![license](https://img.shields.io/github/license/izukuuuu/trending-in-one)](https://github.com/nateafish/trending-in-one/blob/main/LICENSE)
 
-今日头条热搜,知乎热门视频，知乎热搜榜，知乎热门话题，微博热搜榜；记录从 2020-11-29
-日开始的热搜。每小时抓取一次数据，按天[归档](./archives)。
+今日头条热搜、知乎热搜榜、知乎热门话题、微博热搜榜；记录从 2020-11-29
+日开始的热搜。每小时抓取一次数据，按天[归档](./archives)。知乎视频热榜已下线（2025-05
+起停更），不再抓取，仅保留历史数据。
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
@@ -213,6 +214,8 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 历史归档 [./archives/zhihu-questions](./archives/zhihu-questions)
 
 ## 知乎热门视频
+
+> ⚠️ 知乎视频热榜已下线（2025-05 起停更），抓取已在 workflow 中停用；本节为历史数据。
 
 <!-- BEGIN ZHIHUVIDEO -->
 <!-- 最后更新时间 Tue May 06 2025 09:19:13 GMT+0800 (China Standard Time) -->
