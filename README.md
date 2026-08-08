@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-08 10:24:00
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-08 12:30:37
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -225,26 +225,38 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Sat Aug 08 2026 10:24:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 08 2026 12:30:37 GMT+0800 (China Standard Time) -->
 
-1. [跑了几天外卖发现，很多人原来是修手机的、修汽车的、修家电的技术人员，有手艺为什么要来跑外卖呢？](https://www.zhihu.com/question/2068266947939154000)
-1. [北大数院 07 级苏炜杰获颁「统计学界的诺贝尔奖」，2026年度考普斯奖，如何理解他的成果和获奖意义？](https://www.zhihu.com/question/2069013447518287400)
-1. [怎么看待黄山一位老人手机拍照被疯狂弹广告的事件？](https://www.zhihu.com/question/2068808615612490800)
-1. [《楚门的世界》中，妻子既然不爱楚门为什么反复提及要与楚门生一个孩子？](https://www.zhihu.com/question/305864895)
-1. [超强厄尔尼诺正在形成，或为 150 年来最强，对我国有哪些影响？](https://www.zhihu.com/question/2067780938155790300)
 1. [佛山一中学招聘前 13 名考生均被淘汰，后 5 名反进体检，教育局已成立调查组，哪些信息值得关注？](https://www.zhihu.com/question/2069064416709063400)
+1. [北大数院 07 级苏炜杰获颁「统计学界的诺贝尔奖」，2026年度考普斯奖，如何理解他的成果和获奖意义？](https://www.zhihu.com/question/2069013447518287400)
+1. [超强厄尔尼诺正在形成，或为 150 年来最强，对我国有哪些影响？](https://www.zhihu.com/question/2067780938155790300)
+1. [《楚门的世界》中，妻子既然不爱楚门为什么反复提及要与楚门生一个孩子？](https://www.zhihu.com/question/305864895)
 1. [如何评价网传DeepSeek V4 Flash完成任务后写了个游戏玩一上午？为什么会出现这样的现象？](https://www.zhihu.com/question/2068108635620774700)
+1. [你最难忘的旅行经历是怎样的？](https://www.zhihu.com/question/23218061)
 1. [宇树科技发行价150.80元/股，总市值突破600亿，中一签需缴款 7.54 万元，如何看待这个估值？](https://www.zhihu.com/question/2068420777964316000)
+1. [14 岁男生带病跑步心脏骤停后成一级伤残，校内 AED 未启用，这起事故中校方是否失责？](https://www.zhihu.com/question/2068768070089421000)
 1. [我一个人承担部门指标 50%以上工作，领导一直在贬低我，说我在原来领导手下干的比现在好，该怎么破局？](https://www.zhihu.com/question/2065008805990101500)
-1. [四大会计事务所的研究报告集体陷入「AI 幻觉」，对咨询行业的公信力会造成怎样的冲击？暴露了什么问题？](https://www.zhihu.com/question/2068674224802067200)
+1. [今年上大一了，父母要挣多少我才能拿3000的生活费？](https://www.zhihu.com/question/2066558958077220400)
 1. [太原一乘客质疑出租车绕路准备投诉，被司机持铁棍打伤缝 13 针，如何看待此事？](https://www.zhihu.com/question/2068620061821212200)
 1. [国乒男单横滨冠军赛全军覆没，这次失利主要输在哪些方面？当前男乒该如何破局？](https://www.zhihu.com/question/2069143706372760000)
-1. [今年上大一了，父母要挣多少我才能拿3000的生活费？](https://www.zhihu.com/question/2066558958077220400)
+1. [四大会计事务所的研究报告集体陷入「AI 幻觉」，对咨询行业的公信力会造成怎样的冲击？暴露了什么问题？](https://www.zhihu.com/question/2068674224802067200)
 1. [谢欣曾为张一鸣梁汝波上级，因飞书调整被降两级，如何看待他的职业路径？面对类似公司战略调整普通人能做啥？](https://www.zhihu.com/question/2069031988938241000)
-1. [14 岁男生带病跑步心脏骤停后成一级伤残，校内 AED 未启用，这起事故中校方是否失责？](https://www.zhihu.com/question/2068768070089421000)
+1. [跑了几天外卖发现，很多人原来是修手机的、修汽车的、修家电的技术人员，有手艺为什么要来跑外卖呢？](https://www.zhihu.com/question/2068266947939154000)
 1. [河南回应带薪错峰休假通知引争议，文章相关表述不够准确，程序审签不规范，待修改后予以印发，如何看待此事？](https://www.zhihu.com/question/2069079931053777200)
 1. [如果吃一小勺中子星会怎么样？](https://www.zhihu.com/question/26707005)
+1. [怎么看待黄山一位老人手机拍照被疯狂弹广告的事件？](https://www.zhihu.com/question/2068808615612490800)
+1. [2026上半年中国汽车出口531万辆、同比增长53%，中国汽车出海是否已经进入全球化能力竞争新阶段？](https://www.zhihu.com/question/2068024117270246000)
+1. [绝区零新模式迷宫诡域已上线，如何评价该新模式？](https://www.zhihu.com/question/2068667898793670700)
 1. [西贝贾国龙又开新店，「天边羊多」主打鲜羊料理，这波他能东山再起吗？](https://www.zhihu.com/question/2068995470320296400)
+1. [为什么在网文历史界，嬴政要比刘邦更受欢迎呢？](https://www.zhihu.com/question/2067571086535947500)
+1. [四岁八个月，男宝，即将上中班。暑假期间，突然超级无敌黏妈妈，黏到让我生气，是谁的问题？](https://www.zhihu.com/question/2068494372228830500)
+1. [你敢坦然穿着几十块钱的普通衣服正常去公司上班吗？](https://www.zhihu.com/question/2064051997364507000)
+1. [《中餐厅10》中张雅琪是用力过猛还是摸鱼摆烂？](https://www.zhihu.com/question/2062327939635716400)
+1. [网友称寿命长短与外婆奶奶有关，只有母系遗传能遗传线粒体基因，这一说法有科学依据吗？遗传与寿命关系大吗？](https://www.zhihu.com/question/2067926033827722800)
+1. [你最爱的家乡美食是什么？](https://www.zhihu.com/question/661847820)
+1. [专家建议落实双休、增加假期，称「剪头发看电影等消费需要时间」，如何看待此建议？增加假期能带动消费吗？](https://www.zhihu.com/question/2068732573711329000)
+1. [让你每天坚持上班的理由是什么？](https://www.zhihu.com/question/660556697)
+1. [电影《八仙！》里为什么把汉钟离的名字改成了钟离权？](https://www.zhihu.com/question/2062925324489340000)
 1. [LPL2026赛季第三赛段组内赛BLG 0:2 TES，如何评价这场比赛？](https://www.zhihu.com/question/2069156803678676000)
 1. [当人生突然陷入虚无主义后应该如何自救呢？](https://www.zhihu.com/question/2065138460525073200)
 1. [纽卡即将与阿森纳就吉马良斯转会达协议，7500 万镑无附加，如何评价这笔交易？](https://www.zhihu.com/question/2068352255871521000)
@@ -254,9 +266,6 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [全在俊那么爱朴妍珍，为什么输给河道英？崔惠廷那么爱全在俊为什么输给朴妍珍，孙明悟那么爱崔为什么输给全?](https://www.zhihu.com/question/632072073)
 1. [柯洁和战鹰谁对于围棋的出圈和推广贡献更大?](https://www.zhihu.com/question/10727488628)
 1. [有哪些道理越早知道越好？](https://www.zhihu.com/question/514101079)
-1. [你敢坦然穿着几十块钱的普通衣服正常去公司上班吗？](https://www.zhihu.com/question/2064051997364507000)
-1. [网友称寿命长短与外婆奶奶有关，只有母系遗传能遗传线粒体基因，这一说法有科学依据吗？遗传与寿命关系大吗？](https://www.zhihu.com/question/2067926033827722800)
-1. [《中餐厅10》中张雅琪是用力过猛还是摸鱼摆烂？](https://www.zhihu.com/question/2062327939635716400)
 1. [如何看待张一鸣与梁文峰被评「正以完全不同的方向迈向 AGI」？](https://www.zhihu.com/question/2068998842628793600)
 1. [河南三支一扶笔试因「倒查」将重考，这会如何影响基层招考公平性？](https://www.zhihu.com/question/2069136193397306600)
 1. [如何评价《歌手 2026》歌王之战总决赛，胡彦斌夺得歌王桂冠、齐豫亚军、万妮达季军？他们实至名归吗？](https://www.zhihu.com/question/2069127583564654600)
@@ -269,7 +278,6 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [请教了解战斗机知友，土耳其韩国伪5代KAAN和KF21，综合能力如何，和台风、阵风比？歼10CE呢？](https://www.zhihu.com/question/645316696)
 1. [孩子准备上大一了，一个月跟我要1500的生活费，会不会太多了？](https://www.zhihu.com/question/2066558957930420200)
 1. [大学老师为什么要平时分？](https://www.zhihu.com/question/2066515575740831500)
-1. [电影《八仙！》里为什么把汉钟离的名字改成了钟离权？](https://www.zhihu.com/question/2062925324489340000)
 1. [什么是“复古”？“复古”是如何产生美感的？](https://www.zhihu.com/question/37093351)
 1. [地球一次自转需要23小时56分钟，剩下的4分钟去哪儿了呢？](https://www.zhihu.com/question/667183491)
 1. [南昌一星巴克员工对周杰伦海报做翻白眼等动作，现已被辞退，如何看待这一处罚？个人喜好和工作冲突该咋办？](https://www.zhihu.com/question/2068287712507982800)
@@ -290,7 +298,6 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [张温为什么没有听从孙坚劝说斩杀无法无天的董卓？](https://www.zhihu.com/question/2031845485393224700)
 1. [为什么现在的ai都在卷编程？](https://www.zhihu.com/question/2068569618449430300)
 1. [如何看待蜘蛛侠荷兰弟替身「河南弟」误导舆论、造假抢功、疑似还遭剧组开除一事？](https://www.zhihu.com/question/2068334810846717200)
-1. [你最爱的家乡美食是什么？](https://www.zhihu.com/question/661847820)
 1. [广东雷州通报特教老师招聘违规事件，多人受到党纪政务处分和组织处理，如何避免此类事件再次发生？](https://www.zhihu.com/question/2069118407937455600)
 1. [如何看待日本网红Mina轻生离世，曾疑因偶像的含沙射影被大批粉丝人肉、网暴，直播含泪恳求停止网暴？](https://www.zhihu.com/question/2068633449532076500)
 1. [如何评价GPT-5.6Luna免费不限量，后续基础大模型都会走向免费吗？](https://www.zhihu.com/question/2068986574256312600)
@@ -302,7 +309,6 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [为什么脱口秀小剧场 99% 都不挣钱？](https://www.zhihu.com/question/1989721750020302300)
 1. [最新消息，巴萨和罗德里就个人条款达成一致，将和曼城谈判，如何评价这次交易？](https://www.zhihu.com/question/2068844232975071000)
 1. [你觉得《三角洲行动》如何改动才能让「黄雀队」的优势不那么明显？](https://www.zhihu.com/question/2068758417007534600)
-1. [专家建议落实双休、增加假期，称「剪头发看电影等消费需要时间」，如何看待此建议？增加假期能带动消费吗？](https://www.zhihu.com/question/2068732573711329000)
 
 <!-- END ZHIHUQUESTIONS -->
 
