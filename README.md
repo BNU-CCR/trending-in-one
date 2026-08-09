@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-10 06:52:15
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-10 07:49:17
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -156,29 +156,43 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Mon Aug 10 2026 06:52:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 10 2026 07:49:17 GMT+0800 (China Standard Time) -->
 
 1. [「抱冬瓜睡觉降温」走红，有人尝试，结果半夜瓜炸了，好端端的冬瓜为什么会爆裂？](https://www.zhihu.com/question/2068090103704941000)
-1. [如何看待美军林肯号航母爆出物资短缺，环境恶劣、飞行甲板磨出洞等情况？](https://www.zhihu.com/question/2069728803518148900)
 1. [Wayward 称 BLG 放弃 Bin 是最错误决定，你如何评价？](https://www.zhihu.com/question/2069827123896907300)
-1. [如何看待日本一医院错把患者脑部当肿瘤切除？](https://www.zhihu.com/question/2069354305589621000)
-1. [台风「白海豚」在浙江台州玉环沿海登陆，中心附近最大风力 14 级，你那边现在情况如何？](https://www.zhihu.com/question/2068622608979813600)
-1. [鲁迅连个长篇都没有，可是为什么一提到中国现当代文学的TOP1，就都想到了他？](https://www.zhihu.com/question/1957061060604437500)
+1. [如何评价阿根廷总统米莱的《经济思想的激辩：凯恩斯、弗里德曼与奥地利学派》？](https://www.zhihu.com/question/2069687163239625500)
 1. [天蚕土豆新书【神通者】到底如何？](https://www.zhihu.com/question/2069430560733369000)
+1. [「白海豚」减弱为热带风暴，范围覆盖整个华东，浙皖等地局地有特大暴雨，目前情况如何？你那边雨势怎么样？](https://www.zhihu.com/question/2069434187044451000)
+1. [鲁迅连个长篇都没有，可是为什么一提到中国现当代文学的TOP1，就都想到了他？](https://www.zhihu.com/question/1957061060604437500)
+1. [美国科学家首次用 AI 设计出病毒，意味着什么？生物安全防线该如何应对？](https://www.zhihu.com/question/2068991097578021600)
 1. [菲媒证实网红雅典娜被害，网传该案仍有部分电诈犯未归案，目前案件的真实进展如何？](https://www.zhihu.com/question/2069726177812374000)
 1. [如何看待“现在查 RTX 5090 价格已经变成了一种恐怖片题材”这个梗？](https://www.zhihu.com/question/2067910668142093800)
-1. [美国科学家首次用 AI 设计出病毒，意味着什么？生物安全防线该如何应对？](https://www.zhihu.com/question/2068991097578021600)
 1. [某数码博主算出上半年国内手机销量TOP30，苹果包揽前三华为领跑国产，数据可靠吗？哪些信息值得关注？](https://www.zhihu.com/question/2069715027674624300)
+1. [如何看待美军林肯号航母爆出物资短缺，环境恶劣、飞行甲板磨出洞等情况？](https://www.zhihu.com/question/2069728803518148900)
+1. [2026年了，为何《潜伏》的含金量还在持续上升？](https://www.zhihu.com/question/2054325405172102100)
+1. [传销犯变身「国学大师」创办如是书院暴力管教孩子，浙江开启调查，这个书院为啥能横行多年?反映出哪些问题？](https://www.zhihu.com/question/2068754726955345700)
+1. [网友发帖吐槽医院梯控员工作太闲，医院梯控员真的「工作清闲」吗？如何看待当事员工称自己因该帖已被开除？](https://www.zhihu.com/question/2068997018450485800)
 1. [你会去电影院看沈腾主演的新电影《欢迎来龙餐馆》吗？票房能破50亿吗?](https://www.zhihu.com/question/2068398077522793500)
-1. [如何看待贵州网红金蝉子账号发布讣告，称外号「老表」的打工网红彭仕运在老家游泳时不幸溺水身亡？](https://www.zhihu.com/question/2068817961792623600)
-1. [女子被狗舔脚后被判定狂犬病三级暴露，因脚趾甲沟炎存在皮肤破损，反映出什么认知误区？哪些情况要及时就医？](https://www.zhihu.com/question/2069321207866987800)
-1. [如何看待 2026 年 8 月 8 日，史诗级电影《奥德赛》的点映上座率高达 57.3% 左右？](https://www.zhihu.com/question/2069512576657105200)
-1. [河南西平县涉重大刑案逃犯被抓，还有哪些信息值得关注？](https://www.zhihu.com/question/2069506911318315300)
 1. [2026WTT横滨冠军赛，张本智和4比1吴晙诚卫冕成功，如何评价这场比赛？](https://www.zhihu.com/question/2069869187867137000)
-1. [如何看待最近爆火的“成吉思鸡”现象？](https://www.zhihu.com/question/2065112578406328000)
-1. [雪佛兰正式停售中国市场，如何评价这个汽车品牌在华的21年？](https://www.zhihu.com/question/2069357693840667600)
+1. [女子被狗舔脚后被判定狂犬病三级暴露，因脚趾甲沟炎存在皮肤破损，反映出什么认知误区？哪些情况要及时就医？](https://www.zhihu.com/question/2069321207866987800)
+1. [现在国家建立了不少职业技术大学，这寓意着何种风向标？](https://www.zhihu.com/question/1946884374881609700)
+1. [如何看待 2026 年 8 月 8 日，史诗级电影《奥德赛》的点映上座率高达 57.3% 左右？](https://www.zhihu.com/question/2069512576657105200)
 1. [医生韩杰因医疗事故获刑仍不认罪，如何界定医疗过失的刑事边界？](https://www.zhihu.com/question/2068717228388888800)
 1. [要不要做博后？](https://www.zhihu.com/question/2052016546743064300)
+1. [为什么希腊餐在国内不受欢迎？](https://www.zhihu.com/question/2024732109831513900)
+1. [如何看待最近爆火的“成吉思鸡”现象？](https://www.zhihu.com/question/2065112578406328000)
+1. [原著里对郭靖外貌的描写是怎样的？各版电视剧与原著相符吗？](https://www.zhihu.com/question/661026044)
+1. [打架一般都有什么技巧？](https://www.zhihu.com/question/574012473)
+1. [你认不认同“现在大学学的东西已经和社会完全脱节了”这句话？](https://www.zhihu.com/question/2066558957712413400)
+1. [你认为现在教育孩子，应该以兴趣为导向，还是以成绩为导向，为什么？](https://www.zhihu.com/question/2043253892905964500)
+1. [为什么北航、北理工两校关系那么好？](https://www.zhihu.com/question/553469666)
+1. [如何评价D30系列涡扇发动机？](https://www.zhihu.com/question/668045657)
+1. [那么多奸臣和酷吏明知道自己会被皇帝卸磨杀驴，为什么还锲而不舍的做事？](https://www.zhihu.com/question/424335059)
+1. [如何看待日本一医院错把患者脑部当肿瘤切除？](https://www.zhihu.com/question/2069354305589621000)
+1. [台风「白海豚」在浙江台州玉环沿海登陆，中心附近最大风力 14 级，你那边现在情况如何？](https://www.zhihu.com/question/2068622608979813600)
+1. [如何看待贵州网红金蝉子账号发布讣告，称外号「老表」的打工网红彭仕运在老家游泳时不幸溺水身亡？](https://www.zhihu.com/question/2068817961792623600)
+1. [河南西平县涉重大刑案逃犯被抓，还有哪些信息值得关注？](https://www.zhihu.com/question/2069506911318315300)
+1. [雪佛兰正式停售中国市场，如何评价这个汽车品牌在华的21年？](https://www.zhihu.com/question/2069357693840667600)
 1. [跑了几天外卖发现，很多人原来是修手机的、修汽车的、修家电的技术人员，有手艺为什么要来跑外卖呢？](https://www.zhihu.com/question/2068266947939154000)
 1. [既然有电场强度，那么有没有重力场强度?](https://www.zhihu.com/question/1901789459130857200)
 1. [面对海量信息流，我该如何有效获取深度知识而非碎片化内容？](https://www.zhihu.com/question/1973345790182302500)
@@ -187,7 +201,6 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [你们早餐都吃些什么？](https://www.zhihu.com/question/631894574)
 1. [家里养宠物，用84消毒可以吗？](https://www.zhihu.com/question/276059064)
 1. [还有哪些类似《奥德赛》一样史诗题材的电影值得一看？](https://www.zhihu.com/question/2068418251516633300)
-1. [那么多奸臣和酷吏明知道自己会被皇帝卸磨杀驴，为什么还锲而不舍的做事？](https://www.zhihu.com/question/424335059)
 1. [《亮剑》中有什么不符合逻辑的片段呢？](https://www.zhihu.com/question/1923757189924907000)
 1. [为什么感觉好莱坞的特效越来越不如以前真实？](https://www.zhihu.com/question/459841876)
 1. [量化交易系统在实盘中，如何区分"正常回撤"和"因子失效"？](https://www.zhihu.com/question/2042585713821079300)
