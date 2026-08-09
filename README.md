@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-10 03:49:43
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-10 04:53:48
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -148,7 +148,7 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Mon Aug 10 2026 03:49:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 10 2026 04:53:48 GMT+0800 (China Standard Time) -->
 
 1. [「抱冬瓜睡觉降温」走红，有人尝试，结果半夜瓜炸了，好端端的冬瓜为什么会爆裂？](https://www.zhihu.com/question/2068090103704941000)
 1. [如何看待日本一医院错把患者脑部当肿瘤切除？](https://www.zhihu.com/question/2069354305589621000)
@@ -156,30 +156,31 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [Wayward 称 BLG 放弃 Bin 是最错误决定，你如何评价？](https://www.zhihu.com/question/2069827123896907300)
 1. [台风「白海豚」在浙江台州玉环沿海登陆，中心附近最大风力 14 级，你那边现在情况如何？](https://www.zhihu.com/question/2068622608979813600)
 1. [鲁迅连个长篇都没有，可是为什么一提到中国现当代文学的TOP1，就都想到了他？](https://www.zhihu.com/question/1957061060604437500)
-1. [女子被狗舔脚后被判定狂犬病三级暴露，因脚趾甲沟炎存在皮肤破损，反映出什么认知误区？哪些情况要及时就医？](https://www.zhihu.com/question/2069321207866987800)
-1. [菲媒证实网红雅典娜被害，网传该案仍有部分电诈犯未归案，目前案件的真实进展如何？](https://www.zhihu.com/question/2069726177812374000)
 1. [如何看待美军林肯号航母爆出物资短缺，环境恶劣、飞行甲板磨出洞等情况？](https://www.zhihu.com/question/2069728803518148900)
+1. [菲媒证实网红雅典娜被害，网传该案仍有部分电诈犯未归案，目前案件的真实进展如何？](https://www.zhihu.com/question/2069726177812374000)
 1. [天蚕土豆新书【神通者】到底如何？](https://www.zhihu.com/question/2069430560733369000)
 1. [某数码博主算出上半年国内手机销量TOP30，苹果包揽前三华为领跑国产，数据可靠吗？哪些信息值得关注？](https://www.zhihu.com/question/2069715027674624300)
 1. [你会去电影院看沈腾主演的新电影《欢迎来龙餐馆》吗？票房能破50亿吗?](https://www.zhihu.com/question/2068398077522793500)
 1. [美国科学家首次用 AI 设计出病毒，意味着什么？生物安全防线该如何应对？](https://www.zhihu.com/question/2068991097578021600)
 1. [如何看待贵州网红金蝉子账号发布讣告，称外号「老表」的打工网红彭仕运在老家游泳时不幸溺水身亡？](https://www.zhihu.com/question/2068817961792623600)
+1. [女子被狗舔脚后被判定狂犬病三级暴露，因脚趾甲沟炎存在皮肤破损，反映出什么认知误区？哪些情况要及时就医？](https://www.zhihu.com/question/2069321207866987800)
 1. [《亮剑》中有什么不符合逻辑的片段呢？](https://www.zhihu.com/question/1923757189924907000)
-1. [河南西平县涉重大刑案逃犯被抓，还有哪些信息值得关注？](https://www.zhihu.com/question/2069506911318315300)
 1. [2026WTT横滨冠军赛，张本智和4比1吴晙诚卫冕成功，如何评价这场比赛？](https://www.zhihu.com/question/2069869187867137000)
 1. [如何看待最近爆火的“成吉思鸡”现象？](https://www.zhihu.com/question/2065112578406328000)
 1. [如何看待 2026 年 8 月 8 日，史诗级电影《奥德赛》的点映上座率高达 57.3% 左右？](https://www.zhihu.com/question/2069512576657105200)
+1. [还有哪些类似《奥德赛》一样史诗题材的电影值得一看？](https://www.zhihu.com/question/2068418251516633300)
 1. [医生韩杰因医疗事故获刑仍不认罪，如何界定医疗过失的刑事边界？](https://www.zhihu.com/question/2068717228388888800)
 1. [要不要做博后？](https://www.zhihu.com/question/2052016546743064300)
-1. [还有哪些类似《奥德赛》一样史诗题材的电影值得一看？](https://www.zhihu.com/question/2068418251516633300)
-1. [2026WTT横滨冠军赛，张本智和4:2击败松岛辉空，挺进决赛，如何评价这场比赛？](https://www.zhihu.com/question/2069791953693185800)
+1. [河南西平县涉重大刑案逃犯被抓，还有哪些信息值得关注？](https://www.zhihu.com/question/2069506911318315300)
+1. [面对海量信息流，我该如何有效获取深度知识而非碎片化内容？](https://www.zhihu.com/question/1973345790182302500)
 1. [为什么人们总害怕改变现状？](https://www.zhihu.com/question/8466555607)
 1. [为什么感觉好莱坞的特效越来越不如以前真实？](https://www.zhihu.com/question/459841876)
-1. [《侠客风云传》《逸剑风云决》这类游戏，为何总喜欢将魔教妖女作为红颜知己？江湖中没有好女孩了吗？](https://www.zhihu.com/question/2068272333865891600)
-1. [面对海量信息流，我该如何有效获取深度知识而非碎片化内容？](https://www.zhihu.com/question/1973345790182302500)
+1. [你们早餐都吃些什么？](https://www.zhihu.com/question/631894574)
 1. [量化交易系统在实盘中，如何区分"正常回撤"和"因子失效"？](https://www.zhihu.com/question/2042585713821079300)
 1. [祁同伟的自杀，对沙瑞金和侯亮平有何影响？](https://www.zhihu.com/question/1928734665180702200)
+1. [2026WTT横滨冠军赛，张本智和4:2击败松岛辉空，挺进决赛，如何评价这场比赛？](https://www.zhihu.com/question/2069791953693185800)
 1. [那么多奸臣和酷吏明知道自己会被皇帝卸磨杀驴，为什么还锲而不舍的做事？](https://www.zhihu.com/question/424335059)
+1. [《侠客风云传》《逸剑风云决》这类游戏，为何总喜欢将魔教妖女作为红颜知己？江湖中没有好女孩了吗？](https://www.zhihu.com/question/2068272333865891600)
 1. [为什么会有这么多人喜欢看纪录片？](https://www.zhihu.com/question/360098555)
 1. [家里养宠物，用84消毒可以吗？](https://www.zhihu.com/question/276059064)
 1. [BLG 官宣 Flandre 加入，你看好这次的再度联手吗？可能会对选手以及战队有哪些影响？](https://www.zhihu.com/question/2069798790676968700)
