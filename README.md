@@ -116,7 +116,7 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Mon Aug 10 2026 00:51:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 10 2026 01:45:45 GMT+0800 (China Standard Time) -->
 
 1. [第一批抱冬瓜睡觉受害者出现](https://www.zhihu.com/search?q=%E7%AC%AC%E4%B8%80%E6%89%B9%E6%8A%B1%E5%86%AC%E7%93%9C%E7%9D%A1%E8%A7%89%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0)
 1. [台风白海豚](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A)
@@ -129,6 +129,7 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [日本一医院错把患者脑部当肿瘤切除](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E4%B8%80%E5%8C%BB%E9%99%A2%E9%94%99%E6%8A%8A%E6%82%A3%E8%80%85%E8%84%91%E9%83%A8%E5%BD%93%E8%82%BF%E7%98%A4%E5%88%87%E9%99%A4)
 1. [梅西父亲去世](https://www.zhihu.com/search?q=%E6%A2%85%E8%A5%BF%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96)
 1. [欢迎来龙餐馆热映](https://www.zhihu.com/search?q=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E7%83%AD%E6%98%A0)
+1. [古二曝繁花剧组涉偷税吸毒](https://www.zhihu.com/search?q=%E5%8F%A4%E4%BA%8C%E6%9B%9D%E7%B9%81%E8%8A%B1%E5%89%A7%E7%BB%84%E6%B6%89%E5%81%B7%E7%A8%8E%E5%90%B8%E6%AF%92)
 1. [温岭全力搜救被卷走9岁男孩](https://www.zhihu.com/search?q=%E6%B8%A9%E5%B2%AD%E5%85%A8%E5%8A%9B%E6%90%9C%E6%95%91%E8%A2%AB%E5%8D%B7%E8%B5%B09%E5%B2%81%E7%94%B7%E5%AD%A9)
 
 <!-- END ZHIHUSEARCH -->
