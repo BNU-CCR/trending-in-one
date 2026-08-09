@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-09 22:54:25
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-09 23:49:18
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -371,7 +371,7 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Sun Aug 09 2026 22:54:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 09 2026 23:49:18 GMT+0800 (China Standard Time) -->
 
 1. [如何看待日本一医院错把患者脑部当肿瘤切除？](https://www.zhihu.com/question/2069354305589621000)
 1. [2026 上半年国内手机销量 TOP30 出炉，苹果包揽前三华为领跑国产，哪些品牌的表现值得关注？](https://www.zhihu.com/question/2069715027674624300)
@@ -379,29 +379,32 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [女子被狗舔脚后被判定狂犬病三级暴露，因脚趾甲沟炎存在皮肤破损，反映出什么认知误区？哪些情况要及时就医？](https://www.zhihu.com/question/2069321207866987800)
 1. [台风白海豚将于9日晚到10日上午登陆，或将在浙江停留20多个小时，可以做好哪些应对？你那边天气如何？](https://www.zhihu.com/question/2068622608979813600)
 1. [鲁迅连个长篇都没有，可是为什么一提到中国现当代文学的TOP1，就都想到了他？](https://www.zhihu.com/question/1957061060604437500)
-1. [台风「白海豚」逼近，9岁男孩在浙江温岭海边被浪卷走，带来哪些警示？目前救援难点有哪些？](https://www.zhihu.com/question/2069556360698488300)
-1. [网红雅典娜证实被害，网传该案仍有部分电诈犯未归案，目前案件的真实进展如何？](https://www.zhihu.com/question/2069726177812374000)
 1. [如何看待“现在查 RTX 5090 价格已经变成了一种恐怖片题材”这个梗？](https://www.zhihu.com/question/2067910668142093800)
-1. [如何看待 2026 年 8 月 8 日，史诗级电影《奥德赛》的点映上座率高达 57.3% 左右？](https://www.zhihu.com/question/2069512576657105200)
-1. [雪佛兰正式停售中国市场，如何评价这个汽车品牌在华的21年？](https://www.zhihu.com/question/2069357693840667600)
+1. [网红雅典娜证实被害，网传该案仍有部分电诈犯未归案，目前案件的真实进展如何？](https://www.zhihu.com/question/2069726177812374000)
 1. [「抱冬瓜睡觉降温」走红，有人尝试，结果半夜瓜炸了，好端端的冬瓜为什么会爆裂？](https://www.zhihu.com/question/2068090103704941000)
+1. [如何看待 2026 年 8 月 8 日，史诗级电影《奥德赛》的点映上座率高达 57.3% 左右？](https://www.zhihu.com/question/2069512576657105200)
+1. [如何看待最近爆火的“成吉思鸡”现象？](https://www.zhihu.com/question/2065112578406328000)
+1. [雪佛兰正式停售中国市场，如何评价这个汽车品牌在华的21年？](https://www.zhihu.com/question/2069357693840667600)
 1. [祁同伟的自杀，对沙瑞金和侯亮平有何影响？](https://www.zhihu.com/question/1928734665180702200)
-1. [BLG 官宣 Flandre 加入，你看好这次的再度联手吗？可能会对选手以及战队有哪些影响？](https://www.zhihu.com/question/2069798790676968700)
-1. [如何看待贵州网红金蝉子账号发布讣告，称外号「老表」的打工网红彭仕运在老家游泳时不幸溺水身亡？](https://www.zhihu.com/question/2068817961792623600)
+1. [台风「白海豚」逼近，9岁男孩在浙江温岭海边被浪卷走，带来哪些警示？目前救援难点有哪些？](https://www.zhihu.com/question/2069556360698488300)
+1. [为什么感觉好莱坞的特效越来越不如以前真实？](https://www.zhihu.com/question/459841876)
 1. [2026WTT横滨冠军赛，张本智和4比1吴晙诚卫冕成功，如何评价这场比赛？](https://www.zhihu.com/question/2069869187867137000)
 1. [河南西平县涉重大刑案逃犯被抓，还有哪些信息值得关注？](https://www.zhihu.com/question/2069506911318315300)
-1. [如何看待最近爆火的“成吉思鸡”现象？](https://www.zhihu.com/question/2065112578406328000)
-1. [为什么感觉好莱坞的特效越来越不如以前真实？](https://www.zhihu.com/question/459841876)
+1. [凡人修仙传动画186集最高在线人数多少？](https://www.zhihu.com/question/2068852278321324800)
+1. [段永平称「持有正股+卖 call=持有现金+卖 put」，其金融逻辑是怎样的？](https://www.zhihu.com/question/2069227848829875200)
 1. [医生韩杰因医疗事故获刑仍不认罪，如何界定医疗过失的刑事边界？](https://www.zhihu.com/question/2068717228388888800)
 1. [要不要做博后？](https://www.zhihu.com/question/2052016546743064300)
-1. [段永平称「持有正股+卖 call=持有现金+卖 put」，其金融逻辑是怎样的？](https://www.zhihu.com/question/2069227848829875200)
 1. [那么多奸臣和酷吏明知道自己会被皇帝卸磨杀驴，为什么还锲而不舍的做事？](https://www.zhihu.com/question/424335059)
+1. [如何看待贵州网红金蝉子账号发布讣告，称外号「老表」的打工网红彭仕运在老家游泳时不幸溺水身亡？](https://www.zhihu.com/question/2068817961792623600)
 1. [既然有电场强度，那么有没有重力场强度?](https://www.zhihu.com/question/1901789459130857200)
 1. [《侠客风云传》《逸剑风云决》这类游戏，为何总喜欢将魔教妖女作为红颜知己？江湖中没有好女孩了吗？](https://www.zhihu.com/question/2068272333865891600)
+1. [BLG 官宣 Flandre 加入，你看好这次的再度联手吗？可能会对选手以及战队有哪些影响？](https://www.zhihu.com/question/2069798790676968700)
+1. [家里养宠物，用84消毒可以吗？](https://www.zhihu.com/question/276059064)
 1. [在无线耳机大行其道的今天，还有必要用有线耳机吗？](https://www.zhihu.com/question/1988574173350602800)
+1. [量化交易系统在实盘中，如何区分"正常回撤"和"因子失效"？](https://www.zhihu.com/question/2042585713821079300)
+1. [专家建议落实双休、增加假期，称「剪头发看电影等消费需要时间」，如何看待此建议？增加假期能带动消费吗？](https://www.zhihu.com/question/2068732573711329000)
 1. [下雨天，你会和孩子在家做什么？](https://www.zhihu.com/question/2059891637258606000)
 1. [雪佛兰退出中国市场，反映出合资车企的哪些困境？](https://www.zhihu.com/question/2069092577622725400)
-1. [量化交易系统在实盘中，如何区分"正常回撤"和"因子失效"？](https://www.zhihu.com/question/2042585713821079300)
 1. [学霸是天生的吗？为什么有些孩子学习很轻松，有些却需要家长不断推动？](https://www.zhihu.com/question/2064019772807943000)
 1. [2026年wtt横滨冠军赛女单半决赛，张本美和4：2击败王艺迪，怎么评价这一场对决？](https://www.zhihu.com/question/2069751203559366700)
 1. [如何评价今年被称为「最贵开学季」？游戏本涨至上万元「劝退」准大学生，有哪些平替方案？](https://www.zhihu.com/question/2058246439600498000)
