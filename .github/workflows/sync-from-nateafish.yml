@@ -1,4 +1,4 @@
-name: sync from izukuuuu
+name: sync from nateafish
 
 on:
   workflow_dispatch:
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: sync-from-izukuuuu
+  group: sync-from-nateafish
   cancel-in-progress: false
 
 jobs:
