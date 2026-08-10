@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-11 06:00:31
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-11 06:58:46
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -150,43 +150,48 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Tue Aug 11 2026 06:00:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 11 2026 06:58:46 GMT+0800 (China Standard Time) -->
 
 1. [易烊千玺、卫诗雅分封影帝、影后，如何评价第 38届大众电影百花奖获奖名单？](https://www.zhihu.com/question/2070241074514224000)
 1. [于东来回应关闭胖东来生活广场店，因早年租约失误造成租户租金失衡，门店盈利上亿仍闭店，如何看待他的选择？](https://www.zhihu.com/question/2069799083045288000)
 1. [河南22岁女孩南太行山失联，手机最后信号不在山林，现已确认遇难，遗体在悬崖被找到，有哪些信息值得关注？](https://www.zhihu.com/question/2068484771710294000)
 1. [演员秦焰去世，享年 72 岁，曾出演《狂飙》《庆余年第二季》等多部剧集，你对他塑造的角色有哪些记忆？](https://www.zhihu.com/question/2070151359999862800)
+1. [科学史上有哪些令人惋惜的遗憾？](https://www.zhihu.com/question/274206319)
 1. [沈腾新片《欢迎来龙餐馆》点映口碑爆棚，如何评价沈腾此番演技？喜剧演员要打破观众的固有印象难度在哪？](https://www.zhihu.com/question/2069917740303737000)
-1. [中国足球几十年都没有冲出亚洲，不是不努力，是不是中国人的体质不适合踢足球？](https://www.zhihu.com/question/1917135578203399200)
 1. [山东一中学让新生填家长职务和车价，校方称用于贫困补助甄别，学校该不该收集这类信息？你遇到过类似情况吗？](https://www.zhihu.com/question/2069476448205812000)
 1. [河南平顶山一貌似张雪峰的烧烤哥在网上火了，你有哪些感慨和触动？](https://www.zhihu.com/question/2069154891138872800)
+1. [中国足球几十年都没有冲出亚洲，不是不努力，是不是中国人的体质不适合踢足球？](https://www.zhihu.com/question/1917135578203399200)
+1. [热身第二场，中国女篮69-65尼日利亚，张子宇23分13篮板，14投10中，如何评价本场比赛？](https://www.zhihu.com/question/2069895423351840800)
 1. [伯克希尔Q2净利润256.67亿美元，时隔3年首次净买入股票，现金储备降至3655亿美元，如何解读？](https://www.zhihu.com/question/2069534898092762000)
 1. [特斯拉将建史上最大芯片厂，这对全球芯片产业有何影响？](https://www.zhihu.com/question/2068943667189003000)
 1. [适度的「懒」对身体是不是一种保护机制？](https://www.zhihu.com/question/2069144593753543700)
 1. [韩信为什么连让他钻裤裆的恶霸都委以重任，但是却拿百钱羞辱让他吃大半年白饭的亭长呢？](https://www.zhihu.com/question/1890833705737646300)
 1. [如果你只能传送一次1KB的数据到三年前的自己面前，你会传什么？](https://www.zhihu.com/question/2009080099056661200)
-1. [二选一的情况下，上大学建议买笔记本电脑还是平板？](https://www.zhihu.com/question/2010767726445098800)
-1. [硬盘、内存价格还会降回去吗？](https://www.zhihu.com/question/2011092640041570800)
-1. [如何看待 BLG 将先锋赛置顶消息撤下后，Bin 粉丝狂喷过河拆桥？](https://www.zhihu.com/question/2070108095993181000)
 1. [多地高分生扎堆填报「3+4」中本贯通，为什么会这样？中本贯通有哪些优势？](https://www.zhihu.com/question/2070067547102082600)
-1. [你认为怎样才能快速提高自己的认知？](https://www.zhihu.com/question/1913250136676627700)
-1. [《潜伏》里边，则成和翠平，谁的枪法好？](https://www.zhihu.com/question/1986930321099346700)
-1. [猪肝怎么炒出来嫩？](https://www.zhihu.com/question/1890828594038686500)
-1. [喜欢 Vibe Coding，还算喜欢编程吗？](https://www.zhihu.com/question/2068659988239577600)
 1. [同济大学取消教师长期聘任，科研教职岗位面临更大的压力，为什么行政工作相对更简单反而没有这种不稳定性？](https://www.zhihu.com/question/2067683991218607600)
+1. [硬盘、内存价格还会降回去吗？](https://www.zhihu.com/question/2011092640041570800)
 1. [武汉司门口黄鹤楼天桥市容管理人员与占道摊贩发生激烈肢体冲突，3 人被刑拘，有哪些信息值得关注？](https://www.zhihu.com/question/2070076932834550300)
-1. [小说里的人物要具有神性，可以怎么写？](https://www.zhihu.com/question/2069433386343609000)
 1. [地球一次自转需要23小时56分钟，剩下的4分钟去哪儿了呢？](https://www.zhihu.com/question/667183491)
 1. [为什么《人民的名义》中唯独没有介绍侯亮平和钟小艾的家庭背景？是因为他们是正面人物要考虑影响吗？](https://www.zhihu.com/question/59229305)
 1. [如何看待最近爆火的“成吉思鸡”现象？](https://www.zhihu.com/question/2065112578406328000)
 1. [《红楼梦》中，贾宝玉为什么不和晴雯发生云雨情？晴雯不是最漂亮吗？](https://www.zhihu.com/question/2036409841296619300)
-1. [祁同伟的自杀，对沙瑞金和侯亮平有何影响？](https://www.zhihu.com/question/1928734665180702200)
 1. [原著里对郭靖外貌的描写是怎样的？各版电视剧与原著相符吗？](https://www.zhihu.com/question/661026044)
 1. [你认为现在教育孩子，应该以兴趣为导向，还是以成绩为导向，为什么？](https://www.zhihu.com/question/2043253892905964500)
+1. [祁同伟的自杀，对沙瑞金和侯亮平有何影响？](https://www.zhihu.com/question/1928734665180702200)
+1. [奥特曼称 6 年后人均月耗 5000 亿 token，这一预测在技术和资源上是否可行？](https://www.zhihu.com/question/2065474702030661600)
+1. [模拟电路到底是在做什么？](https://www.zhihu.com/question/2036201657458014000)
+1. [家里养宠物，用84消毒可以吗？](https://www.zhihu.com/question/276059064)
+1. [为什么中世纪欧洲人会相信鹅是从树上长出来的？中国古代也有类似荒诞的猜想吗？](https://www.zhihu.com/question/2069155541499352300)
+1. [二选一的情况下，上大学建议买笔记本电脑还是平板？](https://www.zhihu.com/question/2010767726445098800)
+1. [如何看待 BLG 将先锋赛置顶消息撤下后，Bin 粉丝狂喷过河拆桥？](https://www.zhihu.com/question/2070108095993181000)
+1. [你认为怎样才能快速提高自己的认知？](https://www.zhihu.com/question/1913250136676627700)
+1. [《潜伏》里边，则成和翠平，谁的枪法好？](https://www.zhihu.com/question/1986930321099346700)
+1. [猪肝怎么炒出来嫩？](https://www.zhihu.com/question/1890828594038686500)
+1. [喜欢 Vibe Coding，还算喜欢编程吗？](https://www.zhihu.com/question/2068659988239577600)
+1. [小说里的人物要具有神性，可以怎么写？](https://www.zhihu.com/question/2069433386343609000)
 1. [《欢迎来龙餐馆》为啥不叫《欢迎来到龙餐馆》？](https://www.zhihu.com/question/2069800142161687300)
 1. [「懒」驱动了哪些科技进步？](https://www.zhihu.com/question/2068822447529226500)
 1. [如何评价美剧《龙之家族 第三季》第八集？](https://www.zhihu.com/question/2070089801441793000)
-1. [为什么中世纪欧洲人会相信鹅是从树上长出来的？中国古代也有类似荒诞的猜想吗？](https://www.zhihu.com/question/2069155541499352300)
 1. [弗洛伊德的理论那么扯淡为什么他又那么出名？](https://www.zhihu.com/question/268161638)
 1. [JeffDean 称「AI agent 编写代码，品味成稀缺技能」，你如何理解「品味」？](https://www.zhihu.com/question/2066610730116421600)
 1. [电影《奥德赛》中，奥德修斯为什么不想回家？](https://www.zhihu.com/question/2069853384363059000)
