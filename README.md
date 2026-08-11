@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-11 14:06:34
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-11 15:39:56
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -216,22 +216,22 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Tue Aug 11 2026 14:03:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 11 2026 15:26:33 GMT+0800 (China Standard Time) -->
 
 1. [网红雅典娜证实被害](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E9%9B%85%E5%85%B8%E5%A8%9C%E8%AF%81%E5%AE%9E%E8%A2%AB%E5%AE%B3)
-1. [055 遵义舰演习遭潜艇「击沉」](https://www.zhihu.com/search?q=055%20%E9%81%B5%E4%B9%89%E8%88%B0%E6%BC%94%E4%B9%A0%E9%81%AD%E6%BD%9C%E8%89%87%E3%80%8C%E5%87%BB%E6%B2%89%E3%80%8D)
+1. [王宝强0票](https://www.zhihu.com/search?q=%E7%8E%8B%E5%AE%9D%E5%BC%BA0%E7%A5%A8)
 1. [中星4B卫星发射失利](https://www.zhihu.com/search?q=%E4%B8%AD%E6%98%9F4B%E5%8D%AB%E6%98%9F%E5%8F%91%E5%B0%84%E5%A4%B1%E5%88%A9)
 1. [Zhihu CLI上线](https://www.zhihu.com/search?q=Zhihu%20CLI%E4%B8%8A%E7%BA%BF)
 1. [方文山方回应出轨传闻](https://www.zhihu.com/search?q=%E6%96%B9%E6%96%87%E5%B1%B1%E6%96%B9%E5%9B%9E%E5%BA%94%E5%87%BA%E8%BD%A8%E4%BC%A0%E9%97%BB)
 1. [黄金](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91)
 1. [湖北宜昌进入战时状态](https://www.zhihu.com/search?q=%E6%B9%96%E5%8C%97%E5%AE%9C%E6%98%8C%E8%BF%9B%E5%85%A5%E6%88%98%E6%97%B6%E7%8A%B6%E6%80%81)
 1. [费大厨撤下全国小炒肉大王称号](https://www.zhihu.com/search?q=%E8%B4%B9%E5%A4%A7%E5%8E%A8%E6%92%A4%E4%B8%8B%E5%85%A8%E5%9B%BD%E5%B0%8F%E7%82%92%E8%82%89%E5%A4%A7%E7%8E%8B%E7%A7%B0%E5%8F%B7)
-1. [睡车里被收「住宿费」反转媒体道歉](https://www.zhihu.com/search?q=%E7%9D%A1%E8%BD%A6%E9%87%8C%E8%A2%AB%E6%94%B6%E3%80%8C%E4%BD%8F%E5%AE%BF%E8%B4%B9%E3%80%8D%E5%8F%8D%E8%BD%AC%E5%AA%92%E4%BD%93%E9%81%93%E6%AD%89)
+1. [豆包否认推荐酒店抽取 12% 佣金](https://www.zhihu.com/search?q=%E8%B1%86%E5%8C%85%E5%90%A6%E8%AE%A4%E6%8E%A8%E8%8D%90%E9%85%92%E5%BA%97%E6%8A%BD%E5%8F%96%2012%25%20%E4%BD%A3%E9%87%91)
 1. [百万粉网红姜小柔因车祸去世](https://www.zhihu.com/search?q=%E7%99%BE%E4%B8%87%E7%B2%89%E7%BD%91%E7%BA%A2%E5%A7%9C%E5%B0%8F%E6%9F%94%E5%9B%A0%E8%BD%A6%E7%A5%B8%E5%8E%BB%E4%B8%96)
 1. [Claude黎曼猜想获重大突破](https://www.zhihu.com/search?q=Claude%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E8%8E%B7%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4)
-1. [豆包否认推荐酒店抽取 12% 佣金](https://www.zhihu.com/search?q=%E8%B1%86%E5%8C%85%E5%90%A6%E8%AE%A4%E6%8E%A8%E8%8D%90%E9%85%92%E5%BA%97%E6%8A%BD%E5%8F%96%2012%25%20%E4%BD%A3%E9%87%91)
+1. [睡车里被收「住宿费」反转媒体道歉](https://www.zhihu.com/search?q=%E7%9D%A1%E8%BD%A6%E9%87%8C%E8%A2%AB%E6%94%B6%E3%80%8C%E4%BD%8F%E5%AE%BF%E8%B4%B9%E3%80%8D%E5%8F%8D%E8%BD%AC%E5%AA%92%E4%BD%93%E9%81%93%E6%AD%89)
+1. [055 遵义舰演习遭潜艇「击沉」](https://www.zhihu.com/search?q=055%20%E9%81%B5%E4%B9%89%E8%88%B0%E6%BC%94%E4%B9%A0%E9%81%AD%E6%BD%9C%E8%89%87%E3%80%8C%E5%87%BB%E6%B2%89%E3%80%8D)
 1. [百花奖获奖名单](https://www.zhihu.com/search?q=%E7%99%BE%E8%8A%B1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)
-1. [王宝强0票](https://www.zhihu.com/search?q=%E7%8E%8B%E5%AE%9D%E5%BC%BA0%E7%A5%A8)
 1. [定位纠纷致外卖员被砍成植物人](https://www.zhihu.com/search?q=%E5%AE%9A%E4%BD%8D%E7%BA%A0%E7%BA%B7%E8%87%B4%E5%A4%96%E5%8D%96%E5%91%98%E8%A2%AB%E7%A0%8D%E6%88%90%E6%A4%8D%E7%89%A9%E4%BA%BA)
 1. [古二曝繁花剧组涉偷税吸毒](https://www.zhihu.com/search?q=%E5%8F%A4%E4%BA%8C%E6%9B%9D%E7%B9%81%E8%8A%B1%E5%89%A7%E7%BB%84%E6%B6%89%E5%81%B7%E7%A8%8E%E5%90%B8%E6%AF%92)
 1. [台风「白海豚」深入内陆](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E3%80%8C%E7%99%BD%E6%B5%B7%E8%B1%9A%E3%80%8D%E6%B7%B1%E5%85%A5%E5%86%85%E9%99%86)
@@ -254,37 +254,41 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Tue Aug 11 2026 14:06:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 11 2026 15:39:56 GMT+0800 (China Standard Time) -->
 
 1. [央视首次曝光 055 遵义舰演习遭潜艇伏击「击沉」，这一操作的意图是什么？算暴露055的短板吗？](https://www.zhihu.com/question/2069804922732860200)
-1. [山东菏泽古沉船一件元青花杯被曝下落不明，举报者称其曾出现在央视画面中，却未移交给博物馆，具体情况如何？](https://www.zhihu.com/question/2069191321374418700)
 1. [因儿子说「大不了送外卖」，爸爸三伏天带他送外卖，竟意外修复父子关系，这一实践式教育怎么样？值得效仿吗？](https://www.zhihu.com/question/2070152087481083600)
+1. [山东菏泽古沉船一件元青花杯被曝下落不明，举报者称其曾出现在央视画面中，却未移交给博物馆，具体情况如何？](https://www.zhihu.com/question/2069191321374418700)
 1. [中国网红「雅典娜」确认遇害，被闺蜜骗去菲律宾后被绑架，哪些细节值得关注？](https://www.zhihu.com/question/2070285462472583000)
 1. [为什么电视里假扮夫妻的卧底往往会成了真夫妻？](https://www.zhihu.com/question/653625916)
-1. [如何评价《欢迎来龙餐馆》这部电影？](https://www.zhihu.com/question/2070182701299152600)
 1. [费大厨撤下「全国小炒肉大王」 宣传，上菜口号更换为 「精选黑猪肉、专业大厨炒」，此举带来的影响有多大？](https://www.zhihu.com/question/2070112824437876500)
 1. [职场聊天句句以「哈」结尾，有人觉得礼貌，有人觉得敷衍，你怎么看待？为啥会有这种表达习惯？](https://www.zhihu.com/question/2068715332844393700)
-1. [前有沈腾后有王宝强，都在百花奖挂0票，喜剧演员真的不容易拿主流奖项吗？](https://www.zhihu.com/question/2070267169883906300)
+1. [阿维塔高管称不认为和华为的合作模式是「必要项」，阿维塔具备差异化的能力，如何看待这一表态？](https://www.zhihu.com/question/2070107144536560600)
+1. [如何评价《欢迎来龙餐馆》这部电影？](https://www.zhihu.com/question/2070182701299152600)
 1. [曾经的钢琴为雅，现在怎么感觉没什么人愿意练钢琴了?(也包括大多数乐器)？](https://www.zhihu.com/question/1998873387645305600)
 1. [因为给我买车买房没提前跟我弟说，我弟把我全家都拉黑了快7年了，父子都不愿低头，怎么破冰？](https://www.zhihu.com/question/2068757535138566400)
 1. [豆包否认推荐酒店抽取 12% 佣金，称仅在订单成交后收取渠道服务费，字节在打哪些商业算盘？](https://www.zhihu.com/question/2070274629227083500)
 1. [台风「白海豚」深入内陆，河南、安徽、湖北、山东等地迎来特大暴雨，你那里目前情况怎么样？雨有多大？](https://www.zhihu.com/question/2070409831639245800)
-1. [阿维塔高管称不认为和华为的合作模式是「必要项」，阿维塔具备差异化的能力，如何看待这一表态？](https://www.zhihu.com/question/2070107144536560600)
+1. [易烊千玺连续四届提名百花奖，终凭《小小的我》刘春和一角成 00 后首位百花影帝，如何评价他的表演？](https://www.zhihu.com/question/2070253242945106700)
 1. [《英雄联盟》怀旧服老英雄与现版本单挑仅一人胜出，巨大强度差异是如何造成的？](https://www.zhihu.com/question/2069537299097031200)
 1. [张本兄妹同时包揽 WTT 横滨冠军赛单打冠军，会对国乒的霸主地位有影响吗？国乒到底怎么了？](https://www.zhihu.com/question/2069914089296487000)
-1. [为什么武侠游戏招式名爱用"降龙十八掌"式的华丽辞藻,而西方中世纪骑士游戏招式却朴素得像说明书?](https://www.zhihu.com/question/2070098614244864800)
+1. [如何看待GPT-6 （Astra）？](https://www.zhihu.com/question/2070082903229347000)
 1. [如何评价 Anthropic 宣布将黎曼猜想的已知下界从 41.6% 提高到了 67.2%？](https://www.zhihu.com/question/2070336637360518400)
 1. [为什么走西口保留了很大一部分晋语，而闯关东却没有保留太多山东话？](https://www.zhihu.com/question/642621568)
-1. [如何看待GPT-6 （Astra）？](https://www.zhihu.com/question/2070082903229347000)
+1. [为什么武侠游戏招式名爱用"降龙十八掌"式的华丽辞藻,而西方中世纪骑士游戏招式却朴素得像说明书?](https://www.zhihu.com/question/2070098614244864800)
 1. [现货黄金突破 4400 美元创 6 月以来新高，黄金新一轮行情开启了吗？](https://www.zhihu.com/question/2070432625525838600)
-1. [易烊千玺、卫诗雅分封影帝、影后，如何评价第 38届大众电影百花奖获奖名单？](https://www.zhihu.com/question/2070241074514224000)
 1. [为什么那么多年轻人得了尿毒症？](https://www.zhihu.com/question/2025229966229485600)
-1. [易烊千玺连续四届提名百花奖，终凭《小小的我》刘春和一角成 00 后首位百花影帝，如何评价他的表演？](https://www.zhihu.com/question/2070253242945106700)
 1. [如何看待R星宣布《GTA 6》新预告将与网飞合作“6小时付费独占首播”随后才免费上线？](https://www.zhihu.com/question/2070098455138252500)
 1. [影视飓风 Tim 称光盘衰落并非坏事反而更有趣，你对此有何看法？](https://www.zhihu.com/question/2069398024661506000)
+1. [英伟达宣布将与六家金融公司合作，设立独立算力融资平台，对行业意味着什么？芯片还会涨价吗？](https://www.zhihu.com/question/2070440887121864200)
 1. [如何评价凡人修仙传187集，李缨宁的建模？](https://www.zhihu.com/question/2069392034234889500)
-1. [2026年未录满本科专业榜民办高校人工智能专业上榜，为何热门专业也招不满学生？背后是怎样的报考逻辑？](https://www.zhihu.com/question/2069859176994681600)
 1. [如何评价明日方舟终末地1.4版本梨诺的剧情晨星降临？](https://www.zhihu.com/question/2070107474338882600)
+1. [有什么让你惊艳的香水？](https://www.zhihu.com/question/281366236)
+1. [副部级的大学校长和正厅级的教育厅厅长一起开会时，谁坐在前面？](https://www.zhihu.com/question/2069813043760993800)
+1. [放假期间怎样帮孩子减少玩手机时间？](https://www.zhihu.com/question/2069793830602380000)
+1. [前有沈腾后有王宝强，都在百花奖挂0票，喜剧演员真的不容易拿主流奖项吗？](https://www.zhihu.com/question/2070267169883906300)
+1. [易烊千玺、卫诗雅分封影帝、影后，如何评价第 38届大众电影百花奖获奖名单？](https://www.zhihu.com/question/2070241074514224000)
+1. [2026年未录满本科专业榜民办高校人工智能专业上榜，为何热门专业也招不满学生？背后是怎样的报考逻辑？](https://www.zhihu.com/question/2069859176994681600)
 1. [怎么样可以让一个七岁小朋友和一个三岁小朋友在星期天这一天都能玩好且花费最少？](https://www.zhihu.com/question/15135142231)
 1. [蓝箭航天朱雀三号遥二运载火箭发射推迟，可能有哪些原因？本次试飞有哪些重要任务？](https://www.zhihu.com/question/2069019372564083000)
 1. [河南平顶山一貌似张雪峰的烧烤哥在网上火了，你有哪些感慨和触动？](https://www.zhihu.com/question/2069154891138872800)
