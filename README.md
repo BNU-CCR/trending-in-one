@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-13 10:49:20
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-13 13:07:21
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -209,45 +209,55 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Thu Aug 13 2026 10:49:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 13 2026 13:07:21 GMT+0800 (China Standard Time) -->
 
 1. [中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世](https://www.zhihu.com/question/2070933430993414087)
 1. [DeepSeek Pro正式版已经发布，如何评价该模型？](https://www.zhihu.com/question/2071014727606703000)
 1. [货拉拉司机中途加价被拒，带货跑 600 公里外，平台介入后仍拒不归还，怎么回事？暴露出平台哪些问题？](https://www.zhihu.com/question/2070902073780953300)
-1. [一些泳池高手到了海里，为什么突然不会游了？](https://www.zhihu.com/question/2065390266501052200)
-1. [威少（维斯布鲁克）宣布退役，结束长达 18 年的 NBA 生涯，如何评价他的职业生涯？](https://www.zhihu.com/question/2071116184003646700)
+1. [网友爆料科技圈电商圈的大厂拒收阿里系中高层，是真的吗？反映了什么问题？他们为什么被称为互联网藤壶？](https://www.zhihu.com/question/2070900468931191800)
+1. [媒体曝茶颜悦色入职培训强制收手机、被子叠「豆腐块」，具体什么情况？企业的行为侵犯员工权益了吗？](https://www.zhihu.com/question/2070982459156424700)
 1. [《西游记》中猪八戒和沙和尚到底是真的弱还是在摸鱼？](https://www.zhihu.com/question/592713092)
-1. [如何评价 Deepseek V4Pro 正式版（Deepseek-V4-Pro-0813）？](https://www.zhihu.com/question/2071019389479023600)
+1. [一些泳池高手到了海里，为什么突然不会游了？](https://www.zhihu.com/question/2065390266501052200)
 1. [山西一医院实习护士晒患者隐私照，院方称将严肃处理，具体怎么回事？为什么这类事时有发生，问题出在哪？](https://www.zhihu.com/question/2070271590869070800)
+1. [弗洛伊德的理论那么扯淡为什么他又那么出名？](https://www.zhihu.com/question/268161638)
+1. [苹果被曝正测试长鑫存储芯片，将用于在中国市场销售的设备，双方最终达成合作的可能性有多大？](https://www.zhihu.com/question/2070073820929419000)
+1. [如何评价 Deepseek V4Pro 正式版（Deepseek-V4-Pro-0813）？](https://www.zhihu.com/question/2071019389479023600)
+1. [威少（维斯布鲁克）宣布退役，结束长达 18 年的 NBA 生涯，如何评价他的职业生涯？](https://www.zhihu.com/question/2071116184003646700)
+1. [中国种植的土地那么大，为什么感觉东北大米比较出名又好吃？](https://www.zhihu.com/question/659432723)
+1. [网传《欢迎来龙餐馆》男主角原定为徐峥，消息靠谱吗？如果是徐峥来演的话你认为效果会比沈腾好吗？](https://www.zhihu.com/question/2070925244152246800)
+1. [如何评价《影之刃零》开启预售之后迅速荣登全球Steam畅销榜第一名？](https://www.zhihu.com/question/2070880919683126800)
+1. [银行能办结婚证了，天津开放首个银行网点婚姻登记处，这事只是「多一个领证地」这么简单吗？银行有什么盘算？](https://www.zhihu.com/question/2070960876790572300)
+1. [《寄生虫》里的豪宅，看起来没什么东西，豪在哪里？](https://www.zhihu.com/question/2070215170526279400)
+1. [养了三四年的猫，不想养了，送人没人要，养着又很烦心，该怎么办？](https://www.zhihu.com/question/2056772743341815000)
+1. [如何评价 Anthropic CEO Dario Amodei 害怕被绑架？](https://www.zhihu.com/question/2069971685403628800)
+1. [因长期在中东服役，多名水兵试图从美国海军「林肯」号跳海，为什么会这样？美国中东长期部署带来哪些问题？](https://www.zhihu.com/question/2071169289697092900)
+1. [如何看待郭德纲演出中即兴篡改经典红歌《弹起我心爱的土琵琶》，因未提前报备，遭武汉文旅立案调查？](https://www.zhihu.com/question/2070889953198979000)
+1. [如何评价荣耀发布的全球首款机器人手机 Robot Phone，有哪些亮点和槽点？](https://www.zhihu.com/question/2070661978675209200)
+1. [如何评价2026年8月12日上线的《原神》7.0版本「无神怜爱的雪国」？](https://www.zhihu.com/question/2070794145808004600)
+1. [如何评价《原神》游戏角色阿罗夏为了保养和改装枪械开销不小？甚至有时用饭钱填上开销的窟窿？](https://www.zhihu.com/question/2070124560477954300)
+1. [DeepSeek的harness值得期待吗？](https://www.zhihu.com/question/2068471750665545200)
+1. [为什么《影之刃：零》的11分钟宣传片中，杀手选择和魂在车上决斗，而不杀马？](https://www.zhihu.com/question/2070827032607470300)
+1. [NPD幸存者为什么很难回到遇到NPD之前的高价值状态？](https://www.zhihu.com/question/2021336415582127900)
+1. [如何辨别自己是真正的「情绪稳定」，还是在「压抑情绪」？](https://www.zhihu.com/question/2012850075945150200)
+1. [哪些话一出现，你就知道是 AI 写的？](https://www.zhihu.com/question/3022969383)
+1. [为什么有的人天生「精力旺盛」，有的人天生「低精力」？](https://www.zhihu.com/question/2069144593418003500)
 1. [7 月小米 SU7 销量 21,044 辆，连续 4 个月位列 20 万以上轿车销量第一，如何评价？](https://www.zhihu.com/question/2070807325699580700)
 1. [据媒体报道部分手机壳疑似采用废弃针管等医疗垃圾加工而成，真的吗？对健康会有多大危害？消费者该如何辨别？](https://www.zhihu.com/question/2070066925363619000)
 1. [为什么《蜘蛛侠》能拍「交不起房租」，国产大片却总在拍「光鲜亮丽的拯救世界」？](https://www.zhihu.com/question/2068356359494559500)
 1. [2026 LPL 第三赛段 BLG 1-2 JDG，如何评价这场比赛？Flandre 的表现如何？](https://www.zhihu.com/question/2070968228314965000)
-1. [中国种植的土地那么大，为什么感觉东北大米比较出名又好吃？](https://www.zhihu.com/question/659432723)
-1. [媒体曝茶颜悦色入职培训强制收手机、被子叠「豆腐块」，具体什么情况？企业的行为侵犯员工权益了吗？](https://www.zhihu.com/question/2070982459156424700)
 1. [梁文锋财富一年暴涨 3850% ，跻身全球亿万富豪榜，他是如何做到的？](https://www.zhihu.com/question/2070810807168980700)
-1. [银行能办结婚证了，天津开放首个银行网点婚姻登记处，这事只是「多一个领证地」这么简单吗？银行有什么盘算？](https://www.zhihu.com/question/2070960876790572300)
 1. [为什么《哪吒之魔童闹海》获百花奖最佳影片无人站起，《惊蛰无声》获优秀影片，现场全体起立？](https://www.zhihu.com/question/2070482846033121800)
 1. [华人加密投资者叶俊德被曝全裸从 30 楼坠亡，生前曾管理超 24 亿美元资产，哪些信息值得关注？](https://www.zhihu.com/question/2070227462877876700)
-1. [苹果被曝正测试长鑫存储芯片，将用于在中国市场销售的设备，双方最终达成合作的可能性有多大？](https://www.zhihu.com/question/2070073820929419000)
-1. [养了三四年的猫，不想养了，送人没人要，养着又很烦心，该怎么办？](https://www.zhihu.com/question/2056772743341815000)
-1. [如何看待郭德纲演出中即兴篡改经典红歌《弹起我心爱的土琵琶》，因未提前报备，遭武汉文旅立案调查？](https://www.zhihu.com/question/2070889953198979000)
-1. [如何评价《影之刃零》开启预售之后迅速荣登全球Steam畅销榜第一名？](https://www.zhihu.com/question/2070880919683126800)
 1. [甄子丹“饰演”《影之刃零》中的角色“魔渊”，通过动捕+面捕参与游戏制作，使用“饰演”描述是否合适？](https://www.zhihu.com/question/2070894183359983900)
 1. [如何评价《原神》7.0剧情任务【无神怜爱的雪国】？](https://www.zhihu.com/question/2070876433086419700)
 1. [如何看待媒体曝沃尔特 120 亿美元出售湖人，创历史记录？](https://www.zhihu.com/question/2071009298574829300)
-1. [《寄生虫》里的豪宅，看起来没什么东西，豪在哪里？](https://www.zhihu.com/question/2070215170526279400)
-1. [如何评价 Anthropic CEO Dario Amodei 害怕被绑架？](https://www.zhihu.com/question/2069971685403628800)
-1. [如何评价荣耀发布的全球首款机器人手机 Robot Phone，有哪些亮点和槽点？](https://www.zhihu.com/question/2070661978675209200)
 1. [如何看论文破解了前沿模型的加密思维数据，以及Kimi K3 / GLM-5.2 是否蒸馏过前沿模型？](https://www.zhihu.com/question/2070813640966550500)
-1. [哪些话一出现，你就知道是 AI 写的？](https://www.zhihu.com/question/3022969383)
 1. [黑洞的引力如此之大，连光都无法逃脱，那它内部的物质最终去了哪里？](https://www.zhihu.com/question/1943680908252148200)
 1. [家庭资产几乎都在房子里，到底危险在哪？](https://www.zhihu.com/question/2070454238250111500)
 1. [如何看待京东上大规模出现「李鬼」笔记本电脑？](https://www.zhihu.com/question/2070197481544202000)
 1. [《王者荣耀世界》第二赛季无限期延期，官方补偿 6500 玄晶加 10 连抽，玩家会买账吗？](https://www.zhihu.com/question/2070571923441034500)
 1. [如何看待杨奇回应《黑神话：钟馗》进度「设计阶段会远离 AIGC 工具，诺兰的奥德赛也是古法创作」？](https://www.zhihu.com/question/2070508935673378600)
 1. [武大靖出任中国短道速滑队主教练，他有哪些优势？将面临哪些挑战？](https://www.zhihu.com/question/2070877052618782000)
-1. [为什么有的人天生「精力旺盛」，有的人天生「低精力」？](https://www.zhihu.com/question/2069144593418003500)
 1. [女子开一天一夜空调后确诊呼吸性碱中毒，是空调导致的吗？为什么会被误传为「二氧化碳中毒」，二者有何区别？](https://www.zhihu.com/question/2068973888067965000)
 1. [雷军称小米成功量产发光材料，成为国内首家实现底层发光材料自研的手机厂商，这意味着什么？会带来什么改变？](https://www.zhihu.com/question/2070796946256520000)
 1. [为什么我用思维导图反而感觉信息更乱了？](https://www.zhihu.com/question/2042204623818192000)
