@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-13 13:07:21
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-13 14:48:05
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -238,33 +238,44 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Thu Aug 13 2026 13:07:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 13 2026 14:48:05 GMT+0800 (China Standard Time) -->
 
 1. [中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世](https://www.zhihu.com/question/2070933430993414087)
 1. [DeepSeek Pro正式版已经发布，如何评价该模型？](https://www.zhihu.com/question/2071014727606703000)
 1. [货拉拉司机中途加价被拒，带货跑 600 公里外，平台介入后仍拒不归还，怎么回事？暴露出平台哪些问题？](https://www.zhihu.com/question/2070902073780953300)
 1. [网友爆料科技圈电商圈的大厂拒收阿里系中高层，是真的吗？反映了什么问题？他们为什么被称为互联网藤壶？](https://www.zhihu.com/question/2070900468931191800)
-1. [媒体曝茶颜悦色入职培训强制收手机、被子叠「豆腐块」，具体什么情况？企业的行为侵犯员工权益了吗？](https://www.zhihu.com/question/2070982459156424700)
-1. [《西游记》中猪八戒和沙和尚到底是真的弱还是在摸鱼？](https://www.zhihu.com/question/592713092)
-1. [一些泳池高手到了海里，为什么突然不会游了？](https://www.zhihu.com/question/2065390266501052200)
-1. [山西一医院实习护士晒患者隐私照，院方称将严肃处理，具体怎么回事？为什么这类事时有发生，问题出在哪？](https://www.zhihu.com/question/2070271590869070800)
-1. [弗洛伊德的理论那么扯淡为什么他又那么出名？](https://www.zhihu.com/question/268161638)
+1. [唐朝女人头上插那么多金钗步摇，走路不累吗，她们到底图什么？](https://www.zhihu.com/question/2070260620662924800)
 1. [苹果被曝正测试长鑫存储芯片，将用于在中国市场销售的设备，双方最终达成合作的可能性有多大？](https://www.zhihu.com/question/2070073820929419000)
-1. [如何评价 Deepseek V4Pro 正式版（Deepseek-V4-Pro-0813）？](https://www.zhihu.com/question/2071019389479023600)
-1. [威少（维斯布鲁克）宣布退役，结束长达 18 年的 NBA 生涯，如何评价他的职业生涯？](https://www.zhihu.com/question/2071116184003646700)
-1. [中国种植的土地那么大，为什么感觉东北大米比较出名又好吃？](https://www.zhihu.com/question/659432723)
-1. [网传《欢迎来龙餐馆》男主角原定为徐峥，消息靠谱吗？如果是徐峥来演的话你认为效果会比沈腾好吗？](https://www.zhihu.com/question/2070925244152246800)
-1. [如何评价《影之刃零》开启预售之后迅速荣登全球Steam畅销榜第一名？](https://www.zhihu.com/question/2070880919683126800)
-1. [银行能办结婚证了，天津开放首个银行网点婚姻登记处，这事只是「多一个领证地」这么简单吗？银行有什么盘算？](https://www.zhihu.com/question/2070960876790572300)
-1. [《寄生虫》里的豪宅，看起来没什么东西，豪在哪里？](https://www.zhihu.com/question/2070215170526279400)
-1. [养了三四年的猫，不想养了，送人没人要，养着又很烦心，该怎么办？](https://www.zhihu.com/question/2056772743341815000)
-1. [如何评价 Anthropic CEO Dario Amodei 害怕被绑架？](https://www.zhihu.com/question/2069971685403628800)
+1. [山西一医院实习护士晒患者隐私照，院方称将严肃处理，具体怎么回事？为什么这类事时有发生，问题出在哪？](https://www.zhihu.com/question/2070271590869070800)
 1. [因长期在中东服役，多名水兵试图从美国海军「林肯」号跳海，为什么会这样？美国中东长期部署带来哪些问题？](https://www.zhihu.com/question/2071169289697092900)
+1. [网传《欢迎来龙餐馆》男主角原定为徐峥，消息靠谱吗？如果是徐峥来演的话你认为效果会比沈腾好吗？](https://www.zhihu.com/question/2070925244152246800)
+1. [为什么蚊子没有进化成像猫猫那样特别可爱的样子，让人不忍心拍死？](https://www.zhihu.com/question/2059374956157330000)
+1. [中国成功用竹子造出无人机，这对航空材料和制造技术意味着什么？](https://www.zhihu.com/question/2070132623079379200)
+1. [威少（维斯布鲁克）宣布退役，结束长达 18 年的 NBA 生涯，如何评价他的职业生涯？](https://www.zhihu.com/question/2071116184003646700)
+1. [当年为加入 WTO 做出的让步，今天看来到底有多值？](https://www.zhihu.com/question/2070975451988587300)
+1. [《寄生虫》里的豪宅，看起来没什么东西，豪在哪里？](https://www.zhihu.com/question/2070215170526279400)
+1. [如何评价 Grok4.6，有哪些亮点？](https://www.zhihu.com/question/2070448386113909000)
+1. [银行能办结婚证了，天津开放首个银行网点婚姻登记处，这事只是「多一个领证地」这么简单吗？银行有什么盘算？](https://www.zhihu.com/question/2070960876790572300)
+1. [养了三四年的猫，不想养了，送人没人要，养着又很烦心，该怎么办？](https://www.zhihu.com/question/2056772743341815000)
+1. [如何评价《影之刃零》开启预售之后迅速荣登全球Steam畅销榜第一名？](https://www.zhihu.com/question/2070880919683126800)
+1. [媒体曝茶颜悦色入职培训强制收手机、被子叠「豆腐块」，具体什么情况？企业的行为侵犯员工权益了吗？](https://www.zhihu.com/question/2070982459156424700)
+1. [弗洛伊德的理论那么扯淡为什么他又那么出名？](https://www.zhihu.com/question/268161638)
 1. [如何看待郭德纲演出中即兴篡改经典红歌《弹起我心爱的土琵琶》，因未提前报备，遭武汉文旅立案调查？](https://www.zhihu.com/question/2070889953198979000)
 1. [如何评价荣耀发布的全球首款机器人手机 Robot Phone，有哪些亮点和槽点？](https://www.zhihu.com/question/2070661978675209200)
+1. [继金像奖后，卫诗雅凭借《破·地狱》获百花奖影后，如何评价她在其中的演绎？](https://www.zhihu.com/question/2070256592973566700)
+1. [DeepSeek的harness值得期待吗？](https://www.zhihu.com/question/2068471750665545200)
+1. [一些泳池高手到了海里，为什么突然不会游了？](https://www.zhihu.com/question/2065390266501052200)
+1. [英伟达联手华尔街筹资5000亿美元提供芯片贷款，公司股价下跌，黄仁勋喊话这不是循环融资，如何看待此事？](https://www.zhihu.com/question/2070540296862142500)
+1. [如何看待本届羽毛球世锦赛东道主印度请来能模仿猴子的「猴语者」，只为驱赶冲进赛场的另一种猴子，能奏效吗？](https://www.zhihu.com/question/2070470620937023700)
+1. [为什么过去都说鱼翅和鲍鱼是顶级菜肴，而现在却很少人提了？](https://www.zhihu.com/question/2069876191474013000)
+1. [月薪三万多，和老公都太忙，都没时间照顾孩子，老公让我回家照顾孩子几年先，如果是你该怎么选？](https://www.zhihu.com/question/2068859762461169700)
+1. [2026 LPL 第三赛段 BLG 1-2 JDG，如何评价这场比赛？Flandre 的表现如何？](https://www.zhihu.com/question/2070968228314965000)
+1. [《西游记》中猪八戒和沙和尚到底是真的弱还是在摸鱼？](https://www.zhihu.com/question/592713092)
+1. [如何评价 Deepseek V4Pro 正式版（Deepseek-V4-Pro-0813）？](https://www.zhihu.com/question/2071019389479023600)
+1. [中国种植的土地那么大，为什么感觉东北大米比较出名又好吃？](https://www.zhihu.com/question/659432723)
+1. [如何评价 Anthropic CEO Dario Amodei 害怕被绑架？](https://www.zhihu.com/question/2069971685403628800)
 1. [如何评价2026年8月12日上线的《原神》7.0版本「无神怜爱的雪国」？](https://www.zhihu.com/question/2070794145808004600)
 1. [如何评价《原神》游戏角色阿罗夏为了保养和改装枪械开销不小？甚至有时用饭钱填上开销的窟窿？](https://www.zhihu.com/question/2070124560477954300)
-1. [DeepSeek的harness值得期待吗？](https://www.zhihu.com/question/2068471750665545200)
 1. [为什么《影之刃：零》的11分钟宣传片中，杀手选择和魂在车上决斗，而不杀马？](https://www.zhihu.com/question/2070827032607470300)
 1. [NPD幸存者为什么很难回到遇到NPD之前的高价值状态？](https://www.zhihu.com/question/2021336415582127900)
 1. [如何辨别自己是真正的「情绪稳定」，还是在「压抑情绪」？](https://www.zhihu.com/question/2012850075945150200)
@@ -273,7 +284,6 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [7 月小米 SU7 销量 21,044 辆，连续 4 个月位列 20 万以上轿车销量第一，如何评价？](https://www.zhihu.com/question/2070807325699580700)
 1. [据媒体报道部分手机壳疑似采用废弃针管等医疗垃圾加工而成，真的吗？对健康会有多大危害？消费者该如何辨别？](https://www.zhihu.com/question/2070066925363619000)
 1. [为什么《蜘蛛侠》能拍「交不起房租」，国产大片却总在拍「光鲜亮丽的拯救世界」？](https://www.zhihu.com/question/2068356359494559500)
-1. [2026 LPL 第三赛段 BLG 1-2 JDG，如何评价这场比赛？Flandre 的表现如何？](https://www.zhihu.com/question/2070968228314965000)
 1. [梁文锋财富一年暴涨 3850% ，跻身全球亿万富豪榜，他是如何做到的？](https://www.zhihu.com/question/2070810807168980700)
 1. [为什么《哪吒之魔童闹海》获百花奖最佳影片无人站起，《惊蛰无声》获优秀影片，现场全体起立？](https://www.zhihu.com/question/2070482846033121800)
 1. [华人加密投资者叶俊德被曝全裸从 30 楼坠亡，生前曾管理超 24 亿美元资产，哪些信息值得关注？](https://www.zhihu.com/question/2070227462877876700)
@@ -292,7 +302,6 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [为什么我用思维导图反而感觉信息更乱了？](https://www.zhihu.com/question/2042204623818192000)
 1. [为什么很多人都喜欢立flag，但是都没办法付诸实际行动或者坚持下去？](https://www.zhihu.com/question/266232297)
 1. [为什么沈腾作为中国影史票房第一人，却金鸡、百花、华表一个奖都没拿？](https://www.zhihu.com/question/2070076711593406500)
-1. [月薪三万多，和老公都太忙，都没时间照顾孩子，老公让我回家照顾孩子几年先，如果是你该怎么选？](https://www.zhihu.com/question/2068859762461169700)
 1. [LPL2026赛季第三赛段组内赛BLG 1:2 JDG，如何评价这场比赛？](https://www.zhihu.com/question/2070969819730536400)
 1. [内蒙古一警车被指擅自更换车标，警方称正在整改，会面临哪些处罚？警车作为执法车辆为何会出现此类违规操作？](https://www.zhihu.com/question/2070438924262930000)
 1. [为啥感觉麻辣烫越来越贵，而自助小火锅却在越卷越便宜？同样是汤煮菜，为啥会出现这样的差异？](https://www.zhihu.com/question/2067711801098069800)
