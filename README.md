@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-15 22:41:23
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-15 23:36:50
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -405,37 +405,42 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Sat Aug 15 2026 22:41:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 15 2026 23:36:50 GMT+0800 (China Standard Time) -->
 
-1. [《一饭封神 2》中谢霆锋直言「糖拌西红柿不能拿来比赛」，你认同吗？](https://www.zhihu.com/question/2071601306246932200)
-1. [国家叫停「速成车」，新国标落地将如何影响消费者购车？](https://www.zhihu.com/question/2071168780798055700)
 1. [于东来称胖东来首批刑释职工30人无一离职，如何评价这一招聘计划的实际效果？其他企业能效仿吗？](https://www.zhihu.com/question/2071985681274855700)
+1. [国家叫停「速成车」，新国标落地将如何影响消费者购车？](https://www.zhihu.com/question/2071168780798055700)
+1. [《一饭封神 2》中谢霆锋直言「糖拌西红柿不能拿来比赛」，你认同吗？](https://www.zhihu.com/question/2071601306246932200)
 1. [大厂员工吐槽现在开会就是互丢AI文档，你有同感吗？很多公司都强调内化AI能力，但真的有提升产出质量吗？](https://www.zhihu.com/question/2071711669378442000)
 1. [全国票房日冠地图显示「东北龙餐馆，上海奥德赛」，如何看待这一现象？反应了怎样的区域观影偏好差异？](https://www.zhihu.com/question/2070573489396740900)
-1. [如果条件允许的话，完全以矿泉水或纯净水作为日常饮用水好不好？](https://www.zhihu.com/question/32244325)
 1. [旺旺被指最大竞争对手是糖，网友集体呼吁旺旺减糖，这样真能救旺旺吗？传统食品行业正面临哪些挑战？](https://www.zhihu.com/question/2071910735857333500)
+1. [如果条件允许的话，完全以矿泉水或纯净水作为日常饮用水好不好？](https://www.zhihu.com/question/32244325)
+1. [DeepSeek-V4-Pro-0813已发布，体验下来怎么样？](https://www.zhihu.com/question/2071619812795609300)
 1. [曾经爆火的洞洞鞋遇冷，Crocs 联合瑞幸推出近六百元洞洞鞋，二手平台半价出售，高价洞洞鞋卖不动了吗？](https://www.zhihu.com/question/2070889441451939300)
-1. [怎么看森多夫猜想（Sendov's Conjecture）已被AI、Lech Mazur、陶哲轩攻破？](https://www.zhihu.com/question/2071680380755785000)
 1. [电视剧「蜗居」里的宋思明权力那么大，为什么没把海藻安排进体制内？](https://www.zhihu.com/question/2070543205620258000)
-1. [胖东来郑州店发公告招100名边防军人和20名刑释人员，企业兜底「社会融合」职能，是进步还是错位？](https://www.zhihu.com/question/2071601572484748500)
-1. [《欢迎来龙餐馆》里的餐厅老板扎伊德在妻女被杀后，为什么不加入政府军或其他组织，而是加入恐怖分子阵营？](https://www.zhihu.com/question/2070905498790879700)
-1. [如何评价蒋奇明在《欢迎来龙餐馆》里的表现？](https://www.zhihu.com/question/2071283961712719600)
-1. [星宇股份裁员数百应届生并要求「个人原因」离职，具体什么情况？拒绝者被调岗打螺丝，面对该操作只能认栽吗？](https://www.zhihu.com/question/2071043484274921700)
 1. [如何看待 Dota2TI15，XG 0-2 不敌 TR 淘汰回家？如何评价 XG 战队及其本届表现?](https://www.zhihu.com/question/2072042300016964900)
+1. [如何评价蒋奇明在《欢迎来龙餐馆》里的表现？](https://www.zhihu.com/question/2071283961712719600)
+1. [《欢迎来龙餐馆》里的餐厅老板扎伊德在妻女被杀后，为什么不加入政府军或其他组织，而是加入恐怖分子阵营？](https://www.zhihu.com/question/2070905498790879700)
+1. [星宇股份裁员数百应届生并要求「个人原因」离职，具体什么情况？拒绝者被调岗打螺丝，面对该操作只能认栽吗？](https://www.zhihu.com/question/2071043484274921700)
+1. [河南教师清理双户口后常用户口因「虚假户口」被注销成黑户，警方同意重报但无法恢复，如何从法律角度解读？](https://www.zhihu.com/question/2071261939238545000)
 1. [儿科韩医生事件，会不会造成全国的防御性医疗的开端和大面积的医护离职潮爆发？未来儿科医生的数量腰斩？](https://www.zhihu.com/question/2069050672704705800)
-1. [如何看待DeepSeek-V4 Pro正式版疑似过拟合DeepSeek Harness的极简模式？](https://www.zhihu.com/question/2071773348753945300)
+1. [SK 集团崔泰源警告 2027 年大概率会是存储芯片供应缺口最大的一年，内存、硬盘还要持续涨价吗？](https://www.zhihu.com/question/2071746265390506500)
 1. [从《欢迎来到龙餐馆》来说，基本都觉得萨达姆坏，可是为何很多人也觉得美国插手不对，这不矛盾吗？](https://www.zhihu.com/question/2071724149865723600)
 1. [普京首次登上南千岛群岛视察民生产业，高市早苗激烈抗议，称是日本固有领土，俄方强硬回击，如何看待此事？](https://www.zhihu.com/question/2071637658586165800)
 1. [广州 11 岁男孩暑假在景点为游客拍照，月收入一千多，直言「拍照比刷题好玩」，这种暑假实践适合孩子吗？](https://www.zhihu.com/question/2070926273820489000)
 1. [特朗普证实部署中东的林肯号航母将被替换，部署近9个月，船员心理崩溃、跳海事件引发质疑，如何看待此事？](https://www.zhihu.com/question/2071884847304401000)
 1. [如何看待「大学新生三件套」涨价近五成，如果只给 5000 元预算配齐「开学三件套」，你会怎么分配？](https://www.zhihu.com/question/2061220785021268500)
-1. [SK 集团崔泰源警告 2027 年大概率会是存储芯片供应缺口最大的一年，内存、硬盘还要持续涨价吗？](https://www.zhihu.com/question/2071746265390506500)
 1. [如何评价安妮·海瑟薇、伊万·麦克格雷格主演的惊悚电影《逃出绝命街》？](https://www.zhihu.com/question/2071192151078221800)
+1. [准高三生看完《奥本海默》后深感自己平庸，该如何接受与顶尖天才的差距？](https://www.zhihu.com/question/2071135275296858600)
 1. [猫咪这个动物不是不怕热吗？怎么夏天也趴着不动？](https://www.zhihu.com/question/1919803591994114800)
 1. [有哪些不论你多难过，听后也会笑出声的笑话？](https://www.zhihu.com/question/53815952)
-1. [你吃过鲫鱼最好吃的做法有哪些？](https://www.zhihu.com/question/12561851153)
 1. [哪一刻你突然觉得读书真的很有用？](https://www.zhihu.com/question/1881502517067761000)
+1. [有哪些是你上了大学后才知道的冷知识？](https://www.zhihu.com/question/2062937551581849300)
 1. [如何自制午餐肉？](https://www.zhihu.com/question/333824653)
+1. [100多的耳机和1000的耳机差在哪了？](https://www.zhihu.com/question/1919725373865834200)
+1. [怎么看森多夫猜想（Sendov's Conjecture）已被AI、Lech Mazur、陶哲轩攻破？](https://www.zhihu.com/question/2071680380755785000)
+1. [胖东来郑州店发公告招100名边防军人和20名刑释人员，企业兜底「社会融合」职能，是进步还是错位？](https://www.zhihu.com/question/2071601572484748500)
+1. [如何看待DeepSeek-V4 Pro正式版疑似过拟合DeepSeek Harness的极简模式？](https://www.zhihu.com/question/2071773348753945300)
+1. [你吃过鲫鱼最好吃的做法有哪些？](https://www.zhihu.com/question/12561851153)
 1. [程序员为保工作每月倒贴买 token「自费上班」，这反映了行业哪些问题？](https://www.zhihu.com/question/2070238362640955000)
 1. [智商越高的人，什么特征越明显？](https://www.zhihu.com/question/2020103732260549400)
 1. [假如你是开发者，你会给《我的世界》更新什么新东西？](https://www.zhihu.com/question/757237974)
@@ -519,7 +524,6 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [如何看待Anthropic传出最快10月IPO，估值目标飙升至2万亿美元？](https://www.zhihu.com/question/2071279053672277800)
 1. [我们为什么喜欢黑很熟的人？](https://www.zhihu.com/question/33185166)
 1. [如何让大学生活变得更丰富有意义一点？](https://www.zhihu.com/question/2061121380792407800)
-1. [100多的耳机和1000的耳机差在哪了？](https://www.zhihu.com/question/1919725373865834200)
 1. [西南医科大回应「舍不得买教材就退学」，称教材自愿购买，网友扒出该校曾涉禁买二手书争议，到底咋回事？](https://www.zhihu.com/question/2071677617145473000)
 1. [甄子丹惊喜出演《影之刃零》，却遭部分玩家质疑，如何看待此次合作？](https://www.zhihu.com/question/2070922466810245600)
 1. [如何评价原神8月12日更新的至冬新版本系列支线剧情「她的宫殿正坍塌向风雪」？](https://www.zhihu.com/question/2071140536422086000)
