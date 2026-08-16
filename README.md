@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-16 13:45:43
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-16 15:01:44
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -246,32 +246,42 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Sun Aug 16 2026 13:45:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 16 2026 15:01:44 GMT+0800 (China Standard Time) -->
 
-1. [网友称吃寿司郎遇到邻桌光脚踩水龙头，服务员拒绝当面消毒，门店的行为有问题吗？](https://www.zhihu.com/question/2071653716847850500)
+1. [朱镕基同志遗体18日火化 天安门等地将下半旗志哀](https://www.zhihu.com/question/2072330702507529924)
 1. [如何看待《欢迎到龙餐馆》讲中东故事，却全程国内取景拍摄，手搓一座乱世下的中东城？](https://www.zhihu.com/question/2071533521441485000)
-1. [2026年WTT瑞典大满贯，张本美和 4-0 轻取陈熠晋级女单四强，怎么评价本场比赛？](https://www.zhihu.com/question/2072134899692311600)
-1. [榜一大哥打赏女主播超千万求交往，遭拒后起诉其诈骗，如何从法律角度解读？](https://www.zhihu.com/question/2072076213984518400)
 1. [西安女子 3 万全款拿下宝鸡 40 平老房，你会入手这类「万元老破小」吗？这种低压力买房思路你认同吗？](https://www.zhihu.com/question/2070435156947462100)
-1. [一个先进外星文明拿到地球的一颗完整但孤立的CPU会怎样?](https://www.zhihu.com/question/2070934624273011000)
+1. [网友称吃寿司郎遇到邻桌光脚踩水龙头，服务员拒绝当面消毒，门店的行为有问题吗？](https://www.zhihu.com/question/2071653716847850500)
+1. [2026年WTT瑞典大满贯，张本美和 4-0 轻取陈熠晋级女单四强，怎么评价本场比赛？](https://www.zhihu.com/question/2072134899692311600)
+1. [如何看待胖东来招聘刑释人员的公告被质疑处理不当？](https://www.zhihu.com/question/2072055535537316900)
+1. [榜一大哥打赏女主播超千万求交往，遭拒后起诉其诈骗，如何从法律角度解读？](https://www.zhihu.com/question/2072076213984518400)
 1. [Anthropic Q2营收逾115亿美元，同比增14倍，是何引爆了其业绩，大模型商业化成功了？](https://www.zhihu.com/question/2071916942760342500)
-1. [醉鹅娘涉嫌走私遭起诉，年销3.5亿的网红品牌，为何走到刑事公诉这一步？醉鹅娘可能面临什么？](https://www.zhihu.com/question/2070904107477333200)
-1. [广东上线「Token贷」，银行以企业Token消耗、业务订单等作为授信核心依据，如何看待这一创新模式？](https://www.zhihu.com/question/2071648717074069200)
-1. [旺旺被指最大竞争对手是糖，网友集体呼吁旺旺减糖，这样真能救旺旺吗？传统食品行业正面临哪些挑战？](https://www.zhihu.com/question/2071910735857333500)
-1. [纯数学研究者未来会被 AI 取代吗？](https://www.zhihu.com/question/2014665409727570700)
+1. [为什么国内无法观看IMAX 70mm 胶片版《奥德赛》？](https://www.zhihu.com/question/2064434098815374000)
+1. [LPL2026赛季第三赛段组内赛BLG 2:0 WE，如何评价这场比赛？](https://www.zhihu.com/question/2072063189060150500)
+1. [李宗盛为什么口碑变差了?](https://www.zhihu.com/question/388993745)
 1. [为什么成绩好的学霸大多数都是早熟者？](https://www.zhihu.com/question/2058865477712196600)
+1. [纯数学研究者未来会被 AI 取代吗？](https://www.zhihu.com/question/2014665409727570700)
+1. [旺旺被指最大竞争对手是糖，网友集体呼吁旺旺减糖，这样真能救旺旺吗？传统食品行业正面临哪些挑战？](https://www.zhihu.com/question/2071910735857333500)
+1. [醉鹅娘涉嫌走私遭起诉，年销3.5亿的网红品牌，为何走到刑事公诉这一步？醉鹅娘可能面临什么？](https://www.zhihu.com/question/2070904107477333200)
 1. [曾经爆火的洞洞鞋遇冷，Crocs 联合瑞幸推出近六百元洞洞鞋，二手平台半价出售，高价洞洞鞋卖不动了吗？](https://www.zhihu.com/question/2070889441451939300)
-1. [如何评价《原神》7.0中的“楚古诺夫”？](https://www.zhihu.com/question/2071532873841108200)
 1. [在古代还没有毒品概念的时候，天然成瘾植物为何没有成为顶级香料？](https://www.zhihu.com/question/2068587429079020800)
+1. [陕西为什么叫“陕西”，而不叫“天东”、“巴北”或“鄂南”呢？](https://www.zhihu.com/question/1908464657242514000)
 1. [电视剧「蜗居」里的宋思明权力那么大，为什么没把海藻安排进体制内？](https://www.zhihu.com/question/2070543205620258000)
-1. [国家叫停「速成车」，新国标落地将如何影响消费者购车？](https://www.zhihu.com/question/2071168780798055700)
-1. [准高三生看完《奥本海默》后深感自己平庸，该如何接受与顶尖天才的差距？](https://www.zhihu.com/question/2071135275296858600)
-1. [如果条件允许的话，完全以矿泉水或纯净水作为日常饮用水好不好？](https://www.zhihu.com/question/32244325)
+1. [广东上线「Token贷」，银行以企业Token消耗、业务订单等作为授信核心依据，如何看待这一创新模式？](https://www.zhihu.com/question/2071648717074069200)
+1. [一个先进外星文明拿到地球的一颗完整但孤立的CPU会怎样?](https://www.zhihu.com/question/2070934624273011000)
+1. [如何在半年内学会四大力学？](https://www.zhihu.com/question/320472762)
 1. [家里六岁男孩，一遇到不顺自己心意的事就哭得很伤心，不完全是撒泼胡闹，该如何帮助引导孩子？](https://www.zhihu.com/question/2010380052173444400)
+1. [如果条件允许的话，完全以矿泉水或纯净水作为日常饮用水好不好？](https://www.zhihu.com/question/32244325)
+1. [准高三生看完《奥本海默》后深感自己平庸，该如何接受与顶尖天才的差距？](https://www.zhihu.com/question/2071135275296858600)
+1. [如何评价《原神》7.0中的“楚古诺夫”？](https://www.zhihu.com/question/2071532873841108200)
+1. [电影《奥德赛》，在诺兰的作品里，处于什么水平？](https://www.zhihu.com/question/2068703642505459200)
+1. [作为第一批买入插混车的人，有什么意见和建议给大家？](https://www.zhihu.com/question/1889988818775566000)
+1. [西班牙为什么不吞并葡萄牙，却转而去攻占美洲大陆？](https://www.zhihu.com/question/8071954131)
+1. [你的家乡有哪些虫子美食？](https://www.zhihu.com/question/2071571255719892000)
+1. [国家叫停「速成车」，新国标落地将如何影响消费者购车？](https://www.zhihu.com/question/2071168780798055700)
 1. [最多落后28分！中国男篮热身赛惨败乌拉圭，赵嘉义17分，李弘权10+7，如何评价这场比赛？](https://www.zhihu.com/question/2072073429633726000)
 1. [河南教师清理双户口后常用户口因「虚假户口」被注销成黑户，警方同意重报但无法恢复，如何从法律角度解读？](https://www.zhihu.com/question/2071261939238545000)
 1. [不同科室的医生都有什么特别心爱的物品吗？](https://www.zhihu.com/question/820295078)
-1. [电影《奥德赛》，在诺兰的作品里，处于什么水平？](https://www.zhihu.com/question/2068703642505459200)
 1. [如何看论文破解了前沿模型的加密思维数据，以及Kimi K3 / GLM-5.2 是否蒸馏过前沿模型？](https://www.zhihu.com/question/2070813640966550500)
 1. [漫画的信息密度是不是低于文字小说？](https://www.zhihu.com/question/2052397049744831700)
 1. [懒惰是抗拒劳动还是抗拒社交压力？](https://www.zhihu.com/question/2065232307854874400)
@@ -285,10 +295,8 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [《寄生虫》里的豪宅，看起来没什么东西，豪在哪里？](https://www.zhihu.com/question/2070215170526279400)
 1. [美国汽车市场很难进入么？](https://www.zhihu.com/question/38065312)
 1. [假如你是开发者，你会给《我的世界》更新什么新东西？](https://www.zhihu.com/question/757237974)
-1. [西班牙为什么不吞并葡萄牙，却转而去攻占美洲大陆？](https://www.zhihu.com/question/8071954131)
 1. [为什么几千年来，人类一直在写爱而不得？](https://www.zhihu.com/question/2069199746720347400)
 1. [交流中自认较为严谨、有逻辑，但对方说“不就是想让我承认你是对的吗”，如何分析导致此种情形的原因？](https://www.zhihu.com/question/2071395504068604000)
-1. [你的家乡有哪些虫子美食？](https://www.zhihu.com/question/2071571255719892000)
 1. [年轻人第一套房是应该选择地段、配套稍完善的老小区二手房还是选择地段一般的新房？](https://www.zhihu.com/question/1899853593856684300)
 1. [历史上有哪些有名的“好心办坏事”的经典例子？](https://www.zhihu.com/question/28491239)
 1. [我们是不是把「不停忙碌」过度美化，低估了休息的价值？](https://www.zhihu.com/question/2071382010166359600)
