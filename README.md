@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-16 22:41:00
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-16 23:37:25
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -374,34 +374,38 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Sun Aug 16 2026 22:41:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 16 2026 23:37:25 GMT+0800 (China Standard Time) -->
 
 1. [朱镕基同志遗体18日火化 天安门等地将下半旗志哀](https://www.zhihu.com/question/2072330702507529924)
 1. [胖东来将闭门店现大排长龙，附近商贩说要跟着搬迁，为啥这么多年过去了胖东来的客户粘性还这么强？](https://www.zhihu.com/question/2072261517668344800)
+1. [“马云给你5亿元花呗额度”和“马化腾给你1亿q币”，只能要一个，你要哪个？](https://www.zhihu.com/question/2063350913864054300)
 1. [为什么国内无法观看IMAX 70mm 胶片版《奥德赛》？](https://www.zhihu.com/question/2064434098815374000)
 1. [同样是独栋，为什么北美的独栋都有完备的设施，但国内农村做不到？](https://www.zhihu.com/question/2071306248780255500)
 1. [《欢迎来龙餐馆》老扎为什么一直说菜咸了？有什么别的隐喻吗？](https://www.zhihu.com/question/2071658364904239900)
-1. [“马云给你5亿元花呗额度”和“马化腾给你1亿q币”，只能要一个，你要哪个？](https://www.zhihu.com/question/2063350913864054300)
 1. [旺旺被指太甜后连夜晒出无糖低糖新品，企业这一听劝的行为能自救吗？看完后你会购买吗？](https://www.zhihu.com/question/2072246554115536000)
 1. [乌克兰出现由日本人组成的战斗分队，与俄军作战，会对局势有哪些影响？日本未来会大规模介入俄乌冲突吗？](https://www.zhihu.com/question/2072370715114697000)
 1. [为什么越南和印度也开始发钱「催生」了？此举能有效解决人口问题带来的挑战吗？](https://www.zhihu.com/question/2070635312297121800)
-1. [在古代还没有毒品概念的时候，天然成瘾植物为何没有成为顶级香料？](https://www.zhihu.com/question/2068587429079020800)
+1. [2026WTT瑞典大满贯男单半决赛，张本智和4比3再胜松岛辉空，如何评价这场比赛？](https://www.zhihu.com/question/2072425043506865700)
 1. [李宗盛为什么口碑变差了?](https://www.zhihu.com/question/388993745)
 1. [研究称每天吃西红柿，6 周可显著减轻脂肪肝，是真的吗？怎么吃效果最好？](https://www.zhihu.com/question/2071202723014206700)
-1. [2026WTT瑞典大满贯男单半决赛，张本智和4比3再胜松岛辉空，如何评价这场比赛？](https://www.zhihu.com/question/2072425043506865700)
+1. [在古代还没有毒品概念的时候，天然成瘾植物为何没有成为顶级香料？](https://www.zhihu.com/question/2068587429079020800)
 1. [韩国总统李在明称房地产泡沫已不容忽视，韩国楼市现在泡沫严重吗？](https://www.zhihu.com/question/2071334965493682200)
 1. [如何评价《鸣潮美术设定集Vol.01》标准定价188元，能预测销量大概有多少吗？](https://www.zhihu.com/question/2071724295840064800)
-1. [如何看待《欢迎到龙餐馆》讲中东故事，却全程国内取景拍摄，手搓一座乱世下的中东城？](https://www.zhihu.com/question/2071533521441485000)
+1. [2026 WTT 瑞典大满贯，王艺迪 4-2 击败张本美和挺进决赛，如何评价这场比赛？](https://www.zhihu.com/question/2072398881665587000)
 1. [让孩子读《钢铁是怎样炼成的》是不是已经不适合这个时代了呢？](https://www.zhihu.com/question/1939757494105805800)
+1. [继小米YU7完成品类启蒙后，岚图追光S、智界RX接连入局，FUV这个市场到底有没有想象空间？](https://www.zhihu.com/question/2072291192566452200)
+1. [2026WTT瑞典大满贯，张本智和4-3逆转松岛辉空，挺进男单决赛，如何评价这场比赛？](https://www.zhihu.com/question/2072425230065317000)
+1. [西游记里是谁开的天?是盘古还是太上老君?](https://www.zhihu.com/question/667947422)
+1. [如何看待《欢迎到龙餐馆》讲中东故事，却全程国内取景拍摄，手搓一座乱世下的中东城？](https://www.zhihu.com/question/2071533521441485000)
 1. [如何看待起点现在一棒子打死ai，一点都不准用的行为？](https://www.zhihu.com/question/2069337193563398700)
 1. [人类从古至今有没有一本书的智慧跟境界超过道德经？](https://www.zhihu.com/question/386602005)
-1. [WTT 赛程过于密集，多位选手疲劳参赛，这类赛程会对运动员职业生涯带来哪些影响？](https://www.zhihu.com/question/2072020750333109500)
-1. [西游记里是谁开的天?是盘古还是太上老君?](https://www.zhihu.com/question/667947422)
+1. [如何评价红色警戒2的美术风格？](https://www.zhihu.com/question/568769078)
 1. [西安女子 3 万全款拿下宝鸡 40 平老房，你会入手这类「万元老破小」吗？这种低压力买房思路你认同吗？](https://www.zhihu.com/question/2070435156947462100)
 1. [说出两样你不怎么吃的食物？](https://www.zhihu.com/question/1896177163025237500)
-1. [不断进步，能治愈一切失意和自卑吗？](https://www.zhihu.com/question/1966257865464447000)
-1. [2026 WTT 瑞典大满贯，王艺迪 4-2 击败张本美和挺进决赛，如何评价这场比赛？](https://www.zhihu.com/question/2072398881665587000)
+1. [WTT 赛程过于密集，多位选手疲劳参赛，这类赛程会对运动员职业生涯带来哪些影响？](https://www.zhihu.com/question/2072020750333109500)
+1. [物理空间清洁和心理空间清洁有何关联？](https://www.zhihu.com/question/2067937937573126700)
 1. [如何看待 TI2026 小组赛瑞士轮三支中国队 XG、VG、TR全部出局？](https://www.zhihu.com/question/2072348076107372000)
+1. [不断进步，能治愈一切失意和自卑吗？](https://www.zhihu.com/question/1966257865464447000)
 1. [为什么中日韩三个国家长相非常类似语言却不属于同一个语系？](https://www.zhihu.com/question/289965734)
 1. [《影之刃零》定价标准版268￥豪华版328￥，和黑神话保持一致，如何看待这个定价？](https://www.zhihu.com/question/2070810902442532900)
 1. [怎么看待黑客发现用微型设备骇入波音737的方法？](https://www.zhihu.com/question/2071372994648205000)
@@ -432,7 +436,6 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [LPL2026赛季第三赛段组内赛BLG 2:0 WE，如何评价这场比赛？](https://www.zhihu.com/question/2072063189060150500)
 1. [如果条件允许的话，完全以矿泉水或纯净水作为日常饮用水好不好？](https://www.zhihu.com/question/32244325)
 1. [如何在半年内学会四大力学？](https://www.zhihu.com/question/320472762)
-1. [物理空间清洁和心理空间清洁有何关联？](https://www.zhihu.com/question/2067937937573126700)
 1. [纯数学研究者未来会被 AI 取代吗？](https://www.zhihu.com/question/2014665409727570700)
 1. [2026年WTT瑞典大满贯，张本美和 4-0 轻取陈熠晋级女单四强，怎么评价本场比赛？](https://www.zhihu.com/question/2072134899692311600)
 1. [一个先进外星文明拿到地球的一颗完整但孤立的CPU会怎样?](https://www.zhihu.com/question/2070934624273011000)
