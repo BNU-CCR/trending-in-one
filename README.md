@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-16 17:44:42
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-16 18:42:41
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -308,7 +308,7 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Sun Aug 16 2026 17:44:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 16 2026 18:42:41 GMT+0800 (China Standard Time) -->
 
 1. [朱镕基同志遗体18日火化 天安门等地将下半旗志哀](https://www.zhihu.com/question/2072330702507529924)
 1. [如何看待《欢迎到龙餐馆》讲中东故事，却全程国内取景拍摄，手搓一座乱世下的中东城？](https://www.zhihu.com/question/2071533521441485000)
@@ -317,24 +317,30 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [为什么国内无法观看IMAX 70mm 胶片版《奥德赛》？](https://www.zhihu.com/question/2064434098815374000)
 1. [曝追觅大家电解散，多位供应商反馈欠款无法讨要回，消息可靠吗？追觅这是发生什么了？](https://www.zhihu.com/question/2072220047544513500)
 1. [榜一大哥打赏女主播超千万求交往，遭拒后起诉其诈骗，如何从法律角度解读？](https://www.zhihu.com/question/2072076213984518400)
+1. [如何看待 TI2026 小组赛瑞士轮三支中国队 XG、VG、TR全部出局？](https://www.zhihu.com/question/2072348076107372000)
 1. [怎么看澎湃 OS4 正式采用 Flutter + Rust 对系统进行性能和内存优化？](https://www.zhihu.com/question/2071904280957694500)
 1. [如何看待胖东来招聘刑释人员的公告被质疑处理不当？](https://www.zhihu.com/question/2072055535537316900)
-1. [同样是独栋，为什么北美的独栋都有完备的设施，但国内农村做不到？](https://www.zhihu.com/question/2071306248780255500)
 1. [李宗盛为什么口碑变差了?](https://www.zhihu.com/question/388993745)
-1. [如何看待 TI2026 小组赛瑞士轮三支中国队 XG、VG、TR全部出局？](https://www.zhihu.com/question/2072348076107372000)
-1. [Anthropic Q2营收逾115亿美元，同比增14倍，是何引爆了其业绩，大模型商业化成功了？](https://www.zhihu.com/question/2071916942760342500)
-1. [在古代还没有毒品概念的时候，天然成瘾植物为何没有成为顶级香料？](https://www.zhihu.com/question/2068587429079020800)
+1. [同样是独栋，为什么北美的独栋都有完备的设施，但国内农村做不到？](https://www.zhihu.com/question/2071306248780255500)
 1. [《影之刃零》定价标准版268￥豪华版328￥，和黑神话保持一致，如何看待这个定价？](https://www.zhihu.com/question/2070810902442532900)
-1. [旺旺被指最大竞争对手是糖，网友集体呼吁旺旺减糖，这样真能救旺旺吗？传统食品行业正面临哪些挑战？](https://www.zhihu.com/question/2071910735857333500)
-1. [新番《尼古喵喵》描绘颓废猫娘引发争议，该作是写实神作还是价值观劝退番？](https://www.zhihu.com/question/2065486161745860000)
+1. [旺旺被指太甜后连夜晒出无糖低糖新品，企业这一听劝的行为能自救吗？看完后你会购买吗？](https://www.zhihu.com/question/2072246554115536000)
+1. [在古代还没有毒品概念的时候，天然成瘾植物为何没有成为顶级香料？](https://www.zhihu.com/question/2068587429079020800)
+1. [怎么看待黑客发现用微型设备骇入波音737的方法？](https://www.zhihu.com/question/2071372994648205000)
 1. [中国体操运动管理中心发表抵制「饭圈」声明，体操圈最近是有什么事发生吗，体操也有饭圈？](https://www.zhihu.com/question/2070879796272133600)
-1. [曾经爆火的洞洞鞋遇冷，Crocs 联合瑞幸推出近六百元洞洞鞋，二手平台半价出售，高价洞洞鞋卖不动了吗？](https://www.zhihu.com/question/2070889441451939300)
+1. [浮岛敏带领u17国足连续拿下亚洲杯亚军和上海冠军杯冠军，为什么还是每天被质疑水平不够被球迷要求下课？](https://www.zhihu.com/question/2069872232961253600)
+1. [Anthropic Q2营收逾115亿美元，同比增14倍，是何引爆了其业绩，大模型商业化成功了？](https://www.zhihu.com/question/2071916942760342500)
 1. [西游记里是谁开的天?是盘古还是太上老君?](https://www.zhihu.com/question/667947422)
-1. [为什么成绩好的学霸大多数都是早熟者？](https://www.zhihu.com/question/2058865477712196600)
-1. [陕西为什么叫“陕西”，而不叫“天东”、“巴北”或“鄂南”呢？](https://www.zhihu.com/question/1908464657242514000)
+1. [曾经爆火的洞洞鞋遇冷，Crocs 联合瑞幸推出近六百元洞洞鞋，二手平台半价出售，高价洞洞鞋卖不动了吗？](https://www.zhihu.com/question/2070889441451939300)
+1. [薛宝钗哪个行为让你特别的尴尬？宝钗在红楼梦里说话做的事，会让人看书的人都感觉特别尴尬？](https://www.zhihu.com/question/1988200808395851000)
 1. [家里六岁男孩，一遇到不顺自己心意的事就哭得很伤心，不完全是撒泼胡闹，该如何帮助引导孩子？](https://www.zhihu.com/question/2010380052173444400)
 1. [如何评价中国政法大学 26 级法硕被曝隐瞒消息临时变更研究生宿舍？](https://www.zhihu.com/question/2071954116969080300)
-1. [浮岛敏带领u17国足连续拿下亚洲杯亚军和上海冠军杯冠军，为什么还是每天被质疑水平不够被球迷要求下课？](https://www.zhihu.com/question/2069872232961253600)
+1. [如果能重新设计规培制度，你会提出哪些改进建议？](https://www.zhihu.com/question/2061774960398439700)
+1. [新番《尼古喵喵》描绘颓废猫娘引发争议，该作是写实神作还是价值观劝退番？](https://www.zhihu.com/question/2065486161745860000)
+1. [为什么成绩好的学霸大多数都是早熟者？](https://www.zhihu.com/question/2058865477712196600)
+1. [陕西为什么叫“陕西”，而不叫“天东”、“巴北”或“鄂南”呢？](https://www.zhihu.com/question/1908464657242514000)
+1. [既然知道生存那么艰辛，为什么还要努力去读大学？还不如直接简简单单过一生，岂不是更好？](https://www.zhihu.com/question/2062951193102529500)
+1. [广州 11 岁男孩暑假在景点为游客拍照，月收入一千多，直言「拍照比刷题好玩」，这种暑假实践适合孩子吗？](https://www.zhihu.com/question/2070926273820489000)
+1. [旺旺被指最大竞争对手是糖，网友集体呼吁旺旺减糖，这样真能救旺旺吗？传统食品行业正面临哪些挑战？](https://www.zhihu.com/question/2071910735857333500)
 1. [LPL2026赛季第三赛段组内赛BLG 2:0 WE，如何评价这场比赛？](https://www.zhihu.com/question/2072063189060150500)
 1. [如果条件允许的话，完全以矿泉水或纯净水作为日常饮用水好不好？](https://www.zhihu.com/question/32244325)
 1. [如何在半年内学会四大力学？](https://www.zhihu.com/question/320472762)
@@ -400,7 +406,6 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [有哪些不论你多难过，听后也会笑出声的笑话？](https://www.zhihu.com/question/53815952)
 1. [「婚外胚胎案」涉事医院更新建档告示牌，须提供身份证、结婚证原件及政务平台等辅佐证明，能真正解决问题吗？](https://www.zhihu.com/question/2070643101362647600)
 1. [《一饭封神 2》中谢霆锋直言「糖拌西红柿不能拿来比赛」，你认同吗？](https://www.zhihu.com/question/2071601306246932200)
-1. [广州 11 岁男孩暑假在景点为游客拍照，月收入一千多，直言「拍照比刷题好玩」，这种暑假实践适合孩子吗？](https://www.zhihu.com/question/2070926273820489000)
 1. [如何评价电视剧《重器》中律师李乡被抓事件？](https://www.zhihu.com/question/2070876212935783400)
 1. [为什么心脑血管疾病越来越年轻化？](https://www.zhihu.com/question/464534137)
 1. [为什么说马拉多纳的「上帝之手」经典？](https://www.zhihu.com/question/28529388)
