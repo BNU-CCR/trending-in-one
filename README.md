@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-16 11:15:30
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-16 12:02:55
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -213,34 +213,41 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Sun Aug 16 2026 11:15:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 16 2026 12:02:55 GMT+0800 (China Standard Time) -->
 
 1. [网友称吃寿司郎遇到邻桌光脚踩水龙头，服务员拒绝当面消毒，门店的行为有问题吗？](https://www.zhihu.com/question/2071653716847850500)
-1. [河南教师清理双户口后常用户口因「虚假户口」被注销成黑户，警方同意重报但无法恢复，如何从法律角度解读？](https://www.zhihu.com/question/2071261939238545000)
-1. [如何看待《欢迎到龙餐馆》讲中东故事，却全程国内取景拍摄，手搓一座乱世下的中东城？](https://www.zhihu.com/question/2071533521441485000)
-1. [DeepSeek-V4-Pro-0813已发布，体验下来怎么样？](https://www.zhihu.com/question/2071619812795609300)
 1. [2026年WTT瑞典大满贯，张本美和 4-0 轻取陈熠晋级女单四强，怎么评价本场比赛？](https://www.zhihu.com/question/2072134899692311600)
+1. [如何看待《欢迎到龙餐馆》讲中东故事，却全程国内取景拍摄，手搓一座乱世下的中东城？](https://www.zhihu.com/question/2071533521441485000)
+1. [河南教师清理双户口后常用户口因「虚假户口」被注销成黑户，警方同意重报但无法恢复，如何从法律角度解读？](https://www.zhihu.com/question/2071261939238545000)
 1. [西安女子 3 万全款拿下宝鸡 40 平老房，你会入手这类「万元老破小」吗？这种低压力买房思路你认同吗？](https://www.zhihu.com/question/2070435156947462100)
-1. [一个先进外星文明拿到地球的一颗完整但孤立的CPU会怎样?](https://www.zhihu.com/question/2070934624273011000)
 1. [最多落后28分！中国男篮热身赛惨败乌拉圭，赵嘉义17分，李弘权10+7，如何评价这场比赛？](https://www.zhihu.com/question/2072073429633726000)
-1. [如何评价《原神》7.0中的“楚古诺夫”？](https://www.zhihu.com/question/2071532873841108200)
+1. [一个先进外星文明拿到地球的一颗完整但孤立的CPU会怎样?](https://www.zhihu.com/question/2070934624273011000)
 1. [广东上线「Token贷」，银行以企业Token消耗、业务订单等作为授信核心依据，如何看待这一创新模式？](https://www.zhihu.com/question/2071648717074069200)
-1. [准高三生看完《奥本海默》后深感自己平庸，该如何接受与顶尖天才的差距？](https://www.zhihu.com/question/2071135275296858600)
+1. [如何评价《原神》7.0中的“楚古诺夫”？](https://www.zhihu.com/question/2071532873841108200)
 1. [醉鹅娘涉嫌走私遭起诉，年销3.5亿的网红品牌，为何走到刑事公诉这一步？醉鹅娘可能面临什么？](https://www.zhihu.com/question/2070904107477333200)
+1. [准高三生看完《奥本海默》后深感自己平庸，该如何接受与顶尖天才的差距？](https://www.zhihu.com/question/2071135275296858600)
+1. [DeepSeek-V4-Pro-0813已发布，体验下来怎么样？](https://www.zhihu.com/question/2071619812795609300)
 1. [旺旺被指最大竞争对手是糖，网友集体呼吁旺旺减糖，这样真能救旺旺吗？传统食品行业正面临哪些挑战？](https://www.zhihu.com/question/2071910735857333500)
 1. [国家叫停「速成车」，新国标落地将如何影响消费者购车？](https://www.zhihu.com/question/2071168780798055700)
-1. [年轻人第一套房是应该选择地段、配套稍完善的老小区二手房还是选择地段一般的新房？](https://www.zhihu.com/question/1899853593856684300)
-1. [曾经爆火的洞洞鞋遇冷，Crocs 联合瑞幸推出近六百元洞洞鞋，二手平台半价出售，高价洞洞鞋卖不动了吗？](https://www.zhihu.com/question/2070889441451939300)
 1. [不同科室的医生都有什么特别心爱的物品吗？](https://www.zhihu.com/question/820295078)
-1. [历史正剧为什么越拍越少？](https://www.zhihu.com/question/2063591493500134400)
+1. [曾经爆火的洞洞鞋遇冷，Crocs 联合瑞幸推出近六百元洞洞鞋，二手平台半价出售，高价洞洞鞋卖不动了吗？](https://www.zhihu.com/question/2070889441451939300)
 1. [家里六岁男孩，一遇到不顺自己心意的事就哭得很伤心，不完全是撒泼胡闹，该如何帮助引导孩子？](https://www.zhihu.com/question/2010380052173444400)
-1. [你的家乡有哪些虫子美食？](https://www.zhihu.com/question/2071571255719892000)
 1. [电视剧「蜗居」里的宋思明权力那么大，为什么没把海藻安排进体制内？](https://www.zhihu.com/question/2070543205620258000)
 1. [如果条件允许的话，完全以矿泉水或纯净水作为日常饮用水好不好？](https://www.zhihu.com/question/32244325)
+1. [历史正剧为什么越拍越少？](https://www.zhihu.com/question/2063591493500134400)
+1. [你的家乡有哪些虫子美食？](https://www.zhihu.com/question/2071571255719892000)
+1. [年轻人第一套房是应该选择地段、配套稍完善的老小区二手房还是选择地段一般的新房？](https://www.zhihu.com/question/1899853593856684300)
+1. [于东来称胖东来首批刑释职工30人无一离职，如何评价这一招聘计划的实际效果？其他企业能效仿吗？](https://www.zhihu.com/question/2071985681274855700)
+1. [历史上有哪些有名的“好心办坏事”的经典例子？](https://www.zhihu.com/question/28491239)
+1. [为什么很多人都更讨厌侯亮平？](https://www.zhihu.com/question/1966554579329090000)
+1. [我们是不是把「不停忙碌」过度美化，低估了休息的价值？](https://www.zhihu.com/question/2071382010166359600)
+1. [孩子很懒，不做家务。家长该如何做才能让孩子勤快起来呢？](https://www.zhihu.com/question/2070275974965547500)
+1. [如何自制午餐肉？](https://www.zhihu.com/question/333824653)
+1. [我出家为僧，还能当二次元吗？](https://www.zhihu.com/question/2068671545833154300)
+1. [为啥感觉麻辣烫越来越贵，而自助小火锅却在越卷越便宜？同样是汤煮菜，为啥会出现这样的差异？](https://www.zhihu.com/question/2067711801098069800)
 1. [如何评价安妮·海瑟薇、伊万·麦克格雷格主演的惊悚电影《逃出绝命街》？](https://www.zhihu.com/question/2071192151078221800)
 1. [王羲之有没有真迹存世？](https://www.zhihu.com/question/49959803)
 1. [作为喜剧天花板，现在的沈腾，相当于当年的周星驰吗？](https://www.zhihu.com/question/2070242061299758300)
-1. [于东来称胖东来首批刑释职工30人无一离职，如何评价这一招聘计划的实际效果？其他企业能效仿吗？](https://www.zhihu.com/question/2071985681274855700)
 1. [SK 集团崔泰源警告 2027 年大概率会是存储芯片供应缺口最大的一年，内存、硬盘还要持续涨价吗？](https://www.zhihu.com/question/2071746265390506500)
 1. [自卑是培养出来的吗？何谓「培养」？如何反制？](https://www.zhihu.com/question/2034238633830503700)
 1. [如果唐僧取经的最后一关是吃肉，他该不该破戒？](https://www.zhihu.com/question/2066194278695563500)
@@ -261,9 +268,7 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [电影《奥德赛》，在诺兰的作品里，处于什么水平？](https://www.zhihu.com/question/2068703642505459200)
 1. [如何看待段永平「我敢抱着茅台跟任何基金赌一个亿」的言论？](https://www.zhihu.com/question/2071536115983410400)
 1. [有哪些不论你多难过，听后也会笑出声的笑话？](https://www.zhihu.com/question/53815952)
-1. [孩子很懒，不做家务。家长该如何做才能让孩子勤快起来呢？](https://www.zhihu.com/question/2070275974965547500)
 1. [懒惰是抗拒劳动还是抗拒社交压力？](https://www.zhihu.com/question/2065232307854874400)
-1. [历史上有哪些有名的“好心办坏事”的经典例子？](https://www.zhihu.com/question/28491239)
 1. [「婚外胚胎案」涉事医院更新建档告示牌，须提供身份证、结婚证原件及政务平台等辅佐证明，能真正解决问题吗？](https://www.zhihu.com/question/2070643101362647600)
 1. [《一饭封神 2》中谢霆锋直言「糖拌西红柿不能拿来比赛」，你认同吗？](https://www.zhihu.com/question/2071601306246932200)
 1. [广州 11 岁男孩暑假在景点为游客拍照，月收入一千多，直言「拍照比刷题好玩」，这种暑假实践适合孩子吗？](https://www.zhihu.com/question/2070926273820489000)
