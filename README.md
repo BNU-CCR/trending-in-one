@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-17 21:55:14
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-17 22:47:53
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -395,31 +395,39 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Mon Aug 17 2026 21:55:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 17 2026 22:47:53 GMT+0800 (China Standard Time) -->
 
-1. [胖东来被涨租逼走，为啥它不直接涨入驻商户的租金来平摊？这一权衡背后有啥考量吗？](https://www.zhihu.com/question/2072622434356652000)
 1. [比亚迪国内销量骤降 35.6%，吉利重启销冠之争，如何看待新能源汽车市场竞争格局？](https://www.zhihu.com/question/2071644037833135000)
-1. [为什么现在小区车位，越来越卖不动了？](https://www.zhihu.com/question/2050150582917259800)
+1. [胖东来被涨租逼走，为啥它不直接涨入驻商户的租金来平摊？这一权衡背后有啥考量吗？](https://www.zhihu.com/question/2072622434356652000)
+1. [9岁女童确诊性早熟，骨龄超实际年龄近3岁，长期大量摄入高碳水、经常熬夜是主要原因吗？怎样预防性早熟？](https://www.zhihu.com/question/2067878677702866400)
+1. [一个每天要喝8杯血的吸血鬼，需要多大的贵族头衔与封地才能养活自己？](https://www.zhihu.com/question/2072526379137213400)
 1. [为什么才短短两三年，AI就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？](https://www.zhihu.com/question/2061136311206073600)
-1. [新规明确厨余垃圾不能直接喂猪，背后出于什么考量？会带来哪些影响？](https://www.zhihu.com/question/2072615174142255400)
-1. [DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？](https://www.zhihu.com/question/2072598571090539000)
 1. [多地严查社保缴纳，要求提高夯实率，有职员反映工资被下调，该如何理解？](https://www.zhihu.com/question/2071533345910022700)
 1. [蔚来武汉换电站资产全面转由国资持有，其背后的商业考量是什么？](https://www.zhihu.com/question/2070987118307029800)
-1. [9岁女童确诊性早熟，骨龄超实际年龄近3岁，长期大量摄入高碳水、经常熬夜是主要原因吗？怎样预防性早熟？](https://www.zhihu.com/question/2067878677702866400)
-1. [辣条业务已不足卫龙总营收三分之一，卫龙的辣条卖不动了吗？蔬菜制品收入大涨，反映了品牌哪些趋势？](https://www.zhihu.com/question/2072225642448249000)
-1. [伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？](https://www.zhihu.com/question/2072617673721226000)
+1. [DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？](https://www.zhihu.com/question/2072598571090539000)
 1. [《欢迎来龙餐馆》中，为什么所有对主角徐福好的人都死了？](https://www.zhihu.com/question/2071900200952665600)
-1. [吴艳妮以 13 秒 12 夺得全锦赛女子 100 米栏冠军，成就三连冠和六冠王，如何评价她的表现？](https://www.zhihu.com/question/2072440886320019500)
+1. [新规明确厨余垃圾不能直接喂猪，背后出于什么考量？会带来哪些影响？](https://www.zhihu.com/question/2072615174142255400)
+1. [伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？](https://www.zhihu.com/question/2072617673721226000)
 1. [如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕？](https://www.zhihu.com/question/2072607943191696600)
+1. [为什么拿破仑非常厉害？厉害在哪里？厉害在炮兵吗？](https://www.zhihu.com/question/1897758885521126000)
+1. [吴艳妮以 13 秒 12 夺得全锦赛女子 100 米栏冠军，成就三连冠和六冠王，如何评价她的表现？](https://www.zhihu.com/question/2072440886320019500)
+1. [有研究表示伟哥成分「西地那非」或能抑制癌细胞转移扩散，距离真正用于临床癌症治疗还差什么？](https://www.zhihu.com/question/2070200885368420000)
+1. [如何看待 2026 年 8 月 17 日 A 股市场行情？逾 4300 只股上涨，A 股的牛要来了吗？](https://www.zhihu.com/question/2072617977044849700)
+1. [辣条业务已不足卫龙总营收三分之一，卫龙的辣条卖不动了吗？蔬菜制品收入大涨，反映了品牌哪些趋势？](https://www.zhihu.com/question/2072225642448249000)
+1. [为什么现在小区车位，越来越卖不动了？](https://www.zhihu.com/question/2050150582917259800)
 1. [为什么我国人民接触不到俄罗斯的汽车？](https://www.zhihu.com/question/26465203)
+1. [如何看待追觅卖出首台 AURORA 手机，售价超 20 万元？靠高奢定制切入手机赛道可行吗？](https://www.zhihu.com/question/2071642621957747200)
 1. [「世界容得下 C919 与波音、空客一起飞」，如何看待国产大飞机与国际巨头的市场竞争？](https://www.zhihu.com/question/2071263332770771700)
+1. [WBG 无缘 LPL 第三赛段骑士之路，主教练厂长承认负主责，他们队伍存在哪些问题？](https://www.zhihu.com/question/2072630886235730200)
+1. [考军校为父母省学费好吗？](https://www.zhihu.com/question/658293501)
 1. [把家庭照片全部存在硬盘上，真的比存某网盘安全吗？会不会硬盘突然暴毙？](https://www.zhihu.com/question/2067206788550808800)
 1. [原神7.0至冬上线了，大家觉得怎么样？](https://www.zhihu.com/question/2071669370590336800)
-1. [考军校为父母省学费好吗？](https://www.zhihu.com/question/658293501)
-1. [如何看待追觅卖出首台 AURORA 手机，售价超 20 万元？靠高奢定制切入手机赛道可行吗？](https://www.zhihu.com/question/2071642621957747200)
-1. [如何看待 2026 年 8 月 17 日 A 股市场行情？逾 4300 只股上涨，A 股的牛要来了吗？](https://www.zhihu.com/question/2072617977044849700)
-1. [Opencode Go也涨价了，哪里还有便宜DeepSeek ？](https://www.zhihu.com/question/2072487733474359000)
+1. [如何评价《异环》1.3版本的剧情？](https://www.zhihu.com/question/2071188431926047500)
+1. [C罗主动在专访中表示“这大概会是我职业生涯的最后一年”，对此你怎么看？](https://www.zhihu.com/question/2072504377168991700)
+1. [AI泡沫会在今年或者明年破裂吗，为什么？](https://www.zhihu.com/question/2063294189954250800)
 1. [读书到底改变了什么？是眼界还是谋生能力？](https://www.zhihu.com/question/2069429095558074600)
+1. [李宗盛为什么口碑变差了?](https://www.zhihu.com/question/388993745)
+1. [Opencode Go也涨价了，哪里还有便宜DeepSeek ？](https://www.zhihu.com/question/2072487733474359000)
 1. [作为中国第一大城市的上海，为什么境内的高速服务区都很小很旧？](https://www.zhihu.com/question/2068397611896279800)
 1. [为什么说“围棋已死”而没有“象棋已死”的说法？](https://www.zhihu.com/question/624290604)
 1. [诺兰在影史上的地位会超越斯皮尔伯格和马丁斯科塞斯吗？](https://www.zhihu.com/question/620380333)
@@ -451,7 +459,6 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [为什么商朝有大量甲骨文，更早的夏朝却没有发现同时期的成熟文字？](https://www.zhihu.com/question/2070538537720715300)
 1. [清朝男子打架会拽辫子吗？](https://www.zhihu.com/question/305243987)
 1. [猫能知道人为什么打“它”吗？](https://www.zhihu.com/question/2068681744778367000)
-1. [李宗盛为什么口碑变差了?](https://www.zhihu.com/question/388993745)
 1. [电影《欢迎来龙餐馆》中有哪些剧情和设计戳到你？](https://www.zhihu.com/question/2071629653404554200)
 1. [林肯号仅连续部署8个多月，为何就出现精神崩溃、斗殴、跳海等事件？](https://www.zhihu.com/question/2072591633506374000)
 1. [官方通报传销头目出狱办书院，涉事书院被关停、3人被刑拘，还有其他违法犯罪线索被发现，哪些信息值得关注？](https://www.zhihu.com/question/2072417954453354500)
