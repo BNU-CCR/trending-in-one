@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-17 16:05:30
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-17 17:03:36
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -293,35 +293,40 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Mon Aug 17 2026 16:05:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 17 2026 17:03:36 GMT+0800 (China Standard Time) -->
 
 1. [东莞 17 亿元全额付款土地被无偿收回，官方公告称已解除出让合同，怎样从法律角度解读？](https://www.zhihu.com/question/2072365745934005200)
 1. [女儿交了一个保洁员家庭的朋友，我该不该“适度引导”？](https://www.zhihu.com/question/2070952313695555800)
 1. [比亚迪国内销量骤降 35.6%，吉利重启销冠之争，如何看待新能源汽车市场竞争格局？](https://www.zhihu.com/question/2071644037833135000)
-1. [摩根大通警告明年或爆发全球粮食危机，食品通胀率将从2.8%升至5%，粮价会大涨吗？会对国内有影响吗？](https://www.zhihu.com/question/2072359611483382500)
 1. [胖东来被涨租逼走，为啥它不直接涨入驻商户的租金来平摊？这一权衡背后有啥考量吗？](https://www.zhihu.com/question/2072622434356652000)
+1. [为什么才短短两三年，AI就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？](https://www.zhihu.com/question/2061136311206073600)
 1. [多地严查社保缴纳，要求提高夯实率，有职员反映工资被下调，该如何理解？](https://www.zhihu.com/question/2071533345910022700)
 1. [为什么说“围棋已死”而没有“象棋已死”的说法？](https://www.zhihu.com/question/624290604)
-1. [为什么才短短两三年，AI就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？](https://www.zhihu.com/question/2061136311206073600)
 1. [DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？](https://www.zhihu.com/question/2072598571090539000)
+1. [蔚来武汉换电站资产全面转由国资持有，其背后的商业考量是什么？](https://www.zhihu.com/question/2070987118307029800)
 1. [辣条业务已不足卫龙总营收三分之一，卫龙的辣条卖不动了吗？蔬菜制品收入大涨，反映了品牌哪些趋势？](https://www.zhihu.com/question/2072225642448249000)
 1. [伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？](https://www.zhihu.com/question/2072617673721226000)
+1. [摩根大通警告明年或爆发全球粮食危机，食品通胀率将从2.8%升至5%，粮价会大涨吗？会对国内有影响吗？](https://www.zhihu.com/question/2072359611483382500)
 1. [吴艳妮以 13 秒 12 夺得全锦赛女子 100 米栏冠军，成就三连冠和六冠王，如何评价她的表现？](https://www.zhihu.com/question/2072440886320019500)
 1. [“行”是走路，“李”是水果，为什么“行李”这个词却是“出行带的物品”？](https://www.zhihu.com/question/2072309362715006000)
 1. [苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？](https://www.zhihu.com/question/2072595818725336600)
-1. [蔚来武汉换电站资产全面转由国资持有，其背后的商业考量是什么？](https://www.zhihu.com/question/2070987118307029800)
-1. [DeepSeek Harness有什么好用的插件？](https://www.zhihu.com/question/2071617281214378200)
-1. [神之瞳在这么显眼的地方，旅行者拿走了，当地人就没什么反应吗？](https://www.zhihu.com/question/2071034313991254300)
 1. [新规明确厨余垃圾不能直接喂猪，背后出于什么考量？会带来哪些影响？](https://www.zhihu.com/question/2072615174142255400)
+1. [如何看待 2026 年 8 月 17 日 A 股市场行情？逾 4300 只股上涨，A 股的牛要来了吗？](https://www.zhihu.com/question/2072617977044849700)
+1. [神之瞳在这么显眼的地方，旅行者拿走了，当地人就没什么反应吗？](https://www.zhihu.com/question/2071034313991254300)
 1. [全球炼油中心陆续停摆，华尔街预警「成品油风暴」来临，对此你怎么看，美国会成全球油价稳定节点？](https://www.zhihu.com/question/2071933627873617200)
 1. [《反网络暴力法》将要出台，大家认为具体实施内容可能是什么？这会产生什么影响？](https://www.zhihu.com/question/2067018609931695000)
+1. [DeepSeek Harness有什么好用的插件？](https://www.zhihu.com/question/2071617281214378200)
 1. [为什么我国人民接触不到俄罗斯的汽车？](https://www.zhihu.com/question/26465203)
-1. [为什么有同学放弃了北大清华，选择了复旦？](https://www.zhihu.com/question/12468633436)
+1. [《马卡报》称 C 罗婚前协议规定若离婚乔治娜每月获 10 万欧，婚前协议是保障还是束缚？](https://www.zhihu.com/question/2072023971785077200)
+1. [《欢迎来龙餐馆》中，为什么所有对主角徐福好的人都死了？](https://www.zhihu.com/question/2071900200952665600)
+1. [9岁女童确诊性早熟，骨龄超实际年龄近3岁，长期大量摄入高碳水、经常熬夜是主要原因吗？怎样预防性早熟？](https://www.zhihu.com/question/2067878677702866400)
 1. [为什么商朝有大量甲骨文，更早的夏朝却没有发现同时期的成熟文字？](https://www.zhihu.com/question/2070538537720715300)
-1. [清朝男子打架会拽辫子吗？](https://www.zhihu.com/question/305243987)
-1. [猫能知道人为什么打“它”吗？](https://www.zhihu.com/question/2068681744778367000)
-1. [把家庭照片全部存在硬盘上，真的比存某网盘安全吗？会不会硬盘突然暴毙？](https://www.zhihu.com/question/2067206788550808800)
 1. [为什么现在小区车位，越来越卖不动了？](https://www.zhihu.com/question/2050150582917259800)
+1. [把家庭照片全部存在硬盘上，真的比存某网盘安全吗？会不会硬盘突然暴毙？](https://www.zhihu.com/question/2067206788550808800)
+1. [清朝男子打架会拽辫子吗？](https://www.zhihu.com/question/305243987)
+1. [考驾照的过程中，你明白了哪些在其他事情上也适用的人生道理？](https://www.zhihu.com/question/2065447455198598100)
+1. [为什么有同学放弃了北大清华，选择了复旦？](https://www.zhihu.com/question/12468633436)
+1. [猫能知道人为什么打“它”吗？](https://www.zhihu.com/question/2068681744778367000)
 1. [李宗盛为什么口碑变差了?](https://www.zhihu.com/question/388993745)
 1. [为什么广式肠粉在非广府地区火不起来？](https://www.zhihu.com/question/5024577615)
 1. [电影《欢迎来龙餐馆》中有哪些剧情和设计戳到你？](https://www.zhihu.com/question/2071629653404554200)
