@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-18 11:10:18
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-18 12:00:18
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -207,30 +207,41 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Tue Aug 18 2026 11:10:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 18 2026 12:00:18 GMT+0800 (China Standard Time) -->
 
 1. [如何评价刚刚开源的Qwen3.8-27B？](https://www.zhihu.com/question/2071739761476293000)
-1. [有研究表示伟哥成分「西地那非」或能抑制癌细胞转移扩散，距离真正用于临床癌症治疗还差什么？](https://www.zhihu.com/question/2070200885368420000)
 1. [如何看待瑞幸七夕联名小众情侣 IP 陷争议，被指画风撞款多部日漫且被吐槽给陌生人随份子钱，官方仍合作？](https://www.zhihu.com/question/2072637486740632600)
+1. [有研究表示伟哥成分「西地那非」或能抑制癌细胞转移扩散，距离真正用于临床癌症治疗还差什么？](https://www.zhihu.com/question/2070200885368420000)
 1. [特斯拉为什么不上新车型，不配置冰箱彩电大沙发？](https://www.zhihu.com/question/2065004542933067300)
-1. [有人打 12345 投诉夜间月光过亮影响睡觉，还有人要求政府联系明星给自己过生日，此类要求如何处理？](https://www.zhihu.com/question/2072650616367853800)
-1. [男篮热身赛，中国队77比84不敌新西兰，如何评价本场比赛？男篮遭遇热身赛两连败，问题出在哪里？](https://www.zhihu.com/question/2072808195915872000)
 1. [美伊战争第6个月，为什么航母的水兵先撑不住了？](https://www.zhihu.com/question/2071509878875615700)
-1. [《射雕英雄传》中林朝英那么痴心，为什么感动不了王重阳？](https://www.zhihu.com/question/379961070)
+1. [有人打 12345 投诉夜间月光过亮影响睡觉，还有人要求政府联系明星给自己过生日，此类要求如何处理？](https://www.zhihu.com/question/2072650616367853800)
+1. [如何评价《原神》新角色薇斯纳立绘？](https://www.zhihu.com/question/2072655542170955800)
 1. [《欢迎来龙餐馆》中徐福救下 23 个孩子这一桥段，是不是有点过于理想化了？](https://www.zhihu.com/question/2072342392380905200)
+1. [男篮热身赛，中国队77比84不敌新西兰，如何评价本场比赛？男篮遭遇热身赛两连败，问题出在哪里？](https://www.zhihu.com/question/2072808195915872000)
+1. [博主爆料 TI15 已经日薪 280 请人暖场，为什么享受纯粹高水平游戏较量的观众这么少？](https://www.zhihu.com/question/2072631801164424200)
 1. [当章子怡、郝蕾等同代演员纷纷减产，秦海璐今年却佳作不断，原因是什么？该如何评价她的演技与演艺成就？](https://www.zhihu.com/question/2044191556152866800)
 1. [「宝宝水」在母婴市场走红，宣传「低钠淡矿无菌」适合婴幼儿，这是刚需还是智商税？婴幼儿需要饮用特殊水吗？](https://www.zhihu.com/question/2072684358503248400)
-1. [DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？](https://www.zhihu.com/question/2072103596481683700)
+1. [如何评价《海贼王》漫画最新的第1191话情报？](https://www.zhihu.com/question/2072913624373511200)
 1. [一台当下最顶尖的电脑能用几年?](https://www.zhihu.com/question/617114261)
+1. [DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？](https://www.zhihu.com/question/2072103596481683700)
 1. [为什么现在小区车位，越来越卖不动了？](https://www.zhihu.com/question/2050150582917259800)
+1. [宇树科技发布机器人「超人」，腿长 0.85 米，超越人类原地跳高和奔跑速度纪录，有哪些技术亮点？](https://www.zhihu.com/question/2072693901802958800)
 1. [地球的哪些资源在目前已知的宇宙里属于稀罕物？](https://www.zhihu.com/question/2059467655065625600)
-1. [AI泡沫会在今年或者明年破裂吗，为什么？](https://www.zhihu.com/question/2063294189954250800)
-1. [为什么哈利波特不把他每次遇到的坏人都直接用“阿瓦达索命”干掉?](https://www.zhihu.com/question/476686211)
-1. [卤肉里面加入什么香料可以增香去腥？](https://www.zhihu.com/question/300429428)
-1. [2026年羽毛球世锦赛，石宇奇1：2不敌阿尤什止步男单64强，怎么评价这一场对决？](https://www.zhihu.com/question/2072803747886114000)
-1. [把家庭照片全部存在硬盘上，真的比存某网盘安全吗？会不会硬盘突然暴毙？](https://www.zhihu.com/question/2067206788550808800)
+1. [招商蛇口高管涉嫌酒局伤害女性被刑拘，有哪些信息值得关注？](https://www.zhihu.com/question/2072862065841198800)
+1. [顺风车司机中途离车「失联」，女孩车内暴晒 2 小时向家人求救，暴露出顺风车服务哪些问题？](https://www.zhihu.com/question/2072760692617077800)
+1. [怎么和领导提想要提拔的想法?](https://www.zhihu.com/question/1942414610423608600)
+1. [《射雕英雄传》中林朝英那么痴心，为什么感动不了王重阳？](https://www.zhihu.com/question/379961070)
 1. [为什么广式肠粉在非广府地区火不起来？](https://www.zhihu.com/question/5024577615)
 1. [拿到驾照第一年上高速，副驾必须坐三年老司机，这个规定合理吗？](https://www.zhihu.com/question/2069553185765725700)
+1. [把家庭照片全部存在硬盘上，真的比存某网盘安全吗？会不会硬盘突然暴毙？](https://www.zhihu.com/question/2067206788550808800)
+1. [为什么哈利波特不把他每次遇到的坏人都直接用“阿瓦达索命”干掉?](https://www.zhihu.com/question/476686211)
+1. [不放心把小孩给老人带怎么办？](https://www.zhihu.com/question/2071248808319751700)
+1. [全球炼油中心陆续停摆，华尔街预警「成品油风暴」来临，对此你怎么看，美国会成全球油价稳定节点？](https://www.zhihu.com/question/2071933627873617200)
+1. [为什么古代中国里没有诞生像《伊利亚特》这样的长篇史诗？](https://www.zhihu.com/question/9383116898)
+1. [炫神山泥若连麦曝 Bin 疑似不想打比赛了，这对他的职业生涯意味着什么？](https://www.zhihu.com/question/2071620148323264300)
+1. [AI泡沫会在今年或者明年破裂吗，为什么？](https://www.zhihu.com/question/2063294189954250800)
+1. [卤肉里面加入什么香料可以增香去腥？](https://www.zhihu.com/question/300429428)
+1. [2026年羽毛球世锦赛，石宇奇1：2不敌阿尤什止步男单64强，怎么评价这一场对决？](https://www.zhihu.com/question/2072803747886114000)
 1. [爱一个人和依赖一个人，心理学上有什么区别？](https://www.zhihu.com/question/2069198733837874700)
 1. [《马卡报》称 C 罗婚前协议规定若离婚乔治娜每月获 10 万欧，婚前协议是保障还是束缚？](https://www.zhihu.com/question/2072023971785077200)
 1. [明知人生不止考公考研两条路，但还是不可避免的想要尝试，有人和我有同感吗？该怎么调节这种心态？](https://www.zhihu.com/question/2072640853072246000)
@@ -257,7 +268,6 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [胖东来被涨租逼走，为啥它不直接涨入驻商户的租金来平摊？这一权衡背后有啥考量吗？](https://www.zhihu.com/question/2072622434356652000)
 1. [为什么才短短两三年，AI就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？](https://www.zhihu.com/question/2061136311206073600)
 1. [怎样把茄子炒的好吃，油还不多呢？](https://www.zhihu.com/question/1945624743987353600)
-1. [为什么古代中国里没有诞生像《伊利亚特》这样的长篇史诗？](https://www.zhihu.com/question/9383116898)
 1. [民法后面多了一个「典」意味着什么 ？这部法典为什么对每个人都如此重要 ？](https://www.zhihu.com/question/395884606)
 1. [原神7.0至冬上线了，大家觉得怎么样？](https://www.zhihu.com/question/2071669370590336800)
 1. [如何看待 2026 年 8 月 17 日 A 股市场行情？逾 4300 只股上涨，发生了什么？](https://www.zhihu.com/question/2072617977044849700)
