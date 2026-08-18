@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-18 07:38:46
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-18 09:52:52
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -156,35 +156,47 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Tue Aug 18 2026 07:38:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 18 2026 09:52:52 GMT+0800 (China Standard Time) -->
 
 1. [如何评价刚刚开源的Qwen3.8-27B？](https://www.zhihu.com/question/2071739761476293000)
 1. [有研究表示伟哥成分「西地那非」或能抑制癌细胞转移扩散，距离真正用于临床癌症治疗还差什么？](https://www.zhihu.com/question/2070200885368420000)
-1. [如何看待王曼昱瑞典大满贯冠军？](https://www.zhihu.com/question/2072589729363764000)
 1. [如何看待瑞幸七夕联名小众情侣 IP 陷争议，被指画风撞款多部日漫且被吐槽给陌生人随份子钱，官方仍合作？](https://www.zhihu.com/question/2072637486740632600)
 1. [特斯拉为什么不上新车型，不配置冰箱彩电大沙发？](https://www.zhihu.com/question/2065004542933067300)
+1. [《射雕英雄传》中林朝英那么痴心，为什么感动不了王重阳？](https://www.zhihu.com/question/379961070)
 1. [美伊战争第6个月，为什么航母的水兵先撑不住了？](https://www.zhihu.com/question/2071509878875615700)
-1. [比亚迪国内销量骤降 35.6%，吉利重启销冠之争，如何看待新能源汽车市场竞争格局？](https://www.zhihu.com/question/2071644037833135000)
-1. [DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？](https://www.zhihu.com/question/2072103596481683700)
-1. [为什么现在小区车位，越来越卖不动了？](https://www.zhihu.com/question/2050150582917259800)
-1. [AI泡沫会在今年或者明年破裂吗，为什么？](https://www.zhihu.com/question/2063294189954250800)
-1. [伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？](https://www.zhihu.com/question/2072617673721226000)
+1. [男篮热身赛，中国队77比84不敌新西兰，如何评价本场比赛？男篮遭遇热身赛两连败，问题出在哪里？](https://www.zhihu.com/question/2072808195915872000)
+1. [2026年羽毛球世锦赛，石宇奇1：2不敌阿尤什止步男单64强，怎么评价这一场对决？](https://www.zhihu.com/question/2072803747886114000)
+1. [有人打 12345 投诉夜间月光过亮影响睡觉，还有人要求政府联系明星给自己过生日，此类要求如何处理？](https://www.zhihu.com/question/2072650616367853800)
 1. [如何看待追觅卖出首台 AURORA 手机，售价超 20 万元？靠高奢定制切入手机赛道可行吗？](https://www.zhihu.com/question/2071642621957747200)
+1. [DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？](https://www.zhihu.com/question/2072103596481683700)
+1. [AI泡沫会在今年或者明年破裂吗，为什么？](https://www.zhihu.com/question/2063294189954250800)
+1. [如何看待王曼昱瑞典大满贯冠军？](https://www.zhihu.com/question/2072589729363764000)
 1. [当章子怡、郝蕾等同代演员纷纷减产，秦海璐今年却佳作不断，原因是什么？该如何评价她的演技与演艺成就？](https://www.zhihu.com/question/2044191556152866800)
+1. [爱一个人和依赖一个人，心理学上有什么区别？](https://www.zhihu.com/question/2069198733837874700)
+1. [有哪些惊艳你的影视剧台词？](https://www.zhihu.com/question/657007877)
+1. [《欢迎来龙餐馆》中徐福救下 23 个孩子这一桥段，是不是有点过于理想化了？](https://www.zhihu.com/question/2072342392380905200)
+1. [卤肉里面加入什么香料可以增香去腥？](https://www.zhihu.com/question/300429428)
+1. [为什么现在小区车位，越来越卖不动了？](https://www.zhihu.com/question/2050150582917259800)
+1. [为什么哈利波特不把他每次遇到的坏人都直接用“阿瓦达索命”干掉?](https://www.zhihu.com/question/476686211)
 1. [为什么我国人民接触不到俄罗斯的汽车？](https://www.zhihu.com/question/26465203)
+1. [把家庭照片全部存在硬盘上，真的比存某网盘安全吗？会不会硬盘突然暴毙？](https://www.zhihu.com/question/2067206788550808800)
+1. [多地严查社保缴纳，要求提高夯实率，有职员反映工资被下调，该如何理解？](https://www.zhihu.com/question/2071533345910022700)
+1. [如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕？](https://www.zhihu.com/question/2072607943191696600)
+1. [「世界容得下 C919 与波音、空客一起飞」，如何看待国产大飞机与国际巨头的市场竞争？](https://www.zhihu.com/question/2071263332770771700)
+1. [C罗主动在专访中表示“这大概会是我职业生涯的最后一年”，对此你怎么看？](https://www.zhihu.com/question/2072504377168991700)
+1. [为什么广式肠粉在非广府地区火不起来？](https://www.zhihu.com/question/5024577615)
+1. [拿到驾照第一年上高速，副驾必须坐三年老司机，这个规定合理吗？](https://www.zhihu.com/question/2069553185765725700)
+1. [大家讨论下，古法编程真的要消失了么？](https://www.zhihu.com/question/2067930819897964500)
+1. [频繁地记录自己真的能改变吗？](https://www.zhihu.com/question/2016941742419616500)
+1. [比亚迪国内销量骤降 35.6%，吉利重启销冠之争，如何看待新能源汽车市场竞争格局？](https://www.zhihu.com/question/2071644037833135000)
+1. [伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？](https://www.zhihu.com/question/2072617673721226000)
 1. [新规明确厨余垃圾不能直接喂猪，背后出于什么考量？会带来哪些影响？](https://www.zhihu.com/question/2072615174142255400)
 1. [吴艳妮以 13 秒 12 夺得全锦赛女子 100 米栏冠军，成就三连冠和六冠王，如何评价她的表现？](https://www.zhihu.com/question/2072440886320019500)
 1. [李宗盛为什么口碑变差了?](https://www.zhihu.com/question/388993745)
 1. [小说《金瓶梅》中，为什么武大郎对张大户忍气吞声，却对西门庆感到愤怒？](https://www.zhihu.com/question/40904469)
-1. [为什么哈利波特不把他每次遇到的坏人都直接用“阿瓦达索命”干掉?](https://www.zhihu.com/question/476686211)
-1. [「世界容得下 C919 与波音、空客一起飞」，如何看待国产大飞机与国际巨头的市场竞争？](https://www.zhihu.com/question/2071263332770771700)
 1. [胖东来被涨租逼走，为啥它不直接涨入驻商户的租金来平摊？这一权衡背后有啥考量吗？](https://www.zhihu.com/question/2072622434356652000)
 1. [为什么才短短两三年，AI就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？](https://www.zhihu.com/question/2061136311206073600)
-1. [把家庭照片全部存在硬盘上，真的比存某网盘安全吗？会不会硬盘突然暴毙？](https://www.zhihu.com/question/2067206788550808800)
 1. [怎样把茄子炒的好吃，油还不多呢？](https://www.zhihu.com/question/1945624743987353600)
-1. [如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕？](https://www.zhihu.com/question/2072607943191696600)
-1. [为什么广式肠粉在非广府地区火不起来？](https://www.zhihu.com/question/5024577615)
-1. [C罗主动在专访中表示“这大概会是我职业生涯的最后一年”，对此你怎么看？](https://www.zhihu.com/question/2072504377168991700)
 1. [为什么古代中国里没有诞生像《伊利亚特》这样的长篇史诗？](https://www.zhihu.com/question/9383116898)
 1. [民法后面多了一个「典」意味着什么 ？这部法典为什么对每个人都如此重要 ？](https://www.zhihu.com/question/395884606)
 1. [原神7.0至冬上线了，大家觉得怎么样？](https://www.zhihu.com/question/2071669370590336800)
@@ -205,7 +217,6 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [蔚来武汉换电站资产全面转由国资持有，其背后的商业考量是什么？](https://www.zhihu.com/question/2070987118307029800)
 1. [《欢迎来龙餐馆》中，为什么所有对主角徐福好的人都死了？](https://www.zhihu.com/question/2071900200952665600)
 1. [一个每天要喝8杯血的吸血鬼，需要多大的贵族头衔与封地才能养活自己？](https://www.zhihu.com/question/2072526379137213400)
-1. [多地严查社保缴纳，要求提高夯实率，有职员反映工资被下调，该如何理解？](https://www.zhihu.com/question/2071533345910022700)
 1. [辣条业务已不足卫龙总营收三分之一，卫龙的辣条卖不动了吗？蔬菜制品收入大涨，反映了品牌哪些趋势？](https://www.zhihu.com/question/2072225642448249000)
 1. [为什么拿破仑非常厉害？厉害在哪里？厉害在炮兵吗？](https://www.zhihu.com/question/1897758885521126000)
 1. [马斯克的最新采访中，说到未来工作会成为可选项。到那时人该如何安置自己？](https://www.zhihu.com/question/2071906562340295400)
