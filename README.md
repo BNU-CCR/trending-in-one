@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-20 04:47:15
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-20 05:43:24
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -50,61 +50,62 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Thu Aug 20 2026 03:54:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 20 2026 04:58:55 GMT+0800 (China Standard Time) -->
 
 1. [海军中将赵晓哲院士被工程院“除名”](https://so.toutiao.com/search?keyword=海军中将赵晓哲院士被工程院“除名”)
 1. [美国制裁赤根智子 日本网民炸锅](https://so.toutiao.com/search?keyword=美国制裁赤根智子%20日本网民炸锅)
 1. [激发下沉市场活力 这几点值得期待](https://so.toutiao.com/search?keyword=激发下沉市场活力%20这几点值得期待)
-1. [10台摩托车组团冲卡上高速 1人死亡](https://so.toutiao.com/search?keyword=10台摩托车组团冲卡上高速%201人死亡)
-1. [高管接私活赚千万被发现后全捐公司](https://so.toutiao.com/search?keyword=高管接私活赚千万被发现后全捐公司)
-1. [朱雀三号成功回收](https://so.toutiao.com/search?keyword=朱雀三号成功回收)
-1. [男子因12字评论被错误拘留5天案后续](https://so.toutiao.com/search?keyword=男子因12字评论被错误拘留5天案后续)
 1. [人民日报：腐败案“两个80%”的警示](https://so.toutiao.com/search?keyword=人民日报：腐败案“两个80%”的警示)
+1. [10台摩托车组团冲卡上高速 1人死亡](https://so.toutiao.com/search?keyword=10台摩托车组团冲卡上高速%201人死亡)
+1. [95后新郎把婚前房子财产全给了新娘](https://so.toutiao.com/search?keyword=95后新郎把婚前房子财产全给了新娘)
+1. [中央巡查组怒斥企业连糊弄都懒得糊弄](https://so.toutiao.com/search?keyword=中央巡查组怒斥企业连糊弄都懒得糊弄)
+1. [官方通报笔试前13名淘汰倒数5名逆袭](https://so.toutiao.com/search?keyword=官方通报笔试前13名淘汰倒数5名逆袭)
 1. [北大报到日校园满是扛床垫的爸](https://so.toutiao.com/search?keyword=北大报到日校园满是扛床垫的爸)
-1. [博主：乌导弹撕裂俄航天工业命脉](https://so.toutiao.com/search?keyword=博主：乌导弹撕裂俄航天工业命脉)
+1. [朱雀三号成功回收](https://so.toutiao.com/search?keyword=朱雀三号成功回收)
 1. [涉汛谣言大起底](https://so.toutiao.com/search?keyword=涉汛谣言大起底)
 1. [那英身材管理好牛](https://so.toutiao.com/search?keyword=那英身材管理好牛)
-1. [香港打击非法卖淫9名内地女子被捕](https://so.toutiao.com/search?keyword=香港打击非法卖淫9名内地女子被捕)
 1. [李梦：第一次当蜘蛛侠还有点不习惯](https://so.toutiao.com/search?keyword=李梦：第一次当蜘蛛侠还有点不习惯)
-1. [刘亦菲携爱犬登上时尚芭莎九月刊](https://so.toutiao.com/search?keyword=刘亦菲携爱犬登上时尚芭莎九月刊)
-1. [中国实现火箭陆地回收 外媒反应来了](https://so.toutiao.com/search?keyword=中国实现火箭陆地回收%20外媒反应来了)
-1. [博主：美国财政部开始下场救市了](https://so.toutiao.com/search?keyword=博主：美国财政部开始下场救市了)
-1. [王兴兴身家超千亿 拿下90后新首富](https://so.toutiao.com/search?keyword=王兴兴身家超千亿%20拿下90后新首富)
-1. [“龙餐馆”走红谁又“破防”了](https://so.toutiao.com/search?keyword=“龙餐馆”走红谁又“破防”了)
-1. [乌克兰最大腐败案继续扩散](https://so.toutiao.com/search?keyword=乌克兰最大腐败案继续扩散)
-1. [胖东来招聘不包含性侵犯罪人员](https://so.toutiao.com/search?keyword=胖东来招聘不包含性侵犯罪人员)
-1. [95后新郎把婚前房子财产全给了新娘](https://so.toutiao.com/search?keyword=95后新郎把婚前房子财产全给了新娘)
-1. [广西一村庄为11名准大学生办升学礼](https://so.toutiao.com/search?keyword=广西一村庄为11名准大学生办升学礼)
-1. [中联部邀日本议员访华？外交部回应](https://so.toutiao.com/search?keyword=中联部邀日本议员访华？外交部回应)
+1. [香港打击非法卖淫9名内地女子被捕](https://so.toutiao.com/search?keyword=香港打击非法卖淫9名内地女子被捕)
 1. [25年前辽宁一处长被枪击案重启侦查](https://so.toutiao.com/search?keyword=25年前辽宁一处长被枪击案重启侦查)
+1. [中国实现火箭陆地回收 外媒反应来了](https://so.toutiao.com/search?keyword=中国实现火箭陆地回收%20外媒反应来了)
+1. [老人别把“没力气”当正常衰老](https://so.toutiao.com/search?keyword=老人别把“没力气”当正常衰老)
+1. [王兴兴身家超千亿 拿下90后新首富](https://so.toutiao.com/search?keyword=王兴兴身家超千亿%20拿下90后新首富)
+1. [博主：美国财政部开始下场救市了](https://so.toutiao.com/search?keyword=博主：美国财政部开始下场救市了)
+1. [大学生一个月给多少生活费合适](https://so.toutiao.com/search?keyword=大学生一个月给多少生活费合适)
+1. [胖东来招聘不包含性侵犯罪人员](https://so.toutiao.com/search?keyword=胖东来招聘不包含性侵犯罪人员)
+1. [“龙餐馆”走红谁又“破防”了](https://so.toutiao.com/search?keyword=“龙餐馆”走红谁又“破防”了)
+1. [高管接私活赚千万被发现后全捐公司](https://so.toutiao.com/search?keyword=高管接私活赚千万被发现后全捐公司)
+1. [刘亦菲携爱犬登上时尚芭莎九月刊](https://so.toutiao.com/search?keyword=刘亦菲携爱犬登上时尚芭莎九月刊)
+1. [博主：乌导弹撕裂俄航天工业命脉](https://so.toutiao.com/search?keyword=博主：乌导弹撕裂俄航天工业命脉)
+1. [中联部邀日本议员访华？外交部回应](https://so.toutiao.com/search?keyword=中联部邀日本议员访华？外交部回应)
 1. [王毅：中韩是持久的合作伙伴](https://so.toutiao.com/search?keyword=王毅：中韩是持久的合作伙伴)
 1. [男子七夕送“有钱花”一路被拍](https://so.toutiao.com/search?keyword=男子七夕送“有钱花”一路被拍)
-1. [大学生一个月给多少生活费合适](https://so.toutiao.com/search?keyword=大学生一个月给多少生活费合适)
-1. [中央巡查组怒斥企业连糊弄都懒得糊弄](https://so.toutiao.com/search?keyword=中央巡查组怒斥企业连糊弄都懒得糊弄)
-1. [老人别把“没力气”当正常衰老](https://so.toutiao.com/search?keyword=老人别把“没力气”当正常衰老)
-1. [邵永灵：李在明迎来“死亡交叉”](https://so.toutiao.com/search?keyword=邵永灵：李在明迎来“死亡交叉”)
-1. [美国一女子直接在警车前吸食冰毒](https://so.toutiao.com/search?keyword=美国一女子直接在警车前吸食冰毒)
-1. [官方通报笔试前13名淘汰倒数5名逆袭](https://so.toutiao.com/search?keyword=官方通报笔试前13名淘汰倒数5名逆袭)
-1. [清华今年录取4000余名学生](https://so.toutiao.com/search?keyword=清华今年录取4000余名学生)
-1. [媒体评男子立遗嘱财产给弟弟不给妻儿](https://so.toutiao.com/search?keyword=媒体评男子立遗嘱财产给弟弟不给妻儿)
-1. [美军林肯号航母之乱背后](https://so.toutiao.com/search?keyword=美军林肯号航母之乱背后)
 1. [量大腿能知道自己有没有糖尿病吗](https://so.toutiao.com/search?keyword=量大腿能知道自己有没有糖尿病吗)
-1. [中方回应马来西亚总理涉台表态](https://so.toutiao.com/search?keyword=中方回应马来西亚总理涉台表态)
-1. [上海警方回应父子遭球迷围堵嘲讽](https://so.toutiao.com/search?keyword=上海警方回应父子遭球迷围堵嘲讽)
+1. [乌克兰最大腐败案继续扩散](https://so.toutiao.com/search?keyword=乌克兰最大腐败案继续扩散)
 1. [女孩买空座放零食大姐想坐遭拒](https://so.toutiao.com/search?keyword=女孩买空座放零食大姐想坐遭拒)
-1. [女记者骑机器马逛机器人大会](https://so.toutiao.com/search?keyword=女记者骑机器马逛机器人大会)
+1. [160亿美债拍卖为何震动全球金融市场](https://so.toutiao.com/search?keyword=160亿美债拍卖为何震动全球金融市场)
+1. [邵永灵：李在明迎来“死亡交叉”](https://so.toutiao.com/search?keyword=邵永灵：李在明迎来“死亡交叉”)
+1. [男子立遗嘱财产给弟弟不给妻儿引纷争](https://so.toutiao.com/search?keyword=男子立遗嘱财产给弟弟不给妻儿引纷争)
+1. [男子因12字评论被错误拘留5天案后续](https://so.toutiao.com/search?keyword=男子因12字评论被错误拘留5天案后续)
+1. [博主：俄军改变战术大量使用温压弹](https://so.toutiao.com/search?keyword=博主：俄军改变战术大量使用温压弹)
+1. [媒体评男子立遗嘱财产给弟弟不给妻儿](https://so.toutiao.com/search?keyword=媒体评男子立遗嘱财产给弟弟不给妻儿)
+1. [上海警方回应父子遭球迷围堵嘲讽](https://so.toutiao.com/search?keyword=上海警方回应父子遭球迷围堵嘲讽)
 1. [美国长期国债收益率为什么持续新高](https://so.toutiao.com/search?keyword=美国长期国债收益率为什么持续新高)
-1. [河北卡友称进山西就得睡半小时午觉](https://so.toutiao.com/search?keyword=河北卡友称进山西就得睡半小时午觉)
+1. [媒体：请放过一个努力的蓝发女孩](https://so.toutiao.com/search?keyword=媒体：请放过一个努力的蓝发女孩)
+1. [上海地铁预计平均每人次将贵1元左右](https://so.toutiao.com/search?keyword=上海地铁预计平均每人次将贵1元左右)
+1. [广西一村庄为11名准大学生办升学礼](https://so.toutiao.com/search?keyword=广西一村庄为11名准大学生办升学礼)
+1. [美国一女子直接在警车前吸食冰毒](https://so.toutiao.com/search?keyword=美国一女子直接在警车前吸食冰毒)
+1. [清华今年录取4000余名学生](https://so.toutiao.com/search?keyword=清华今年录取4000余名学生)
 1. [贵州一村庄升学宴“瘦身”](https://so.toutiao.com/search?keyword=贵州一村庄升学宴“瘦身”)
 1. [12家券商集体“下注”宇树科技](https://so.toutiao.com/search?keyword=12家券商集体“下注”宇树科技)
-1. [160亿美债拍卖为何震动全球金融市场](https://so.toutiao.com/search?keyword=160亿美债拍卖为何震动全球金融市场)
-1. [男子立遗嘱财产给弟弟不给妻儿引纷争](https://so.toutiao.com/search?keyword=男子立遗嘱财产给弟弟不给妻儿引纷争)
+1. [美军林肯号航母之乱背后](https://so.toutiao.com/search?keyword=美军林肯号航母之乱背后)
 1. [媒体：天津还能重回巅峰吗](https://so.toutiao.com/search?keyword=媒体：天津还能重回巅峰吗)
+1. [河北卡友称进山西就得睡半小时午觉](https://so.toutiao.com/search?keyword=河北卡友称进山西就得睡半小时午觉)
+1. [女记者骑机器马逛机器人大会](https://so.toutiao.com/search?keyword=女记者骑机器马逛机器人大会)
+1. [中方回应马来西亚总理涉台表态](https://so.toutiao.com/search?keyword=中方回应马来西亚总理涉台表态)
 1. [曝徐昕正运作出国打球](https://so.toutiao.com/search?keyword=曝徐昕正运作出国打球)
-1. [媒体：请放过一个努力的蓝发女孩](https://so.toutiao.com/search?keyword=媒体：请放过一个努力的蓝发女孩)
 1. [乌克兰防空陷入越打越亏死循环](https://so.toutiao.com/search?keyword=乌克兰防空陷入越打越亏死循环)
 1. [媒体人：机器人正在从好看走向好用](https://so.toutiao.com/search?keyword=媒体人：机器人正在从好看走向好用)
-1. [博主：俄军改变战术大量使用温压弹](https://so.toutiao.com/search?keyword=博主：俄军改变战术大量使用温压弹)
 1. [俄外长警告英国](https://so.toutiao.com/search?keyword=俄外长警告英国)
 1. [仿生机器人“以假乱真”](https://so.toutiao.com/search?keyword=仿生机器人“以假乱真”)
 1. [女生墨尔本街头翻唱遇袁娅维加入](https://so.toutiao.com/search?keyword=女生墨尔本街头翻唱遇袁娅维加入)
@@ -123,7 +124,7 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Thu Aug 20 2026 04:42:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 20 2026 05:38:13 GMT+0800 (China Standard Time) -->
 
 1. [网红小家电集体吃灰](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E5%B0%8F%E5%AE%B6%E7%94%B5%E9%9B%86%E4%BD%93%E5%90%83%E7%81%B0)
 1. [招商蛇口高管涉酒局伤害女性被刑拘](https://www.zhihu.com/search?q=%E6%8B%9B%E5%95%86%E8%9B%87%E5%8F%A3%E9%AB%98%E7%AE%A1%E6%B6%89%E9%85%92%E5%B1%80%E4%BC%A4%E5%AE%B3%E5%A5%B3%E6%80%A7%E8%A2%AB%E5%88%91%E6%8B%98)
@@ -147,34 +148,35 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Thu Aug 20 2026 04:47:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 20 2026 05:43:24 GMT+0800 (China Standard Time) -->
 
 1. [佛山通报「教师招聘笔试后5名进体检」，区教育局局长、副局长被立案调查，将重新面试，哪些信息值得关注？](https://www.zhihu.com/question/2073462270726595000)
-1. [韩媒曝韩国足协曾性贿赂 3 名中国足协人士，中国足协回应已展开调查，哪些信息值得关注？](https://www.zhihu.com/question/2073393499173384200)
 1. [两人买三张票空座放零食，站票乘客想入座，列车员称无法强制协调，你觉得该让座吗？两人买三座算浪费资源吗？](https://www.zhihu.com/question/2073342342912795100)
-1. [DeepSeek Harness轻松破了GitHub记录，它能引发一场什么革命？](https://www.zhihu.com/question/2072997638685864200)
-1. [宇树上市后，创始人身家超 1300 亿成90后首富，23 名员工成千万富豪，如何看待宇树的造富神话？](https://www.zhihu.com/question/2073357057869050000)
+1. [韩媒曝韩国足协曾性贿赂 3 名中国足协人士，中国足协回应已展开调查，哪些信息值得关注？](https://www.zhihu.com/question/2073393499173384200)
 1. [王星案跨境人口贩卖集团 17 名犯罪嫌疑人被提起公诉，涉嫌拐卖妇女罪、绑架罪等，他们将面临怎样的判罚？](https://www.zhihu.com/question/2073441150375917600)
 1. [大家真的认为华为发现的叫做韬定律的工程方法，之前的芯片厂商发现不了吗？](https://www.zhihu.com/question/2042381537686151400)
+1. [DeepSeek Harness轻松破了GitHub记录，它能引发一场什么革命？](https://www.zhihu.com/question/2072997638685864200)
 1. [固态电池真的那么完美吗？](https://www.zhihu.com/question/667470607)
+1. [美国财政部宣布扩大长期名义国债回购规模，带动 30 年期收益率快速回落，能够扭转本轮全球债市抛售吗？](https://www.zhihu.com/question/2073513409581146400)
 1. [反诈老陈称线上收入难以维持生活，将线下求职，他的转型困境反映了哪些问题？](https://www.zhihu.com/question/2073385154072897000)
 1. [产出多部爆款电视剧的张若昀，为什么到了电影圈就不灵了？](https://www.zhihu.com/question/2071591158199931000)
-1. [美国财政部宣布扩大长期名义国债回购规模，带动 30 年期收益率快速回落，能够扭转本轮全球债市抛售吗？](https://www.zhihu.com/question/2073513409581146400)
 1. [美政府拟要求各方「不得同时加入美中的 AI 生态系统」，中方回应坚决反对搞选边站队，此举会有哪些影响？](https://www.zhihu.com/question/2073432540069863700)
 1. [全球长债遭抛售，30 年期美债收益率升破 5.3%，创 2007 年以来新高，将如何影响全球经济？](https://www.zhihu.com/question/2073187251438227500)
-1. [如何评价起点中文网大量下榜万均 AI 作品的行为？这一举措对网文行业后续发展有何影响？](https://www.zhihu.com/question/2073053088156595000)
-1. [如何看待8月19日长江存储完成IPO辅导验收，「最快速度」冲刺A股？](https://www.zhihu.com/question/2073377944123204900)
 1. [上海地铁涨价听证方案公布，同步推出计次票，两种方案平均每人次票价提高 1 元左右，怎样看待这两种方案？](https://www.zhihu.com/question/2073500550092546800)
+1. [如何看待8月19日长江存储完成IPO辅导验收，「最快速度」冲刺A股？](https://www.zhihu.com/question/2073377944123204900)
 1. [四月时，说预计下半年昇腾950超节点批量上市后，deepseek的价格会大幅下调，这个预计还算数吗？](https://www.zhihu.com/question/2071697998657106200)
+1. [如何评价起点中文网大量下榜万均 AI 作品的行为？这一举措对网文行业后续发展有何影响？](https://www.zhihu.com/question/2073053088156595000)
 1. [德国男子因在租用的房屋厕所安装淋浴间被政府强制拆除，当地政府以「过于豪华」为由，为何会有如此规定？](https://www.zhihu.com/question/2072730357598774500)
+1. [宇树上市后，创始人身家超 1300 亿成90后首富，23 名员工成千万富豪，如何看待宇树的造富神话？](https://www.zhihu.com/question/2073357057869050000)
 1. [热门餐厅免费排号成黄牛牟利新赛道，有人5天赚40万，专家称无法精准打击，为什么？现行法律存在哪些漏洞？](https://www.zhihu.com/question/2073144175378133500)
 1. [如何看待山东聊城「父亲当街脚踹女儿，路人制止反被定罪」一案？](https://www.zhihu.com/question/2072452521260476000)
 1. [转转回收 RTX5090 仅报 1.3 万元引网友热议，二手平台定价是否合理？](https://www.zhihu.com/question/2072656350430115800)
 1. [我奔跑的时候拿着手电筒向前射出一束光，那这束光的速度是不是相对地面超过了光速？](https://www.zhihu.com/question/1944101549795153400)
 1. [能考上清华北大的，智商是不是比常人高？](https://www.zhihu.com/question/21025762)
 1. [武汉一程序员坚持5年远距离通勤，每日往返150公里通勤5小时，称想「多陪陪妻女」，你会这样选择吗？](https://www.zhihu.com/question/2073355037305316600)
-1. [电车自驾游睡车上引发热议，反对者主要出于哪些考虑？](https://www.zhihu.com/question/2071172037243049200)
 1. [上海一考生中考 700 分放弃市重点选择中本贯通，中本贯通具有什么竞争优势？如何看待这一选择？](https://www.zhihu.com/question/2063294236733313500)
+1. [电车自驾游睡车上引发热议，反对者主要出于哪些考虑？](https://www.zhihu.com/question/2071172037243049200)
+1. [女子隆胸术后一周查出怀孕五周，认为医院术前检查不到位要求退款，院方予以拒绝，如何从法律角度解读？](https://www.zhihu.com/question/2071567464362676200)
 1. [如果皮蓬不是跟乔丹同一队，他的职业天花板会是怎么样的？](https://www.zhihu.com/question/1922565593762080800)
 1. [凡人修仙传中最天才的是谁？](https://www.zhihu.com/question/12458004268)
 1. [孩子资质普通，该偏向快乐放养还是鸡娃刷题竞争？](https://www.zhihu.com/question/2071523010956337400)
@@ -183,7 +185,6 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [上海2026社保基数下限调整为7546元/月，平均工资首次突破12500元大关，哪些信息值得关注？](https://www.zhihu.com/question/2073315945364156400)
 1. [朱雀三号副总设计师称，蓝箭提升发射能力的瓶颈是「菜就多练」，如何看待这一回应？](https://www.zhihu.com/question/2073338206083404500)
 1. [胖东来再招聘刑释人员的「刑期五年以上」门槛引质疑，这在法律上是什么程度？如何平衡社会责任与公众担忧？](https://www.zhihu.com/question/2073379443104538600)
-1. [女子隆胸术后一周查出怀孕五周，认为医院术前检查不到位要求退款，院方予以拒绝，如何从法律角度解读？](https://www.zhihu.com/question/2071567464362676200)
 1. [新三国笑点最密集的一集是哪个？](https://www.zhihu.com/question/1949615854615533600)
 
 <!-- END ZHIHUQUESTIONS -->
