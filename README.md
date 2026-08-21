@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-21 22:55:26
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-21 23:50:33
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -431,27 +431,38 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Fri Aug 21 2026 22:55:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 21 2026 23:50:33 GMT+0800 (China Standard Time) -->
 
 1. [如何看待一位口腔科医生自述未给无活动性出血患者验血，患者两天后脑出血死亡，自己则被起诉漏诊？](https://www.zhihu.com/question/2073452582614332200)
 1. [怎么评价 DeepSeek-V4-Flash-Vision-Exp 发布，多模态能力表现如何？](https://www.zhihu.com/question/2074181821978376000)
-1. [柯洁称找到了破解围棋AI的方法，只需要装弱智哪怕让AI九子也能赢，这招可行吗？是什么原理？](https://www.zhihu.com/question/2073421689262532000)
 1. [铁路部门通报「两人买三张票空座放零食事件」，称空座为未检票旅客座位，另两人不能占用，哪些信息值得关注？](https://www.zhihu.com/question/2074241643339675400)
+1. [如何看待8月21日市场监管总局公告9家车企（特斯拉，小米，小鹏等）因车门紧急拉手不醒目召回多款汽车？](https://www.zhihu.com/question/2074215531071148300)
 1. [台风「美莎克」致广西两地 159 人遇难 10 人失联，哪些信息值得关注？](https://www.zhihu.com/question/2074104395411584800)
 1. [问界儿童车开启预售，售价 15800，如何评价其市场竞争力？](https://www.zhihu.com/question/2074138107566191400)
-1. [什么科学发现起初看似无用，但后来证明非常重要？](https://www.zhihu.com/question/349247935)
+1. [柯洁称找到了破解围棋AI的方法，只需要装弱智哪怕让AI九子也能赢，这招可行吗？是什么原理？](https://www.zhihu.com/question/2073421689262532000)
 1. [北京理工大学、南京航空航天大学等多所名校新校区搬到县城，去县城读名校是捡漏还是踩坑？会影响学生发展吗？](https://www.zhihu.com/question/2074111696277337600)
 1. [花椒的味道那么奇怪，为什么古代最高级别的宠爱会叫“椒房之宠”呢？](https://www.zhihu.com/question/2045496595798553900)
-1. [如何看待8月21日市场监管总局公告9家车企（特斯拉，小米，小鹏等）因车门紧急拉手不醒目召回多款汽车？](https://www.zhihu.com/question/2074215531071148300)
+1. [什么科学发现起初看似无用，但后来证明非常重要？](https://www.zhihu.com/question/349247935)
 1. [如何看待千万粉丝网红「桃黑黑」发长文称将离开互联网一段时间？](https://www.zhihu.com/question/2073490726688482800)
 1. [为什么感觉三角洲越来越没意思了？](https://www.zhihu.com/question/2070144802373506000)
-1. [华为发布全球首款阔直板手机，此前被曝定价 6000-7000 元，你看好其市场前景吗？](https://www.zhihu.com/question/2073122669688533500)
 1. [MMORPG游戏《诡秘之主》开服一小时同时在线破70万，这游戏玩起来怎么样？](https://www.zhihu.com/question/2074104012740347400)
-1. [被录到俄语专业了，有没有可能让我迷恋上的俄语文化和人物？](https://www.zhihu.com/question/2071071147865776600)
+1. [华为发布全球首款阔直板手机，此前被曝定价 6000-7000 元，你看好其市场前景吗？](https://www.zhihu.com/question/2073122669688533500)
+1. [相声名家田立禾去世，享年91岁，你对他有哪些记忆？](https://www.zhihu.com/question/2074145890470552600)
 1. [曝 iPhone17 系列国内销量超 4000 万，为何消费者仍青睐苹果？](https://www.zhihu.com/question/2072772413494973700)
 1. [为什么分手后，大脑常常放大美好回忆，却淡化当初决定离开的原因？](https://www.zhihu.com/question/2072666413798576400)
+1. [被录到俄语专业了，有没有可能让我迷恋上的俄语文化和人物？](https://www.zhihu.com/question/2071071147865776600)
+1. [哪部文学作品中的友情曾深刻改变你对朋友的看法？](https://www.zhihu.com/question/2071246196513792500)
 1. [考了驾照的人不一定会开车，你知道这是为什么吗?](https://www.zhihu.com/question/2072909871465377800)
+1. [LPL2026赛季第三赛段组内赛TES 0:2 BLG，如何评价这场比赛？](https://www.zhihu.com/question/2074255171236976400)
 1. [女子怀孕被房东要求退租，还被出具《房屋租赁补充告知书》限制在屋内坐月子，这合法吗？房东有权这样做吗？](https://www.zhihu.com/question/2073852156734436600)
+1. [档案袋被长辈不慎拆开，毕业生崩溃大吼，学生的档案袋里都有什么？不小心被拆开后如何补救？](https://www.zhihu.com/question/2072646823832031700)
+1. [人为何不要长期待在家里？](https://www.zhihu.com/question/2053800644537013000)
+1. [为什么玻璃上两水滴相遇后下落速度变快？](https://www.zhihu.com/question/265890645)
+1. [如何评价鸣潮3.6版本的新角色清宵？](https://www.zhihu.com/question/2073776632259785000)
+1. [复旦团队在《Nature》证实高温超导的二维本质，这一研究突破有哪些意义？](https://www.zhihu.com/question/2071555528765825500)
+1. [面试被问“你的缺点是什么”该怎么回答 才不扣分？](https://www.zhihu.com/question/2072106013105432000)
+1. [男子不接受公司主动离职安排，公司设「监狱式待岗工位」，每日打卡四次并接受监控，公司这么做合适吗？](https://www.zhihu.com/question/2073722027542893800)
+1. [大学生疯狂刷多段实习，有人大二时已经积累了六段实习，实习为什么越来越「卷」？这份实习焦虑从何而来？](https://www.zhihu.com/question/2073466638532359000)
 1. [如果 AI 能给出很多健康答案，医生真正不可替代的地方是什么？](https://www.zhihu.com/question/2069490435995832300)
 1. [有哪些数学定理或者数学知识惊呆了你？](https://www.zhihu.com/question/29868843)
 1. [遇见小面连续 4 年降价，平均客单价降到 27.7 元，上半年净利涨超 50% ，为什么降价后赚更多？](https://www.zhihu.com/question/2072777383497748700)
@@ -462,7 +473,6 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [有孩子和没孩子区别真的很大吗？](https://www.zhihu.com/question/2020592096608884000)
 1. [Deepseek涨价了，有哪些便宜的替代方案？](https://www.zhihu.com/question/2072733800774354700)
 1. [《奥德赛》电影里，要是奥德修斯船上带上海格力斯能把船员带回家吗？](https://www.zhihu.com/question/2072716066388702700)
-1. [大学生疯狂刷多段实习，有人大二时已经积累了六段实习，实习为什么越来越「卷」？这份实习焦虑从何而来？](https://www.zhihu.com/question/2073466638532359000)
 1. [截止本次 15 分钟实机演示，你会愿意尝试玩《黑神话：钟馗》吗？](https://www.zhihu.com/question/2073715847906813200)
 1. [如何评价某高校在学生宿舍安装校园网并强制拆除学生自己买的宽带？大学宿舍如何配置网络最合理？](https://www.zhihu.com/question/2073132995498566000)
 1. [从当当网李国庆抢公章，到海特高新百人强闯海威华芯，为何企业内部冲突、争夺控制权总要抢公章？真的有用吗？](https://www.zhihu.com/question/2073878007299530800)
@@ -473,8 +483,6 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [如何评价游戏《密教模拟器》？](https://www.zhihu.com/question/320034888)
 1. [2人买3个火车座位放零食拒让座，12306称购票座位属购票人， 这种情况该让座吗？规则可如何完善？](https://www.zhihu.com/question/2073862940512540000)
 1. [司法部认定欧盟针对京东的《外国补贴条例》跨境调查构成不当域外管辖，任何人不得协助执行，如何看待此事？](https://www.zhihu.com/question/2073493262573352000)
-1. [为什么玻璃上两水滴相遇后下落速度变快？](https://www.zhihu.com/question/265890645)
-1. [面试被问“你的缺点是什么”该怎么回答 才不扣分？](https://www.zhihu.com/question/2072106013105432000)
 1. [如何看待哈登3年9700万续约骑士 含球员选项和15%交易保证金？](https://www.zhihu.com/question/2074044847363834400)
 1. [面对职场霸凌，是直接还击，还是默不作声继续工作？](https://www.zhihu.com/question/2025266147155526700)
 1. [如何看待OpenCode声称将在下周推出匿名模型Ox Alpha？它会是MiMo V3吗？](https://www.zhihu.com/question/2074052554372147000)
@@ -489,7 +497,6 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [古惑仔都说为社团做事，被砍、去坐牢也不怕，这么忠诚，社团为什么不送他们去打螺丝？](https://www.zhihu.com/question/2065854540390438100)
 1. [历史上有哪些古人之间的友情，曾真切地打动你？](https://www.zhihu.com/question/2070934881350018800)
 1. [《言外之易》第三期中，易立竞对话蓝盈莹，如何评价这期节目？](https://www.zhihu.com/question/2072847919359828200)
-1. [复旦团队在《Nature》证实高温超导的二维本质，这一研究突破有哪些意义？](https://www.zhihu.com/question/2071555528765825500)
 1. [为什么郭靖的武功配置那么高，却从未赢过任何绝顶高手？](https://www.zhihu.com/question/2073486144805795600)
 1. [为什么宇树科技上市王兴兴好像不高兴？](https://www.zhihu.com/question/2073754816812271400)
 1. [如何评价电视剧《北平无战事》？](https://www.zhihu.com/question/23297876)
@@ -508,7 +515,6 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [LPL2026赛季第三赛段组内赛LGD 1:2 BLG，如何评价这场比赛？](https://www.zhihu.com/question/2073859761775424800)
 1. [如何训练自己的洞察力？](https://www.zhihu.com/question/20372117)
 1. [字已经丑到了人神共愤的地步，请问怎么把字练好？](https://www.zhihu.com/question/25058494)
-1. [男子不接受公司主动离职安排，公司设「监狱式待岗工位」，每日打卡四次并接受监控，公司这么做合适吗？](https://www.zhihu.com/question/2073722027542893800)
 1. [怎样看待“撞脸”这种事？这世界上真有很像的两个人吗？](https://www.zhihu.com/question/41138207)
 1. [香港一宠物酒店负责人疑似遭30公斤唐狗袭击身亡，这是什么犬种？女子养狗经验丰富为何还会遇袭？](https://www.zhihu.com/question/2073938918949532700)
 1. [如何看待清华肖鹰发文质疑阎连科的《为人民服务》仿袭《查太莱夫人的情人》？这种异曲同工在法律上算抄袭吗？](https://www.zhihu.com/question/2073795034885746700)
@@ -561,7 +567,6 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [恒大集团和恒大地产被罚，那些因烂尾楼、理财暴雷等受损的受害者该如何维护自身权益呢？](https://www.zhihu.com/question/2073766097631671000)
 1. [特朗普宣布对伊朗采取「史上最严厉经济行动」，并呼吁盟友一道孤立伊朗，如何看待该举措？将带来哪些影响？](https://www.zhihu.com/question/2073707908609618700)
 1. [如何看待杜塞尔多夫乒乓球俱乐部举办的新闻发布会？本次新赛季的发布会有什么新的亮点？](https://www.zhihu.com/question/2073861764366723000)
-1. [如何评价鸣潮3.6版本的新角色清宵？](https://www.zhihu.com/question/2073776632259785000)
 1. [如何评价《绝区零》核心美术师「阿兔」宣布离开米哈游？](https://www.zhihu.com/question/2073784024355582500)
 1. [如何看待Brendle关于Hopf猜想的文章？](https://www.zhihu.com/question/2073723228409939200)
 1. [如何评价动画《BanG Dream! YUME∞MITA》第10集？](https://www.zhihu.com/question/2073437279574672100)
