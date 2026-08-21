@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-22 03:39:36
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-22 04:43:23
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -151,34 +151,35 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Sat Aug 22 2026 03:39:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 22 2026 04:43:23 GMT+0800 (China Standard Time) -->
 
 1. [铁路部门通报「两人买三张票空座放零食事件」，称空座为未检票旅客座位，另两人不能占用，哪些信息值得关注？](https://www.zhihu.com/question/2074241643339675400)
 1. [如何看待一位口腔科医生自述未给无活动性出血患者验血，患者两天后脑出血死亡，自己则被起诉漏诊？](https://www.zhihu.com/question/2073452582614332200)
-1. [怎么评价 DeepSeek-V4-Flash-Vision-Exp 发布，多模态能力表现如何？](https://www.zhihu.com/question/2074181821978376000)
 1. [问界儿童车开启预售，售价 15800，如何评价其市场竞争力？](https://www.zhihu.com/question/2074138107566191400)
 1. [30岁男子失业后网贷缠身，饿20天急性肾衰入院确诊韦尼克脑病，这是一种什么病？与其生活习惯有多大关系？](https://www.zhihu.com/question/2074036648128377300)
-1. [台风「美莎克」致广西两地 159 人遇难 10 人失联，哪些信息值得关注？](https://www.zhihu.com/question/2074104395411584800)
+1. [怎么评价 DeepSeek-V4-Flash-Vision-Exp 发布，多模态能力表现如何？](https://www.zhihu.com/question/2074181821978376000)
 1. [MMORPG游戏《诡秘之主》开服一小时同时在线破70万，这游戏玩起来怎么样？](https://www.zhihu.com/question/2074104012740347400)
+1. [台风「美莎克」致广西两地 159 人遇难 10 人失联，哪些信息值得关注？](https://www.zhihu.com/question/2074104395411584800)
 1. [北京理工大学、南京航空航天大学等多所名校新校区搬到县城，去县城读名校是捡漏还是踩坑？会影响学生发展吗？](https://www.zhihu.com/question/2074111696277337600)
 1. [什么科学发现起初看似无用，但后来证明非常重要？](https://www.zhihu.com/question/349247935)
 1. [外卖小哥骑电动车撞持刀男子，王者荣耀全网寻人望颁发「国服孙策」奖状，如何看待这一系列暖心事迹？](https://www.zhihu.com/question/2074090130067777300)
-1. [如何看待千万粉丝网红「桃黑黑」发长文称将离开互联网一段时间？](https://www.zhihu.com/question/2073490726688482800)
 1. [为什么感觉三角洲越来越没意思了？](https://www.zhihu.com/question/2070144802373506000)
+1. [如何看待千万粉丝网红「桃黑黑」发长文称将离开互联网一段时间？](https://www.zhihu.com/question/2073490726688482800)
 1. [创造拼音时，为什么ü不采用v？](https://www.zhihu.com/question/2067683242879215600)
 1. [《欢迎来龙餐馆》徐福和马俊生到底谁在土豆上做了手脚？](https://www.zhihu.com/question/2072036239923065300)
 1. [媒体称旺旺集团遇「重大经营危机」裁员，裁员目标 1000 人左右，且要求员工剖析自身不足，这合理吗？](https://www.zhihu.com/question/2074119199954358500)
 1. [柯洁称找到了破解围棋AI的方法，只需要装弱智哪怕让AI九子也能赢，这招可行吗？是什么原理？](https://www.zhihu.com/question/2073421689262532000)
 1. [华为发布全球首款阔直板手机，此前被曝定价 6000-7000 元，你看好其市场前景吗？](https://www.zhihu.com/question/2073122669688533500)
 1. [曝 iPhone17 系列国内销量超 4000 万，为何消费者仍青睐苹果？](https://www.zhihu.com/question/2072772413494973700)
+1. [如果你是奥德修斯，在女神卡吕普索和妻子珀涅罗珀之间，你会做怎样的选择？](https://www.zhihu.com/question/2073824982388433400)
 1. [为什么诺兰要在《奥德赛》中加入原著没有的西农(Sinon)？](https://www.zhihu.com/question/2073384818255947500)
 1. [鼬的十拳剑从哪弄到的？他死后十拳剑消失了吗？](https://www.zhihu.com/question/321328175)
 1. [有哪些看似很多实际濒危的动物？](https://www.zhihu.com/question/266703398)
 1. [哪部影视剧，拍出了你理解中的亲密关系？](https://www.zhihu.com/question/2069198733858945000)
-1. [一直坚持让大娃学钢琴，但是到了六年级，练习的时间越来越少，感觉很难坚持下去。不走专业路线，该坚持吗？](https://www.zhihu.com/question/670433709)
 1. [为什么任天堂的游戏每年这么好卖，但好像话题讨论度都不怎么高呢？](https://www.zhihu.com/question/1987678614079161300)
-1. [LPL2026赛季第三赛段组内赛TES 0:2 BLG，如何评价这场比赛？](https://www.zhihu.com/question/2074255171236976400)
+1. [一直坚持让大娃学钢琴，但是到了六年级，练习的时间越来越少，感觉很难坚持下去。不走专业路线，该坚持吗？](https://www.zhihu.com/question/670433709)
 1. [珠穆朗玛峰的海拔全球最高，距离太阳也更近，为何气温反倒很低？](https://www.zhihu.com/question/2073330311388317200)
+1. [LPL2026赛季第三赛段组内赛TES 0:2 BLG，如何评价这场比赛？](https://www.zhihu.com/question/2074255171236976400)
 1. [女子怀孕被房东要求退租，还被出具《房屋租赁补充告知书》限制在屋内坐月子，这合法吗？房东有权这样做吗？](https://www.zhihu.com/question/2073852156734436600)
 1. [相声名家田立禾去世，享年91岁，你对他有哪些记忆？](https://www.zhihu.com/question/2074145890470552600)
 1. [档案袋被长辈不慎拆开，毕业生崩溃大吼，学生的档案袋里都有什么？不小心被拆开后如何补救？](https://www.zhihu.com/question/2072646823832031700)
