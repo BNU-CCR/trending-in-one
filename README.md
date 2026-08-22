@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-22 21:02:29
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-22 21:46:39
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -398,34 +398,39 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Sat Aug 22 2026 21:02:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 22 2026 21:46:39 GMT+0800 (China Standard Time) -->
 
-1. [广东一车主把海鲜忘在车里4天，海鲜腐烂生了很多蛆，车是密封的，虫卵是从哪来的啊？](https://www.zhihu.com/question/2071880598914966500)
 1. [《GTA6》遭大规模泄露：两段实机视频、一张完整地图，R星紧急发起DMCA投诉。你怎么看？](https://www.zhihu.com/question/2073370343264219400)
+1. [广东一车主把海鲜忘在车里4天，海鲜腐烂生了很多蛆，车是密封的，虫卵是从哪来的啊？](https://www.zhihu.com/question/2071880598914966500)
 1. [罗永浩公关称曾劝西贝拦住贾国龙，现在复盘的话哪些细节值得一聊？若当时真拦住了，会有怎样的不同？](https://www.zhihu.com/question/2074422136400082200)
 1. [年轻人开始流行「养砖头」，这种看似无意义的爱好为什么会戳中年轻人的心？「养砖头」要注意什么？](https://www.zhihu.com/question/2074081143159371300)
 1. [三张银行卡，初始金额人民币1亿，1万，1元，日利息分别是0.01%，1%，10%，怎么选择呢？](https://www.zhihu.com/question/2065514457850176500)
 1. [如何看待高校录取通知书回归「一页纸」后，清华大学推出立体二校门版「入学纪念证书」？](https://www.zhihu.com/question/2074541381372966000)
+1. [零食占座当事人母亲否认故意占座，称儿童票捆绑成人票销售，退成人票后儿童会被要求下车，哪些问题值得关注？](https://www.zhihu.com/question/2074588443309340000)
 1. [怎么看彭博社发布的「美国 AI 优势正在被中国迅速缩小」？](https://www.zhihu.com/question/2074086385397545000)
-1. [奢侈品牌 LV 全国多地门店关闭，西南门店腰斩过半，为何收缩线下渠道？对中国奢侈品市场意味着什么？](https://www.zhihu.com/question/2074164491798028800)
 1. [孙悟空比太上老君差多少？为什么感觉太上老君怕孙悟空？](https://www.zhihu.com/question/1945376533322629600)
-1. [如何评价电影《爸爸咪呀》？](https://www.zhihu.com/question/2073924400685045500)
-1. [退休后，把全国的县城都逛一遍这主意怎么样？](https://www.zhihu.com/question/2072594246280929800)
+1. [奢侈品牌 LV 全国多地门店关闭，西南门店腰斩过半，为何收缩线下渠道？对中国奢侈品市场意味着什么？](https://www.zhihu.com/question/2074164491798028800)
 1. [怎么看 OpenCode 找了很多供应商，都找不到 DeepSeek 涨价前原厂的价格？](https://www.zhihu.com/question/2074077084964733700)
 1. [陈柏霖等台湾艺人因逃避兵役首度被传唤出庭，当庭认罪，哪些信息值得关注？为什么这么多台艺人要冒这个风险？](https://www.zhihu.com/question/2074398319762039300)
 1. [什么操作会对电脑造成永久性伤害？](https://www.zhihu.com/question/275468231)
 1. [英雄联盟的"连招"概念为什么消失了？](https://www.zhihu.com/question/2066201611286885600)
-1. [网友发现18岁黑龙江速滑运动员王新睿被冰刀割伤左腿截肢，具体是怎么回事？若如网传是他人撞伤，能赔偿吗？](https://www.zhihu.com/question/2074085560356792000)
-1. [下赛季东契奇肯定拥有无限开火权，他拿到常规赛MVP的概率有多大？](https://www.zhihu.com/question/2074298519398135300)
-1. [西安一影城推出午休服务，每月 39.9 元还有免费充电、咖啡，这一服务怎么样？你愿意花钱去影院午休吗？](https://www.zhihu.com/question/2074159127287297000)
-1. [白菜蘸甲醛溶液装车运往外地，涉事人员面临哪些处罚？为何此类事件屡禁不止？](https://www.zhihu.com/question/2074530331072410000)
 1. [如何看待现在好多小学初中生身高一米八？](https://www.zhihu.com/question/450488929)
-1. [凡人修仙传动漫188集观众满意吗？](https://www.zhihu.com/question/2074271257323901000)
-1. [曹云金在演出中用郭德纲『砸现挂』，此举对相声界传统和师徒关系有何影响？](https://www.zhihu.com/question/2073016995126175500)
+1. [网友发现18岁黑龙江速滑运动员王新睿被冰刀割伤左腿截肢，具体是怎么回事？若如网传是他人撞伤，能赔偿吗？](https://www.zhihu.com/question/2074085560356792000)
+1. [退休后，把全国的县城都逛一遍这主意怎么样？](https://www.zhihu.com/question/2072594246280929800)
 1. [以米游为代表的国产二游是否事实上在一定程度上接替了一部分买断制单机的生态位？](https://www.zhihu.com/question/2052325686896080100)
+1. [西安一影城推出午休服务，每月 39.9 元还有免费充电、咖啡，这一服务怎么样？你愿意花钱去影院午休吗？](https://www.zhihu.com/question/2074159127287297000)
+1. [曹云金在演出中用郭德纲『砸现挂』，此举对相声界传统和师徒关系有何影响？](https://www.zhihu.com/question/2073016995126175500)
+1. [如何评价电影《爸爸咪呀》？](https://www.zhihu.com/question/2073924400685045500)
+1. [下赛季东契奇肯定拥有无限开火权，他拿到常规赛MVP的概率有多大？](https://www.zhihu.com/question/2074298519398135300)
+1. [凡人修仙传动漫188集观众满意吗？](https://www.zhihu.com/question/2074271257323901000)
 1. [当你的孩子跟你说读书没有用时，你会怎么办？](https://www.zhihu.com/question/2040821274428043300)
+1. [外卖小哥骑电动车撞持刀男子，王者荣耀全网寻人望颁发「国服孙策」奖状，如何看待这一系列暖心事迹？](https://www.zhihu.com/question/2074090130067777300)
 1. [如何评价《凡人修仙传》第 188 集？](https://www.zhihu.com/question/2074460517066981600)
 1. [如何评价0821发布的deepseek-v4-flash-vision-exp？](https://www.zhihu.com/question/2074187767911925200)
+1. [面对职场霸凌，是直接还击，还是默不作声继续工作？](https://www.zhihu.com/question/2025266147155526700)
+1. [遇见小面连续 4 年降价，平均客单价降到 27.7 元，上半年净利涨超 50% ，为什么降价后赚更多？](https://www.zhihu.com/question/2072777383497748700)
+1. [胖东来回应「招聘刑释人员」，严格按照国家法律执行，先从中轻度犯罪类型逐步开放至中重度，如何看待此事？](https://www.zhihu.com/question/2073779065585133000)
+1. [白菜蘸甲醛溶液装车运往外地，涉事人员面临哪些处罚？为何此类事件屡禁不止？](https://www.zhihu.com/question/2074530331072410000)
 1. [电影放映中途为什么不暂停给上厕所的时间？](https://www.zhihu.com/question/2073781714695070700)
 1. [如何看待维斯塔潘与红牛车队续约至2030年？](https://www.zhihu.com/question/2073911233716171800)
 1. [荀彧为啥看到空盒子就死了？不能苟活着吗？](https://www.zhihu.com/question/1915192684630512600)
@@ -447,7 +452,6 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [如何看待拆解输入的「张雪机车」遭台湾当局查扣？此举是出于产业保护还是政治考量？](https://www.zhihu.com/question/2072284409471013600)
 1. [假如有拥有500W，你要做的第一件事是什么？](https://www.zhihu.com/question/2067524708665398800)
 1. [运动员拿到奥运会世界冠军会有多少收入？](https://www.zhihu.com/question/429124143)
-1. [外卖小哥骑电动车撞持刀男子，王者荣耀全网寻人望颁发「国服孙策」奖状，如何看待这一系列暖心事迹？](https://www.zhihu.com/question/2074090130067777300)
 1. [有哪些反常识的科学结论，或者反直觉的科学事实？](https://www.zhihu.com/question/422687386)
 1. [为啥天庭里没孔子的仙位呢？](https://www.zhihu.com/question/455359545)
 1. [如何评价阿森纳vs考文垂英超揭幕战？](https://www.zhihu.com/question/2074215237826392300)
@@ -498,7 +502,6 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [对于奥德赛这部电影，奥德修斯的饰演者（马特达蒙）你觉得有更合适的人选吗？](https://www.zhihu.com/question/2071540171628099600)
 1. [复旦团队在《Nature》证实高温超导的二维本质，这一研究突破有哪些意义？](https://www.zhihu.com/question/2071555528765825500)
 1. [有哪些数学定理或者数学知识惊呆了你？](https://www.zhihu.com/question/29868843)
-1. [遇见小面连续 4 年降价，平均客单价降到 27.7 元，上半年净利涨超 50% ，为什么降价后赚更多？](https://www.zhihu.com/question/2072777383497748700)
 1. [具身智能会成为 AI 的下一个爆发点吗？](https://www.zhihu.com/question/2071247286114281500)
 1. [华为发布全球首款阔直板手机，此前被曝定价 6000-7000 元，你看好其市场前景吗？](https://www.zhihu.com/question/2073122669688533500)
 1. [LPL2026赛季第三赛段组内赛TES 0:2 BLG，如何评价这场比赛？](https://www.zhihu.com/question/2074255171236976400)
@@ -519,7 +522,6 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [大学生疯狂刷多段实习，有人大二时已经积累了六段实习，实习为什么越来越「卷」？这份实习焦虑从何而来？](https://www.zhihu.com/question/2073466638532359000)
 1. [考了驾照的人不一定会开车，你知道这是为什么吗?](https://www.zhihu.com/question/2072909871465377800)
 1. [被录到俄语专业了，有没有可能让我迷恋上的俄语文化和人物？](https://www.zhihu.com/question/2071071147865776600)
-1. [胖东来回应「招聘刑释人员」，严格按照国家法律执行，先从中轻度犯罪类型逐步开放至中重度，如何看待此事？](https://www.zhihu.com/question/2073779065585133000)
 1. [王重阳和林朝英哪个武功高？](https://www.zhihu.com/question/309582132)
 1. [可以分享一下各位做的架空世界观设定吗？](https://www.zhihu.com/question/2013971844420621300)
 1. [如何评价一人之下827话《集结》？](https://www.zhihu.com/question/2073925677838092000)
