@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-08-07 13:14",
-  "checkedAt": "2026-08-24 19:46:49",
-  "valid": false,
-  "note": "cookie 已失效或接口异常，请运行 scripts/refresh-zhihu-cookie.ts 刷新"
+  "checkedAt": "2026-08-24 21:15:10",
+  "valid": true,
+  "note": "cookie 有效，热榜数据正常"
 }
