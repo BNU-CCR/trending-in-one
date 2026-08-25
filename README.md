@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-25 15:10:32
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-25 16:00:23
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -274,7 +274,7 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Tue Aug 25 2026 15:10:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 25 2026 16:00:23 GMT+0800 (China Standard Time) -->
 
 1. [官方确认「帮扶老人遭索赔」事件中店主不承担法律责任，此前店主被索赔1.9万，这件事带给我们什么反思？](https://www.zhihu.com/question/2075346177952674600)
 1. [董宇辉等主播走后，东方甄选少发4亿薪酬，新财年净赚超5亿元，怎样解读这一变化？东方甄选转型算成功了吗？](https://www.zhihu.com/question/2074875402359661800)
@@ -284,32 +284,37 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [国管公积金新政发布，首套房最高可贷款 340 万元，有哪些信息值得关注？](https://www.zhihu.com/question/2075273247394718700)
 1. [想跟领导提升职的事情，又不敢当面说，发了微信没收到回复，还有必要再当面说么？](https://www.zhihu.com/question/2013899900576866800)
 1. [法国团队利用离体死后人脑组织控制机械手弹钢琴，该实验有何科学原理和伦理意义？](https://www.zhihu.com/question/2072671013171728600)
-1. [TRAE、扣子并入豆包，将推出统一办公品牌「豆包工作」，如何看待字节这次调整？整合后的豆包会更好用吗？](https://www.zhihu.com/question/2075261034382582000)
+1. [如何看待诺兰《奥德赛》全球吸金超13.52亿，力压《死侍与金刚狼》登顶影史票房最高 R 级电影？](https://www.zhihu.com/question/2074082605125694200)
 1. [有什么有趣的中国文化溢出？](https://www.zhihu.com/question/266630139)
 1. [太极拳思路的以柔克刚，借力打力都貌似很合理，为什么实战起来这个力就克不动，卸不掉，也借不到呢？](https://www.zhihu.com/question/499019346)
-1. [西甲第二轮马德里竞技2-2比利亚雷亚尔，阿尔瓦雷斯遭到了马竞主场球迷的狂嘘，你如何看待这种情况？](https://www.zhihu.com/question/2075205332960334300)
 1. [新华社发文庆贺 AG 电子竞技俱乐部夺得 2026 世俱杯总冠军，这一奖项含金量有多大？](https://www.zhihu.com/question/2075258155366184400)
-1. [如何看待诺兰《奥德赛》全球吸金超13.52亿，力压《死侍与金刚狼》登顶影史票房最高 R 级电影？](https://www.zhihu.com/question/2074082605125694200)
 1. [道交法修订草案拟调整电动自行车限速，从 15 公里调整为 20 公里，如何看待这一变化？](https://www.zhihu.com/question/2075519453522143000)
-1. [诺兰为什么要弱化《奥德赛》原著中的幽默、情色与荒诞，拍得如此严肃？](https://www.zhihu.com/question/2073404543459489500)
-1. [学生发型不合格就不能进校上课，这样执行校规合理吗？中学生为什么非得剪短发？](https://www.zhihu.com/question/2075500261468895000)
-1. [如何评价阿森纳与阿尔瓦雷斯的转会传闻？](https://www.zhihu.com/question/2075319764747141400)
 1. [美国宣布对伊朗实施「经济孤立」新措施，涉航空、黄金、航运等五大领域，这会切断伊朗「所有经济命脉」吗？](https://www.zhihu.com/question/2075544793917272000)
-1. [麦迪认为成为MVP比夺得总冠军重要，对此你怎么看？](https://www.zhihu.com/question/2075525841312642000)
+1. [学生发型不合格就不能进校上课，这样执行校规合理吗？中学生为什么非得剪短发？](https://www.zhihu.com/question/2075500261468895000)
+1. [我是东北人，马上要去广东上大学了，有什么需要注意的吗？与当地人交流需要注意什么？](https://www.zhihu.com/question/2064639631166120400)
+1. [如何评价死神千年血战祸进谭第五集后井上织姬的风评直接两极反转？](https://www.zhihu.com/question/2075356488051307800)
+1. [历史上有哪些君臣关系堪称佳话？](https://www.zhihu.com/question/2072820411889365800)
+1. [煎鸡蛋怎么蓬松？](https://www.zhihu.com/question/804413410)
+1. [经历过低谷的人后来都怎么样了？](https://www.zhihu.com/question/657591219)
 1. [如何看待华为在 9 月 7 日举办的旗舰新品发布会？你对华为新款三折叠有哪些期待？](https://www.zhihu.com/question/2075309425749913900)
 1. [金价再次突破 4700 美元，创逾 3 个月以来新高，如何解读本轮上涨？后市还有上行空间吗？](https://www.zhihu.com/question/2075232094306027300)
-1. [网文中主角主动帮别人算是一个大毒点吗？](https://www.zhihu.com/question/2075002029907374300)
-1. [历史上有哪些君臣关系堪称佳话？](https://www.zhihu.com/question/2072820411889365800)
-1. [为什么生活中要注意控糖？](https://www.zhihu.com/question/559501403)
-1. [脑出血急诊去医院为什么几个小时不开始手术，最后我妈去世了，医院有没有责任？](https://www.zhihu.com/question/1905751114009272800)
-1. [经历过低谷的人后来都怎么样了？](https://www.zhihu.com/question/657591219)
 1. [抗老是在对抗什么？护肤品中都有哪些抗老活性成分，又分别起到了怎样的效果？](https://www.zhihu.com/question/604009647)
-1. [我是东北人，马上要去广东上大学了，有什么需要注意的吗？与当地人交流需要注意什么？](https://www.zhihu.com/question/2064639631166120400)
 1. [石家庄未来发展怎么样?](https://www.zhihu.com/question/666529439)
+1. [只花 200 块，如何在闲鱼转转凑一套装备体面开学？](https://www.zhihu.com/question/2075246991349478000)
+1. [火车票无座票是否应打折或者明示？](https://www.zhihu.com/question/2074414876584304600)
+1. [为什么概率论越往现代发展感觉越让人感到迷惑？](https://www.zhihu.com/question/440537363)
+1. [索尼发邮件重申「数字游戏不属于玩家」，账号封禁就全清零，你怎么看待这波操作？](https://www.zhihu.com/question/2075000240088805600)
+1. [脑出血急诊去医院为什么几个小时不开始手术，最后我妈去世了，医院有没有责任？](https://www.zhihu.com/question/1905751114009272800)
+1. [网文中主角主动帮别人算是一个大毒点吗？](https://www.zhihu.com/question/2075002029907374300)
+1. [TRAE、扣子并入豆包，将推出统一办公品牌「豆包工作」，如何看待字节这次调整？整合后的豆包会更好用吗？](https://www.zhihu.com/question/2075261034382582000)
+1. [西甲第二轮马德里竞技2-2比利亚雷亚尔，阿尔瓦雷斯遭到了马竞主场球迷的狂嘘，你如何看待这种情况？](https://www.zhihu.com/question/2075205332960334300)
+1. [诺兰为什么要弱化《奥德赛》原著中的幽默、情色与荒诞，拍得如此严肃？](https://www.zhihu.com/question/2073404543459489500)
+1. [如何评价阿森纳与阿尔瓦雷斯的转会传闻？](https://www.zhihu.com/question/2075319764747141400)
+1. [麦迪认为成为MVP比夺得总冠军重要，对此你怎么看？](https://www.zhihu.com/question/2075525841312642000)
+1. [为什么生活中要注意控糖？](https://www.zhihu.com/question/559501403)
 1. [如何评价耗资750万投资的影游《恶校游戏》仅回血50万，发售1周后制作组宣布解散？](https://www.zhihu.com/question/2075002290789000200)
 1. [同样吃苦，为什么山河四省省吃俭用， 云贵川渝是活在当下？](https://www.zhihu.com/question/2073315906734781400)
 1. [为啥地下党发报不把电台藏了马车或者黄包车上就发就转圈？](https://www.zhihu.com/question/759444244)
-1. [只花 200 块，如何在闲鱼转转凑一套装备体面开学？](https://www.zhihu.com/question/2075246991349478000)
 1. [如何评价《欢迎来龙餐馆》里的托尼王这个角色？](https://www.zhihu.com/question/2072120421625997000)
 1. [鸡翅怎么做更有食欲？](https://www.zhihu.com/question/649249770)
 1. [石达开为什么负气出走？真的带走了几十万精兵？](https://www.zhihu.com/question/4492319892)
@@ -345,7 +350,6 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [如何评价游戏《空之轨迹 the 2nd》的试玩demo？](https://www.zhihu.com/question/2073851925699590000)
 1. [警方通报「湖南扶老人被索赔10万」事件，双方协商后店主赔1.9万，你如何看待这个结果？](https://www.zhihu.com/question/2075169757867914500)
 1. [大家为什么接受不了整容的明星啊？](https://www.zhihu.com/question/2008652535855071700)
-1. [索尼发邮件重申「数字游戏不属于玩家」，账号封禁就全清零，你怎么看待这波操作？](https://www.zhihu.com/question/2075000240088805600)
 1. [7 月财政收入增长 11.7%、个税同比大涨 25.9%，个税「逆势高增」的原因是什么？](https://www.zhihu.com/question/2075163936920265000)
 1. [为什么安踏前CEO徐阳在飞机上发朋友圈称因家人留学原因离职，将陪家人迁居美国洛杉矶？](https://www.zhihu.com/question/2074146079185159400)
 1. [亚朵卖枕头被子收入快赶上酒店主业，将全年零售收入增长目标上调至40％，一系列商业动作的背后有哪些考量？](https://www.zhihu.com/question/2074548112480100900)
