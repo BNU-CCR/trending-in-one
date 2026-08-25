@@ -110,7 +110,7 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Tue Aug 25 2026 23:57:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 26 2026 00:58:33 GMT+0800 (China Standard Time) -->
 
 1. [官方通报星宇股份批量劝退应届生](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%98%9F%E5%AE%87%E8%82%A1%E4%BB%BD%E6%89%B9%E9%87%8F%E5%8A%9D%E9%80%80%E5%BA%94%E5%B1%8A%E7%94%9F)
 1. [中国女生在韩失联已遇害](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E5%9C%A8%E9%9F%A9%E5%A4%B1%E8%81%94%E5%B7%B2%E9%81%87%E5%AE%B3)
@@ -120,22 +120,10 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [台风「紫檀」登陆](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E3%80%8C%E7%B4%AB%E6%AA%80%E3%80%8D%E7%99%BB%E9%99%86)
 1. [老人进店休息离世店家帮扶遭索赔](https://www.zhihu.com/search?q=%E8%80%81%E4%BA%BA%E8%BF%9B%E5%BA%97%E4%BC%91%E6%81%AF%E7%A6%BB%E4%B8%96%E5%BA%97%E5%AE%B6%E5%B8%AE%E6%89%B6%E9%81%AD%E7%B4%A2%E8%B5%94)
 1. [陕西版「孙小果」二审维持死刑](https://www.zhihu.com/search?q=%E9%99%95%E8%A5%BF%E7%89%88%E3%80%8C%E5%AD%99%E5%B0%8F%E6%9E%9C%E3%80%8D%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E6%AD%BB%E5%88%91)
-1. [小米玄戒芯片发布会](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E7%8E%84%E6%88%92%E8%8A%AF%E7%89%87%E5%8F%91%E5%B8%83%E4%BC%9A)
 1. [德芙七夕营销翻车](https://www.zhihu.com/search?q=%E5%BE%B7%E8%8A%99%E4%B8%83%E5%A4%95%E8%90%A5%E9%94%80%E7%BF%BB%E8%BD%A6)
+1. [小米玄戒芯片发布会](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E7%8E%84%E6%88%92%E8%8A%AF%E7%89%87%E5%8F%91%E5%B8%83%E4%BC%9A)
 1. [《黑神话：钟馗》发布实机演示视频](https://www.zhihu.com/search?q=%E3%80%8A%E9%BB%91%E7%A5%9E%E8%AF%9D%EF%BC%9A%E9%92%9F%E9%A6%97%E3%80%8B%E5%8F%91%E5%B8%83%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91)
 1. [甲醛白菜被运往江苏安徽多地](https://www.zhihu.com/search?q=%E7%94%B2%E9%86%9B%E7%99%BD%E8%8F%9C%E8%A2%AB%E8%BF%90%E5%BE%80%E6%B1%9F%E8%8B%8F%E5%AE%89%E5%BE%BD%E5%A4%9A%E5%9C%B0)
-1. [2026 金鹰奖提名揭晓](https://www.zhihu.com/search?q=2026%20%E9%87%91%E9%B9%B0%E5%A5%96%E6%8F%90%E5%90%8D%E6%8F%AD%E6%99%93)
-1. [中国留学生在韩失联无出境记录](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%9C%A8%E9%9F%A9%E5%A4%B1%E8%81%94%E6%97%A0%E5%87%BA%E5%A2%83%E8%AE%B0%E5%BD%95)
-1. [许家印被判处无期徒刑](https://www.zhihu.com/search?q=%E8%AE%B8%E5%AE%B6%E5%8D%B0%E8%A2%AB%E5%88%A4%E5%A4%84%E6%97%A0%E6%9C%9F%E5%BE%92%E5%88%91)
-1. [四川宜宾 4.7 级地震](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%204.7%20%E7%BA%A7%E5%9C%B0%E9%9C%87)
-1. [字节TRAE扣子并入豆包工作](https://www.zhihu.com/search?q=%E5%AD%97%E8%8A%82TRAE%E6%89%A3%E5%AD%90%E5%B9%B6%E5%85%A5%E8%B1%86%E5%8C%85%E5%B7%A5%E4%BD%9C)
-1. [台风沙德尔进入 48 小时警戒线](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E6%B2%99%E5%BE%B7%E5%B0%94%E8%BF%9B%E5%85%A5%2048%20%E5%B0%8F%E6%97%B6%E8%AD%A6%E6%88%92%E7%BA%BF)
-1. [宇树上市后股价连续下跌](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E4%B8%8A%E5%B8%82%E5%90%8E%E8%82%A1%E4%BB%B7%E8%BF%9E%E7%BB%AD%E4%B8%8B%E8%B7%8C)
-1. [曝顺丰变相降薪 15％](https://www.zhihu.com/search?q=%E6%9B%9D%E9%A1%BA%E4%B8%B0%E5%8F%98%E7%9B%B8%E9%99%8D%E8%96%AA%2015%EF%BC%85)
-1. [韦东奕带货卖39.8元练习册](https://www.zhihu.com/search?q=%E9%9F%A6%E4%B8%9C%E5%A5%95%E5%B8%A6%E8%B4%A7%E5%8D%9639.8%E5%85%83%E7%BB%83%E4%B9%A0%E5%86%8C)
-1. [失业男子饿 20 天致肾衰竭](https://www.zhihu.com/search?q=%E5%A4%B1%E4%B8%9A%E7%94%B7%E5%AD%90%E9%A5%BF%2020%20%E5%A4%A9%E8%87%B4%E8%82%BE%E8%A1%B0%E7%AB%AD)
-1. [零食占座当事人母亲否认故意占座](https://www.zhihu.com/search?q=%E9%9B%B6%E9%A3%9F%E5%8D%A0%E5%BA%A7%E5%BD%93%E4%BA%8B%E4%BA%BA%E6%AF%8D%E4%BA%B2%E5%90%A6%E8%AE%A4%E6%95%85%E6%84%8F%E5%8D%A0%E5%BA%A7)
-1. [官方确认帮扶老人遭索赔店主不担责](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E7%A1%AE%E8%AE%A4%E5%B8%AE%E6%89%B6%E8%80%81%E4%BA%BA%E9%81%AD%E7%B4%A2%E8%B5%94%E5%BA%97%E4%B8%BB%E4%B8%8D%E6%8B%85%E8%B4%A3)
 
 <!-- END ZHIHUSEARCH -->
 
