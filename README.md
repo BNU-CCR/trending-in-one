@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-27 01:01:50
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-08-27 03:21:09
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -141,31 +141,41 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Thu Aug 27 2026 01:01:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 27 2026 03:21:09 GMT+0800 (China Standard Time) -->
 
 1. [西藏日喀则吉隆口岸发生泥石流，致重大人员伤亡失联，有建筑被掩埋，目前情况如何？](https://www.zhihu.com/question/2075969425702741200)
-1. [如何评价粥饼伦天津鸡蛋灌饼店因为房租从13万上涨到20万被迫宣布暂停营业？为什么现在房东矛盾这么大？](https://www.zhihu.com/question/2075488229747339500)
+1. [西藏吉隆口岸发生泥石流灾害，一侧前往口岸的道路、通信、电力处于中断状态，目前救援存在哪些难点？](https://www.zhihu.com/question/2075994374953857300)
 1. [德芙就「趁男朋友不在跟暧昧对象分享」文案道歉，称由第三方运营团队创作发布，德芙在管理上存在哪些问题？](https://www.zhihu.com/question/2075743712588609000)
+1. [如何评价粥饼伦天津鸡蛋灌饼店因为房租从13万上涨到20万被迫宣布暂停营业？为什么现在房东矛盾这么大？](https://www.zhihu.com/question/2075488229747339500)
 1. [怎么看 GLM-5.3-Flash 发布，有什么值得关注的？](https://www.zhihu.com/question/2076068666639230500)
-1. [瓶装水在开封后，多久会变质？](https://www.zhihu.com/question/2074882831344460800)
-1. [为什么看不到男人四五个人结伴一起去旅行的？](https://www.zhihu.com/question/2074380142697244000)
 1. [30 多个国家表示准备向乌克兰派兵，此举将如何影响俄乌冲突局势？](https://www.zhihu.com/question/2075675774821086200)
+1. [为什么50国在联合国反对俄罗斯？](https://www.zhihu.com/question/2075754349884600800)
 1. [「帮扶老人反被索赔」事件，老人家属算敲诈勒索吗？为何法律无责却仍需赔偿？该怎样终结「和稀泥式调解」？](https://www.zhihu.com/question/2075893197289383200)
 1. [网传 DeepSeek 深度思考模式会偷偷给用户取外号，这是真的吗？为什么会出现这种情况？](https://www.zhihu.com/question/2070165569941288000)
-1. [为什么50国在联合国反对俄罗斯？](https://www.zhihu.com/question/2075754349884600800)
+1. [老师是如何一眼看出学生的作业是在抄答案？](https://www.zhihu.com/question/446221874)
+1. [U18亚青赛，菲律宾队最后时刻假装握手认输，随后抢断中国队上篮，之后引发冲突，对此你怎么看？](https://www.zhihu.com/question/2074165762919331600)
+1. [郑钦文有天赋也努力，为何感觉她和当年的李娜比，还是差一点意思?](https://www.zhihu.com/question/750838307)
+1. [北方人口中的「硬菜」是什么菜呢？什么标准才达标呢？](https://www.zhihu.com/question/6181386454)
+1. [赛力斯中报巨亏，问界 M6 走量预期落空，如何评价华为智选车模式？](https://www.zhihu.com/question/2074228962302093000)
+1. [瓶装水在开封后，多久会变质？](https://www.zhihu.com/question/2074882831344460800)
+1. [古代富家的生活有多奢侈？](https://www.zhihu.com/question/45638947)
+1. [为什么看不到男人四五个人结伴一起去旅行的？](https://www.zhihu.com/question/2074380142697244000)
+1. [张廷玉真的有资格配享太庙吗？](https://www.zhihu.com/question/626526460)
+1. [有什么书推荐一下，童年创伤，心理疗愈的书？](https://www.zhihu.com/question/2073563652712567600)
+1. [一架美军运输机降落在俄罗斯莫斯科，这一罕见事件引发关注，还有哪些信息值得关注？](https://www.zhihu.com/question/2075648179723301000)
+1. [下班后不想立刻回家的人，通常会把时间花在哪里？](https://www.zhihu.com/question/2068304155710600400)
+1. [为什么「被需要」有时比「被喜欢」更能给成年人带来安全感？](https://www.zhihu.com/question/2064279177260429800)
 1. [千问开源基于 Qwen4 架构的 Qwen3.8-Flash-Next，下一代架构有什么变化值得关注？](https://www.zhihu.com/question/2075957645354033200)
 1. [为什么身边的中年男人不是热衷炒股，就是热衷钓鱼？](https://www.zhihu.com/question/1908287806243046400)
-1. [U18亚青赛，菲律宾队最后时刻假装握手认输，随后抢断中国队上篮，之后引发冲突，对此你怎么看？](https://www.zhihu.com/question/2074165762919331600)
-1. [赛力斯中报巨亏，问界 M6 走量预期落空，如何评价华为智选车模式？](https://www.zhihu.com/question/2074228962302093000)
-1. [北方人口中的「硬菜」是什么菜呢？什么标准才达标呢？](https://www.zhihu.com/question/6181386454)
-1. [郑钦文有天赋也努力，为何感觉她和当年的李娜比，还是差一点意思?](https://www.zhihu.com/question/750838307)
-1. [古代富家的生活有多奢侈？](https://www.zhihu.com/question/45638947)
 1. [如何评价龙德施泰特？](https://www.zhihu.com/question/31689891)
+1. [脑出血急诊去医院为什么几个小时不开始手术，最后我妈去世了，医院有没有责任？](https://www.zhihu.com/question/1905751114009272800)
+1. [一个人每天写日记能有什么改变?](https://www.zhihu.com/question/6559929164)
+1. [大家为什么接受不了整容的明星啊？](https://www.zhihu.com/question/2008652535855071700)
+1. [公务员碾死醉汉被认定过失致死，当事人因影响职业生涯再申诉，还可能有怎样的认定？法律上如何分析此事？](https://www.zhihu.com/question/2074611538749551000)
+1. [人有烦恼是因为什么？](https://www.zhihu.com/question/2053179770339333600)
 1. [《欢迎来龙餐馆》如果徐福死了，这部电影会不会效果更好？](https://www.zhihu.com/question/2075247117547868400)
-1. [一架美军运输机降落在俄罗斯莫斯科，这一罕见事件引发关注，还有哪些信息值得关注？](https://www.zhihu.com/question/2075648179723301000)
 1. [我妈把芒果核留给我老公，我指出这样做不对，我错了么？](https://www.zhihu.com/question/2075499349363245800)
 1. [如何评价在科隆游戏展上米哈游新作《星布谷地》官宣将在2026年冬季公测上线？](https://www.zhihu.com/question/2075783610246894800)
-1. [脑出血急诊去医院为什么几个小时不开始手术，最后我妈去世了，医院有没有责任？](https://www.zhihu.com/question/1905751114009272800)
 1. [高中真的很累吗?](https://www.zhihu.com/question/1943091664089510700)
 1. [怎么看 Claude Code 团队回应：「坚持 CLAUDE.md 是因为模型系列不能互换」？](https://www.zhihu.com/question/2075884873601004000)
 1. [为什么武侠游戏里的“毒”只剩下“掉血”这一种功能？](https://www.zhihu.com/question/2072368553370579700)
