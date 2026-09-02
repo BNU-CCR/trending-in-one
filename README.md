@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-09-03 02:45:25
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-09-03 05:52:06
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -134,35 +134,40 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Thu Sep 03 2026 02:45:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 03 2026 05:52:06 GMT+0800 (China Standard Time) -->
 
 1. [怎样看待央视抽查保温杯连304钢印都能造假？](https://www.zhihu.com/question/2077321081388647400)
-1. [黄之锋在香港高等法院就「串谋勾结外国或者境外势力危害国家安全」案当庭认罪，哪些信息值得关注？](https://www.zhihu.com/question/2078466231653479700)
 1. [西藏泥石流已致 21 死 541 失联，发现遗物 847 件，有哪些信息值得关注？](https://www.zhihu.com/question/2078579015065887200)
-1. [男子盘手串包浆后被妻子用刷子搓净，玩家集体破防，到底什么是包浆？女子洗掉的到底是包浆还是油泥？](https://www.zhihu.com/question/2078389946146976500)
-1. [为什么江西小炒会越来越多？](https://www.zhihu.com/question/2076963909853102300)
 1. [欧、美、日、英，多国债市遭抛售潮，这种现象以前发生过吗？](https://www.zhihu.com/question/2078423950367744300)
-1. [苹果、小米、华为发布时间撞档，为啥大家都选 9 月发布新品？扎堆发布不会影响销量吗？](https://www.zhihu.com/question/2078445037713450500)
-1. [小学老师感慨「梓萱」「子涵」已成过去式， 现在取名有哪些新趋势？为啥会发生这种变化？](https://www.zhihu.com/question/2078092686771409400)
+1. [男子盘手串包浆后被妻子用刷子搓净，玩家集体破防，到底什么是包浆？女子洗掉的到底是包浆还是油泥？](https://www.zhihu.com/question/2078389946146976500)
+1. [Gemini 3.8 Flash 发布，有什么值得关注的？](https://www.zhihu.com/question/2078626349426684000)
 1. [如何评价 22.99 万起售的比亚迪海狮 08？有哪些亮点值得关注？](https://www.zhihu.com/question/2078536930053169400)
-1. [TOP登陆少年开演唱会，徐州12345被粉丝用作「对线」工具，近5万件诉求涌入，这种行为该受到处罚吗？](https://www.zhihu.com/question/2078472073869883000)
-1. [家长提议班级收 600 元请保洁，有家长反对被禁言，如何看待此事？小学生参与班级劳动家长该不该插手？](https://www.zhihu.com/question/2078199895417274400)
+1. [小学老师感慨「梓萱」「子涵」已成过去式， 现在取名有哪些新趋势？为啥会发生这种变化？](https://www.zhihu.com/question/2078092686771409400)
 1. [怎么看美国《外交政策》（Foreign Policy）称「中国的成功正迫使美国重新思考AI战略」？](https://www.zhihu.com/question/2078117316865402400)
 1. [如何评价最白的乌鸦新书《请勿高考时渡劫》达成10万首订，这本书有意思不？](https://www.zhihu.com/question/2078429565551129000)
-1. [港媒曝香港武打巨星陈观泰去世，享年80岁，曾出演《马永贞》《血滴子》等，你对他塑造的角色有哪些记忆？](https://www.zhihu.com/question/2078467898893231000)
+1. [TOP登陆少年开演唱会，徐州12345被粉丝用作「对线」工具，近5万件诉求涌入，这种行为该受到处罚吗？](https://www.zhihu.com/question/2078472073869883000)
+1. [黄之锋在香港高等法院就「串谋勾结外国或者境外势力危害国家安全」案当庭认罪，哪些信息值得关注？](https://www.zhihu.com/question/2078466231653479700)
+1. [有人说「江浙沪小县城工资崩塌了」，是真的么？如果是，为什么会出现这种情况？](https://www.zhihu.com/question/2077784950183387600)
+1. [苹果新任 CEO 约翰·特努斯是什么来头？CEO 更替会给苹果带来什么影响？](https://www.zhihu.com/question/2029935316270842000)
 1. [「药茅」片仔癀半年报利润下滑 24.22%，其市值较巅峰已蒸发超 2100 亿，如何解读？](https://www.zhihu.com/question/2078054742500930000)
-1. [deepseek-v4-flash、glm-5.3-flash、qwen-3.8-flash怎么选择？](https://www.zhihu.com/question/2077826134134282200)
 1. [LCK季后赛HLE让二追三T1挺进胜者组决赛，如何评价这场比赛？](https://www.zhihu.com/question/2078576563612927200)
+1. [deepseek-v4-flash、glm-5.3-flash、qwen-3.8-flash怎么选择？](https://www.zhihu.com/question/2077826134134282200)
+1. [苹果、小米、华为发布时间撞档，为啥大家都选 9 月发布新品？扎堆发布不会影响销量吗？](https://www.zhihu.com/question/2078445037713450500)
 1. [美联储这次加息的概率有多大？](https://www.zhihu.com/question/2077297716640666600)
-1. [15 万的油车与 15 万的电车，相同用车情况下，8 年费用对比如何？](https://www.zhihu.com/question/2078379707381310700)
-1. [如何评价阿森纳在2026年夏窗尾声的转会操作？](https://www.zhihu.com/question/2076388541567853600)
+1. [为什么江西小炒会越来越多？](https://www.zhihu.com/question/2076963909853102300)
+1. [如何看待有网友冒充老师进入新生家长群诈骗收款，贴吧的传播版本中添加了收款方为米哈游的截图？](https://www.zhihu.com/question/2077847354464531700)
 1. [美伊再次开打，特朗普威胁伊朗若报复将遭受「更猛烈」打击，此轮袭击将如何影响中东局势？](https://www.zhihu.com/question/2078394585563100700)
 1. [如何评价纪录片克莱克森的农场?](https://www.zhihu.com/question/486632334)
 1. [大家身边有没有那种「名字很吓人，实地看却很普通」的地方？这样的名字是怎么来的？](https://www.zhihu.com/question/2075544888804905200)
-1. [如何培养一个孩子的时间观念呢？](https://www.zhihu.com/question/2078374347421508600)
+1. [如何评价阿森纳在2026年夏窗尾声的转会操作？](https://www.zhihu.com/question/2076388541567853600)
 1. [美国航母抵达泰国，泰方心情复杂，背后有哪些深层原因？](https://www.zhihu.com/question/2078403618252777000)
+1. [多所高校宣布中秋、国庆连放13天，称「避免学生反复往返耗费路费、体力」，如何看待这一做法？值得普及吗？](https://www.zhihu.com/question/2077824447755694600)
+1. [如何培养一个孩子的时间观念呢？](https://www.zhihu.com/question/2078374347421508600)
 1. [鸡蛋除了西红柿还能炒什么?](https://www.zhihu.com/question/2037443300584601000)
 1. [如何缓和与上司的关系？](https://www.zhihu.com/question/7692884686)
+1. [港媒曝香港武打巨星陈观泰去世，享年80岁，曾出演《马永贞》《血滴子》等，你对他塑造的角色有哪些记忆？](https://www.zhihu.com/question/2078467898893231000)
+1. [家长提议班级收 600 元请保洁，有家长反对被禁言，如何看待此事？小学生参与班级劳动家长该不该插手？](https://www.zhihu.com/question/2078199895417274400)
+1. [15 万的油车与 15 万的电车，相同用车情况下，8 年费用对比如何？](https://www.zhihu.com/question/2078379707381310700)
 1. [为什么很多大学生更喜欢买标准版 iPhone，而不是 Pro？](https://www.zhihu.com/question/2075613391306208800)
 1. [为什么郭芙会在风陵渡口挥马鞭威胁平民老百姓？](https://www.zhihu.com/question/2076828510795067400)
 1. [为什么洗烘一体机被越来越多人嫌弃？独立烘干机反而火了？](https://www.zhihu.com/question/2027791553876248000)
