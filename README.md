@@ -263,36 +263,20 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Sat Sep 05 2026 21:52:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 06 2026 00:49:16 GMT+0800 (China Standard Time) -->
 
 1. [武汉大学教授曾梦琪被举报](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E6%9B%BE%E6%A2%A6%E7%90%AA%E8%A2%AB%E4%B8%BE%E6%8A%A5)
 1. [女子吃甜虾肠道爬出寄生虫](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E5%90%83%E7%94%9C%E8%99%BE%E8%82%A0%E9%81%93%E7%88%AC%E5%87%BA%E5%AF%84%E7%94%9F%E8%99%AB)
-1. [搞笑诺贝尔奖来了：蟑螂奶获化学奖](https://www.zhihu.com/search?q=%E6%90%9E%E7%AC%91%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%E6%9D%A5%E4%BA%86%EF%BC%9A%E8%9F%91%E8%9E%82%E5%A5%B6%E8%8E%B7%E5%8C%96%E5%AD%A6%E5%A5%96)
 1. [GPT-6 正式发布](https://www.zhihu.com/search?q=GPT-6%20%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83)
+1. [汤家凤呼吁取消英语主科地位](https://www.zhihu.com/search?q=%E6%B1%A4%E5%AE%B6%E5%87%A4%E5%91%BC%E5%90%81%E5%8F%96%E6%B6%88%E8%8B%B1%E8%AF%AD%E4%B8%BB%E7%A7%91%E5%9C%B0%E4%BD%8D)
 1. [出发吧！看山](https://www.zhihu.com/search?q=%E5%87%BA%E5%8F%91%E5%90%A7%EF%BC%81%E7%9C%8B%E5%B1%B1)
-1. [乌克兰两大情报部门爆发枪战](https://www.zhihu.com/search?q=%E4%B9%8C%E5%85%8B%E5%85%B0%E4%B8%A4%E5%A4%A7%E6%83%85%E6%8A%A5%E9%83%A8%E9%97%A8%E7%88%86%E5%8F%91%E6%9E%AA%E6%88%98)
-1. [羽衣甘蓝 农药](https://www.zhihu.com/search?q=%E7%BE%BD%E8%A1%A3%E7%94%98%E8%93%9D%20%E5%86%9C%E8%8D%AF)
-1. [尊界销量或暴跌 90%](https://www.zhihu.com/search?q=%E5%B0%8A%E7%95%8C%E9%94%80%E9%87%8F%E6%88%96%E6%9A%B4%E8%B7%8C%2090%25)
 1. [樊振东3-0胜鲁伊斯](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C3-0%E8%83%9C%E9%B2%81%E4%BC%8A%E6%96%AF)
-1. [iG 鏖战五局淘汰 TES](https://www.zhihu.com/search?q=iG%20%E9%8F%96%E6%88%98%E4%BA%94%E5%B1%80%E6%B7%98%E6%B1%B0%20TES)
 1. [乌克兰两部门基辅交火](https://www.zhihu.com/search?q=%E4%B9%8C%E5%85%8B%E5%85%B0%E4%B8%A4%E9%83%A8%E9%97%A8%E5%9F%BA%E8%BE%85%E4%BA%A4%E7%81%AB)
 1. [江西吉安山体滑坡十余人被埋](https://www.zhihu.com/search?q=%E6%B1%9F%E8%A5%BF%E5%90%89%E5%AE%89%E5%B1%B1%E4%BD%93%E6%BB%91%E5%9D%A1%E5%8D%81%E4%BD%99%E4%BA%BA%E8%A2%AB%E5%9F%8B)
-1. [汤家凤呼吁取消英语主科地位](https://www.zhihu.com/search?q=%E6%B1%A4%E5%AE%B6%E5%87%A4%E5%91%BC%E5%90%81%E5%8F%96%E6%B6%88%E8%8B%B1%E8%AF%AD%E4%B8%BB%E7%A7%91%E5%9C%B0%E4%BD%8D)
-1. [Claude 完成费马大定理形式化证明](https://www.zhihu.com/search?q=Claude%20%E5%AE%8C%E6%88%90%E8%B4%B9%E9%A9%AC%E5%A4%A7%E5%AE%9A%E7%90%86%E5%BD%A2%E5%BC%8F%E5%8C%96%E8%AF%81%E6%98%8E)
 1. [曝科大讯飞公关副总裁被解除职务](https://www.zhihu.com/search?q=%E6%9B%9D%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9E%E5%85%AC%E5%85%B3%E5%89%AF%E6%80%BB%E8%A3%81%E8%A2%AB%E8%A7%A3%E9%99%A4%E8%81%8C%E5%8A%A1)
+1. [iG 鏖战五局淘汰 TES](https://www.zhihu.com/search?q=iG%20%E9%8F%96%E6%88%98%E4%BA%94%E5%B1%80%E6%B7%98%E6%B1%B0%20TES)
+1. [搞笑诺贝尔奖来了：蟑螂奶获化学奖](https://www.zhihu.com/search?q=%E6%90%9E%E7%AC%91%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%E6%9D%A5%E4%BA%86%EF%BC%9A%E8%9F%91%E8%9E%82%E5%A5%B6%E8%8E%B7%E5%8C%96%E5%AD%A6%E5%A5%96)
 1. [乡音无改鬓毛shuāi远上寒山石径xié](https://www.zhihu.com/search?q=%E4%B9%A1%E9%9F%B3%E6%97%A0%E6%94%B9%E9%AC%93%E6%AF%9Bshu%C4%81i%E8%BF%9C%E4%B8%8A%E5%AF%92%E5%B1%B1%E7%9F%B3%E5%BE%84xi%C3%A9)
-1. [西藏日喀则吉隆口岸发生泥石流](https://www.zhihu.com/search?q=%E8%A5%BF%E8%97%8F%E6%97%A5%E5%96%80%E5%88%99%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E5%8F%91%E7%94%9F%E6%B3%A5%E7%9F%B3%E6%B5%81)
-1. [山东产妇剖宫产身亡鉴定三度反转](https://www.zhihu.com/search?q=%E5%B1%B1%E4%B8%9C%E4%BA%A7%E5%A6%87%E5%89%96%E5%AE%AB%E4%BA%A7%E8%BA%AB%E4%BA%A1%E9%89%B4%E5%AE%9A%E4%B8%89%E5%BA%A6%E5%8F%8D%E8%BD%AC)
-1. [人人影视回归变正版](https://www.zhihu.com/search?q=%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86%E5%9B%9E%E5%BD%92%E5%8F%98%E6%AD%A3%E7%89%88)
-1. [孙宇晨最新发文](https://www.zhihu.com/search?q=%E5%AD%99%E5%AE%87%E6%99%A8%E6%9C%80%E6%96%B0%E5%8F%91%E6%96%87)
-1. [张继科带教乒乓球一个半小时25元](https://www.zhihu.com/search?q=%E5%BC%A0%E7%BB%A7%E7%A7%91%E5%B8%A6%E6%95%99%E4%B9%92%E4%B9%93%E7%90%83%E4%B8%80%E4%B8%AA%E5%8D%8A%E5%B0%8F%E6%97%B625%E5%85%83)
-1. [官方通报星宇股份批量劝退应届生](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%98%9F%E5%AE%87%E8%82%A1%E4%BB%BD%E6%89%B9%E9%87%8F%E5%8A%9D%E9%80%80%E5%BA%94%E5%B1%8A%E7%94%9F)
-1. [充值1000误到账26419933亿元](https://www.zhihu.com/search?q=%E5%85%85%E5%80%BC1000%E8%AF%AF%E5%88%B0%E8%B4%A626419933%E4%BA%BF%E5%85%83)
-1. [49岁公司高管接受临床试药后死亡](https://www.zhihu.com/search?q=49%E5%B2%81%E5%85%AC%E5%8F%B8%E9%AB%98%E7%AE%A1%E6%8E%A5%E5%8F%97%E4%B8%B4%E5%BA%8A%E8%AF%95%E8%8D%AF%E5%90%8E%E6%AD%BB%E4%BA%A1)
-1. [ChatGPT等AI服务集体故障](https://www.zhihu.com/search?q=ChatGPT%E7%AD%89AI%E6%9C%8D%E5%8A%A1%E9%9B%86%E4%BD%93%E6%95%85%E9%9A%9C)
-1. [美国 8 月非农数据公布](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%208%20%E6%9C%88%E9%9D%9E%E5%86%9C%E6%95%B0%E6%8D%AE%E5%85%AC%E5%B8%83)
-1. [西藏泥石流已致 31 死 531 失联](https://www.zhihu.com/search?q=%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B4%2031%20%E6%AD%BB%20531%20%E5%A4%B1%E8%81%94)
-1. [美国女篮 vs 中国女篮](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E7%AF%AE%20vs%20%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE)
 
 <!-- END ZHIHUSEARCH -->
 
