@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-09-05 12:33:05
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-09-05 17:07:45
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -229,27 +229,47 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Sat Sep 05 2026 12:33:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Sep 05 2026 17:07:45 GMT+0800 (China Standard Time) -->
 
-1. [女子吃甜虾后肚子痛 10 多天，肠道发现寄生虫，人们常说海水里的生鲜没有寄生虫靠谱吗？怎样吃才安全？](https://www.zhihu.com/question/2078660058091729200)
+1. [考研数学名师汤家凤呼吁取消英语主科地位，你赞同吗？将对人才培养和学生发展带来哪些影响？](https://www.zhihu.com/question/2079506556077466600)
 1. [如何看待王者荣耀上线高校认证功能，清华北大认证在二手平台炒到两千元，客服称已下线？这会加重学历焦虑吗？](https://www.zhihu.com/question/2078869409796286200)
-1. [学校通知HPV接种，很多家长明确不接种，为什么？](https://www.zhihu.com/question/1998057738819893200)
-1. [江苏一小学家长自费更换桌椅，校方称「学校提供桌椅，家长自主行为」，如何看待此事？](https://www.zhihu.com/question/2079478431868090000)
-1. [为啥银行会出现「存 1 年利息高于存 5 年」的倒挂？会给普通储户带来哪些影响？](https://www.zhihu.com/question/2078913179468543500)
+1. [华为何庭波再提「本该烧毁的『τ芯片』」，这揭示了华为怎样的芯片自研能力？](https://www.zhihu.com/question/2079321890846516500)
+1. [中国会出现公认的第五个一线城市吗?](https://www.zhihu.com/question/1965402803242529500)
+1. [为什么歌手上节目唱歌，总喜欢改编一下呢？为什么不按原版本好好唱呢？](https://www.zhihu.com/question/1927113485998888200)
+1. [如何看待乌克兰两大情报部门 GUR 和 SBU 爆发内讧，视频显示双方发生枪战？背后有何矛盾？](https://www.zhihu.com/question/2078445433446314500)
 1. [《沙丘》在西方被捧成神作，为什么我却觉得很一般、看不进去，是审美没到位吗？](https://www.zhihu.com/question/2078099179461670000)
+1. [江苏一小学家长自费更换桌椅，校方称「学校提供桌椅，家长自主行为」，如何看待此事？](https://www.zhihu.com/question/2079478431868090000)
+1. [员工因拒绝通宵出差安排，直接被公司以「不出差算旷工」为由开除，这合法吗？暴露出哪些问题？](https://www.zhihu.com/question/2079250649204651800)
+1. [为什么脱口秀演员徐志胜会这么火？](https://www.zhihu.com/question/628355725)
+1. [如何看待 Anthropic 利用 Claude 完成费马大定理的 lean4 形式化证明？](https://www.zhihu.com/question/2079407782139261400)
+1. [西藏泥石流已致 31 死 531 失联，发现遗物 987 件，有哪些信息值得关注？](https://www.zhihu.com/question/2079299152500847600)
+1. [女子吃甜虾后肚子痛 10 多天，肠道发现寄生虫，人们常说海水里的生鲜没有寄生虫靠谱吗？怎样吃才安全？](https://www.zhihu.com/question/2078660058091729200)
+1. [江西吉安遂川县高坪镇发生山体滑坡，十余人被埋，目前救援进展如何？](https://www.zhihu.com/question/2079536014293300000)
+1. [如何看待因被要求补缴社保，老板在店门口滚屏抱怨”选择员工需谨慎”？](https://www.zhihu.com/question/2079235027733423400)
+1. [耿同学锤刘光慧、曲静的《Nature》论文涉数据造假，哪些信息值得关注？](https://www.zhihu.com/question/2079254543552837400)
+1. [为啥银行会出现「存 1 年利息高于存 5 年」的倒挂？会给普通储户带来哪些影响？](https://www.zhihu.com/question/2078913179468543500)
+1. [荷兰、法国等多国为什么要从美国运回黄金？这会对全球金融市场及美元体系产生什么影响？](https://www.zhihu.com/question/2079165893582350300)
+1. [有什么XX把XX带到了不属于它高度的鲜活例子？](https://www.zhihu.com/question/2074845232483525400)
+1. [美国『林肯』号航母现身油漆脱落、遍布锈迹，这在航母日常维护中属于正常现象吗？](https://www.zhihu.com/question/2079118182971920400)
+1. [IGN 为《鬼武者》新作打出 10 分满分，你如何看待这一评价？实际上手之后您觉得它真的好玩吗？](https://www.zhihu.com/question/2078064739326882300)
+1. [是否正是吕雉的贪心和狠毒毁掉了她儿子和吕姓一族？](https://www.zhihu.com/question/7654284193)
+1. [一人之下775话更新，如何看待风沙燕和单士童的行为，算不算找死？](https://www.zhihu.com/question/2079160636311856600)
+1. [程序员每天消耗几千万上亿的Token，到底产出了什么？](https://www.zhihu.com/question/2078056911908365600)
+1. [为什么现在访谈类播客越来越泛滥，嘉宾来回串台排列组合，输出的观点却高度趋同、道理拥堵？](https://www.zhihu.com/question/2076263860634215000)
+1. [有什么推荐的凉拌菜？](https://www.zhihu.com/question/646851717)
+1. [孩子天天熬夜玩手机到12点以后不睡觉怎么办？](https://www.zhihu.com/question/2078723874821235200)
+1. [我觉得心理学上的“讨好型人格”被过度无害化了，我觉得有一种讨好型人格不是可怜，是自私是我错了吗？](https://www.zhihu.com/question/2077417322185240800)
+1. [你们都喜欢吃什么野菜？](https://www.zhihu.com/question/653719766)
+1. [对于小学生下午放学后到托管班写作业，你是如何看待的？](https://www.zhihu.com/question/3291760605)
+1. [学校通知HPV接种，很多家长明确不接种，为什么？](https://www.zhihu.com/question/1998057738819893200)
 1. [如何评价《凡人修仙传》第190集？](https://www.zhihu.com/question/2077882976411636200)
 1. [突然之间破亿，鸿蒙系统和开源鸿蒙为什么发展的如此之快？](https://www.zhihu.com/question/2078432156339140400)
 1. [吴恩达称「AI时代部分高校困在22年」，高校现在真和AI时代脱节了吗？学生又该如何跟上时代的步伐？](https://www.zhihu.com/question/2078276275073038000)
 1. [为什么下围棋讲究安静，不能像下象棋一样周围围一圈人七嘴八舌的指指点点？](https://www.zhihu.com/question/613603103)
-1. [荷兰、法国等多国为什么要从美国运回黄金？这会对全球金融市场及美元体系产生什么影响？](https://www.zhihu.com/question/2079165893582350300)
-1. [西藏泥石流已致 31 死 531 失联，发现遗物 987 件，有哪些信息值得关注？](https://www.zhihu.com/question/2079299152500847600)
 1. [LCK 季后赛 DK 3:1 KT，DK 晋级 S16 全球总决赛，如何评价这场比赛？](https://www.zhihu.com/question/2079294634270914000)
 1. [怎么看 GPT-6 Astra 在 AA 上评分指数不如 Muse Spark 1.3 ？](https://www.zhihu.com/question/2079137904685748200)
 1. [为什么总感觉妈妈还是三十几岁，大家潜意识里的妈妈都是多大？](https://www.zhihu.com/question/2032417402252686800)
-1. [耿同学锤刘光慧、曲静的《Nature》论文涉数据造假，哪些信息值得关注？](https://www.zhihu.com/question/2079254543552837400)
 1. [你更愿意选择离家近但简单的工作还是离家远有挑战的工作？](https://www.zhihu.com/question/2073674595580769800)
-1. [程序员每天消耗几千万上亿的Token，到底产出了什么？](https://www.zhihu.com/question/2078056911908365600)
-1. [为什么脱口秀演员徐志胜会这么火？](https://www.zhihu.com/question/628355725)
 1. [凡人最新一季还有可能整季回炉重造吗？](https://www.zhihu.com/question/2078062881141175300)
 1. [如何评价GPT-6Astra，是目前智能程度最高的模型吗？](https://www.zhihu.com/question/2079099260516184300)
 1. [罗永浩称「谁做老人傻瓜电视，我免费带货一年」，商业上如何看电视越做越复杂，但想看电视却越来越麻烦？](https://www.zhihu.com/question/2078137132128920300)
@@ -259,7 +279,6 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [给《鬼武者：剑之道》打出10分的IGN编辑曾给过《黑神话：悟空》6分低分，如何看待他的打分标准？](https://www.zhihu.com/question/2078143653114136300)
 1. [如何看待Mostik让753B大模型读题、4B小模型写答案，AI Agent会走向隐空间通信吗？](https://www.zhihu.com/question/2078846094822347800)
 1. [是什么让你从堕落变得上进/自律？](https://www.zhihu.com/question/331786825)
-1. [为什么现在访谈类播客越来越泛滥，嘉宾来回串台排列组合，输出的观点却高度趋同、道理拥堵？](https://www.zhihu.com/question/2076263860634215000)
 1. [如何评价布伦森称：我绝不会自称纽约之王，父母和挚友让我保持谦逊 ？](https://www.zhihu.com/question/2078401486355224300)
 1. [央视晚会将「乡音无改鬓毛衰」读 shuāi 而非 cuī，为什么和早年学的不一样了？如何看待这一变化？](https://www.zhihu.com/question/2079167935671530500)
 1. [家长在寿司郎餐位用杯子给孩童接尿，顾客称服务员未加制止，从海底捞到寿司郎，门店遇此类事该怎么妥善处理？](https://www.zhihu.com/question/2079182746052552400)
