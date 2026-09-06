@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-09-06 13:59:58
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-09-06 19:00:48
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -256,23 +256,46 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Sun Sep 06 2026 13:59:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 06 2026 19:00:48 GMT+0800 (China Standard Time) -->
 
-1. [有律师说剧本杀可能暗含色情服务，是这样吗？会有一些未成年人沉迷其中，存在什么危害？家长维权难在哪？](https://www.zhihu.com/question/2079604590219982300)
 1. [如何看待联合国倡导使用“平等地球投影法”，这会让统治地图圈几百年的“墨卡托投影”彻底退出历史舞台吗？](https://www.zhihu.com/question/2079538010077643500)
+1. [如何看待 China GT 上海站赛车起火，车手放弃比赛救人，车队要求调查？赛事应急救援存在哪些漏洞？](https://www.zhihu.com/question/2079902139359257000)
+1. [有律师说剧本杀可能暗含色情服务，是这样吗？会有一些未成年人沉迷其中，存在什么危害？家长维权难在哪？](https://www.zhihu.com/question/2079604590219982300)
+1. [如何评价N-S方程疑似被AI解决？](https://www.zhihu.com/question/2079574865397532400)
+1. [江西一低保家庭女孩自己攒钱去香港看演唱会被取消低保，你怎么看？](https://www.zhihu.com/question/2079866742101241900)
+1. [「葫芦娃爷爷」剪掉了全网走红的 7 个青葫芦，为何要提前剪藤？游客的「热情」为何最终成了老人的负担？](https://www.zhihu.com/question/2079675637837706500)
+1. [外国人真的像电影《龙餐馆》里一样喜欢中餐吗？](https://www.zhihu.com/question/2075265748168193300)
+1. [为什么《笑傲江湖》里人人都抢辟邪剑谱，却没人抢独孤九剑？](https://www.zhihu.com/question/2079664909302998000)
+1. [为啥白宫开始流行吃酸菜了？万斯自称吃酸菜减重成功，酸菜真能减肥吗？](https://www.zhihu.com/question/2079254257211893500)
+1. [《花儿与少年 2》被誉为内娱综艺史上无法超越的巅峰，如何评价其历史地位？](https://www.zhihu.com/question/2077565722000213000)
+1. [财政部将向中国人寿集团注资350亿元，向中国太平保险集团注资70亿元，如何解读？](https://www.zhihu.com/question/2079970428131468500)
+1. [贵中医二附院一医生疑被患者捅伤，一名肠癌患者将刀具藏在锦旗中带入，警方通报嫌疑人被刑拘，如何看待此事？](https://www.zhihu.com/question/2079356445703915500)
+1. [如何看待张家齐已是奥运冠军，妈妈却仍因她不会收拾、整理而频繁数落？暴露了怎样的亲子关系问题？](https://www.zhihu.com/question/2079911199861379000)
+1. [华为何庭波再更新「韬定律」论文，有哪些关键信息值得关注？](https://www.zhihu.com/question/2079335929563632600)
+1. [有哪些信、达、不雅的翻译？](https://www.zhihu.com/question/54548932)
+1. [中国需要多久达到或超过 GPT-6 Astra 级别的模型水平？](https://www.zhihu.com/question/2079675087209419300)
+1. [新版教材将简易方程移出小学数学，把方程还给初中，是减负还是思维倒退？](https://www.zhihu.com/question/2073063745861972500)
+1. [LPL2026 赛季季后赛 iG 3:1 淘汰 WE 跻身四强，如何评价这场比赛？](https://www.zhihu.com/question/2079918542762334200)
+1. [山姆 9 个月新增百万会员，沃尔玛借鉴山姆选品逻辑开社区店，山姆这套「受喜爱密码」能被复制吗？](https://www.zhihu.com/question/2078085373364913700)
+1. [为什么今年的脱口秀比赛不温不火？是不好笑了还是大家都不爱看了？](https://www.zhihu.com/question/2077777515964097800)
+1. [如何评价米哈游AGC平台推出视频AI生成业务？](https://www.zhihu.com/question/2078600563781063400)
+1. [河北的张飞是杀猪的，山西的关羽是卖枣的，他们在哪学的武艺？](https://www.zhihu.com/question/426938125)
+1. [全球首个乙肝功能性治愈新药日本获批，慢性乙肝患者这下真能摆脱终身服药了吗？](https://www.zhihu.com/question/2075883163637604400)
+1. [为什么感觉一下子大家都没钱了?](https://www.zhihu.com/question/660106748)
+1. [《杀死比尔：血色全传》首次登陆中国内地院线，看完这部影片，你有什么感想或者评价？](https://www.zhihu.com/question/2079243972237424400)
+1. [19岁的张子宇世界杯中美女篮首秀，得13分六篮板，如何评价她的表现？](https://www.zhihu.com/question/2079566714774218200)
+1. [如何评价近年来越来越多的本科生参与撰写人工智能领域的学术论文这一现象？](https://www.zhihu.com/question/656916384)
+1. [武侠游戏里的顶级门派,为什么总建在人迹罕至的深山,而不是人流密集的都市?](https://www.zhihu.com/question/2067891927782012700)
+1. [怎么看 OpenAI 说GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了？](https://www.zhihu.com/question/2079666454430072800)
+1. [为什么很多人在失业后，宁愿一个人待在出租屋，也不愿意回家？](https://www.zhihu.com/question/2074283416477085700)
 1. [2026 搞笑诺贝尔奖来了，「蟑螂奶」获化学奖，其能量据称是牛奶 4 倍，还有哪些看点？](https://www.zhihu.com/question/2079576214402855000)
 1. [WSBK 法国站第一回合，德比斯驾驶「张雪机车」，发生撞车后仍跑到第三，如何评价这场比赛？](https://www.zhihu.com/question/2079671901241328400)
-1. [外国人真的像电影《龙餐馆》里一样喜欢中餐吗？](https://www.zhihu.com/question/2075265748168193300)
 1. [2026 年钻石联赛女子标枪决赛严子怡投出 68 米 42，实现钻石联赛五连冠，如何评价她的表现？](https://www.zhihu.com/question/2079836825447655000)
 1. [现在的电脑明明越来越高级，用起来为什么没感觉快很多？](https://www.zhihu.com/question/2078550836150642400)
-1. [为啥白宫开始流行吃酸菜了？万斯自称吃酸菜减重成功，酸菜真能减肥吗？](https://www.zhihu.com/question/2079254257211893500)
 1. [你觉得哪一项计算机技术被大众严重低估了？](https://www.zhihu.com/question/2078550836104394200)
 1. [摇滚歌手何勇病逝，年仅 57 岁，长期精神疾病会怎样影响一个人的健康状况和寿命？](https://www.zhihu.com/question/2079198035968356400)
-1. [贵中医二附院一医生疑被患者捅伤，一名肠癌患者将刀具藏在锦旗中带入，警方通报嫌疑人被刑拘，如何看待此事？](https://www.zhihu.com/question/2079356445703915500)
-1. [怎么看 OpenAI 说GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了？](https://www.zhihu.com/question/2079666454430072800)
 1. [如何评价《欢迎来龙餐馆》IF 线中马俊生和丽娜的婚礼彩蛋？](https://www.zhihu.com/question/2073425584294727700)
 1. [盖尔·加朵确认 DC 未计划她继续出演神奇女侠，这对于 DC 新电影宇宙意味着什么？](https://www.zhihu.com/question/2077943776237114400)
-1. [有哪些信、达、不雅的翻译？](https://www.zhihu.com/question/54548932)
 1. [9月5日苏超联赛徐州1-1盐城、南通1-0连云港、南京2-2泰州，如何评价各队表现？](https://www.zhihu.com/question/2079684677712061700)
 1. [我年入80万，老婆全职带娃，该不该让她在钱上完全听我的？](https://www.zhihu.com/question/2075834614329905700)
 1. [为什么轩辕剑系列没有仙剑系列火？](https://www.zhihu.com/question/21238608)
@@ -282,7 +305,6 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [郑钦文 2-1 凯斯，晋级美网 16 强，决胜局 0-5 落后上演超级大逆转，如何评价她的表现？](https://www.zhihu.com/question/2079745891850778000)
 1. [为什么现在的职场人越来越不喜欢“讨好”领导，是不懂人情世故还是观念变了？](https://www.zhihu.com/question/2013217638784977000)
 1. [为什么很多名著大多人都看不下去，却仍被称为名著？](https://www.zhihu.com/question/56685770)
-1. [为什么感觉一下子大家都没钱了?](https://www.zhihu.com/question/660106748)
 1. [为什么古代有守大城必野战的说法?](https://www.zhihu.com/question/22939785)
 1. [如何看待《一人之下》东北篇夭折？](https://www.zhihu.com/question/2074268863521354800)
 1. [联合国警告称升温1.5℃已无法避免，能做的只有压低超额升温，这是否意味着变暖要失控了？](https://www.zhihu.com/question/2079482537852811300)
