@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-09-11 02:31:28
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-09-11 05:40:30
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -140,38 +140,40 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Fri Sep 11 2026 02:31:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 11 2026 05:40:30 GMT+0800 (China Standard Time) -->
 
 1. [女子旧手机号二次放号后支付宝被哈啰盗刷 6551 元，平台仅补 200 元，这合理吗？暴露了哪些问题？](https://www.zhihu.com/question/2081001656066504200)
-1. [我不明白中国网球一姐郑钦文，为啥前段时间状态低迷，这次美网她就如换了一个人似的？](https://www.zhihu.com/question/2080059745206125000)
 1. [数学已经被 AI 彻底革命了么？](https://www.zhihu.com/question/2081004982103270000)
-1. [酒店为什么会有三小时钟点房？](https://www.zhihu.com/question/351651719)
-1. [如何看待大二学生因用名牌手机被取消资助后威胁要曝光，现愿意更换手机、到资助者亲戚家的店里打工挣钱？](https://www.zhihu.com/question/2080768309436458200)
-1. [浦东机场出租车司机以「车坏了」、「提前付钱」为由甩客，乱象背后原因是什么？](https://www.zhihu.com/question/2079910901730300400)
-1. [2026 女篮世界杯 1/4 决赛，中国女篮61比90不敌法国女篮，止步八强，如何评价本场比赛？](https://www.zhihu.com/question/2081332911245096700)
+1. [我不明白中国网球一姐郑钦文，为啥前段时间状态低迷，这次美网她就如换了一个人似的？](https://www.zhihu.com/question/2080059745206125000)
 1. [既然AI一分钟就能开发出像《开心消消乐》《植物大战僵尸》这样的游戏，为什么排行榜上还是这些老游戏？](https://www.zhihu.com/question/2076970531870466800)
+1. [如何看待大二学生因用名牌手机被取消资助后威胁要曝光，现愿意更换手机、到资助者亲戚家的店里打工挣钱？](https://www.zhihu.com/question/2080768309436458200)
 1. [我看《明朝那些事儿》，发现宦官这个字眼尤为频繁，但唯独少了外戚，请问外戚去哪里了？](https://www.zhihu.com/question/2066992982801306600)
-1. [如何评价正式发布的 DeepSeek V4.1 Flash？](https://www.zhihu.com/question/2081380378493961500)
+1. [2026 女篮世界杯 1/4 决赛，中国女篮61比90不敌法国女篮，止步八强，如何评价本场比赛？](https://www.zhihu.com/question/2081332911245096700)
+1. [浦东机场出租车司机以「车坏了」、「提前付钱」为由甩客，乱象背后原因是什么？](https://www.zhihu.com/question/2079910901730300400)
+1. [酒店为什么会有三小时钟点房？](https://www.zhihu.com/question/351651719)
 1. [网友吐槽各大地方台充斥着虚假卖药广告，是普遍现象吗？电视台广告审查机制是怎样的，为何屡禁不止？](https://www.zhihu.com/question/2081025720684209700)
+1. [怎么看 GPT-6 Astra 判断代码没人看的时候，会倾向写人类看不懂的高度压缩“机器垃圾代码”？](https://www.zhihu.com/question/2080336745191817700)
 1. [新加坡印度裔占高级公务员 35%，远超人口占比 9%，这背后可能有哪些原因？](https://www.zhihu.com/question/2080661249017246200)
-1. [如何评价动画《BanG Dream! YUME∞MITA》第13集?](https://www.zhihu.com/question/2081158275156940300)
-1. [白人饭的魅力主要是省时还是健康？](https://www.zhihu.com/question/2068725103534330400)
+1. [工业革命给人类最大的启示是什么？或者说揭示的最深层次的原理是什么？](https://www.zhihu.com/question/2057205241355954000)
+1. [如何评价世界历史上的包税制度？](https://www.zhihu.com/question/268232269)
 1. [「员工裸奔拉屎事件」事发储能巨头瑞浦兰钧，公司称因离职手续引发，哪些信息值得关注？](https://www.zhihu.com/question/2081467325547373000)
 1. [iPhone Duo 靠雾面纳米玻璃降低折痕可见度，怎样看待这种方式？要完全消除折叠痕还有哪些难点？](https://www.zhihu.com/question/2081316147840771600)
-1. [工业革命给人类最大的启示是什么？或者说揭示的最深层次的原理是什么？](https://www.zhihu.com/question/2057205241355954000)
-1. [怎么看 GPT-6 Astra 判断代码没人看的时候，会倾向写人类看不懂的高度压缩“机器垃圾代码”？](https://www.zhihu.com/question/2080336745191817700)
 1. [如何评价《王者万象棋》这款游戏？它到底好不好玩？](https://www.zhihu.com/question/2080986057722574800)
-1. [如何看待三星嘲讽苹果 iPhoneDuo，称其「热剩饭」？苹果这个时候为什么一定要推出折叠屏手机？](https://www.zhihu.com/question/2081320443747594800)
 1. [陈赫电竞房引发热议，其「含金量」体现在哪些方面，对普通玩家有何参考？](https://www.zhihu.com/question/2072254278954230300)
 1. [为什么武侠游戏越来越少出现蜀山这个概念了？](https://www.zhihu.com/question/2071713815440446500)
+1. [如何看待三星嘲讽苹果 iPhoneDuo，称其「热剩饭」？苹果这个时候为什么一定要推出折叠屏手机？](https://www.zhihu.com/question/2081320443747594800)
 1. [为什么感觉国内以前很常见的铁路道口现在很多都停用撤销了？](https://www.zhihu.com/question/1981267614182445600)
-1. [为什么阴天的时候人的情绪更容易低落？光照变化会通过怎样的生物通路，影响我们大脑的情绪状态？](https://www.zhihu.com/question/2079260262738221000)
-1. [你会希望孩子反驳你的意见吗，为什么？](https://www.zhihu.com/question/1924490442285749500)
-1. [在魔兽争霸三中，如果禁用了所有驱散效果，那么哪个种族最强，哪个最弱?](https://www.zhihu.com/question/1924416585944262700)
-1. [家里做的哪道菜是厨房的经典？](https://www.zhihu.com/question/4385663585)
-1. [为什么和宠物说话会感到快乐？](https://www.zhihu.com/question/15021848795)
 1. [有了DeepSeek后，是不是不用看书了？](https://www.zhihu.com/question/11386602914)
+1. [在魔兽争霸三中，如果禁用了所有驱散效果，那么哪个种族最强，哪个最弱?](https://www.zhihu.com/question/1924416585944262700)
+1. [如何评价动画《BanG Dream! YUME∞MITA》第13集?](https://www.zhihu.com/question/2081158275156940300)
+1. [你会希望孩子反驳你的意见吗，为什么？](https://www.zhihu.com/question/1924490442285749500)
+1. [为什么阴天的时候人的情绪更容易低落？光照变化会通过怎样的生物通路，影响我们大脑的情绪状态？](https://www.zhihu.com/question/2079260262738221000)
+1. [为什么和宠物说话会感到快乐？](https://www.zhihu.com/question/15021848795)
+1. [家里做的哪道菜是厨房的经典？](https://www.zhihu.com/question/4385663585)
 1. [怎么平衡生活与工作，才能轻松点？](https://www.zhihu.com/question/1904524332379636000)
+1. [不想当导演的编剧是好编剧么？](https://www.zhihu.com/question/1919552818257327900)
+1. [如何评价正式发布的 DeepSeek V4.1 Flash？](https://www.zhihu.com/question/2081380378493961500)
+1. [白人饭的魅力主要是省时还是健康？](https://www.zhihu.com/question/2068725103534330400)
 
 <!-- END ZHIHUQUESTIONS -->
 
