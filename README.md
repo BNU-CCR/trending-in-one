@@ -269,41 +269,20 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Thu Sep 10 2026 19:13:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 11 2026 00:22:22 GMT+0800 (China Standard Time) -->
 
-1. [青岛一货轮火灾已造成 20 人遇难](https://www.zhihu.com/search?q=%E9%9D%92%E5%B2%9B%E4%B8%80%E8%B4%A7%E8%BD%AE%E7%81%AB%E7%81%BE%E5%B7%B2%E9%80%A0%E6%88%90%2020%20%E4%BA%BA%E9%81%87%E9%9A%BE)
+1. [青岛一货轮火灾已造成 25 人遇难](https://www.zhihu.com/search?q=%E9%9D%92%E5%B2%9B%E4%B8%80%E8%B4%A7%E8%BD%AE%E7%81%AB%E7%81%BE%E5%B7%B2%E9%80%A0%E6%88%90%2025%20%E4%BA%BA%E9%81%87%E9%9A%BE)
 1. [刘翔被体育局买断获49.4万](https://www.zhihu.com/search?q=%E5%88%98%E7%BF%94%E8%A2%AB%E4%BD%93%E8%82%B2%E5%B1%80%E4%B9%B0%E6%96%AD%E8%8E%B749.4%E4%B8%87)
-1. [霍奇猜想疑被OpenAI解决](https://www.zhihu.com/search?q=%E9%9C%8D%E5%A5%87%E7%8C%9C%E6%83%B3%E7%96%91%E8%A2%ABOpenAI%E8%A7%A3%E5%86%B3)
 1. [2026 苹果秋季发布会](https://www.zhihu.com/search?q=2026%20%E8%8B%B9%E6%9E%9C%E7%A7%8B%E5%AD%A3%E5%8F%91%E5%B8%83%E4%BC%9A)
-1. [知乎 CLI 创作者能力上新](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%20CLI%20%E5%88%9B%E4%BD%9C%E8%80%85%E8%83%BD%E5%8A%9B%E4%B8%8A%E6%96%B0)
-1. [DeepSeek V4.1 Flash 发布](https://www.zhihu.com/search?q=DeepSeek%20V4.1%20Flash%20%E5%8F%91%E5%B8%83)
-1. [苹果折叠屏iPhone Duo发布](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8FiPhone%20Duo%E5%8F%91%E5%B8%83)
-1. [日本暴发梅毒疫情](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%9A%B4%E5%8F%91%E6%A2%85%E6%AF%92%E7%96%AB%E6%83%85)
-1. [刘翔工资卡11年0支出](https://www.zhihu.com/search?q=%E5%88%98%E7%BF%94%E5%B7%A5%E8%B5%84%E5%8D%A111%E5%B9%B40%E6%94%AF%E5%87%BA)
 1. [江西孩子看演唱会后全家低保取消](https://www.zhihu.com/search?q=%E6%B1%9F%E8%A5%BF%E5%AD%A9%E5%AD%90%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8E%E5%85%A8%E5%AE%B6%E4%BD%8E%E4%BF%9D%E5%8F%96%E6%B6%88)
-1. [某厂车间裸奔扔粪便传闻](https://www.zhihu.com/search?q=%E6%9F%90%E5%8E%82%E8%BD%A6%E9%97%B4%E8%A3%B8%E5%A5%94%E6%89%94%E7%B2%AA%E4%BE%BF%E4%BC%A0%E9%97%BB)
-1. [C919 再次出现零交付](https://www.zhihu.com/search?q=C919%20%E5%86%8D%E6%AC%A1%E5%87%BA%E7%8E%B0%E9%9B%B6%E4%BA%A4%E4%BB%98)
-1. [宁德时代已报警](https://www.zhihu.com/search?q=%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%B7%B2%E6%8A%A5%E8%AD%A6)
-1. [苹果折叠屏iPhone Duo](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8FiPhone%20Duo)
-1. [教师节](https://www.zhihu.com/search?q=%E6%95%99%E5%B8%88%E8%8A%82)
-1. [上海市体育局回应刘翔买断](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E5%B8%82%E4%BD%93%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%88%98%E7%BF%94%E4%B9%B0%E6%96%AD)
+1. [「裸奔拉屎」系事发储能巨头瑞浦兰钧](https://www.zhihu.com/search?q=%E3%80%8C%E8%A3%B8%E5%A5%94%E6%8B%89%E5%B1%8E%E3%80%8D%E7%B3%BB%E4%BA%8B%E5%8F%91%E5%82%A8%E8%83%BD%E5%B7%A8%E5%A4%B4%E7%91%9E%E6%B5%A6%E5%85%B0%E9%92%A7)
+1. [知乎 CLI 创作者能力上新](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%20CLI%20%E5%88%9B%E4%BD%9C%E8%80%85%E8%83%BD%E5%8A%9B%E4%B8%8A%E6%96%B0)
+1. [女篮世界杯中国vs法国](https://www.zhihu.com/search?q=%E5%A5%B3%E7%AF%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BDvs%E6%B3%95%E5%9B%BD)
+1. [日本暴发梅毒疫情](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%9A%B4%E5%8F%91%E6%A2%85%E6%AF%92%E7%96%AB%E6%83%85)
+1. [霍奇猜想疑被OpenAI解决](https://www.zhihu.com/search?q=%E9%9C%8D%E5%A5%87%E7%8C%9C%E6%83%B3%E7%96%91%E8%A2%ABOpenAI%E8%A7%A3%E5%86%B3)
 1. [高考132分学生开学数学考12分](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83132%E5%88%86%E5%AD%A6%E7%94%9F%E5%BC%80%E5%AD%A6%E6%95%B0%E5%AD%A6%E8%80%8312%E5%88%86)
-1. [吃播网红干饭莹莹去世年仅24岁](https://www.zhihu.com/search?q=%E5%90%83%E6%92%AD%E7%BD%91%E7%BA%A2%E5%B9%B2%E9%A5%AD%E8%8E%B9%E8%8E%B9%E5%8E%BB%E4%B8%96%E5%B9%B4%E4%BB%8524%E5%B2%81)
-1. [广州图书馆挤满假装上班的失业者](https://www.zhihu.com/search?q=%E5%B9%BF%E5%B7%9E%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%8C%A4%E6%BB%A1%E5%81%87%E8%A3%85%E4%B8%8A%E7%8F%AD%E7%9A%84%E5%A4%B1%E4%B8%9A%E8%80%85)
-1. [郑钦文 vs 莱巴金娜](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87%20vs%20%E8%8E%B1%E5%B7%B4%E9%87%91%E5%A8%9C)
-1. [iPhone 18 Pro价格](https://www.zhihu.com/search?q=iPhone%2018%20Pro%E4%BB%B7%E6%A0%BC)
-1. [武大通报教授被举报事件](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A4%A7%E9%80%9A%E6%8A%A5%E6%95%99%E6%8E%88%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%BA%8B%E4%BB%B6)
-1. [OpenAI 被指学术掠夺](https://www.zhihu.com/search?q=OpenAI%20%E8%A2%AB%E6%8C%87%E5%AD%A6%E6%9C%AF%E6%8E%A0%E5%A4%BA)
-1. [女子停捐不到一个月被催捐](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E5%81%9C%E6%8D%90%E4%B8%8D%E5%88%B0%E4%B8%80%E4%B8%AA%E6%9C%88%E8%A2%AB%E5%82%AC%E6%8D%90)
-1. [上海10月1日起生娃个人「不花钱」](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B710%E6%9C%881%E6%97%A5%E8%B5%B7%E7%94%9F%E5%A8%83%E4%B8%AA%E4%BA%BA%E3%80%8C%E4%B8%8D%E8%8A%B1%E9%92%B1%E3%80%8D)
-1. [波多黎各女篮 vs 中国女篮](https://www.zhihu.com/search?q=%E6%B3%A2%E5%A4%9A%E9%BB%8E%E5%90%84%E5%A5%B3%E7%AF%AE%20vs%20%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE)
-1. [全球癌症病例 2050 年可能激增 67%](https://www.zhihu.com/search?q=%E5%85%A8%E7%90%83%E7%99%8C%E7%97%87%E7%97%85%E4%BE%8B%202050%20%E5%B9%B4%E5%8F%AF%E8%83%BD%E6%BF%80%E5%A2%9E%2067%25)
-1. [穿搭博主康康爷爷睡梦中离世](https://www.zhihu.com/search?q=%E7%A9%BF%E6%90%AD%E5%8D%9A%E4%B8%BB%E5%BA%B7%E5%BA%B7%E7%88%B7%E7%88%B7%E7%9D%A1%E6%A2%A6%E4%B8%AD%E7%A6%BB%E4%B8%96)
-1. [湖南长沙一非法代孕场所被查封](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E9%95%BF%E6%B2%99%E4%B8%80%E9%9D%9E%E6%B3%95%E4%BB%A3%E5%AD%95%E5%9C%BA%E6%89%80%E8%A2%AB%E6%9F%A5%E5%B0%81)
-1. [梅姨落网更多细节曝光](https://www.zhihu.com/search?q=%E6%A2%85%E5%A7%A8%E8%90%BD%E7%BD%91%E6%9B%B4%E5%A4%9A%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89)
-1. [小米澎程攻防需求误发](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E6%94%BB%E9%98%B2%E9%9C%80%E6%B1%82%E8%AF%AF%E5%8F%91)
-1. [内蒙古锡林郭勒 4.6 级地震](https://www.zhihu.com/search?q=%E5%86%85%E8%92%99%E5%8F%A4%E9%94%A1%E6%9E%97%E9%83%AD%E5%8B%92%204.6%20%E7%BA%A7%E5%9C%B0%E9%9C%87)
-1. [上交所向星宇股份发监管函](https://www.zhihu.com/search?q=%E4%B8%8A%E4%BA%A4%E6%89%80%E5%90%91%E6%98%9F%E5%AE%87%E8%82%A1%E4%BB%BD%E5%8F%91%E7%9B%91%E7%AE%A1%E5%87%BD)
+1. [NS方程相关研究取得进展](https://www.zhihu.com/search?q=NS%E6%96%B9%E7%A8%8B%E7%9B%B8%E5%85%B3%E7%A0%94%E7%A9%B6%E5%8F%96%E5%BE%97%E8%BF%9B%E5%B1%95)
+1. [勇哥维护让员工干17个小时的老板](https://www.zhihu.com/search?q=%E5%8B%87%E5%93%A5%E7%BB%B4%E6%8A%A4%E8%AE%A9%E5%91%98%E5%B7%A5%E5%B9%B217%E4%B8%AA%E5%B0%8F%E6%97%B6%E7%9A%84%E8%80%81%E6%9D%BF)
 
 <!-- END ZHIHUSEARCH -->
 
