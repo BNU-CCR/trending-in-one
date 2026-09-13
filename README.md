@@ -118,7 +118,7 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Mon Sep 14 2026 03:26:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 14 2026 06:23:45 GMT+0800 (China Standard Time) -->
 
 1. [多车队宣布永久退出中国 GT](https://www.zhihu.com/search?q=%E5%A4%9A%E8%BD%A6%E9%98%9F%E5%AE%A3%E5%B8%83%E6%B0%B8%E4%B9%85%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%20GT)
 1. [女子称被公职人员推入厕所强奸](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E7%A7%B0%E8%A2%AB%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E6%8E%A8%E5%85%A5%E5%8E%95%E6%89%80%E5%BC%BA%E5%A5%B8)
