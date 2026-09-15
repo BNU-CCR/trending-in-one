@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-09-16 02:14:16
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-09-16 05:24:18
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -132,38 +132,38 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Wed Sep 16 2026 02:14:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 16 2026 05:24:18 GMT+0800 (China Standard Time) -->
 
-1. [如何看待 DeepSeek 刘胜与的《我不得不把才华埋葬在昨天》？](https://www.zhihu.com/question/2083123101873844700)
 1. [如何评价湘雅医院「23年未见父母，每天睡2小时」教师PPT争议？影响如何？是否存在夸大及其它相关问题？](https://www.zhihu.com/question/2083244063277503200)
 1. [鸿蒙智行为何要在此时调整与赛力斯合作模式，并让华为隐居幕后？此次调整会影响「华为5年不下场造车」吗？](https://www.zhihu.com/question/2083273181008064800)
-1. [为什么《笑傲江湖》中岳不群在网络的风评这几年变好了？](https://www.zhihu.com/question/2079288771611211300)
 1. [如何看待英伟达、Palantir等金主集体限制Anthropic Claude使用？](https://www.zhihu.com/question/2083117744707352600)
+1. [为什么《笑傲江湖》中岳不群在网络的风评这几年变好了？](https://www.zhihu.com/question/2079288771611211300)
 1. [二本文科女，没有任何技能，父母是农民，身体也不好，家里几乎没有存款，求助以后要怎么走，有什么出路？](https://www.zhihu.com/question/2001334359232385000)
-1. [前女足国脚高宏霞手握 29 个全国冠军，退役后当城管 19 年，这种职业转变有何意义？](https://www.zhihu.com/question/2082918732372956700)
-1. [比亚迪高管称燃油车没有未来，如何看待这一言论？燃油车会快速退场吗？](https://www.zhihu.com/question/2082845705690001700)
 1. [王健林又卖掉一个47亿资产，万达旗下盈方体育将HYROX多数股权卖给LVMH旗下机构，这意味着什么？](https://www.zhihu.com/question/2082804365455378400)
-1. [如何理解李博杰开源的《深入理解 AI Agent》？](https://www.zhihu.com/question/2082847664274497800)
+1. [前女足国脚高宏霞手握 29 个全国冠军，退役后当城管 19 年，这种职业转变有何意义？](https://www.zhihu.com/question/2082918732372956700)
+1. [如何看待 DeepSeek 刘胜与的《我不得不把才华埋葬在昨天》？](https://www.zhihu.com/question/2083123101873844700)
 1. [鸡如果吃了水蛭，水蛭可以钻破鸡的肠胃，长期在鸡的体内吸血吗？](https://www.zhihu.com/question/1947010301284287000)
+1. [如何理解李博杰开源的《深入理解 AI Agent》？](https://www.zhihu.com/question/2082847664274497800)
 1. [报告显示 72% 的成年人未达饮用水适宜摄入量，水没喝够会对身体产生啥影响？该怎样正确喝水？](https://www.zhihu.com/question/2083121786422387500)
-1. [「大学生生活费才3000」引发讨论，有人说不够花有人说很多，你怎么看？你上大学每月生活费是多少？](https://www.zhihu.com/question/2083183110737195300)
-1. [为什么重庆可以在山上建设城市，深圳香港不可以？](https://www.zhihu.com/question/535563414)
 1. [8岁女孩被男孩推倒、威胁，用手表报警，围观者笑她「浪费警力」，民警否认并调监控检查伤势，如何看待此举？](https://www.zhihu.com/question/2083160484220515300)
+1. [为什么重庆可以在山上建设城市，深圳香港不可以？](https://www.zhihu.com/question/535563414)
 1. [为什么在北京，大家对于通勤的忍受度这么高？](https://www.zhihu.com/question/2056391510673855700)
 1. [为什么《一步之遥》《邪不压正》都达不到《让子弹飞》的高度？](https://www.zhihu.com/question/2079894213798400500)
-1. [如何向别人解释“有你这AI写代码的时间，我早就古法编程写完了”？](https://www.zhihu.com/question/2040516110559220500)
+1. [ai大概还要多久就可以取代程序员了?](https://www.zhihu.com/question/2038411932424725800)
+1. [美国承认已拥有在轨「太空控制武器」，它可能会是种什么武器？太空军事化会加速到来吗？](https://www.zhihu.com/question/2083118687955968000)
+1. [古希腊土地贫瘠面积狭小，为啥会诞生如此璀璨的文明？](https://www.zhihu.com/question/618542027)
 1. [从经济学意义上来说，到底是“物美价廉”靠谱？还是“一分钱，一分货”靠谱？](https://www.zhihu.com/question/2079911455818830600)
 1. [克苏鲁式的网文目前只有诡秘之主被广泛认可，是我们没有找到对的方向吗？](https://www.zhihu.com/question/2078073383217018600)
-1. [美国承认已拥有在轨「太空控制武器」，它可能会是种什么武器？太空军事化会加速到来吗？](https://www.zhihu.com/question/2083118687955968000)
-1. [ai大概还要多久就可以取代程序员了?](https://www.zhihu.com/question/2038411932424725800)
-1. [古希腊土地贫瘠面积狭小，为啥会诞生如此璀璨的文明？](https://www.zhihu.com/question/618542027)
-1. [网友称空管开始试点劳务派遣模式，是真的吗？会带来哪些潜在风险或影响？](https://www.zhihu.com/question/2082555742339462400)
-1. [下属总是推一下动一下，缺乏主动性，管理者该从哪些方面提升自己的管理能力？](https://www.zhihu.com/question/2080911524374261800)
-1. [蚊子除了吃人血还吃什么，蚊子有什么益处吗？](https://www.zhihu.com/question/2058157206168770000)
 1. [我很好奇，爱民如子，以人为本的刘备为什么会去镇压黄巾起义，难道他不知道黄巾军大多是活不下去的饥民吗？](https://www.zhihu.com/question/2060286714862735600)
+1. [蚊子除了吃人血还吃什么，蚊子有什么益处吗？](https://www.zhihu.com/question/2058157206168770000)
+1. [下属总是推一下动一下，缺乏主动性，管理者该从哪些方面提升自己的管理能力？](https://www.zhihu.com/question/2080911524374261800)
+1. [网友称空管开始试点劳务派遣模式，是真的吗？会带来哪些潜在风险或影响？](https://www.zhihu.com/question/2082555742339462400)
+1. [如何向别人解释“有你这AI写代码的时间，我早就古法编程写完了”？](https://www.zhihu.com/question/2040516110559220500)
 1. [为什么有的影视剧中反派的魅力比正派还要高？](https://www.zhihu.com/question/406568325)
+1. [「大学生生活费才3000」引发讨论，有人说不够花有人说很多，你怎么看？你上大学每月生活费是多少？](https://www.zhihu.com/question/2083183110737195300)
 1. [有没有简单的早餐，不会面食，最近不知道吃什么了?](https://www.zhihu.com/question/1911794463967248600)
 1. [中国厂商推出改造版 RTX5090 显卡，售价 2.6 万元，你觉得「良心」吗？](https://www.zhihu.com/question/2082204780022199300)
+1. [比亚迪高管称燃油车没有未来，如何看待这一言论？燃油车会快速退场吗？](https://www.zhihu.com/question/2082845705690001700)
 
 <!-- END ZHIHUQUESTIONS -->
 
