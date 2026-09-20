@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-09-20 09:12:00
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-09-20 14:19:51
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -172,22 +172,45 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Sun Sep 20 2026 09:12:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 20 2026 14:19:51 GMT+0800 (China Standard Time) -->
 
-1. [字节跳动将飞书并入豆包，创始人张一鸣称「史上最大押注」意味着什么？](https://www.zhihu.com/question/2084372005369952000)
-1. [Deepseek用现在的ds harness好还是zcode好？](https://www.zhihu.com/question/2081862888633922600)
-1. [为什么很多过了35岁的女性会突然拼命想要孩子？](https://www.zhihu.com/question/2082375926558599000)
-1. [贵州一中学老师给女学生发「我从未停止过爱你」等骚扰信息，已被调岗，警方和纪委介入，他还将承担哪些责任？](https://www.zhihu.com/question/2084686593814520300)
+1. [宁波夜市砸瓜事件，双方已签订调解协议书，动手一方赔偿西瓜摊主 6 万多元，怎样看待这一结果？](https://www.zhihu.com/question/2084769326041493800)
+1. [老板患上了AI狂热症，连决策都让AI来做，感觉公司快完蛋了，员工该怎么办？](https://www.zhihu.com/question/2084250106556067800)
+1. [四川一小学护学岗四人均为高龄老人，最大者 67 岁，教育局已督促整改，暴露了背后哪些问题？](https://www.zhihu.com/question/2084787266933806300)
 1. [我经常在闹钟响前几分钟自己醒来，这是巧合，还是身体真的会“算时间”？](https://www.zhihu.com/question/2081758183014646300)
+1. [司机好心补路、拉绳警示，导致路过女子被绳索勒颈身亡，被以过失致人死亡罪逮捕，如何从法律角度解读？](https://www.zhihu.com/question/2083518548656253000)
+1. [如何看待水滴筹服务费上涨至 8 %，客服称为给用户提供高质量服务？这种收费与公益筹款性质是否存在冲突？](https://www.zhihu.com/question/2084250656152490200)
+1. [有哪些信、达、不雅的翻译？](https://www.zhihu.com/question/54548932)
+1. [Deepseek用现在的ds harness好还是zcode好？](https://www.zhihu.com/question/2081862888633922600)
+1. [《潜伏》中，晚秋最后也去了台湾，和余则成假扮夫妻，站长不会怀疑吗？](https://www.zhihu.com/question/2082949094834808000)
+1. [理记炮轰罗永浩毁掉贾国龙 30 年心血，真的是这样吗？这场风波中，贾国龙和罗永浩谁的责任更大？](https://www.zhihu.com/question/2084971910392013800)
+1. [如何评价阶跃最新的 Step 5 Preview？](https://www.zhihu.com/question/2084696557367182300)
+1. [许嵩与冯禧官宣结婚，女方是其多年粉丝且两人相差 14 岁，你如何看待这对「偶像与粉丝」的结合？](https://www.zhihu.com/question/2084756540834301400)
+1. [字节跳动将飞书并入豆包，创始人张一鸣称「史上最大押注」意味着什么？](https://www.zhihu.com/question/2084372005369952000)
+1. [为什么很多过了35岁的女性会突然拼命想要孩子？](https://www.zhihu.com/question/2082375926558599000)
+1. [针对中小学学生、青少年群体，如何规避自媒体伪史内容对其历史观的误导？](https://www.zhihu.com/question/2081679721822155000)
+1. [如何评价《猫和老鼠》？](https://www.zhihu.com/question/28778762)
+1. [阿尔茨海默病患者好像越来越多了，这是真的吗？为什么会这样？](https://www.zhihu.com/question/2017746104146501600)
+1. [办公楼进来条蛇，我被惊吓后把它打死了，事后发现这是国家保护动物，我需要负法律责任吗？](https://www.zhihu.com/question/658116158)
+1. [春风得意到底是什么体验？](https://www.zhihu.com/question/633910714)
+1. [北大复旦校长警告 AI 依赖，对教育意味着什么？该如何应对过度依赖 AI 导致的知识虚假掌握？](https://www.zhihu.com/question/2084620847411681300)
+1. [如果世界模型发展到极致，我们的整个世界是否都处于「可被预测」状态？世界上还存在「意外」吗？](https://www.zhihu.com/question/2077824745660212500)
+1. [拥有身体的智能，应当以什么身份进入我们的社会？](https://www.zhihu.com/question/2077836450377233200)
+1. [云南有哪些让你记忆深刻的美食？](https://www.zhihu.com/question/492675422)
+1. [第一次把主力电脑换成 Linux，选什么发行版最不容易劝退？](https://www.zhihu.com/question/2084244345448816600)
+1. [一辆新能源车开8年，到底能不能真正省下一辆燃油车的钱？](https://www.zhihu.com/question/2083323710224721400)
+1. [如何评价《原神》沃雅妮莎角色PV？](https://www.zhihu.com/question/2083891721595787000)
+1. [亚马尔谈金球奖归属时直接无视凯恩，并称在所有比赛中都打败了姆巴佩，你怎么看他这一系列发言？](https://www.zhihu.com/question/2084585031427516400)
+1. [为什么不能放开中等规模城市，修建2条左右的高架轻轨或单轨呢?](https://www.zhihu.com/question/2006347677651207000)
+1. [为什么生意再小，赚钱的速度都远超打工？](https://www.zhihu.com/question/1973749451853169700)
+1. [为什么密码明明看起来很复杂，还是可能被破解？](https://www.zhihu.com/question/2079914321304463400)
+1. [贵州一中学老师给女学生发「我从未停止过爱你」等骚扰信息，已被调岗，警方和纪委介入，他还将承担哪些责任？](https://www.zhihu.com/question/2084686593814520300)
 1. [歌手许嵩官宣结婚，你有哪些祝福？](https://www.zhihu.com/question/2084741951949993500)
 1. [LPL 2026 冒泡赛决赛 iG 3:1 淘汰 JDG 夺得最后一张世界赛门票，如何评价这场比赛？](https://www.zhihu.com/question/2084674456329495600)
-1. [亚马尔谈金球奖归属时直接无视凯恩，并称在所有比赛中都打败了姆巴佩，你怎么看他这一系列发言？](https://www.zhihu.com/question/2084585031427516400)
 1. [如何看待名古屋亚运会开幕式被吐槽诡异、审美丑？此前东京奥运会也遭吐槽，为何日式审美总给人感觉很阴冷？](https://www.zhihu.com/question/2084709350677771800)
-1. [如何看待水滴筹服务费上涨至 8 %，客服称为给用户提供高质量服务？这种收费与公益筹款性质是否存在冲突？](https://www.zhihu.com/question/2084250656152490200)
 1. [如何评价《崩坏3》十周年庆典特别节目？](https://www.zhihu.com/question/2083844417367163000)
 1. [突然发现“乘法交换律”好像并不总是成立，乘法分配律在较小数字上的成立都只是巧合吗？](https://www.zhihu.com/question/2076493090857268200)
 1. [特朗普称美国将获得对格陵兰岛安全「永久控制权」，丹麦称下周签署协议，保留主权，这是变相拿下格陵兰了吗？](https://www.zhihu.com/question/2084546841962603500)
-1. [为什么不能放开中等规模城市，修建2条左右的高架轻轨或单轨呢?](https://www.zhihu.com/question/2006347677651207000)
 1. [正颌手术做反当事人已清空作品，称达成和解，网友曝正颌手术并未做反，是术后拒绝正畸导致问题，具体咋回事？](https://www.zhihu.com/question/2084053894259106000)
 1. [睡觉时将双手举过头顶的「投降式」睡姿，其实是身体在求救，这是真的吗？会带来哪些影响？怎样的睡姿最科学？](https://www.zhihu.com/question/2083956845534605600)
 1. [唐朝人读过希腊神话吗?](https://www.zhihu.com/question/581942674)
@@ -196,12 +219,9 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [各家大模型已经很好用了，花大几千买台「豆包手机」，是效率刚需还是纯纯智商税？](https://www.zhihu.com/question/2084321874725561600)
 1. [AL、BLG、TES、iG 成为 S16 总决赛参赛队伍，这四支参赛队伍都能在世界赛上走多远？](https://www.zhihu.com/question/2084745565477106200)
 1. [知足到底是什么？](https://www.zhihu.com/question/2074630350798693600)
-1. [办公楼进来条蛇，我被惊吓后把它打死了，事后发现这是国家保护动物，我需要负法律责任吗？](https://www.zhihu.com/question/658116158)
 1. [《高等学校领导人员管理办法》明确党委书记和校长一般不担任校内科研项目主要负责人，旨在解决哪些问题？](https://www.zhihu.com/question/2083327753110271200)
 1. [网友称患者因买不到化疗药只能直接联系药企，最后成功以合理价格买到药，是真的吗？反映出医药流通哪些问题？](https://www.zhihu.com/question/2078528398536790000)
-1. [一辆新能源车开8年，到底能不能真正省下一辆燃油车的钱？](https://www.zhihu.com/question/2083323710224721400)
 1. [如果 AI 替代了大量初级岗位，五到十年后，企业会不会找不到真正懂业务的中层管理者？](https://www.zhihu.com/question/2083785912236906000)
-1. [为什么生意再小，赚钱的速度都远超打工？](https://www.zhihu.com/question/1973749451853169700)
 1. [哪个城市是你一直想去的？为什么？](https://www.zhihu.com/question/1914691142815053300)
 1. [什么事是你上了大学才知道的？](https://www.zhihu.com/question/406491354)
 1. [什么东西被发明出来后，莫名其妙地违背了它的用途？](https://www.zhihu.com/question/2083219865272374500)
