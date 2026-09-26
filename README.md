@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-09-26 06:23:21
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-09-26 09:36:32
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -143,26 +143,44 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Sat Sep 26 2026 06:23:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Sep 26 2026 09:36:32 GMT+0800 (China Standard Time) -->
 
 1. [美方称中美「贸易休战」延长至明年 1 月，这对世界局势有何影响？](https://www.zhihu.com/question/2086393162981979400)
+1. [樊振东回归能解决目前国乒的问题吗？他回归的可能性有多大？](https://www.zhihu.com/question/2086536830514460000)
+1. [《微微一笑很倾城》女主换脸后重上流媒体，你观感如何？类似原因下架的作品都能这样「复活」吗？](https://www.zhihu.com/question/2086446703897310700)
+1. [如果没有《繁花》爷叔这个角色，游本昌会不会就慢慢被遗忘了？](https://www.zhihu.com/question/2086419048779051300)
+1. [怎么评价 DeepSeek Harness 桌面版源码正式上线？](https://www.zhihu.com/question/2086771082363778000)
+1. [为什么清华不把打酱油的院系砍掉，专注于理工科?](https://www.zhihu.com/question/2028895979387069700)
 1. [亚运女子100米短跑决赛，陈妤颉夺冠，跑出 11.06 秒​​​​刷新亚运会纪录，如何评价本场对决？](https://www.zhihu.com/question/2086885798066878500)
 1. [全国牛肉批发均价涨至一公斤 71 元，创两年来新高，受哪些因素影响？](https://www.zhihu.com/question/2086609964114634200)
-1. [韩国奥委会主席柳承敏「如果给本届亚运会打分，那只能是不及格，非常失望，组委会极其无能」，对此你怎么看？](https://www.zhihu.com/question/2086475888606930400)
-1. [如何看待 10 后学生走红的 「呆毛」发型，头顶剪一小撮炸起来像海胆？一代人有一代人的发型潮流吗？](https://www.zhihu.com/question/2083240636430414800)
 1. [2 岁女童站「独立洗澡神器」上被父母独留浴室，误触 70℃ 热水致重度烫伤，如何避免此类悲剧？](https://www.zhihu.com/question/2084210073728041000)
-1. [怎么评价 DeepSeek Harness 桌面版源码正式上线？](https://www.zhihu.com/question/2086771082363778000)
+1. [月球引发的潮汐力可引起大海潮汐涨落，为什么对人体里的水没有反应？](https://www.zhihu.com/question/2048110316056327000)
+1. [亚运会男子 100 米半决赛，泰国选手汶颂跑出 9.91 秒，突破苏炳添亚运纪录，如何评价？](https://www.zhihu.com/question/2086892833596600600)
+1. [护士突发脑出血倒在工作岗位，人社局称抢救十天不予认定工伤，为何倒在工位上仍无法认定工伤？](https://www.zhihu.com/question/2086839765966348300)
+1. [为什么工作看第一学历不是最高学历，试卷难度分数上海一本去河南大概率专科，河南一本去上海能上985？](https://www.zhihu.com/question/2085135003860711400)
+1. [教育部称推动建设 1000 所以上的优质高中，加大完全中学、十二年一贯制学校建设力度，透露哪些信息？](https://www.zhihu.com/question/2086054245120398300)
+1. [如何看待 10 后学生走红的 「呆毛」发型，头顶剪一小撮炸起来像海胆？一代人有一代人的发型潮流吗？](https://www.zhihu.com/question/2083240636430414800)
+1. [苹果反复强调 iPhone Duo 的标准读音，中国人想读成「iPhone 多」不行吗？](https://www.zhihu.com/question/2084425616397427000)
+1. [那些家里一夜破产，且负债千万的家庭，最后都怎么样了?](https://www.zhihu.com/question/338189995)
+1. [张本智和 3-0 王楚钦，赛后称等这枚金牌等了十年，现在张本智和的水平在哪个层次？对国乒威胁有多大？](https://www.zhihu.com/question/2086566324948264700)
+1. [把自己并不喜欢的事情做好，是否算一种重要能力？](https://www.zhihu.com/question/2085068641758987300)
+1. [现在中秋很多人都在出门玩，中秋节「团圆」的属性是不是越来越淡了？](https://www.zhihu.com/question/2085534768272076800)
+1. [客观看国乒男团决赛前的变阵是最好的选择吗？](https://www.zhihu.com/question/2086537517075886600)
+1. [韩国奥委会主席柳承敏「如果给本届亚运会打分，那只能是不及格，非常失望，组委会极其无能」，对此你怎么看？](https://www.zhihu.com/question/2086475888606930400)
+1. [为什么下雨时，鸭子不跑反而在雨中站着一动不动的？](https://www.zhihu.com/question/1954295779792491300)
+1. [民国时期有哪些精致的女子？](https://www.zhihu.com/question/23584359)
+1. [神雕原著中有几条隐藏的暗线？](https://www.zhihu.com/question/2044400630115127600)
+1. [哪本书明显提高了你的认知，可以分享一下吗？](https://www.zhihu.com/question/2075361600366699800)
+1. [程序员应该自费买Token来工作吗？](https://www.zhihu.com/question/2076553847212872700)
+1. [西游记中卷帘大将为何打碎一个琉璃盏就会被贬下界？](https://www.zhihu.com/question/2052316688327217400)
+1. [在哪一刻，你意识到自己和千年前的人看的是同一个月亮？写月亮的一行字、一句诗、一首歌，你在哪个夜晚懂了？](https://www.zhihu.com/question/2084224543510492000)
+1. [为什么部分玩家认为若娜瓦塑造失败？究竟失败在了什么地方?](https://www.zhihu.com/question/2086500138516853200)
 1. [如何看待各平台所谓「团体赛没有一人两分的义务」「一人一分是本分」「团体赛不能只靠一人」这种说法？](https://www.zhihu.com/question/2086757964514161200)
 1. [中国游泳队亚运会30金收官，创历史最好成绩，为何中国队游泳队这几年有如此强劲的上升势头？](https://www.zhihu.com/question/2086877886196052000)
-1. [为什么下雨时，鸭子不跑反而在雨中站着一动不动的？](https://www.zhihu.com/question/1954295779792491300)
 1. [王楚钦 4-2 战胜泰国选手普里查扬，晋级亚运会乒乓男单 16 强，如何评价本场比赛？](https://www.zhihu.com/question/2086801312062992600)
 1. [国乒男团 36 年来首次无缘亚运会金牌，客观来看，你认为最大的问题出在哪？](https://www.zhihu.com/question/2086533829968099000)
-1. [如果没有《繁花》爷叔这个角色，游本昌会不会就慢慢被遗忘了？](https://www.zhihu.com/question/2086419048779051300)
 1. [你拍过最美的月亮照片是怎样的？](https://www.zhihu.com/question/2077862548670628600)
-1. [为什么清华不把打酱油的院系砍掉，专注于理工科?](https://www.zhihu.com/question/2028895979387069700)
-1. [苹果反复强调 iPhone Duo 的标准读音，中国人想读成「iPhone 多」不行吗？](https://www.zhihu.com/question/2084425616397427000)
 1. [如何看待王皓回应男团丢金，称要把坏事变好事，给年轻运动员试错空间？](https://www.zhihu.com/question/2086743751020345000)
-1. [那些家里一夜破产，且负债千万的家庭，最后都怎么样了?](https://www.zhihu.com/question/338189995)
 1. [现在买月饼的是买来自己吃的人多，还是买来送人的多？](https://www.zhihu.com/question/2081289454325589200)
 1. [员工态度好，但悟性差，长期业绩不达标，要不要辞退？](https://www.zhihu.com/question/2084101400494084400)
 1. [患者投保10年后患结肠癌，泰康人寿以「遗传性疾病」拒赔，合理吗？保险公司能仅凭家族患癌史认定遗传性吗？](https://www.zhihu.com/question/2086141127287994000)
@@ -177,7 +195,6 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [只推荐一本影响你的书，你会选哪本？](https://www.zhihu.com/question/2084538085359067100)
 1. [有什么食物是「中国人吃，而外国人基本不怎么吃的」？](https://www.zhihu.com/question/643098290)
 1. [如何评价曹盾执导，马伯庸编剧，章宇主演的电影《敦煌英雄》？](https://www.zhihu.com/question/2086606110669252000)
-1. [西游记中卷帘大将为何打碎一个琉璃盏就会被贬下界？](https://www.zhihu.com/question/2052316688327217400)
 
 <!-- END ZHIHUQUESTIONS -->
 
