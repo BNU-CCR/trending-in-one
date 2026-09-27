@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-09-28 02:27:03
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-09-28 06:14:27
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -110,7 +110,7 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Mon Sep 28 2026 02:20:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 28 2026 06:05:43 GMT+0800 (China Standard Time) -->
 
 1. [网红潘宏虐狗纠纷终审判决](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E6%BD%98%E5%AE%8F%E8%99%90%E7%8B%97%E7%BA%A0%E7%BA%B7%E7%BB%88%E5%AE%A1%E5%88%A4%E5%86%B3)
 1. [中美达成八点成果共识](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E8%BE%BE%E6%88%90%E5%85%AB%E7%82%B9%E6%88%90%E6%9E%9C%E5%85%B1%E8%AF%86)
@@ -119,10 +119,11 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [看山今日一签](https://www.zhihu.com/search?q=%E7%9C%8B%E5%B1%B1%E4%BB%8A%E6%97%A5%E4%B8%80%E7%AD%BE)
 1. [刘欢病逝](https://www.zhihu.com/search?q=%E5%88%98%E6%AC%A2%E7%97%85%E9%80%9D)
 1. [日乒男单全军覆没](https://www.zhihu.com/search?q=%E6%97%A5%E4%B9%92%E7%94%B7%E5%8D%95%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1)
-1. [三大运营商全面叫停0元购机](https://www.zhihu.com/search?q=%E4%B8%89%E5%A4%A7%E8%BF%90%E8%90%A5%E5%95%86%E5%85%A8%E9%9D%A2%E5%8F%AB%E5%81%9C0%E5%85%83%E8%B4%AD%E6%9C%BA)
-1. [林诗栋蒯曼亚运混双冠军](https://www.zhihu.com/search?q=%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC%E4%BA%9A%E8%BF%90%E6%B7%B7%E5%8F%8C%E5%86%A0%E5%86%9B)
-1. [比尔盖茨警告AI或致十亿人死亡](https://www.zhihu.com/search?q=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E8%AD%A6%E5%91%8AAI%E6%88%96%E8%87%B4%E5%8D%81%E4%BA%BF%E4%BA%BA%E6%AD%BB%E4%BA%A1)
 1. [南开教授因简历过于实诚走红](https://www.zhihu.com/search?q=%E5%8D%97%E5%BC%80%E6%95%99%E6%8E%88%E5%9B%A0%E7%AE%80%E5%8E%86%E8%BF%87%E4%BA%8E%E5%AE%9E%E8%AF%9A%E8%B5%B0%E7%BA%A2)
+1. [三大运营商全面叫停0元购机](https://www.zhihu.com/search?q=%E4%B8%89%E5%A4%A7%E8%BF%90%E8%90%A5%E5%95%86%E5%85%A8%E9%9D%A2%E5%8F%AB%E5%81%9C0%E5%85%83%E8%B4%AD%E6%9C%BA)
+1. [比尔盖茨警告AI或致十亿人死亡](https://www.zhihu.com/search?q=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E8%AD%A6%E5%91%8AAI%E6%88%96%E8%87%B4%E5%8D%81%E4%BA%BF%E4%BA%BA%E6%AD%BB%E4%BA%A1)
+1. [林诗栋蒯曼亚运混双冠军](https://www.zhihu.com/search?q=%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC%E4%BA%9A%E8%BF%90%E6%B7%B7%E5%8F%8C%E5%86%A0%E5%86%9B)
+1. [麻辣王子广告视觉污染到米兰](https://www.zhihu.com/search?q=%E9%BA%BB%E8%BE%A3%E7%8E%8B%E5%AD%90%E5%B9%BF%E5%91%8A%E8%A7%86%E8%A7%89%E6%B1%A1%E6%9F%93%E5%88%B0%E7%B1%B3%E5%85%B0)
 1. [中美构建建设性战略稳定关系](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E6%9E%84%E5%BB%BA%E5%BB%BA%E8%AE%BE%E6%80%A7%E6%88%98%E7%95%A5%E7%A8%B3%E5%AE%9A%E5%85%B3%E7%B3%BB)
 
 <!-- END ZHIHUSEARCH -->
@@ -132,38 +133,39 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Mon Sep 28 2026 02:27:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 28 2026 06:14:27 GMT+0800 (China Standard Time) -->
 
 1. [亚运会乒乓球男双决赛，林诗栋/黄友政 4-2 张本智和/篠塚大登，获男双金牌，如何评价本场比赛？](https://www.zhihu.com/question/2087560514792419800)
 1. [交强险2025年经营亏损230亿元，3.86亿辆机动车参保，赔付支出2524亿元，哪些信息值得关注？](https://www.zhihu.com/question/2087512663706133800)
 1. [小米18系列硬件防窥屏线下实测被指可视角度差、侧看偏色，这是翻车了吗？是硬件方案固有缺陷还是调校问题？](https://www.zhihu.com/question/2086829341468577800)
-1. [亚运会女子标枪决赛，严子怡夺金，投出 70 米 46 刷新亚运纪录，如何评价她的个人表现以及本场比赛？](https://www.zhihu.com/question/2087637427082851300)
-1. [一技校101名毕业生入职北大，学生一般大二就被预订，主要去实验室做科研助手，这是一种怎样的职业路径？](https://www.zhihu.com/question/2087469941116990500)
-1. [刘欢在中国乐坛的地位是怎样的？](https://www.zhihu.com/question/20404153)
 1. [中美达成八点成果共识，达成「300亿美元」对等降税安排，哪些信息值得重点关注？](https://www.zhihu.com/question/2087214676530525400)
 1. [亚运会女子 100 米栏决赛，福部真子夺冠，吴艳妮铜牌，如何评价她们的表现和本场比赛？](https://www.zhihu.com/question/2087541086738540000)
-1. [子弹连钢板都能打穿，为何打不穿麻沙袋？这是什么原理？](https://www.zhihu.com/question/2086150926117750500)
 1. [26-27乒乓球德甲联赛，樊振东 3:0 格拉尔多，如何评价本场比赛？](https://www.zhihu.com/question/2087653538654589400)
-1. [亚运会女子 200 米决赛，陈妤颉摘得银牌，如何评价本场比赛和她的表现？](https://www.zhihu.com/question/2087540791207879400)
-1. [26-27赛季乒乓球德甲联赛，樊振东 3:1 维东斯霍特，如何评价本场比赛？](https://www.zhihu.com/question/2087684300468654600)
-1. [大熊猫「平平」「福双」平安到达美国亚特兰大动物园，对中美两国有哪些意义？](https://www.zhihu.com/question/2086764289658807600)
-1. [交个朋友直播间被曝卖病死鱼，罗永浩连发 16 条内容辟谣，具体是怎么回事？](https://www.zhihu.com/question/2086823700276277800)
 1. [亚运男子 110 米栏，陈圆将 13 秒 15 夺金，如何评价他的表现？](https://www.zhihu.com/question/2087621166760293400)
-1. [乒乓解说员高菡被指偏向性明显、情绪烘托过多，客观评价她的解说能力如何？不偏袒、中立的解说员应是怎样的？](https://www.zhihu.com/question/2087618421017899300)
-1. [有没有一种可能，岳不群才是《笑傲江湖》里最想“救”华山派的人，而令狐冲其实是个不负责任的“败家子”？](https://www.zhihu.com/question/2010306330083229700)
-1. [为什么中文里堂兄弟姐妹和表兄弟姐妹要分开称呼？](https://www.zhihu.com/question/2086786098823443200)
+1. [刘欢在中国乐坛的地位是怎样的？](https://www.zhihu.com/question/20404153)
+1. [交个朋友直播间被曝卖病死鱼，罗永浩连发 16 条内容辟谣，具体是怎么回事？](https://www.zhihu.com/question/2086823700276277800)
+1. [大熊猫「平平」「福双」平安到达美国亚特兰大动物园，对中美两国有哪些意义？](https://www.zhihu.com/question/2086764289658807600)
 1. [男子8万救命钱被盗刷并称银行 1 条提醒短信都没发，银行称责任划分需司法机构裁决，银行到底该不该担责？](https://www.zhihu.com/question/2086029809914855700)
-1. [既然国人嫌弃月饼高油高糖，为啥不把月饼出口到喜爱糖油混合物的美国呢？](https://www.zhihu.com/question/2084270983846875400)
-1. [网红训狗师潘宏因「小宝死亡案」终审败诉，被判公开道歉并赔偿 11119 元，法律上如何解读？](https://www.zhihu.com/question/2087455975468786700)
-1. [如何评价 9 月 23 日发布的Claude Opus 5.5？](https://www.zhihu.com/question/2085935290347275800)
-1. [亚运会乒乓球混双决赛，王楚钦/孙颖莎 0-4 林诗栋/蒯曼，国乒包揽亚运混双金银牌，如何评价本场比赛？](https://www.zhihu.com/question/2087238239216034300)
-1. [如何评价《崩坏：星穹铁道》真珠角色PV——「如何描绘一种希望」？](https://www.zhihu.com/question/2087512486530627300)
 1. [集采药都很劣质吗？我能不能加钱用更好的药？](https://www.zhihu.com/question/2081150322496610600)
+1. [既然国人嫌弃月饼高油高糖，为啥不把月饼出口到喜爱糖油混合物的美国呢？](https://www.zhihu.com/question/2084270983846875400)
+1. [为什么中文里堂兄弟姐妹和表兄弟姐妹要分开称呼？](https://www.zhihu.com/question/2086786098823443200)
+1. [亚运会乒乓球混双决赛，王楚钦/孙颖莎 0-4 林诗栋/蒯曼，国乒包揽亚运混双金银牌，如何评价本场比赛？](https://www.zhihu.com/question/2087238239216034300)
+1. [乒乓解说员高菡被指偏向性明显、情绪烘托过多，客观评价她的解说能力如何？不偏袒、中立的解说员应是怎样的？](https://www.zhihu.com/question/2087618421017899300)
+1. [如何评价 9 月 23 日发布的Claude Opus 5.5？](https://www.zhihu.com/question/2085935290347275800)
+1. [有没有一种可能，岳不群才是《笑傲江湖》里最想“救”华山派的人，而令狐冲其实是个不负责任的“败家子”？](https://www.zhihu.com/question/2010306330083229700)
+1. [如何评价《崩坏：星穹铁道》真珠角色PV——「如何描绘一种希望」？](https://www.zhihu.com/question/2087512486530627300)
+1. [亚运会女子标枪决赛，严子怡夺金，投出 70 米 46 刷新亚运纪录，如何评价她的个人表现以及本场比赛？](https://www.zhihu.com/question/2087637427082851300)
+1. [网红训狗师潘宏因「小宝死亡案」终审败诉，被判公开道歉并赔偿 11119 元，法律上如何解读？](https://www.zhihu.com/question/2087455975468786700)
+1. [一技校101名毕业生入职北大，学生一般大二就被预订，主要去实验室做科研助手，这是一种怎样的职业路径？](https://www.zhihu.com/question/2087469941116990500)
+1. [26-27赛季乒乓球德甲联赛，樊振东 3:1 维东斯霍特，如何评价本场比赛？](https://www.zhihu.com/question/2087684300468654600)
 1. [你认为什么是「强者心态」？如何拥有「强者心态」？](https://www.zhihu.com/question/7049477560)
+1. [子弹连钢板都能打穿，为何打不穿麻沙袋？这是什么原理？](https://www.zhihu.com/question/2086150926117750500)
 1. [交个朋友为「售卖的网红溜溜凳被曝用发霉木板、废旧海绵」道歉，称启动退赔，如何看待此事？](https://www.zhihu.com/question/2086797910025450200)
-1. [汶颂亚运男子 200 米夺冠，成绩 19.88 秒追平谢震业亚洲纪录，如何评价他的表现？](https://www.zhihu.com/question/2087613161595564500)
 1. [为什么万象棋能让玩家如此着迷？](https://www.zhihu.com/question/2087383058064339000)
 1. [为什么这次名古屋亚运会，围棋象棋这些棋类项目全部都取消了？](https://www.zhihu.com/question/2086164851257078300)
+1. [汶颂亚运男子 200 米夺冠，成绩 19.88 秒追平谢震业亚洲纪录，如何评价他的表现？](https://www.zhihu.com/question/2087613161595564500)
+1. [你小时候有哪些神奇的误解？](https://www.zhihu.com/question/20484952)
+1. [亚运会女子 200 米决赛，陈妤颉摘得银牌，如何评价本场比赛和她的表现？](https://www.zhihu.com/question/2087540791207879400)
 
 <!-- END ZHIHUQUESTIONS -->
 
@@ -214,17 +216,62 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Mon Sep 28 2026 02:31:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 28 2026 06:19:34 GMT+0800 (China Standard Time) -->
 
 1. [80秒回顾习近平美国之行](https://s.weibo.com//weibo?q=%2380%E7%A7%92%E5%9B%9E%E9%A1%BE%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%BE%8E%E5%9B%BD%E4%B9%8B%E8%A1%8C%23&Refer=new_time)
 1. [贷款中介集体删除朋友圈](https://s.weibo.com//weibo?q=%23%E8%B4%B7%E6%AC%BE%E4%B8%AD%E4%BB%8B%E9%9B%86%E4%BD%93%E5%88%A0%E9%99%A4%E6%9C%8B%E5%8F%8B%E5%9C%88%23&t=31&band_rank=1&Refer=top)
-1. [兰香如故热度超过长相思](https://s.weibo.com//weibo?q=%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E7%83%AD%E5%BA%A6%E8%B6%85%E8%BF%87%E9%95%BF%E7%9B%B8%E6%80%9D%23&t=31&band_rank=2&Refer=top)
+1. [和情绪不稳定的人相处是折磨](https://s.weibo.com//weibo?q=%E5%92%8C%E6%83%85%E7%BB%AA%E4%B8%8D%E7%A8%B3%E5%AE%9A%E7%9A%84%E4%BA%BA%E7%9B%B8%E5%A4%84%E6%98%AF%E6%8A%98%E7%A3%A8&t=31&band_rank=2&Refer=top)
 1. [中美建立推进贸易理事会等机制](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%BB%BA%E7%AB%8B%E6%8E%A8%E8%BF%9B%E8%B4%B8%E6%98%93%E7%90%86%E4%BA%8B%E4%BC%9A%E7%AD%89%E6%9C%BA%E5%88%B6%23&t=31&band_rank=3&Refer=top)
-1. [电子竞技项目将退出亚运](https://s.weibo.com//weibo?q=%23%E7%94%B5%E5%AD%90%E7%AB%9E%E6%8A%80%E9%A1%B9%E7%9B%AE%E5%B0%86%E9%80%80%E5%87%BA%E4%BA%9A%E8%BF%90%23&t=31&band_rank=4&Refer=top)
-1. [微微一笑很倾城AI换脸后](https://s.weibo.com//weibo?q=%23%E5%BE%AE%E5%BE%AE%E4%B8%80%E7%AC%91%E5%BE%88%E5%80%BE%E5%9F%8EAI%E6%8D%A2%E8%84%B8%E5%90%8E%23&t=31&band_rank=5&Refer=top)
+1. [原研药和仿制药买对了吗](https://s.weibo.com//weibo?q=%E5%8E%9F%E7%A0%94%E8%8D%AF%E5%92%8C%E4%BB%BF%E5%88%B6%E8%8D%AF%E4%B9%B0%E5%AF%B9%E4%BA%86%E5%90%97&t=31&band_rank=4&Refer=top)
+1. [兰香如故热度超过长相思](https://s.weibo.com//weibo?q=%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E7%83%AD%E5%BA%A6%E8%B6%85%E8%BF%87%E9%95%BF%E7%9B%B8%E6%80%9D%23&t=31&band_rank=5&Refer=top)
 1. [孙千工作室 烦心事够多了](https://s.weibo.com//weibo?q=%E5%AD%99%E5%8D%83%E5%B7%A5%E4%BD%9C%E5%AE%A4%20%E7%83%A6%E5%BF%83%E4%BA%8B%E5%A4%9F%E5%A4%9A%E4%BA%86&t=31&band_rank=6&Refer=top)
 1. [王祖贤 复出](https://s.weibo.com//weibo?q=%E7%8E%8B%E7%A5%96%E8%B4%A4%20%E5%A4%8D%E5%87%BA&t=31&band_rank=7&Refer=top)
 1. [刘雯 井柏然](https://s.weibo.com//weibo?q=%E5%88%98%E9%9B%AF%20%E4%BA%95%E6%9F%8F%E7%84%B6&t=31&band_rank=8&Refer=top)
+1. [孙颖莎 难再战亚运](https://s.weibo.com//weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%20%E9%9A%BE%E5%86%8D%E6%88%98%E4%BA%9A%E8%BF%90&t=31&band_rank=9&Refer=top)
+1. [微微一笑很倾城AI换脸后](https://s.weibo.com//weibo?q=%23%E5%BE%AE%E5%BE%AE%E4%B8%80%E7%AC%91%E5%BE%88%E5%80%BE%E5%9F%8EAI%E6%8D%A2%E8%84%B8%E5%90%8E%23&t=31&band_rank=10&Refer=top)
+1. [混双赢了冠军都不敢笑也不敢庆祝](https://s.weibo.com//weibo?q=%23%E6%B7%B7%E5%8F%8C%E8%B5%A2%E4%BA%86%E5%86%A0%E5%86%9B%E9%83%BD%E4%B8%8D%E6%95%A2%E7%AC%91%E4%B9%9F%E4%B8%8D%E6%95%A2%E5%BA%86%E7%A5%9D%23&t=31&band_rank=11&Refer=top)
+1. [张家齐妈妈走700米打车觉得狼狈](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E8%B5%B0700%E7%B1%B3%E6%89%93%E8%BD%A6%E8%A7%89%E5%BE%97%E7%8B%BC%E7%8B%88%23&t=31&band_rank=12&Refer=top)
+1. [电子竞技项目将退出亚运](https://s.weibo.com//weibo?q=%23%E7%94%B5%E5%AD%90%E7%AB%9E%E6%8A%80%E9%A1%B9%E7%9B%AE%E5%B0%86%E9%80%80%E5%87%BA%E4%BA%9A%E8%BF%90%23&t=31&band_rank=13&Refer=top)
+1. [亚运乒乓女单仅张立成功卫冕](https://s.weibo.com//weibo?q=%E4%BA%9A%E8%BF%90%E4%B9%92%E4%B9%93%E5%A5%B3%E5%8D%95%E4%BB%85%E5%BC%A0%E7%AB%8B%E6%88%90%E5%8A%9F%E5%8D%AB%E5%86%95&t=31&band_rank=14&Refer=top)
+1. [刘宇宁世赛法拉利](https://s.weibo.com//weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E4%B8%96%E8%B5%9B%E6%B3%95%E6%8B%89%E5%88%A9&t=31&band_rank=15&Refer=top)
+1. [肖战有3部待播剧](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E6%9C%893%E9%83%A8%E5%BE%85%E6%92%AD%E5%89%A7%23&t=31&band_rank=16&Refer=top)
+1. [樊振东跟樊振东吵起来了](https://s.weibo.com//weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%B7%9F%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%90%B5%E8%B5%B7%E6%9D%A5%E4%BA%86&t=31&band_rank=17&Refer=top)
+1. [拾荒21年男子领到42万养老金](https://s.weibo.com//weibo?q=%23%E6%8B%BE%E8%8D%9221%E5%B9%B4%E7%94%B7%E5%AD%90%E9%A2%86%E5%88%B042%E4%B8%87%E5%85%BB%E8%80%81%E9%87%91%23&t=31&band_rank=18&Refer=top)
+1. [电子竞技 亚运会](https://s.weibo.com//weibo?q=%E7%94%B5%E5%AD%90%E7%AB%9E%E6%8A%80%20%E4%BA%9A%E8%BF%90%E4%BC%9A&t=31&band_rank=19&Refer=top)
+1. [林诗栋说拿金牌并不意外](https://s.weibo.com//weibo?q=%E6%9E%97%E8%AF%97%E6%A0%8B%E8%AF%B4%E6%8B%BF%E9%87%91%E7%89%8C%E5%B9%B6%E4%B8%8D%E6%84%8F%E5%A4%96&t=31&band_rank=20&Refer=top)
+1. [阿根廷街头著名景点是中国工商银行](https://s.weibo.com//weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%A1%97%E5%A4%B4%E8%91%97%E5%90%8D%E6%99%AF%E7%82%B9%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C&t=31&band_rank=21&Refer=top)
+1. [女性很容易慕强择偶](https://s.weibo.com//weibo?q=%E5%A5%B3%E6%80%A7%E5%BE%88%E5%AE%B9%E6%98%93%E6%85%95%E5%BC%BA%E6%8B%A9%E5%81%B6&t=31&band_rank=22&Refer=top)
+1. [朋友圈乱回祝福被同学问号](https://s.weibo.com//weibo?q=%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%B9%B1%E5%9B%9E%E7%A5%9D%E7%A6%8F%E8%A2%AB%E5%90%8C%E5%AD%A6%E9%97%AE%E5%8F%B7&t=31&band_rank=23&Refer=top)
+1. [罗永浩连续3天回应售卖劣质溜溜凳](https://s.weibo.com//weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%BF%9E%E7%BB%AD3%E5%A4%A9%E5%9B%9E%E5%BA%94%E5%94%AE%E5%8D%96%E5%8A%A3%E8%B4%A8%E6%BA%9C%E6%BA%9C%E5%87%B3%23&t=31&band_rank=24&Refer=top)
+1. [孙千](https://s.weibo.com//weibo?q=%E5%AD%99%E5%8D%83&t=31&band_rank=25&Refer=top)
+1. [儿子要倒插门妈妈毫不犹豫同意](https://s.weibo.com//weibo?q=%E5%84%BF%E5%AD%90%E8%A6%81%E5%80%92%E6%8F%92%E9%97%A8%E5%A6%88%E5%A6%88%E6%AF%AB%E4%B8%8D%E7%8A%B9%E8%B1%AB%E5%90%8C%E6%84%8F&t=31&band_rank=26&Refer=top)
+1. [王曼昱两夺亚运女单冠军](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%B8%A4%E5%A4%BA%E4%BA%9A%E8%BF%90%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B&t=31&band_rank=27&Refer=top)
+1. [陈冠希吴彦祖王祖贤被指圈钱](https://s.weibo.com//weibo?q=%E9%99%88%E5%86%A0%E5%B8%8C%E5%90%B4%E5%BD%A6%E7%A5%96%E7%8E%8B%E7%A5%96%E8%B4%A4%E8%A2%AB%E6%8C%87%E5%9C%88%E9%92%B1&t=31&band_rank=28&Refer=top)
+1. [樊振东3比1维东斯霍特](https://s.weibo.com//weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C3%E6%AF%941%E7%BB%B4%E4%B8%9C%E6%96%AF%E9%9C%8D%E7%89%B9%23&t=31&band_rank=29&Refer=top)
+1. [孙颖莎回应兼3项1金2银](https://s.weibo.com//weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9B%9E%E5%BA%94%E5%85%BC3%E9%A1%B91%E9%87%912%E9%93%B6%23&t=31&band_rank=30&Refer=top)
+1. [你起来开一会儿吧我困得撑不住了](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%B5%B7%E6%9D%A5%E5%BC%80%E4%B8%80%E4%BC%9A%E5%84%BF%E5%90%A7%E6%88%91%E5%9B%B0%E5%BE%97%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86%23&t=31&band_rank=31&Refer=top)
+1. [小米18Pro 缓解方案](https://s.weibo.com//weibo?q=%E5%B0%8F%E7%B1%B318Pro%20%E7%BC%93%E8%A7%A3%E6%96%B9%E6%A1%88&t=31&band_rank=32&Refer=top)
+1. [邵佳一 下课](https://s.weibo.com//weibo?q=%E9%82%B5%E4%BD%B3%E4%B8%80%20%E4%B8%8B%E8%AF%BE&t=31&band_rank=33&Refer=top)
+1. [刘学义只有两部待播剧了](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AD%A6%E4%B9%89%E5%8F%AA%E6%9C%89%E4%B8%A4%E9%83%A8%E5%BE%85%E6%92%AD%E5%89%A7%E4%BA%86%23&t=31&band_rank=34&Refer=top)
+1. [婚姻更像合伙扛生活轮流当牛马](https://s.weibo.com//weibo?q=%E5%A9%9A%E5%A7%BB%E6%9B%B4%E5%83%8F%E5%90%88%E4%BC%99%E6%89%9B%E7%94%9F%E6%B4%BB%E8%BD%AE%E6%B5%81%E5%BD%93%E7%89%9B%E9%A9%AC&t=31&band_rank=35&Refer=top)
+1. [孙颖莎赛后和教练吐槽对手](https://s.weibo.com//weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%B5%9B%E5%90%8E%E5%92%8C%E6%95%99%E7%BB%83%E5%90%90%E6%A7%BD%E5%AF%B9%E6%89%8B%23&t=31&band_rank=36&Refer=top)
+1. [胖东来九成销售额靠外地游客](https://s.weibo.com//weibo?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E4%B9%9D%E6%88%90%E9%94%80%E5%94%AE%E9%A2%9D%E9%9D%A0%E5%A4%96%E5%9C%B0%E6%B8%B8%E5%AE%A2&t=31&band_rank=37&Refer=top)
+1. [亚运会](https://s.weibo.com//weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A&t=31&band_rank=38&Refer=top)
+1. [王曼昱冠军](https://s.weibo.com//weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%86%A0%E5%86%9B&t=31&band_rank=39&Refer=top)
+1. [孙颖莎坦言训练不足](https://s.weibo.com//weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9D%A6%E8%A8%80%E8%AE%AD%E7%BB%83%E4%B8%8D%E8%B6%B3&t=31&band_rank=40&Refer=top)
+1. [金鹰奖](https://s.weibo.com//weibo?q=%E9%87%91%E9%B9%B0%E5%A5%96&t=31&band_rank=41&Refer=top)
+1. [樊振东3比0格拉尔多](https://s.weibo.com//weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C3%E6%AF%940%E6%A0%BC%E6%8B%89%E5%B0%94%E5%A4%9A%23&t=31&band_rank=42&Refer=top)
+1. [程靖淇谈孙颖莎体力透支](https://s.weibo.com//weibo?q=%23%E7%A8%8B%E9%9D%96%E6%B7%87%E8%B0%88%E5%AD%99%E9%A2%96%E8%8E%8E%E4%BD%93%E5%8A%9B%E9%80%8F%E6%94%AF%23&t=31&band_rank=43&Refer=top)
+1. [刘学义回复李梦](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AD%A6%E4%B9%89%E5%9B%9E%E5%A4%8D%E6%9D%8E%E6%A2%A6%23&t=31&band_rank=44&Refer=top)
+1. [国足0比3新西兰](https://s.weibo.com//weibo?q=%23%E5%9B%BD%E8%B6%B30%E6%AF%943%E6%96%B0%E8%A5%BF%E5%85%B0%23&t=31&band_rank=45&Refer=top)
+1. [孙颖莎展望下一届亚运会](https://s.weibo.com//weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%B1%95%E6%9C%9B%E4%B8%8B%E4%B8%80%E5%B1%8A%E4%BA%9A%E8%BF%90%E4%BC%9A%23&t=31&band_rank=46&Refer=top)
+1. [孙颖莎说没有遗憾](https://s.weibo.com//weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%AF%B4%E6%B2%A1%E6%9C%89%E9%81%97%E6%86%BE%23&t=31&band_rank=47&Refer=top)
+1. [理工科大学文科是配套设施](https://s.weibo.com//weibo?q=%E7%90%86%E5%B7%A5%E7%A7%91%E5%A4%A7%E5%AD%A6%E6%96%87%E7%A7%91%E6%98%AF%E9%85%8D%E5%A5%97%E8%AE%BE%E6%96%BD&t=31&band_rank=48&Refer=top)
+1. [张家齐和妈妈完全就是一场错位](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%92%8C%E5%A6%88%E5%A6%88%E5%AE%8C%E5%85%A8%E5%B0%B1%E6%98%AF%E4%B8%80%E5%9C%BA%E9%94%99%E4%BD%8D%23&t=31&band_rank=49&Refer=top)
+1. [原来明星一顿饭只吃几口是真的](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%98%8E%E6%98%9F%E4%B8%80%E9%A1%BF%E9%A5%AD%E5%8F%AA%E5%90%83%E5%87%A0%E5%8F%A3%E6%98%AF%E7%9C%9F%E7%9A%84%23&t=31&band_rank=50&Refer=top)
+1. [兰香如故热度超过长相思](https://s.weibo.com//weibo?q=%23%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E7%83%AD%E5%BA%A6%E8%B6%85%E8%BF%87%E9%95%BF%E7%9B%B8%E6%80%9D%23&t=31&band_rank=2&Refer=top)
+1. [电子竞技项目将退出亚运](https://s.weibo.com//weibo?q=%23%E7%94%B5%E5%AD%90%E7%AB%9E%E6%8A%80%E9%A1%B9%E7%9B%AE%E5%B0%86%E9%80%80%E5%87%BA%E4%BA%9A%E8%BF%90%23&t=31&band_rank=4&Refer=top)
+1. [微微一笑很倾城AI换脸后](https://s.weibo.com//weibo?q=%23%E5%BE%AE%E5%BE%AE%E4%B8%80%E7%AC%91%E5%BE%88%E5%80%BE%E5%9F%8EAI%E6%8D%A2%E8%84%B8%E5%90%8E%23&t=31&band_rank=5&Refer=top)
 1. [小米18Pro 防窥屏](https://s.weibo.com//weibo?q=%E5%B0%8F%E7%B1%B318Pro%20%E9%98%B2%E7%AA%A5%E5%B1%8F&t=31&band_rank=9&Refer=top)
 1. [林诗栋说拿金牌并不意外](https://s.weibo.com//weibo?q=%E6%9E%97%E8%AF%97%E6%A0%8B%E8%AF%B4%E6%8B%BF%E9%87%91%E7%89%8C%E5%B9%B6%E4%B8%8D%E6%84%8F%E5%A4%96&t=31&band_rank=10&Refer=top)
 1. [张家齐妈妈走700米打车觉得狼狈](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E8%B5%B0700%E7%B1%B3%E6%89%93%E8%BD%A6%E8%A7%89%E5%BE%97%E7%8B%BC%E7%8B%88%23&t=31&band_rank=11&Refer=top)
@@ -246,7 +293,6 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [觉得压力大的可以看28年劳动节](https://s.weibo.com//weibo?q=%23%E8%A7%89%E5%BE%97%E5%8E%8B%E5%8A%9B%E5%A4%A7%E7%9A%84%E5%8F%AF%E4%BB%A5%E7%9C%8B28%E5%B9%B4%E5%8A%B3%E5%8A%A8%E8%8A%82%23&t=31&band_rank=27&Refer=top)
 1. [刘学义只有两部待播剧了](https://s.weibo.com//weibo?q=%23%E5%88%98%E5%AD%A6%E4%B9%89%E5%8F%AA%E6%9C%89%E4%B8%A4%E9%83%A8%E5%BE%85%E6%92%AD%E5%89%A7%E4%BA%86%23&t=31&band_rank=28&Refer=top)
 1. [吴艳妮回应死也要死在跑道上](https://s.weibo.com//weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E5%9B%9E%E5%BA%94%E6%AD%BB%E4%B9%9F%E8%A6%81%E6%AD%BB%E5%9C%A8%E8%B7%91%E9%81%93%E4%B8%8A%23&t=31&band_rank=29&Refer=top)
-1. [孙颖莎回应兼3项1金2银](https://s.weibo.com//weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9B%9E%E5%BA%94%E5%85%BC3%E9%A1%B91%E9%87%912%E9%93%B6%23&t=31&band_rank=30&Refer=top)
 1. [150万人看田曦薇素颜直播吃饭](https://s.weibo.com//weibo?q=%23150%E4%B8%87%E4%BA%BA%E7%9C%8B%E7%94%B0%E6%9B%A6%E8%96%87%E7%B4%A0%E9%A2%9C%E7%9B%B4%E6%92%AD%E5%90%83%E9%A5%AD%23&t=31&band_rank=31&Refer=top)
 1. [孙千](https://s.weibo.com//weibo?q=%E5%AD%99%E5%8D%83&t=31&band_rank=32&Refer=top)
 1. [你起来开一会儿吧我困得撑不住了](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E8%B5%B7%E6%9D%A5%E5%BC%80%E4%B8%80%E4%BC%9A%E5%84%BF%E5%90%A7%E6%88%91%E5%9B%B0%E5%BE%97%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86%23&t=31&band_rank=33&Refer=top)
