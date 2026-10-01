@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-10-01 13:58:10
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-10-01 21:18:55
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -240,32 +240,51 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Thu Oct 01 2026 13:58:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 01 2026 21:18:55 GMT+0800 (China Standard Time) -->
 
+1. [车企9月销量数据出炉，比亚迪超46万，小米交付超4万台，理想、深蓝交付超3万台，怎样解读各家表现？](https://www.zhihu.com/question/2088948992545485000)
+1. [如何评价 10月 1 日发布的华为Mate 90系列全系旗舰τ芯片，不同版本如何选择？](https://www.zhihu.com/question/2088956328886678000)
+1. [男子用土豆当主食半年瘦25斤，称脂肪肝没了，血压、血糖稳了，真的会这样吗？这种减肥方法适合什么样的人？](https://www.zhihu.com/question/2088884615444543500)
+1. [既然永动机不存在，为何地球自转了45亿年，是什么力量在起作用？](https://www.zhihu.com/question/7464139876)
+1. [伏地魔为什么非得找有名的东西做魂器？他随便找块石头做成魂器扔海里不行吗？](https://www.zhihu.com/question/443161370)
+1. [如何看待华为、赛力斯达成新五年合作：共同升级问界业务推动品牌向上，余承东与张兴海出席签约？](https://www.zhihu.com/question/2089062587409421000)
+1. [如何评价陈思诚执导、编剧，张译、马丽主演的电影《神探之痕迹》？](https://www.zhihu.com/question/2088300737814061600)
+1. [如何看待南开大学两位教授胡金牛、陈璟因「实诚」简介再次走红？](https://www.zhihu.com/question/1928586591108036000)
+1. [如何评价微软于2026年9月30日发布的WSL 3.0？](https://www.zhihu.com/question/2088592261533677000)
+1. [老婆生完孩子想去月子中心坐月子，我觉得没必要怎么办?](https://www.zhihu.com/question/10669456096)
+1. [如何看待zeta5（ζ5）已经被一个大二学生证明是无理数？](https://www.zhihu.com/question/2086480318463268400)
+1. [25岁画师约稿时遭遇境外网络诈骗，诱导扫码和借贷，被骗4万余元最终坠亡离世，这起悲剧留给我们哪些反思？](https://www.zhihu.com/question/2088693062239367700)
+1. [如何实现财务自由？](https://www.zhihu.com/question/20147586)
+1. [华为Mate90系列售价5999元起，余承东称「在内存大涨价的今天，定价很有诚意」，怎样看待这一定价？](https://www.zhihu.com/question/2088953459273725700)
+1. [网友称胖东来九成销售额靠外地游客，是真的吗？若数据真实意味着什么？](https://www.zhihu.com/question/2087807933077611800)
+1. [三大运营商全面叫停金融分期「0 元购机」业务，背后有哪些深层原因？已经办理的用户该怎么办？](https://www.zhihu.com/question/2087296998558938400)
+1. [如果星舰掉下来刚好砸到纽约中央公园，会有多严重？](https://www.zhihu.com/question/2068028045357856300)
+1. [如果设计一款【​打BOSS时PVE，打完之后PVP争夺BOSS奖励】的游戏，有搞头吗？](https://www.zhihu.com/question/2086543319010751700)
+1. [为什么天天喊减负，不在中小学强制执行5天8小时学习制？](https://www.zhihu.com/question/2085252425859055600)
+1. [如何看待华为Mate 90系列通信能力再升级，首发多人互助通信共享、四卡三待等多项通信技术？](https://www.zhihu.com/question/2088665188237041700)
+1. [张本智和被文春爆出私下频繁搭讪女性，酒后会爆粗，是真的吗？具体是咋回事？](https://www.zhihu.com/question/2088684813393682700)
+1. [《等待戈多》这部戏剧表达的是什么？](https://www.zhihu.com/question/24581468)
+1. [读者发现番茄小说流量跌跌不休，24年下滑31%，25年下滑26%，今年下滑22%，为什么会出现这情况？](https://www.zhihu.com/question/2087907468932339000)
+1. [为什么影视剧中许多女机器人或未来世界的女性都是波波头？](https://www.zhihu.com/question/29370871)
+1. [在你生活的城市里，还存在着有人间烟火的小吃店吗？](https://www.zhihu.com/question/1939214479066899000)
+1. [如何评价《崩坏星穹铁道》角色：斯科特？](https://www.zhihu.com/question/2088585823742702300)
+1. [现代的数学研究抽象到了哪种地步？](https://www.zhihu.com/question/594329626)
+1. [我是一个资深程序员，30岁，每天都用AI，现在觉得Agent的能力太强大了，我未来的路在哪？](https://www.zhihu.com/question/2083222866280171300)
+1. [有谁知道“脑雾”这种现象？如何改善？](https://www.zhihu.com/question/277844187)
+1. [19 岁中非混血球员黄晟豪递补入选国足，如何评价这名小将？](https://www.zhihu.com/question/2085647608723392000)
 1. [现在大家都把国庆当纯放假玩，有没有什么「老派」过节体验？](https://www.zhihu.com/question/2085753079916388900)
 1. [为什么酒精灯里酒精不用100%浓度而是用95%浓度？](https://www.zhihu.com/question/302935324)
-1. [如何评价 10月 1 日发布的华为Mate 90系列全系旗舰τ芯片，不同版本如何选择？](https://www.zhihu.com/question/2088956328886678000)
 1. [为啥只有8090后的人喜欢用电脑的程度大于手机？](https://www.zhihu.com/question/2079838395874988500)
 1. [前有张雪机车团队在意大利被盗，后有惠英红团队巴黎遇抢劫，为啥欧洲小偷都这么猖獗？海外遇抢劫该如何应对？](https://www.zhihu.com/question/2088690399845902000)
-1. [既然永动机不存在，为何地球自转了45亿年，是什么力量在起作用？](https://www.zhihu.com/question/7464139876)
-1. [读者发现番茄小说流量跌跌不休，24年下滑31%，25年下滑26%，今年下滑22%，为什么会出现这情况？](https://www.zhihu.com/question/2087907468932339000)
 1. [陈芋汐长高十厘米一斤肉没长，怎样看待这种极度自律？这真的健康吗？](https://www.zhihu.com/question/2088625016011060700)
 1. [如何看待江苏“十五五”规划提出支持南京大学、东南大学、苏州大学等高校建设世界一流大学？](https://www.zhihu.com/question/2087929053441479700)
 1. [为什么没有经历过那个时代听《我的祖国》也就是那首“一条大河波浪宽”那首歌竟然感动的哭了？](https://www.zhihu.com/question/268772430)
 1. [C罗社媒官宣离开国家队集训，声称「在适当的时候声明离开国家队的原因」，他这么做的原因是什么？](https://www.zhihu.com/question/2088829795757048000)
-1. [25岁画师约稿时遭遇境外网络诈骗，诱导扫码和借贷，被骗4万余元最终坠亡离世，这起悲剧留给我们哪些反思？](https://www.zhihu.com/question/2088693062239367700)
 1. [如何评价 10 月 1 号发布的 Gemini 4 Argon？](https://www.zhihu.com/question/2088845041045337900)
-1. [网友称胖东来九成销售额靠外地游客，是真的吗？若数据真实意味着什么？](https://www.zhihu.com/question/2087807933077611800)
-1. [我是一个资深程序员，30岁，每天都用AI，现在觉得Agent的能力太强大了，我未来的路在哪？](https://www.zhihu.com/question/2083222866280171300)
-1. [伏地魔为什么非得找有名的东西做魂器？他随便找块石头做成魂器扔海里不行吗？](https://www.zhihu.com/question/443161370)
 1. [伊朗货币跌至历史新低，但股市却大涨，为何会出现这种反差？背后的经济、金融逻辑是什么？](https://www.zhihu.com/question/2088569106697909000)
-1. [如何看待华为Mate 90系列通信能力再升级，首发多人互助通信共享、四卡三待等多项通信技术？](https://www.zhihu.com/question/2088665188237041700)
-1. [如何看待南开大学两位教授胡金牛、陈璟因「实诚」简介再次走红？](https://www.zhihu.com/question/1928586591108036000)
 1. [如何看待华为Mate 90首发睿影Z10模块相机，或将带来哪些影像体验新突破？](https://www.zhihu.com/question/2088665087024354800)
-1. [张本智和被文春爆出私下频繁搭讪女性，酒后会爆粗，是真的吗？具体是咋回事？](https://www.zhihu.com/question/2088684813393682700)
 1. [有没有非常喜欢听的红歌？听多少次都不会觉得腻的那种？](https://www.zhihu.com/question/1983202516142408000)
 1. [为何机械硬盘价格如此离谱？](https://www.zhihu.com/question/2082856338791707000)
-1. [为什么影视剧中许多女机器人或未来世界的女性都是波波头？](https://www.zhihu.com/question/29370871)
 1. [同样是炖肉，为什么有的越炖越柴？](https://www.zhihu.com/question/2087508676735246600)
 1. [为什么很多人勤勤恳恳上班，不摸鱼、不摆烂，最后升职加薪却轮不到自己？](https://www.zhihu.com/question/2079118190358032600)
 1. [孩子在二梯队的小学垫底，现在孩子爸爸要买学区房送孩子进顶级初中，这样对孩子真的是好事吗？](https://www.zhihu.com/question/2055710194500482000)
@@ -292,7 +311,6 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [为什么进化中，没有将妊娠和哺乳工作分配给两性，而都由雌性进行？](https://www.zhihu.com/question/604018830)
 1. [曝JDG中野JunJia与HongQ 已解约，德杯小方、Angel出战，是真的吗？为啥选择此时解约？](https://www.zhihu.com/question/2088335170617045500)
 1. [怎么看媒体曝小米大模型负责人罗福莉晋升至 22 级？](https://www.zhihu.com/question/2088219922597991200)
-1. [19 岁中非混血球员黄晟豪递补入选国足，如何评价这名小将？](https://www.zhihu.com/question/2085647608723392000)
 1. [如何评价 OpenAI 发布的 GPT-6.1 sol？](https://www.zhihu.com/question/2088438691786246000)
 1. [鸿蒙装机量突破 9000 万台，预计年底破亿，对移动操作系统格局有何影响？](https://www.zhihu.com/question/2088353923895773000)
 1. [如何看待江苏高考接近满分记叙文《衬衫的价格为 9 镑 15 便士》火了，为啥会引发大家的共鸣？](https://www.zhihu.com/question/2088295452206523400)
