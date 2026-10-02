@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-10-03 02:27:03
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-10-03 06:59:49
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -133,38 +133,43 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Sat Oct 03 2026 02:27:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 03 2026 06:59:49 GMT+0800 (China Standard Time) -->
 
 1. [CFA 友谊赛，中国男足 0-5 巴勒斯坦，如何评价本场比赛？](https://www.zhihu.com/question/2089437755591714000)
 1. [中国的AI短剧发展得如火如荼，而国外AI短剧却没怎么发展起来，是什么原因？](https://www.zhihu.com/question/2087643546463613200)
-1. [网友称小诊所看病好得快的原因是采用了抗生素、激素等猛药压制症状的疗法，是真的吗？会对健康造成哪些影响？](https://www.zhihu.com/question/2088709467814585600)
-1. [为什么很少有可乐造假？](https://www.zhihu.com/question/310184018)
 1. [莫氏鸡煲总店员工从180人减至30多人，国庆假期上座率仅六成，为啥网红餐厅总难逃流量暴跌的命运？](https://www.zhihu.com/question/2089354143802418200)
-1. [如果英雄联盟有个英雄的被动是“你的所有装备价格翻倍但获得双倍属性”厉害吗？](https://www.zhihu.com/question/2061655448890111500)
+1. [网友称小诊所看病好得快的原因是采用了抗生素、激素等猛药压制症状的疗法，是真的吗？会对健康造成哪些影响？](https://www.zhihu.com/question/2088709467814585600)
 1. [继巨型吊牌之后，女装网店启用「防拆带」应对恶意退货，这会更有效吗？有人说市场信任崩溃了，为什么会这样？](https://www.zhihu.com/question/2088728472214684700)
-1. [为什么现在的rts游戏出一部暴死一部？](https://www.zhihu.com/question/2038324047910532600)
+1. [如何培养更强的深度思考能力？](https://www.zhihu.com/question/1938863202361415200)
+1. [清华北大是本身有含金量，还是因为13亿人高考内卷出来的排名靠前的学生有含金量？](https://www.zhihu.com/question/1978164446527498000)
+1. [为什么很少有可乐造假？](https://www.zhihu.com/question/310184018)
 1. [如何评价小沈阳夫妇主演的喜剧电影《什么意思夫妇》？](https://www.zhihu.com/question/2088300737960862000)
+1. [如果英雄联盟有个英雄的被动是“你的所有装备价格翻倍但获得双倍属性”厉害吗？](https://www.zhihu.com/question/2061655448890111500)
+1. [江歌妈妈最新发文「10 年维权路，尘埃终将落定」，哪些信息值得关注？](https://www.zhihu.com/question/2088971415525356000)
+1. [比亚迪9月销量46.36万辆，连续数月环比增长，如何看待比亚迪目前的销量走势？](https://www.zhihu.com/question/2089066625966290400)
 1. [为什么中国车站叫“站”而日韩朝叫“驿”?](https://www.zhihu.com/question/627161952)
 1. [为什么维生素只有 ABCDE和K，中间跳过了 FGHIJ？](https://www.zhihu.com/question/1996498851373270000)
-1. [江歌妈妈最新发文「10 年维权路，尘埃终将落定」，哪些信息值得关注？](https://www.zhihu.com/question/2088971415525356000)
-1. [国足热身赛 0-5 巴勒斯坦，如何评价这场比赛主教练邵佳一的战术安排？](https://www.zhihu.com/question/2089453196381107000)
-1. [孩子国庆放假，你更倾向报班还是自由玩？](https://www.zhihu.com/question/2088928170728765200)
 1. [网友称高铁候补订单凌晨兑现，早上睡醒发现车已开走，12306回应可设置截止兑现时间，还有更好的解法吗？](https://www.zhihu.com/question/2089009532022125300)
-1. [省钱省到了极致是一种怎样的体验？](https://www.zhihu.com/question/324259868)
-1. [清华北大是本身有含金量，还是因为13亿人高考内卷出来的排名靠前的学生有含金量？](https://www.zhihu.com/question/1978164446527498000)
-1. [比亚迪9月销量46.36万辆，连续数月环比增长，如何看待比亚迪目前的销量走势？](https://www.zhihu.com/question/2089066625966290400)
-1. [你曾被北京哪一幕夜景震撼过？](https://www.zhihu.com/question/453573409)
-1. [老师到底累不累？](https://www.zhihu.com/question/2073740252477395500)
-1. [为什么上班盼放假，真放假了却有点空虚？](https://www.zhihu.com/question/2086096617938105900)
-1. [《原神》至冬宫地下封印的“第三降临者的遗产”到底是什么？](https://www.zhihu.com/question/2088606636986328300)
-1. [如何评价杰伦-杜伦5年2亿美元续约活塞？他跟球队有哪些恩怨情仇，和库明加等人的签约矛盾有什么不同？](https://www.zhihu.com/question/2089354634410436000)
+1. [为什么现在的rts游戏出一部暴死一部？](https://www.zhihu.com/question/2038324047910532600)
 1. [为何机械硬盘价格如此离谱？](https://www.zhihu.com/question/2082856338791707000)
-1. [如何评价 10月 1 日发布的华为Mate 90系列全系旗舰τ芯片，不同版本如何选择？](https://www.zhihu.com/question/2088956328886678000)
-1. [为什么说好团队是带出来的，不是管出来的？](https://www.zhihu.com/question/2042438170449596700)
+1. [省钱省到了极致是一种怎样的体验？](https://www.zhihu.com/question/324259868)
+1. [《原神》至冬宫地下封印的“第三降临者的遗产”到底是什么？](https://www.zhihu.com/question/2088606636986328300)
+1. [国足热身赛 0-5 巴勒斯坦，如何评价这场比赛主教练邵佳一的战术安排？](https://www.zhihu.com/question/2089453196381107000)
+1. [老师到底累不累？](https://www.zhihu.com/question/2073740252477395500)
+1. [孩子国庆放假，你更倾向报班还是自由玩？](https://www.zhihu.com/question/2088928170728765200)
 1. [地球上的所有动物都没有穿衣服，还不是活得好好的，为什么只有我们人类才穿衣服，难道不穿衣服就活不了吗？](https://www.zhihu.com/question/2082064671708922600)
-1. [为什么现在新入行金融行业的毕业生更加喜欢量化而不喜欢主观多头策略？](https://www.zhihu.com/question/10341004625)
 1. [我是一个资深程序员，30岁，每天都用AI，现在觉得Agent的能力太强大了，我未来的路在哪？](https://www.zhihu.com/question/2083222866280171300)
+1. [如何评价 10月 1 日发布的华为Mate 90系列全系旗舰τ芯片，不同版本如何选择？](https://www.zhihu.com/question/2088956328886678000)
 1. [有谁知道“脑雾”这种现象？如何改善？](https://www.zhihu.com/question/277844187)
+1. [网上都说计算机炸了，为什么现实中一堆转专业到计算机的？](https://www.zhihu.com/question/2075577882076885000)
+1. [如何实现财务自由？](https://www.zhihu.com/question/20147586)
+1. [曾风靡全国的五笔为什么逐渐被拼音输入法取代了？](https://www.zhihu.com/question/561899452)
+1. [《等待戈多》这部戏剧表达的是什么？](https://www.zhihu.com/question/24581468)
+1. [你曾被北京哪一幕夜景震撼过？](https://www.zhihu.com/question/453573409)
+1. [为什么上班盼放假，真放假了却有点空虚？](https://www.zhihu.com/question/2086096617938105900)
+1. [如何评价杰伦-杜伦5年2亿美元续约活塞？他跟球队有哪些恩怨情仇，和库明加等人的签约矛盾有什么不同？](https://www.zhihu.com/question/2089354634410436000)
+1. [为什么说好团队是带出来的，不是管出来的？](https://www.zhihu.com/question/2042438170449596700)
+1. [为什么现在新入行金融行业的毕业生更加喜欢量化而不喜欢主观多头策略？](https://www.zhihu.com/question/10341004625)
 
 <!-- END ZHIHUQUESTIONS -->
 
