@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-10-07 01:13:24
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-10-07 05:39:25
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -132,38 +132,41 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Wed Oct 07 2026 01:13:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 07 2026 05:39:25 GMT+0800 (China Standard Time) -->
 
-1. [纪录片《缅北电诈覆灭纪实》首播，有哪些抓捕细节和内幕值得关注？](https://www.zhihu.com/question/2090520646019183600)
 1. [王皓遭辱骂拍照取证，其妻子发声「不理解竞技体育怎么变这样了」，怎样看待这一现象？骂人者会受到处罚吗？](https://www.zhihu.com/question/2090900901653209300)
-1. [如何看待教育部要求辅导员与学生同吃同住同生活、思政工作下沉至学生私生活？](https://www.zhihu.com/question/2089644710965024300)
 1. [缅方曾称没有中国人死，起初拒绝中国警方从电诈园区带回同胞遗骸，哪些信息值得关注？](https://www.zhihu.com/question/2090761132268942600)
-1. [媒体曝多项研究证实最佳睡眠时长为7小时，这一结论的依据是啥？为什么很多网友觉得黄金睡眠时长一直在缩水？](https://www.zhihu.com/question/2090731672496858600)
-1. [东南亚真的很危险吗？](https://www.zhihu.com/question/14535550405)
-1. [OPPO 为何要寻求 12 亿美元银团贷款？](https://www.zhihu.com/question/2089518959808857600)
-1. [Adobe Photoshop 是否已经过时？](https://www.zhihu.com/question/26705971)
-1. [国足友谊赛 3 连败，1 球未进丢掉 9 球，邵佳一该下课吗？](https://www.zhihu.com/question/2090921655505609000)
-1. [为什么 macOS 比 Windows 好用且美观，但是国内 Windows 依旧是主流操作系统？](https://www.zhihu.com/question/656502284)
-1. [如何看待TES上单zuian签证两次被拒，369紧急成为TES S16首发上单？](https://www.zhihu.com/question/2090797548009153500)
-1. [法国国债利差飙升至「欧债危机」以来最高水平，欧洲央行拟采取危机干预，法国会引爆金融危机么？](https://www.zhihu.com/question/2090039404593267000)
 1. [国足对阵塔吉克斯坦，韦世豪情绪失控肘击对手，被红牌罚下，怎样评价他的表现？](https://www.zhihu.com/question/2090915470492660000)
-1. [佤邦联合军原副总司令落网画面公开，将对缅北电诈清剿及局势带来哪些影响？](https://www.zhihu.com/question/2090445538684565200)
+1. [为什么 macOS 比 Windows 好用且美观，但是国内 Windows 依旧是主流操作系统？](https://www.zhihu.com/question/656502284)
+1. [OPPO 为何要寻求 12 亿美元银团贷款？](https://www.zhihu.com/question/2089518959808857600)
+1. [法国国债利差飙升至「欧债危机」以来最高水平，欧洲央行拟采取危机干预，法国会引爆金融危机么？](https://www.zhihu.com/question/2090039404593267000)
+1. [纪录片《缅北电诈覆灭纪实》首播，有哪些抓捕细节和内幕值得关注？](https://www.zhihu.com/question/2090520646019183600)
 1. [普宁教师岗考生称因HIV体检不合格被教育局劝签自愿放弃聘用，这合理吗？日常教学接触会传染到学生吗？](https://www.zhihu.com/question/2090360680104683500)
-1. [如何看待曝一大厂职工靠加班将服务器成本降低2亿致全组被裁？网友说「程序员要学会养bug」，怎么理解？](https://www.zhihu.com/question/2089288174748919600)
-1. [2026年中网男单半决赛，梅德韦杰夫泄愤击球致观众受伤被判负，德约科维奇两盘获胜，如何评价这场比赛？](https://www.zhihu.com/question/2090563607268541000)
 1. [家长称孩子打印作业开销太高，四年级一学期单科最高达300元，打印作业应该由家长做吗？怎样能降低成本？](https://www.zhihu.com/question/2090852996590428700)
-1. [为什么很多影视明星的子女基本都在英美读书？](https://www.zhihu.com/question/2085306776988152000)
-1. [媒体称破铜烂铁、废纸壳、废塑料可能正在创造巨量财富，这是真的吗？为啥「破烂」正在变成黄金赛道？](https://www.zhihu.com/question/2090571860681253600)
-1. [多地文旅安排滞留游客免费入住高校宿舍引争议，如何看待这种「慷学生之慨」的做法？这种安排需要学生同意吗？](https://www.zhihu.com/question/2090570108079027700)
-1. [泡面怎么煮会好吃？](https://www.zhihu.com/question/1966066791336896500)
+1. [如何看待曝一大厂职工靠加班将服务器成本降低2亿致全组被裁？网友说「程序员要学会养bug」，怎么理解？](https://www.zhihu.com/question/2089288174748919600)
+1. [如何看待TES上单zuian签证两次被拒，369紧急成为TES S16首发上单？](https://www.zhihu.com/question/2090797548009153500)
+1. [如何看待教育部要求辅导员与学生同吃同住同生活、思政工作下沉至学生私生活？](https://www.zhihu.com/question/2089644710965024300)
+1. [媒体曝多项研究证实最佳睡眠时长为7小时，这一结论的依据是啥？为什么很多网友觉得黄金睡眠时长一直在缩水？](https://www.zhihu.com/question/2090731672496858600)
+1. [从暴雪到育碧，感觉这些大厂都已不复往日光彩，欧美游戏行业近几年到底怎么了？](https://www.zhihu.com/question/5203224038)
+1. [国足友谊赛 3 连败，1 球未进丢掉 9 球，邵佳一该下课吗？](https://www.zhihu.com/question/2090921655505609000)
+1. [Adobe Photoshop 是否已经过时？](https://www.zhihu.com/question/26705971)
+1. [2026年中网男单半决赛，梅德韦杰夫泄愤击球致观众受伤被判负，德约科维奇两盘获胜，如何评价这场比赛？](https://www.zhihu.com/question/2090563607268541000)
+1. [佤邦联合军原副总司令落网画面公开，将对缅北电诈清剿及局势带来哪些影响？](https://www.zhihu.com/question/2090445538684565200)
 1. [《红楼梦》里薛宝钗给惜春开的一大堆画具都是做什么用的，为什么连水桶、箱子也有？](https://www.zhihu.com/question/2088232150554494700)
-1. [网红慧慧饱饱账号被禁止关注，客服称该用户因违反社区规范被处置，后账号恢复，未回应异常原因，具体咋回事？](https://www.zhihu.com/question/2090102947174512400)
-1. [大家都说情绪价值，到底什么是情绪价值？](https://www.zhihu.com/question/1952643491453711400)
-1. [大家认为哪种面条最好吃，有哪些好吃的做法?](https://www.zhihu.com/question/1996922585867371800)
 1. [《笑傲江湖》里「无招胜有招」该如何理解？](https://www.zhihu.com/question/2089673845900948200)
-1. [如果没有乔丹，詹姆斯会是NBA历史第一人吗？](https://www.zhihu.com/question/2016516174062593300)
-1. [赛博朋克模拟经营游戏《尼瓦利斯之夜》是一款怎样的游戏？值得上手一玩吗？](https://www.zhihu.com/question/2088551103432320000)
+1. [多地文旅安排滞留游客免费入住高校宿舍引争议，如何看待这种「慷学生之慨」的做法？这种安排需要学生同意吗？](https://www.zhihu.com/question/2090570108079027700)
+1. [网红慧慧饱饱账号被禁止关注，客服称该用户因违反社区规范被处置，后账号恢复，未回应异常原因，具体咋回事？](https://www.zhihu.com/question/2090102947174512400)
+1. [为什么很多影视明星的子女基本都在英美读书？](https://www.zhihu.com/question/2085306776988152000)
+1. [有哪些鱼类菜肴，吃过一次就让你念念不忘，强烈推荐尝试？](https://www.zhihu.com/question/2026619623445918700)
+1. [大家都说情绪价值，到底什么是情绪价值？](https://www.zhihu.com/question/1952643491453711400)
+1. [普通人如何提高自己的认知？](https://www.zhihu.com/question/1992237328933095000)
 1. [孩子越大越不愿沟通，父母该坚持管教还是学会放手？](https://www.zhihu.com/question/2080539295270621700)
+1. [如果没有乔丹，詹姆斯会是NBA历史第一人吗？](https://www.zhihu.com/question/2016516174062593300)
+1. [媒体称破铜烂铁、废纸壳、废塑料可能正在创造巨量财富，这是真的吗？为啥「破烂」正在变成黄金赛道？](https://www.zhihu.com/question/2090571860681253600)
+1. [东南亚真的很危险吗？](https://www.zhihu.com/question/14535550405)
+1. [泡面怎么煮会好吃？](https://www.zhihu.com/question/1966066791336896500)
+1. [大家认为哪种面条最好吃，有哪些好吃的做法?](https://www.zhihu.com/question/1996922585867371800)
+1. [赛博朋克模拟经营游戏《尼瓦利斯之夜》是一款怎样的游戏？值得上手一玩吗？](https://www.zhihu.com/question/2088551103432320000)
 
 <!-- END ZHIHUQUESTIONS -->
 
