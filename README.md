@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-10-06 06:39:55
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-10-06 11:00:38
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -144,26 +144,45 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Tue Oct 06 2026 06:39:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 06 2026 11:00:38 GMT+0800 (China Standard Time) -->
 
-1. [华为与高通宣布达成广泛专利许可协议，意味着什么？释放了哪些信号？](https://www.zhihu.com/question/2090468722427291000)
 1. [中方工作组曾 3 次约见果敢「四大家族」代表但收效甚微，背后的深层原因是什么？](https://www.zhihu.com/question/2090445207380743700)
-1. [如何评价 5 万人口的祁连县国庆迎 10 万游客，酒店民宿全满房，文旅局免费安置游客到学生宿舍？](https://www.zhihu.com/question/2090194037965677800)
 1. [央视披露缅北电诈真实案例，男子讲述被割肾经历，哪些细节值得关注？](https://www.zhihu.com/question/2090396384771794200)
+1. [如何评价 5 万人口的祁连县国庆迎 10 万游客，酒店民宿全满房，文旅局免费安置游客到学生宿舍？](https://www.zhihu.com/question/2090194037965677800)
+1. [媒体曝腾讯 70 亿美元租用甲骨文海外算力，此举出于哪些考量？会带来哪些影响？](https://www.zhihu.com/question/2089041240256001000)
+1. [如何评价369（白家浩，前TES/JDG上单）直播玩无畏契约被喷？](https://www.zhihu.com/question/2090416779474612500)
+1. [如何看待小沈阳夫妇电影《什么意思夫妇》逆袭成国庆档票房黑马？你预测之后表现会怎样？](https://www.zhihu.com/question/2089727746788123400)
+1. [普宁教师岗考生称因HIV体检不合格被教育局劝签自愿放弃聘用，这合理吗？日常教学接触会传染到学生吗？](https://www.zhihu.com/question/2090360680104683500)
+1. [香港为什么叫HK，不叫XG？](https://www.zhihu.com/question/1890042086297936100)
+1. [医生辟谣「高铁座椅或为HPV感染重灾区」，这个说法怎么来的？坐高铁有必要使用一次性座套吗？](https://www.zhihu.com/question/2090394927318267000)
+1. [水刚咽下去，口渴怎么就缓解了？身体从哪里知道我喝水了？](https://www.zhihu.com/question/2085687195193587700)
+1. [如何看待Anthropic被曝请神学家给Claude提供安全建议，并认为Claude有灵魂？](https://www.zhihu.com/question/2089359053851816000)
+1. [C罗还能够回到葡萄牙国家队吗？](https://www.zhihu.com/question/2090385527363187500)
+1. [为什么很多影视明星的子女基本都在英美读书？](https://www.zhihu.com/question/2085306776988152000)
+1. [为什么伽罗瓦 19 岁就发明的群论，绝大多数那个专业的研究生终其一生都学不会？](https://www.zhihu.com/question/473033315)
+1. [国庆假期已过半，这个假期你们开心吗？](https://www.zhihu.com/question/2089992826390050000)
+1. [如何看待中国航协针对「东航空姐下跪」事件发声，呼吁广大旅客文明乘机、理性维权？](https://www.zhihu.com/question/2090527958293111000)
+1. [网红慧慧饱饱账号被禁止关注，客服称该用户因违反社区规范被处置，后账号恢复，未回应异常原因，具体咋回事？](https://www.zhihu.com/question/2090102947174512400)
+1. [为什么孩子明明知道做错了事，可被指出错误时第一反应不是认错，而是立刻反驳、辩解，甚至顶嘴？](https://www.zhihu.com/question/2081871879607001300)
+1. [OpenAI 启动 28 天计划日更 Codex 与 Work，将带来哪些改变？](https://www.zhihu.com/question/2090400492539076600)
+1. [连续抛硬币出了十次正面，第十一次选反面真的更聪明吗？](https://www.zhihu.com/question/2089681731007918600)
+1. [为什么幅员辽阔的楚国没有统一战国？](https://www.zhihu.com/question/2310171499)
+1. [为什么有的人好像什么都知道但现实中却一事无成？](https://www.zhihu.com/question/24230372)
+1. [平时管孩子多被说太严厉，出游时女儿只黏爸爸、刻意疏远我，很难过，该怎么调整心态？](https://www.zhihu.com/question/2089299723337442600)
+1. [一年过去了，各位是怎么看高达GQuuuuuuX？](https://www.zhihu.com/question/2089991722759612000)
+1. [刘国正谈王楚钦「单核扛重担」，他现在遇到的很多难题是之前几代主力都没有经历过的，你认同吗？](https://www.zhihu.com/question/2090356403839792000)
+1. [什么才算真正的放下？](https://www.zhihu.com/question/11524732928)
+1. [为什么厨师在家做的饭没有在店里做的好吃？](https://www.zhihu.com/question/1913889145861936400)
+1. [为什么中国车站叫“站”而日韩朝叫“驿”?](https://www.zhihu.com/question/627161952)
+1. [为何日本的铁轨坚持不和世界统一？一直用窄轨，有什么好处？](https://www.zhihu.com/question/10602213310)
+1. [怎么评价《蜗居》里小贝不肯借6万全部存款给海萍买房的行为？](https://www.zhihu.com/question/432093354)
+1. [华为与高通宣布达成广泛专利许可协议，意味着什么？释放了哪些信号？](https://www.zhihu.com/question/2090468722427291000)
 1. [耐克股价年内跌幅近 50%且计划裁员重组，其市场表现缘何急转直下？](https://www.zhihu.com/question/2089754786040174000)
 1. [女高管称一周之内和马斯克从相爱走到「被分手」，两人共育有4个孩子，马斯克对待亲密关系是否有规律？](https://www.zhihu.com/question/2089738680290353400)
-1. [水刚咽下去，口渴怎么就缓解了？身体从哪里知道我喝水了？](https://www.zhihu.com/question/2085687195193587700)
-1. [医生辟谣「高铁座椅或为HPV感染重灾区」，这个说法怎么来的？坐高铁有必要使用一次性座套吗？](https://www.zhihu.com/question/2090394927318267000)
-1. [香港为什么叫HK，不叫XG？](https://www.zhihu.com/question/1890042086297936100)
-1. [为什么孩子明明知道做错了事，可被指出错误时第一反应不是认错，而是立刻反驳、辩解，甚至顶嘴？](https://www.zhihu.com/question/2081871879607001300)
 1. [七龙珠沙鲁篇中最后决战悟空和沙鲁究竟谁更胜一筹？](https://www.zhihu.com/question/38017020)
-1. [怎么评价《蜗居》里小贝不肯借6万全部存款给海萍买房的行为？](https://www.zhihu.com/question/432093354)
 1. [为什么仅靠储蓄难以实现财富积累？](https://www.zhihu.com/question/2088947596031170300)
-1. [为何日本的铁轨坚持不和世界统一？一直用窄轨，有什么好处？](https://www.zhihu.com/question/10602213310)
 1. [2026 年巴西总统选举首轮投票无人胜出，将进行第二轮角逐，目前的形势如何？](https://www.zhihu.com/question/2090289046253840000)
-1. [如何看待中国航协针对「东航空姐下跪」事件发声，呼吁广大旅客文明乘机、理性维权？](https://www.zhihu.com/question/2090527958293111000)
 1. [一位数学家如何证明自己没有使用AI做论文？](https://www.zhihu.com/question/2088882471890859800)
-1. [连续抛硬币出了十次正面，第十一次选反面真的更聪明吗？](https://www.zhihu.com/question/2089681731007918600)
 1. [女网红参加柏林马拉松比赛，却通过骑自行车作弊，后因被当地人拍照揭发而道歉，如何看待这一现象？](https://www.zhihu.com/question/2089678812749608000)
 1. [你对于 2026 年诺贝尔物理学奖的预测是什么？](https://www.zhihu.com/question/2081708619905745200)
 1. [武侠游戏里“朝廷”永远不参与江湖纷争，是为了省工作量，还是因为一旦入场整个游戏逻辑就会崩塌？](https://www.zhihu.com/question/2077550471271691800)
