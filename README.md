@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-10-15 01:12:43
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-10-15 04:43:20
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -132,31 +132,40 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Thu Oct 15 2026 01:12:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 15 2026 04:43:20 GMT+0800 (China Standard Time) -->
 
 1. [微信上线绿泡泡短剧，腾讯此前多次进军短剧市场都效果平平，这次能成功吗？能撼动红果的地位吗？](https://www.zhihu.com/question/2093689082383524900)
-1. [《琅琊榜》的权谋真的很幼稚吗？](https://www.zhihu.com/question/1888170995262682400)
-1. [为什么《兰香如故》电视剧，女主结婚从丫鬟到豪门贵妇就劝退了观众？](https://www.zhihu.com/question/2092260909305553200)
 1. [怎么看 OpenAI 的 NS 数学证明被发现其实没遵循 Spanish program？](https://www.zhihu.com/question/2093654423369152500)
 1. [国台办回应蔡康永现身沈伯洋竞选活动，在大是大非问题上没有任何模糊的空间，哪些信息值得关注？](https://www.zhihu.com/question/2093662309310620200)
-1. [群演疑似猥亵女演员，《此处通往繁星》剧组回应将撤下争议片段并调查，若属实剧组及涉事演员需承担哪些责任？](https://www.zhihu.com/question/2093629140502933800)
-1. [郑钦文夺冠，上汽奥迪发文「AUDI 全系买一送一」，送的却是车模引发热议，大家怎么看？](https://www.zhihu.com/question/2092980571324380000)
 1. [美国 9 月 CPI 数据公布，同比上涨 3.7%，高于市场预期的 3.6%，释放了哪些信号？](https://www.zhihu.com/question/2093811458442093000)
 1. [四部门要求新车研发必须包含「两冬一夏」测试，会改变汽车行业格局吗？](https://www.zhihu.com/question/2092952717853571000)
-1. [人类为什么不能培育一种专门象牙很长的大象？非得去猎杀野生大象？](https://www.zhihu.com/question/1968989779006829600)
-1. [如何看待网红女装品牌CHICYOU因使用狸花猫背部毛皮制作毛领遭网友抵制？哪些渠道的毛皮可能涉嫌违法？](https://www.zhihu.com/question/2093001535881832000)
-1. [LV 承认起诉茉莉奶白产生负面影响，第三季度中国客群需求下降 15% ，怎样看待这一变化？](https://www.zhihu.com/question/2093383237888484400)
+1. [群演疑似猥亵女演员，《此处通往繁星》剧组回应将撤下争议片段并调查，若属实剧组及涉事演员需承担哪些责任？](https://www.zhihu.com/question/2093629140502933800)
+1. [传 RTX508024GB 定档 2027 年 Q1，如何看待该卡接任新旗舰？](https://www.zhihu.com/question/2093345148323342300)
 1. [如何看待二本毕业女生待业一年，仍坚持找一份双休工作？是不愿降低生活标准，还是对就业市场缺乏认知？](https://www.zhihu.com/question/2093283021692605200)
+1. [如何看待网红女装品牌CHICYOU因使用狸花猫背部毛皮制作毛领遭网友抵制？哪些渠道的毛皮可能涉嫌违法？](https://www.zhihu.com/question/2093001535881832000)
+1. [人类为什么不能培育一种专门象牙很长的大象？非得去猎杀野生大象？](https://www.zhihu.com/question/1968989779006829600)
+1. [LV 承认起诉茉莉奶白产生负面影响，第三季度中国客群需求下降 15% ，怎样看待这一变化？](https://www.zhihu.com/question/2093383237888484400)
+1. [《琅琊榜》的权谋真的很幼稚吗？](https://www.zhihu.com/question/1888170995262682400)
+1. [郑钦文夺冠，上汽奥迪发文「AUDI 全系买一送一」，送的却是车模引发热议，大家怎么看？](https://www.zhihu.com/question/2092980571324380000)
 1. [33 岁销冠确诊胃癌晚期后突然被辞退，公司不服劳动仲裁判赔 11 万提起诉讼，法院可能会怎样判决？](https://www.zhihu.com/question/2093379096701039600)
 1. [如果人的脚进化成蹄子会怎么样？](https://www.zhihu.com/question/645292302)
 1. [如果贾宝玉不小心娶了夏金桂，贾家的人能搞定她吗？](https://www.zhihu.com/question/426303627)
-1. [传 RTX508024GB 定档 2027 年 Q1，如何看待该卡接任新旗舰？](https://www.zhihu.com/question/2093345148323342300)
 1. [如何评价2026年上映的韩国电影《希望》？](https://www.zhihu.com/question/2081814537989372000)
+1. [武汉的超高层住宅未来的出路在哪里？](https://www.zhihu.com/question/652170353)
+1. [有哪些看似很健康的垃圾食品？](https://www.zhihu.com/question/308419008)
+1. [方便面煮着吃为什么比泡着吃更香？](https://www.zhihu.com/question/2088359008025559600)
+1. [为什么《兰香如故》电视剧，女主结婚从丫鬟到豪门贵妇就劝退了观众？](https://www.zhihu.com/question/2092260909305553200)
+1. [如果你有25万的存款，面对1500的衣服裤子你会不会犹豫啊？](https://www.zhihu.com/question/2092975777457378800)
+1. [猪肚可以做成什么美食？](https://www.zhihu.com/question/642821169)
+1. [当孩子取的好成绩的时候，你会怎么奖励他？](https://www.zhihu.com/question/2081633077701371400)
+1. [和孩子在一起，你会闯红灯吗？为什么？](https://www.zhihu.com/question/2090421932114163200)
+1. [一男子在悬空寺古建筑横梁做引体向上，警方已立案，涉事者将承担哪些责任？](https://www.zhihu.com/question/2093390624560871200)
+1. [如何看待《兰香如故》中吕戢儿和女主互换这一剧情安排？](https://www.zhihu.com/question/2089798903109515000)
+1. [孩子刷短视频上瘾看不进书，手机真的会毁掉孩子的深度阅读能力吗？](https://www.zhihu.com/question/2092143619943708000)
+1. [为什么“依法”协助当事人进行诉讼不叫“法师”而叫“律师”？](https://www.zhihu.com/question/2089647041488147000)
+1. [孩子的哪一个瞬间让您特别感动？](https://www.zhihu.com/question/623842636)
 1. [广州球迷联盟发表声明，要把广州豹当成新主队简直是无稽之谈，如何评价这份声明？为什么广州豹不被认可？](https://www.zhihu.com/question/2093614158843475000)
 1. [如果人类会光合作用，还用上班吗？](https://www.zhihu.com/question/2022089773574099000)
-1. [有哪些看似很健康的垃圾食品？](https://www.zhihu.com/question/308419008)
-1. [武汉的超高层住宅未来的出路在哪里？](https://www.zhihu.com/question/652170353)
-1. [方便面煮着吃为什么比泡着吃更香？](https://www.zhihu.com/question/2088359008025559600)
 1. [大家都喜欢吃什么馅的饺子？](https://www.zhihu.com/question/38619578)
 1. [你会经常在孩子面前诉说“我为你付出了多少”吗？](https://www.zhihu.com/question/2042269499068568000)
 1. [拳头限制《英雄联盟》下载他人录像权限，这将对游戏生态产生哪些影响？](https://www.zhihu.com/question/2091245803746628400)
