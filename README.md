@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-10-14 14:10:34
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-10-14 19:55:22
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -220,30 +220,50 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Wed Oct 14 2026 14:10:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 14 2026 19:55:22 GMT+0800 (China Standard Time) -->
 
-1. [如何评价老干妈引入AI 用于检验辣椒品质，将600人生产线减至48人？AI 能给食品制造业带来啥改变？](https://www.zhihu.com/question/2093427934316814800)
 1. [王星自曝在缅甸手机被拿走刷网贷，从法律角度看，被胁迫借下的网贷该还吗？](https://www.zhihu.com/question/2093416023558812000)
+1. [有人高铁上开免提打 1 小时电话，前排乘客发声制止却被反问「和你有什么关系」，这种情况怎样处理最有效？](https://www.zhihu.com/question/2093618455018562800)
+1. [郑钦文夺冠，上汽奥迪发文「AUDI 全系买一送一」，送的却是车模引发热议，大家怎么看？](https://www.zhihu.com/question/2092980571324380000)
+1. [国台办回应蔡康永现身沈伯洋竞选活动，在大是大非问题上没有任何模糊的空间，哪些信息值得关注？](https://www.zhihu.com/question/2093662309310620200)
+1. [如果人的脚进化成蹄子会怎么样？](https://www.zhihu.com/question/645292302)
+1. [微信上线绿泡泡短剧，腾讯此前多次进军短剧市场都效果平平，这次能成功吗？能撼动红果的地位吗？](https://www.zhihu.com/question/2093689082383524900)
+1. [群演疑似猥亵女演员，《此处通往繁星》剧组回应将撤下争议片段并调查，若属实剧组及涉事演员需承担哪些责任？](https://www.zhihu.com/question/2093629140502933800)
+1. [如何看待二本毕业女生待业一年，仍坚持找一份双休工作？是不愿降低生活标准，还是对就业市场缺乏认知？](https://www.zhihu.com/question/2093283021692605200)
+1. [33 岁销冠确诊胃癌晚期后突然被辞退，公司不服劳动仲裁判赔 11 万提起诉讼，法院可能会怎样判决？](https://www.zhihu.com/question/2093379096701039600)
+1. [如果贾宝玉不小心娶了夏金桂，贾家的人能搞定她吗？](https://www.zhihu.com/question/426303627)
+1. [怎么看 OpenAI 的 NS 数学证明被发现其实没遵循 Spanish program？](https://www.zhihu.com/question/2093654423369152500)
+1. [LV 承认起诉茉莉奶白产生负面影响，第三季度中国客群需求下降 15% ，怎样看待这一变化？](https://www.zhihu.com/question/2093383237888484400)
+1. [为什么熊大熊二不许光头强伤害小动物，自己却捉鱼吃?](https://www.zhihu.com/question/637461930)
+1. [《琅琊榜》的权谋真的很幼稚吗？](https://www.zhihu.com/question/1888170995262682400)
+1. [谷歌发布了AI 游戏创作平台 Playground，一句话可以直接生成游戏，这对于游戏行业有什么影响？](https://www.zhihu.com/question/2092979490284646700)
+1. [为什么弹弓现在成了富哥运动？](https://www.zhihu.com/question/2091657012493010400)
+1. [如何看待网红女装品牌CHICYOU因使用狸花猫背部毛皮制作毛领遭网友抵制？哪些渠道的毛皮可能涉嫌违法？](https://www.zhihu.com/question/2093001535881832000)
+1. [医务人员收1.9元汽水被举报，涉事医院称不违反医德医风，当事人已报警，这算恶意举报吗？举报人要担责吗？](https://www.zhihu.com/question/2093673451877656000)
+1. [《还珠格格》第三部为何替换掉绝大部分演员？](https://www.zhihu.com/question/31954436)
 1. [百果园2年亏掉了7个亿，问题出在哪里？百果园既想做高品质水果，又想强调高性价比，品牌定位该如何取舍？](https://www.zhihu.com/question/2093431493561251300)
+1. [如果你有25万的存款，面对1500的衣服裤子你会不会犹豫啊？](https://www.zhihu.com/question/2092975777457378800)
+1. [孩子上学，到底是走读好，还是住宿好？](https://www.zhihu.com/question/2091069446840398000)
+1. [荣耀 WIN2 首发东风双子星涡轮散热，双风扇对游戏手机体验影响有多大？能彻底告别散热背夹吗？](https://www.zhihu.com/question/2093722937379633000)
+1. [如果人类会光合作用，还用上班吗？](https://www.zhihu.com/question/2022089773574099000)
+1. [项羽如果得了天下，能治理好天下吗?会超过刘邦吗？](https://www.zhihu.com/question/1512963107)
+1. [如何理解中微公司董事长称 AI 投资热潮中可能存在泡沫？该怎样判断 AI 产业是否存在投资过热？](https://www.zhihu.com/question/2093398468727236400)
+1. [我们身边有哪些常见的城市野生动物邻居？它们如何在小区、公园、屋顶生存，我们又该如何与它们和谐共处？](https://www.zhihu.com/question/2092321145521549800)
+1. [大虾要怎么煮才好吃？](https://www.zhihu.com/question/1928401117479416300)
+1. [野外有哪些危险的植物？](https://www.zhihu.com/question/64925609)
+1. [苹果「欢迎回家」新品发布会召开，推出品牌首款智能家庭中枢 HomeView 等，有哪些亮点值得关注？](https://www.zhihu.com/question/2092386918839460000)
+1. [如何评价老干妈引入AI 用于检验辣椒品质，将600人生产线减至48人？AI 能给食品制造业带来啥改变？](https://www.zhihu.com/question/2093427934316814800)
 1. [同卵双胞胎能长得几乎一样，为什么偏偏复制不了指纹？](https://www.zhihu.com/question/2085687194967093500)
 1. [宜宾一摊主被顾客差评后遭网暴，最后不堪重压选择跳河轻生，如何避免这种悲剧再次发生？](https://www.zhihu.com/question/2093063796151666000)
-1. [郑钦文夺冠，上汽奥迪发文「AUDI 全系买一送一」，送的却是车模引发热议，大家怎么看？](https://www.zhihu.com/question/2092980571324380000)
-1. [有人高铁上开免提打 1 小时电话，前排乘客发声制止却被反问「和你有什么关系」，这种情况怎样处理最有效？](https://www.zhihu.com/question/2093618455018562800)
 1. [如何看待饶毅老师发文爆料某华人编辑收费 200 万，帮忙发论文？](https://www.zhihu.com/question/2093286590034489900)
 1. [宇树王兴兴在工博会上说，明年的 GPT-7 有可能「击穿」具身智能现在的瓶颈，你怎么看？](https://www.zhihu.com/question/2093281358667956500)
-1. [《还珠格格》第三部为何替换掉绝大部分演员？](https://www.zhihu.com/question/31954436)
-1. [LV 承认起诉茉莉奶白产生负面影响，第三季度中国客群需求下降 15% ，怎样看待这一变化？](https://www.zhihu.com/question/2093383237888484400)
-1. [如何看待二本毕业女生待业一年，仍坚持找一份双休工作？是不愿降低生活标准，还是对就业市场缺乏认知？](https://www.zhihu.com/question/2093283021692605200)
 1. [男生高考522分被调剂马术专业，成为在校本科生中唯一持证钉蹄师，前景如何？能带给选专业的学生哪些启发？](https://www.zhihu.com/question/2093388530156136000)
 1. [如何评价10月13日正式推出的Gemini 4 Argon？](https://www.zhihu.com/question/2093454112922912800)
 1. [网传郑钦文团队一天就得花五万多块，是这样吗？职业网球选手的运营模式是怎样的？](https://www.zhihu.com/question/2093240084342335200)
-1. [为什么熊大熊二不许光头强伤害小动物，自己却捉鱼吃?](https://www.zhihu.com/question/637461930)
-1. [为什么弹弓现在成了富哥运动？](https://www.zhihu.com/question/2091657012493010400)
 1. [如何看待 Linus 开始使用 Claude Code 开发 Linux 内核？](https://www.zhihu.com/question/2093048312446428400)
 1. [一男子在悬空寺古建筑横梁做引体向上，警方已立案，涉事者将承担哪些责任？](https://www.zhihu.com/question/2093390624560871200)
 1. [为什么这么多人讨厌陈岩石夫妇在饭桌上向沙瑞金告状的行为？](https://www.zhihu.com/question/2090843777707537400)
 1. [叫“大学”的都比叫“学院”的强吗？](https://www.zhihu.com/question/639527248)
-1. [医务人员收1.9元汽水被举报，涉事医院称不违反医德医风，当事人已报警，这算恶意举报吗？举报人要担责吗？](https://www.zhihu.com/question/2093673451877656000)
 1. [如何看待利马在欧冠0-2输给马竞之后砲轰曼联管理层？](https://www.zhihu.com/question/2093615921050948900)
 1. [方便面煮着吃为什么比泡着吃更香？](https://www.zhihu.com/question/2088359008025559600)
 1. [涉嫌 IPO 操纵问题，香港证监会暂停茶百道股票交易，具体情况如何？此事带来的影响有多大？](https://www.zhihu.com/question/2093272323336025900)
@@ -251,7 +271,6 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [人的情绪对健康确实很重要吗？](https://www.zhihu.com/question/2091565010803766800)
 1. [为何《崩铁》如今越来越多角色关键机制设在2命？大部分角色被称为2命质变?](https://www.zhihu.com/question/2088665763020391200)
 1. [从商超到平台，为什么所有零售商都在卷自营？自有品牌真的更值得买吗？](https://www.zhihu.com/question/2093073216302592300)
-1. [如果人类会光合作用，还用上班吗？](https://www.zhihu.com/question/2022089773574099000)
 1. [老人凌晨下地干活被气枪击中身亡，持气枪打猎合法吗？案件还有哪些疑点待查？涉事人员将承担什么法律责任？](https://www.zhihu.com/question/2093446305422862300)
 1. [如何看待患者送 1.9 元汽水后举报医院药房工作人员违规收礼，医院已对其进行批评教育？这算违规收礼吗？](https://www.zhihu.com/question/2093393122902237200)
 1. [雷波县教师被安排与「耻辱」二字合影，近 50 天仍未公布调查结果，为啥迟迟不公布？调查的难点在哪儿？](https://www.zhihu.com/question/2093376100948599000)
@@ -261,7 +280,6 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [江淮汽车股价一度大涨近 9%，这一轮上涨是否预示市场情绪迎来反转？涨势能持续多久？](https://www.zhihu.com/question/2093296082310665200)
 1. [许子东称金庸、倪匡、亦舒均来自江南，如何理解香港通俗文学的地域性？](https://www.zhihu.com/question/1982474215060951800)
 1. [为什么晴朗的夜晚反而更冷？这是由什么原因导致的，从气象学角度该如何解释？](https://www.zhihu.com/question/2016598998534874600)
-1. [如果你有25万的存款，面对1500的衣服裤子你会不会犹豫啊？](https://www.zhihu.com/question/2092975777457378800)
 1. [为什么大多数所谓“硬科幻”的太空战争类作品中，看不到战锤40k那样精彩的跳帮战剧情？](https://www.zhihu.com/question/2092714865840371200)
 1. [孩子身上有不少零花钱，但花钱特别"抠"，能让我出的她坚决不出，怎么引导？](https://www.zhihu.com/question/2093303322417673200)
 1. [为什么 Markdown 成了 AI 时代知识管理的默认格式？](https://www.zhihu.com/question/2078797038666379800)
