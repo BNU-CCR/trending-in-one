@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-10-16 06:21:45
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-10-16 09:23:30
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -151,27 +151,45 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Fri Oct 16 2026 06:21:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 16 2026 09:23:30 GMT+0800 (China Standard Time) -->
 
 1. [如何看待胖东来梦之城项目按照标准施工，被夸完全教科书级？](https://www.zhihu.com/question/2093673568659838500)
-1. [如何评价DeepSeek停摆5小时后，按最近七日api消耗向用户发放补偿赠金？](https://www.zhihu.com/question/2094116217489450800)
+1. [如何看待13岁女团成员出道仅数小时被曝父母恶意欠薪且被执行345 万，母亲道歉并承诺会尽快解决？](https://www.zhihu.com/question/2094093905973044700)
+1. [如何评价潘天鸿（Tim）父亲圆通速递董事兼总裁潘水苗出任影视飓风董事长，影视飓风回应称并非新加入？](https://www.zhihu.com/question/2094025776060429300)
+1. [25 岁韩国网红柳智媛跑半马突发离世，此前她一直有运动的习惯，问题出在哪里？长跑应怎么评估身体状况？](https://www.zhihu.com/question/2093971346942158600)
+1. [如何看待申真谞获得烂柯杯世界围棋冠军，成为九冠王，彻底超越柯洁？](https://www.zhihu.com/question/2094115292263736300)
 1. [1 岁宝宝吃下被邻居投毒的鸡蛋后进 ICU，邻居自首称「想毒黄鼠狼」，你怎么看？邻居该担什么法律责任？](https://www.zhihu.com/question/2094023847775135000)
-1. [LOL 官方宣布经典模式将于 2027 年 1 月下架，怀旧模式为何难以留住玩家？](https://www.zhihu.com/question/2094017633859408100)
-1. [为什么人们忽然间对张纪中拍摄的金庸武侠剧好评如潮？](https://www.zhihu.com/question/313748673)
-1. [长实集团回应李嘉诚去世传闻称「绝无其事」，目前李嘉诚的身体状况如何？](https://www.zhihu.com/question/2094036953070920200)
-1. [酒店因肖战演唱会从 179 元涨到 2193元，市监部门称「明码标价都是正常的」，你怎么看？这合理吗？](https://www.zhihu.com/question/2093975692383708700)
-1. [10 月 15 日全球股市大跌，为什么会这样？相互之间有哪些关联吗？](https://www.zhihu.com/question/2094053673290528500)
+1. [最近密集收到各种AI逆向游戏、软件的新闻和资讯，感觉很多人都在担心这个事情，程序开发的未来会怎样？](https://www.zhihu.com/question/2093357614411338500)
 1. [电影《生化危机：爆发夜》全球票房破3亿美元创系列纪录，中国内地首周4060万美元，如何看待这一成绩？](https://www.zhihu.com/question/2093398805949276400)
-1. [日本人是如何看待中国料理的？](https://www.zhihu.com/question/61595446)
+1. [有哪些学过的课文是在你长大以后才真正读懂的？](https://www.zhihu.com/question/656811070)
+1. [深圳中小学推行春秋假，为什么很多家长反而不支持？春秋假的教育意义究竟是什么？](https://www.zhihu.com/question/2092722215804461300)
+1. [工厂里那些「看一眼就知道不对」的老师傅，到底凭的是什么？](https://www.zhihu.com/question/2086781187104810500)
+1. [比亚迪披露欧洲建厂计划，法国进入候选名单，为何是法国？若最终落地，会给本土车企带来怎样的竞争压力？](https://www.zhihu.com/question/2093663563466401000)
+1. [如果乌姆里奇派出的摄魂怪成功给了哈利和达力一个吻，她该如何收场，邓布利多将会如何反应？](https://www.zhihu.com/question/2021411544991286800)
+1. [AI有没有可能在十年内完全替代教师这个行业?](https://www.zhihu.com/question/6947040839)
+1. [LOL 官方宣布经典模式将于 2027 年 1 月下架，怀旧模式为何难以留住玩家？](https://www.zhihu.com/question/2094017633859408100)
+1. [酒店因肖战演唱会从 179 元涨到 2193元，市监部门称「明码标价都是正常的」，你怎么看？这合理吗？](https://www.zhihu.com/question/2093975692383708700)
+1. [孙可望内战李定国的时候，为什么那么多人背叛他，输的那么快？明明云南的钱粮都是他生产的？](https://www.zhihu.com/question/2087679381439256000)
+1. [孩子要花100多给同学买生日礼物，大人该不该管？](https://www.zhihu.com/question/2093972832632023000)
+1. [如何评价DeepSeek停摆5小时后，按最近七日api消耗向用户发放补偿赠金？](https://www.zhihu.com/question/2094116217489450800)
+1. [「豆包对低认知人群有权威性」引热议，你怎么看这一说法？缺乏辨别力更容易盲目相信 AI，还是会更抵触？](https://www.zhihu.com/question/2093992911612244200)
 1. [新华社发文评「饭圈」乱象侵蚀体育界，对此你怎么看？](https://www.zhihu.com/question/2093651343017878800)
+1. [看多了AI短剧，为什么都不太喜欢看真人演的短剧或电视剧了呢？](https://www.zhihu.com/question/2062123788586726100)
+1. [为什么人们忽然间对张纪中拍摄的金庸武侠剧好评如潮？](https://www.zhihu.com/question/313748673)
+1. [日本人是如何看待中国料理的？](https://www.zhihu.com/question/61595446)
+1. [武汉的超高层住宅未来的出路在哪里？](https://www.zhihu.com/question/652170353)
+1. [福建工人撞脸陈小春，名字中恰好带陈小春失散弟弟原名中的禄字，当事人回应称仅是巧合，哪些信息值得关注？](https://www.zhihu.com/question/2093839969966203600)
 1. [《全面战争：幕府将军 2 完全版》在 Steam 差评如潮，翻车的主要原因是什么？](https://www.zhihu.com/question/2093661440074952700)
+1. [传 RTX508024GB 定档 2027 年 Q1，如何看待该卡接任新旗舰？](https://www.zhihu.com/question/2093345148323342300)
+1. [陈妤颉个子不高，咋跑得那么快？身高、腿长和跑步快慢有关吗？](https://www.zhihu.com/question/2091086803856004400)
+1. [新三国的袁绍袁术兄弟为何塑造成宽厚智慧的人物形象？](https://www.zhihu.com/question/2083073787159897900)
+1. [长实集团回应李嘉诚去世传闻称「绝无其事」，目前李嘉诚的身体状况如何？](https://www.zhihu.com/question/2094036953070920200)
+1. [10 月 15 日全球股市大跌，为什么会这样？相互之间有哪些关联吗？](https://www.zhihu.com/question/2094053673290528500)
 1. [网友称部分华为门店样机试用被限时，门店称「防止小孩长时间占用样机打游戏」，这种规定合理吗？](https://www.zhihu.com/question/2093023077651177500)
 1. [双 11 促销规则越来越简单，为啥电商平台开始放弃复杂的满减玩法？电商大促正在发生哪些变化？](https://www.zhihu.com/question/2093836201601890000)
-1. [福建工人撞脸陈小春，名字中恰好带陈小春失散弟弟原名中的禄字，当事人回应称仅是巧合，哪些信息值得关注？](https://www.zhihu.com/question/2093839969966203600)
 1. [又漂亮又丑的长相是什么样子的？](https://www.zhihu.com/question/323389488)
 1. [蒙古国草原火灾未越过边境线，3400 余人在边境一线巡护，具体情况如何？可能带来怎样的影响？](https://www.zhihu.com/question/2092955690059014700)
 1. [中国科学家首次用中国大模型攻克世界级数学难题，如何理解这一成果的意义？](https://www.zhihu.com/question/2094035039738488600)
-1. [看多了AI短剧，为什么都不太喜欢看真人演的短剧或电视剧了呢？](https://www.zhihu.com/question/2062123788586726100)
 1. [在电视剧《伟大的长征》中让你印象最深刻的情节是什么?](https://www.zhihu.com/question/2092068353598821600)
 1. [懂车帝先是辟谣北美花生非前员工，三天后改口「夸大员工身份」并法律固证，如何看待这种辟谣口径的变化？](https://www.zhihu.com/question/2093698720374207200)
 1. [如何评价《明日方舟：终末地》「丹青渡」版本？](https://www.zhihu.com/question/2094031815048807000)
@@ -179,11 +197,9 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [第一天上班就看出来同事不好相处，要不要离职？](https://www.zhihu.com/question/1900482889856037400)
 1. [不搞科研的一天，你是怎么过的？](https://www.zhihu.com/question/676605841)
 1. [很久才和爸爸妈妈通一次电话，除了「吃了吗」「考了多少分」，我还能和他们聊什么？](https://www.zhihu.com/question/2088780580842366000)
-1. [武汉的超高层住宅未来的出路在哪里？](https://www.zhihu.com/question/652170353)
 1. [走到生命尽头，什么才最重要？](https://www.zhihu.com/question/2088138210035635000)
 1. [你在哪一刻感受到中国书法的美？](https://www.zhihu.com/question/386131103)
 1. [为什么很多玩家认为买断制游戏反而更划算？](https://www.zhihu.com/question/2032057148964915200)
-1. [新三国的袁绍袁术兄弟为何塑造成宽厚智慧的人物形象？](https://www.zhihu.com/question/2083073787159897900)
 1. [管理是应该顺应/利用人性，还是对抗/压制人性？](https://www.zhihu.com/question/2068386968807986000)
 
 <!-- END ZHIHUQUESTIONS -->
