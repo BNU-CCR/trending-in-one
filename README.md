@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-10-24 08:47:20
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-10-24 13:56:28
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -172,28 +172,45 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Sat Oct 24 2026 08:47:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 24 2026 13:56:28 GMT+0800 (China Standard Time) -->
 
-1. [广州商学院涨租逼走快递网点，又要求老师每天投诉6单，倒逼快递返回学校，如何看待这一操作？暴露什么问题？](https://www.zhihu.com/question/2096242853957710800)
-1. [如何评价Kimi K3.1？](https://www.zhihu.com/question/2096972346951198500)
-1. [S16瑞士轮BLG 0:1 KOI，如何评价这场比赛？](https://www.zhihu.com/question/2097161907279025400)
-1. [如何评价英国拟征收看剧税，观看 YouTube、Netflix 等网络流媒体需每年缴纳 180 英镑？](https://www.zhihu.com/question/2096182423621059600)
 1. [英雄联盟全球总决赛S16瑞士轮首日首战LPL四个0-1，怎么看待这个情况？](https://www.zhihu.com/question/2097190763675310000)
-1. [泽连斯基表态「愿以领土换和平协议」后，普京也确认愿恢复俄美乌三方谈判，为什么各方突然都松口了？](https://www.zhihu.com/question/2096377609613472500)
+1. [如何评价Kimi K3.1？](https://www.zhihu.com/question/2096972346951198500)
+1. [如何评价英国拟征收看剧税，观看 YouTube、Netflix 等网络流媒体需每年缴纳 180 英镑？](https://www.zhihu.com/question/2096182423621059600)
+1. [如何看待泰国旅游部长称「普通游客不会遭绑架」，这类问题「只出现在中国游客」？实际情况是怎样的？](https://www.zhihu.com/question/2096553772138886700)
+1. [如何评价博主称“游戏劫持了人生最珍贵的算力，导致现实问题一个都没碰”的观点？](https://www.zhihu.com/question/2096910627998585300)
+1. [9岁孩子开门杀致路人死亡，司机获刑10个月缓刑1年，开门的是乘客，为何判刑的是司机？带给我们哪些启示？](https://www.zhihu.com/question/2096896642700013800)
 1. [领导让你去他车里拿茅台，但车里没有怎么办？](https://www.zhihu.com/question/1919848515183568600)
-1. [前有白冰被指偷穿高定，后有曝一明星自费买高定引品牌方暴怒，为啥奢侈品行业要设置这些普通人看不懂的规矩？](https://www.zhihu.com/question/2096629150685426000)
 1. [如何看待小鹏新车发布会「老登营销」翻车事件？](https://www.zhihu.com/question/2095562516445320200)
-1. [听说月球在以每年四厘米的距离离开地球，这是不是真的？](https://www.zhihu.com/question/299894978)
+1. [「父亲遛狗两岁男童坠亡」警方不予立案，孩子母亲拟申请立案监督，法律上如何分析？能否立案取决于什么？](https://www.zhihu.com/question/2097068722514911700)
+1. [为什么腾讯有了QQ这么庞大的用户基础群之后要开发微信呢？](https://www.zhihu.com/question/1926924740225922600)
+1. [如何评价博主「赛车星冰乐」涉嫌诋毁嘲讽尊界 S800，公开向尊界汽车道歉？具体发生了什么？](https://www.zhihu.com/question/2097007117353883600)
 1. [你怎么看毛不易在女性好友婚礼上的致辞，算越界吗？为什么「结婚越来越不意味着什么」引发热议？](https://www.zhihu.com/question/2096550287901308000)
+1. [S16瑞士轮第二轮抽签结果出炉，LCK双内战，AL vs TES，如何看待这样的抽签结果？](https://www.zhihu.com/question/2097254824416900400)
 1. [Anthropic 科学家称「AGI 若三年内到来读博将失去意义」，如何看待这一观点？](https://www.zhihu.com/question/2096930670463530800)
+1. [过去引以为傲的技术能力被 AI 快速追上，是失落还是解脱？](https://www.zhihu.com/question/2083279164409210000)
+1. [如何看待六部门联合印发《关于推进老旧街区厂区改造提升的指导意见》，实施1500个重大工程项目？](https://www.zhihu.com/question/2096984395227848700)
+1. [为什么江西小炒火遍江南？](https://www.zhihu.com/question/1942709516211839500)
+1. [寒武纪（cambrian）为什么被翻译成“寒武纪”？](https://www.zhihu.com/question/2019414104478107100)
+1. [如何看待沙特联第11轮费萨里1-3利雅得胜利，C罗头发丝进球2.0事件？](https://www.zhihu.com/question/2097140964078904300)
+1. [iPhone Duo已经开售，众多 APP 适配仍不完善，适配折叠屏的难度究竟有多大？](https://www.zhihu.com/question/2097046792970028500)
+1. [iPhone Duo开售，每人限购两部，你买到了吗？很多人刚开箱就屏幕开裂，你遇到了吗？使用感受如何？](https://www.zhihu.com/question/2096894681745286400)
+1. [王楚钦确认退出WTT蒙彼利埃冠军赛，你如何看待王楚钦这次退赛？](https://www.zhihu.com/question/2097034799739319600)
+1. [1024 程序员节之际，鸿蒙坐拥超 9000万用户，目前的生态建设如何？又有哪些新的吸引开发者的能力？](https://www.zhihu.com/question/2096971670447831000)
+1. [广州商学院涨租逼走快递网点，又要求老师每天投诉6单，倒逼快递返回学校，如何看待这一操作？暴露什么问题？](https://www.zhihu.com/question/2096242853957710800)
+1. [前有白冰被指偷穿高定，后有曝一明星自费买高定引品牌方暴怒，为啥奢侈品行业要设置这些普通人看不懂的规矩？](https://www.zhihu.com/question/2096629150685426000)
+1. [LPL四支队伍在S赛瑞士轮首轮全军覆没，问题出在哪里？ 年年喊着「第一赛区」，为何一到世界赛就拉胯？](https://www.zhihu.com/question/2097228445985895000)
+1. [如何评价《原神》7.2版本「坏灭肇始之时」前瞻特别节目？](https://www.zhihu.com/question/2096211412536369400)
+1. [10 月 23 日北方多地出现火箭云，你看到了吗？这是什么原理？](https://www.zhihu.com/question/2097043134588741000)
+1. [泽连斯基表态「愿以领土换和平协议」后，普京也确认愿恢复俄美乌三方谈判，为什么各方突然都松口了？](https://www.zhihu.com/question/2096377609613472500)
+1. [有天赋的作家写出来的文字是什么样的？](https://www.zhihu.com/question/526079999)
+1. [S16瑞士轮BLG 0:1 KOI，如何评价这场比赛？](https://www.zhihu.com/question/2097161907279025400)
+1. [听说月球在以每年四厘米的距离离开地球，这是不是真的？](https://www.zhihu.com/question/299894978)
 1. [s16瑞士轮AL0:1KC，如何评价LPL四连败？](https://www.zhihu.com/question/2097188352629926000)
 1. [为什么阿里巴巴和腾讯估值低，股价却总是下跌？](https://www.zhihu.com/question/2094836561221251800)
-1. [如何评价博主「赛车星冰乐」涉嫌诋毁嘲讽尊界 S800，公开向尊界汽车道歉？具体发生了什么？](https://www.zhihu.com/question/2097007117353883600)
 1. [春秋时期赵氏孤儿的故事是真实的吗，真的会有程婴这样的人？](https://www.zhihu.com/question/417539911)
-1. [王楚钦确认退出WTT蒙彼利埃冠军赛，你如何看待王楚钦这次退赛？](https://www.zhihu.com/question/2097034799739319600)
 1. [劳动争议开庭前夕，娃哈哈法定代表人许思敏突然辞职，从宗馥莉卸任到许思敏离职，娃哈哈内部管理发生了什么？](https://www.zhihu.com/question/2096884177970925800)
 1. [S16瑞士轮HLE 1:0 TES，如何评价这场比赛？](https://www.zhihu.com/question/2097149215751385900)
-1. [9岁孩子开门杀致路人死亡，司机获刑10个月缓刑1年，开门的是乘客，为何判刑的是司机？带给我们哪些启示？](https://www.zhihu.com/question/2096896642700013800)
 1. [如何评价莫大「旭日旗事件」涉事学生开除文件已下达，但因涉及隐私法律规定或将不对外公开？](https://www.zhihu.com/question/2096969379007000800)
 1. [现货黄金失守 4000 美元关口，避险逻辑为什么失效了？这个位置适合买入吗？](https://www.zhihu.com/question/2096905271801127700)
 1. [如何看待最高法通报牟某虐待案中曾高频次、长时间、持续性辱骂女友，让其通过人工流产等方式换取心理平衡？](https://www.zhihu.com/question/2097051890424832300)
@@ -203,7 +220,6 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [月薪两万但毫无意义，该坚持吗？](https://www.zhihu.com/question/2096685774104163600)
 1. [为什么人类非常愿意喂动物吃东西？](https://www.zhihu.com/question/608029393)
 1. [孩子在幼儿园被抢玩具后推倒了同学，对方家长要求道歉，但孩子坚决拒绝，我该强迫他道歉吗？](https://www.zhihu.com/question/2096911163732779800)
-1. [有天赋的作家写出来的文字是什么样的？](https://www.zhihu.com/question/526079999)
 1. [曝波兰爆发大规模抗议活动，数百万人涌上街头，具体什么情况？为啥欧洲最近都在陆续爆发大规模的抗议活动？](https://www.zhihu.com/question/2096731185820820000)
 1. [如何看待土耳其计划推出两套新的历史教材，把中国新疆、青海、甘肃等地区，纳入所谓「突厥世界」的版图？](https://www.zhihu.com/question/2096747370075648800)
 1. [一顺风车司机困了让乘客开车，自己睡到目的地还照常收钱，平台最初只赔20元代金券，最后全额退款，合理吗？](https://www.zhihu.com/question/2096650914333566700)
