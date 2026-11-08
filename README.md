@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-11-08 08:38:04
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-11-08 15:24:00
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -180,11 +180,40 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Sun Nov 08 2026 08:38:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 08 2026 15:24:00 GMT+0800 (China Standard Time) -->
 
+1. [S16淘汰赛GEN VS iG，如何评价这场比赛？](https://www.zhihu.com/question/2102631107258750500)
+1. [中国不申办2036年奥运会，德印韩等7国入围，举办奥运还「香」吗?奥运会的吸引力发生了什么变化？](https://www.zhihu.com/question/2101032846550726400)
+1. [优酷被指在剧中插入占1/3屏幕，持续10秒的巨大广告，其回应可快进或自行关闭，你怎么看这种弹幕广告？](https://www.zhihu.com/question/2102464702701725700)
+1. [网友问今何在能否与江南一起上《后会友期》遭其无情拒绝并表示「江南是谁」，江南和今何在到底有啥爱恨情仇？](https://www.zhihu.com/question/2102470458649966300)
+1. [东风-61 已列装到火箭军，这意味着什么？](https://www.zhihu.com/question/2101952535791718700)
+1. [为什么普遍认为橘猫相对其他猫更肥，是真的如此还是刻板印象呢？](https://www.zhihu.com/question/280040891)
+1. [2627赛季NBA常规赛魔术 119:126 勇士，如何评价这场比赛？](https://www.zhihu.com/question/2102697731894555400)
+1. [APEC工商领导人峰会举办在即，中美俄三国能在深圳聚首吗？可能在国际上产生什么影响？](https://www.zhihu.com/question/2100138904796002000)
+1. [为什么说健身房练完后器械上面的杠铃片要归位？](https://www.zhihu.com/question/470350250)
+1. [怎么看AI物理公司PSI，用非公开Anthropic模型证明了Aaronson-Ambainis猜想？](https://www.zhihu.com/question/2102358311312029400)
+1. [全国首个冷门绝学学院成立，研究方向覆盖甲骨学、简帛学、西夏文、突厥文等，如何评价其研究方向和培养模式？](https://www.zhihu.com/question/2102501275430543600)
+1. [据传 ChatGPT 开始大规模封号，是真的吗？原因可能是什么？](https://www.zhihu.com/question/2102508937723565800)
+1. [从如今来看，OpenAI关闭Sora算不算比较失败的决策？](https://www.zhihu.com/question/2100676515159722000)
+1. [中超收官战，冠军到底花落谁家？](https://www.zhihu.com/question/2098774621298475300)
+1. [2627赛季马刺125-103开拓者，杨瀚森12分10篮板，生涯首砍两双 ，如何评价本场比赛？](https://www.zhihu.com/question/2102720433086846000)
+1. [59岁男子突发疾病后倒在站台去世，家属质疑车站配AED却没有员工会使用，车站到底应不应该担责？](https://www.zhihu.com/question/2102437627857040400)
+1. [为什么97天龙八部的粉丝和03天龙八部粉丝之间水火不容？](https://www.zhihu.com/question/266924961)
+1. [妻子在家私装监控拍下丈夫出轨被认定非法证据，从法律角度该如何解读？](https://www.zhihu.com/question/2094635438808081200)
+1. [灯塔水母真能长生不老吗？](https://www.zhihu.com/question/20751844)
+1. [中国短剧霸榜全球，百强榜拿下82席，下载收入包揽前三，美国付费，东南亚、拉美冲量，还有多久红利期？](https://www.zhihu.com/question/2102423958968653800)
+1. [多地中小学调整上学时间，推迟到校取消早读，会影响学习效率吗？双职工家庭如何解决孩子早晨无人看护的问题？](https://www.zhihu.com/question/2102716778061238800)
+1. [54 岁大哥自学AI短剧登顶红果榜，团队成员一年还清债务，普通人真能靠AI翻身吗？有啥值得借鉴的思路？](https://www.zhihu.com/question/2102042636320298200)
+1. [陶哲轩Nature 撰文称「即使 AI 再强，数学也不会穷途末路」，如何理解他的这一观点？](https://www.zhihu.com/question/2101660605358633200)
+1. [国足公布新一期集训名单，37 岁老将吴曦时隔 2 年 9 个月重返国家队，这一安排出于哪些战术考量？](https://www.zhihu.com/question/2102414563509532400)
+1. [外卖大战一年，美团、阿里、京东三家亏掉上千亿，怎么看这一结果？未来的外卖市场可能是什么走向？](https://www.zhihu.com/question/2101998994679232300)
+1. [deepseek v4对AI芯片设计有哪些启发?](https://www.zhihu.com/question/1994518544646423000)
+1. [俄罗斯的朋友圈为什么越来越小？](https://www.zhihu.com/question/2101860968326227200)
+1. [20岁一个对未来相对迷茫的年龄,做错选择真的会影响一辈子吗?](https://www.zhihu.com/question/2100608802911474700)
+1. [为何日式咖喱那么有名？](https://www.zhihu.com/question/655045108)
+1. [大家有什么从小到大都喜欢吃的食物呢，可以推荐一下吗？](https://www.zhihu.com/question/9395051952)
 1. [如何看待深圳一机顶盒厂商在 130 万台出厂设备中预埋系统级后门，并将控制权出售给黑产的行为？](https://www.zhihu.com/question/2101846693520085800)
 1. [怎么看字节跳动的扣子宣布下线解散，AI工作流是不是已经没有市场了？](https://www.zhihu.com/question/2101391707430565600)
-1. [S16淘汰赛GEN VS iG，如何评价这场比赛？](https://www.zhihu.com/question/2102631107258750500)
 1. [横店短剧女主半年接不到戏，选择摆摊交房租，当 AI 短剧越来越火，未来真人短剧行业将如何发展？](https://www.zhihu.com/question/2101613309371986700)
 1. [广州多名小学生家长反映，孩子在校园周边小卖部签名即可赊账买零食，有学生月赊超千元，店家的做法合法吗？](https://www.zhihu.com/question/2102366518650718000)
 1. [中国空间站将迎首位外籍航天员，巴基斯坦载荷专家参加神舟二十四号任务，具有哪些意义？](https://www.zhihu.com/question/2102344635867559400)
@@ -194,12 +223,10 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [如何评价《嫁金钗》大结局女主软禁太后杀死亲王摆下鸿门宴携胚胎以令诸侯，最后以护国长公主身份摄政天下？](https://www.zhihu.com/question/2102316298638250500)
 1. [为什么我们要保护并不稀有的麻雀？](https://www.zhihu.com/question/2098747939841652000)
 1. [外媒曝约60万枚英伟达芯片滞留香港，美方部分人士指责其为「卡脖子」，为何美方会对此如此着急？](https://www.zhihu.com/question/2102096628895240200)
-1. [APEC工商领导人峰会举办在即，中美俄三国能在深圳聚首吗？可能在国际上产生什么影响？](https://www.zhihu.com/question/2100138904796002000)
 1. [教育部推行教师 AI 全覆盖培训，部分教师却表示「越用 AI 反而越累」，为什么会出现这种现象？](https://www.zhihu.com/question/2101733537099559200)
 1. [《影之刃零》海外收入占到55%，一款武侠游戏在欧美卖得比国内好，这事该怎么看？](https://www.zhihu.com/question/2101626484280631600)
 1. [如何看待 11 月 7 日 DeepSeek 再次崩溃？](https://www.zhihu.com/question/2102422630783571500)
 1. [为什么同样是医学季，offer 3 不像 offer 8 一样被骂？](https://www.zhihu.com/question/2096320545000092400)
-1. [东风-61 已列装到火箭军，这意味着什么？](https://www.zhihu.com/question/2101952535791718700)
 1. [如何看待部分家长让孩子「只上半天学」，下午接回家自主安排？](https://www.zhihu.com/question/2102358744822702600)
 1. [为什么《哈利·波特》里赫敏会看上罗恩，放在现实里这可能吗？](https://www.zhihu.com/question/285960239)
 1. [男子收 1.98 万误转账约派出所归还却遭起诉，法院认定不当得利冻结其账户资金，怎样从法律角度解读？](https://www.zhihu.com/question/2102313430409658600)
