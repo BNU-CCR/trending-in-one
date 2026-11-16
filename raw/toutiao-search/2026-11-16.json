@@ -1,4 +1,114 @@
 [
+  { "url": "https://so.toutiao.com/search?keyword=中俄美元首将首次面对面会晤", "word": "中俄美元首将首次面对面会晤" },
+  {
+    "url": "https://so.toutiao.com/search?keyword=中国女保镖贴身保护墨西哥总统",
+    "word": "中国女保镖贴身保护墨西哥总统"
+  },
+  { "url": "https://so.toutiao.com/search?keyword=中国贸易伙伴网如何越织越密", "word": "中国贸易伙伴网如何越织越密" },
+  {
+    "url": "https://so.toutiao.com/search?keyword=特朗普：期待参加中俄美元首会晤",
+    "word": "特朗普：期待参加中俄美元首会晤"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=方博夺冠后称自己绝非等闲之辈",
+    "word": "方博夺冠后称自己绝非等闲之辈"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=女子取出金条为母亲打85克金手镯",
+    "word": "女子取出金条为母亲打85克金手镯"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=中俄美元首即将会晤释放强烈信号",
+    "word": "中俄美元首即将会晤释放强烈信号"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=外地顾客：胖东来搬到哪儿跟到哪儿",
+    "word": "外地顾客：胖东来搬到哪儿跟到哪儿"
+  },
+  { "url": "https://so.toutiao.com/search?keyword=中国摩托在欧洲杀疯了", "word": "中国摩托在欧洲杀疯了" },
+  { "url": "https://so.toutiao.com/search?keyword=俄媒记者在APEC被记者“包围”", "word": "俄媒记者在APEC被记者“包围”" },
+  { "url": "https://so.toutiao.com/search?keyword=那些与气象相关的不靠谱说法", "word": "那些与气象相关的不靠谱说法" },
+  { "url": "https://so.toutiao.com/search?keyword=胖东来今年累计销售达258亿", "word": "胖东来今年累计销售达258亿" },
+  { "url": "https://so.toutiao.com/search?keyword=“易中天”累计市值蒸发超2万亿", "word": "“易中天”累计市值蒸发超2万亿" },
+  { "url": "https://so.toutiao.com/search?keyword=A股下跌的三大利空找到了", "word": "A股下跌的三大利空找到了" },
+  {
+    "url": "https://so.toutiao.com/search?keyword=三军仪仗队迎接APEC会议外国元首",
+    "word": "三军仪仗队迎接APEC会议外国元首"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=日本23岁女演员中田乃爱突然去世",
+    "word": "日本23岁女演员中田乃爱突然去世"
+  },
+  { "url": "https://so.toutiao.com/search?keyword=96岁父亲时不时来看70岁女儿", "word": "96岁父亲时不时来看70岁女儿" },
+  {
+    "url": "https://so.toutiao.com/search?keyword=美媒深度解读“奇迹之城”深圳崛起",
+    "word": "美媒深度解读“奇迹之城”深圳崛起"
+  },
+  { "url": "https://so.toutiao.com/search?keyword=今日33只涨停股63只跌停股", "word": "今日33只涨停股63只跌停股" },
+  { "url": "https://so.toutiao.com/search?keyword=张家齐母亲自曝曾是拆迁户", "word": "张家齐母亲自曝曾是拆迁户" },
+  { "url": "https://so.toutiao.com/search?keyword=方博世排上升94位至第66", "word": "方博世排上升94位至第66" },
+  { "url": "https://so.toutiao.com/search?keyword=媒体：AI仿本山玩梗有风险", "word": "媒体：AI仿本山玩梗有风险" },
+  { "url": "https://so.toutiao.com/search?keyword=曝鸿蒙装机量已超过1亿台", "word": "曝鸿蒙装机量已超过1亿台" },
+  { "url": "https://so.toutiao.com/search?keyword=创业板指跌4.37%再创年内新低", "word": "创业板指跌4.37%再创年内新低" },
+  {
+    "url": "https://so.toutiao.com/search?keyword=印度对华出口“王牌”产品大起底",
+    "word": "印度对华出口“王牌”产品大起底"
+  },
+  { "url": "https://so.toutiao.com/search?keyword=苏群谈杨瀚森两双后遭弃用", "word": "苏群谈杨瀚森两双后遭弃用" },
+  {
+    "url": "https://so.toutiao.com/search?keyword=南北方大片地区将迎来气温新低",
+    "word": "南北方大片地区将迎来气温新低"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=用五个“一”丈量APEC背后的中国力量",
+    "word": "用五个“一”丈量APEC背后的中国力量"
+  },
+  { "url": "https://so.toutiao.com/search?keyword=东盟想要统一货币有何难点", "word": "东盟想要统一货币有何难点" },
+  { "url": "https://so.toutiao.com/search?keyword=女子假扮男性骗女友44万获刑", "word": "女子假扮男性骗女友44万获刑" },
+  { "url": "https://so.toutiao.com/search?keyword=中国留下了哪些“APEC印记”", "word": "中国留下了哪些“APEC印记”" },
+  { "url": "https://so.toutiao.com/search?keyword=郑丽文大方谈“九二共识”", "word": "郑丽文大方谈“九二共识”" },
+  { "url": "https://so.toutiao.com/search?keyword=今日主力净流入前10股", "word": "今日主力净流入前10股" },
+  { "url": "https://so.toutiao.com/search?keyword=郑钦文年终排名世界第22", "word": "郑钦文年终排名世界第22" },
+  { "url": "https://so.toutiao.com/search?keyword=沪指险守3600点", "word": "沪指险守3600点" },
+  { "url": "https://so.toutiao.com/search?keyword=血糖升高有哪些症状", "word": "血糖升高有哪些症状" },
+  {
+    "url": "https://so.toutiao.com/search?keyword=辽宁鞍山整改建筑垃圾违规倾倒问题",
+    "word": "辽宁鞍山整改建筑垃圾违规倾倒问题"
+  },
+  { "url": "https://so.toutiao.com/search?keyword=上海新房二手房价双上涨", "word": "上海新房二手房价双上涨" },
+  {
+    "url": "https://so.toutiao.com/search?keyword=106岁父亲和86岁女儿分享长寿秘诀",
+    "word": "106岁父亲和86岁女儿分享长寿秘诀"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=比亚迪：闪充技术直击用户痛点",
+    "word": "比亚迪：闪充技术直击用户痛点"
+  },
+  { "url": "https://so.toutiao.com/search?keyword=黄金跌至逾一年新低", "word": "黄金跌至逾一年新低" },
+  {
+    "url": "https://so.toutiao.com/search?keyword=波司登羽绒服卖不过百元款了吗",
+    "word": "波司登羽绒服卖不过百元款了吗"
+  },
+  { "url": "https://so.toutiao.com/search?keyword=记者方浩明现身APEC新闻中心", "word": "记者方浩明现身APEC新闻中心" },
+  {
+    "url": "https://so.toutiao.com/search?keyword=有人网购小金豆一烧发现是金包银",
+    "word": "有人网购小金豆一烧发现是金包银"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=女童被生父女友捂死案将一审宣判",
+    "word": "女童被生父女友捂死案将一审宣判"
+  },
+  { "url": "https://so.toutiao.com/search?keyword=APEC“深圳时间”因何备受瞩目", "word": "APEC“深圳时间”因何备受瞩目" },
+  {
+    "url": "https://so.toutiao.com/search?keyword=陕西迎雨雪天气%20秦岭山区局地暴雪",
+    "word": "陕西迎雨雪天气 秦岭山区局地暴雪"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=郑又平：沈伯洋借亚文化争取年轻选票",
+    "word": "郑又平：沈伯洋借亚文化争取年轻选票"
+  },
+  { "url": "https://so.toutiao.com/search?keyword=吴磊现身武汉畅谈活动感受", "word": "吴磊现身武汉畅谈活动感受" },
+  { "url": "https://so.toutiao.com/search?keyword=用耳朵“抵达”2026年的深圳", "word": "用耳朵“抵达”2026年的深圳" },
   { "url": "https://so.toutiao.com/search?keyword=习近平将同普京特朗普会晤", "word": "习近平将同普京特朗普会晤" },
   {
     "url": "https://so.toutiao.com/search?keyword=商家接一斤绒羽绒服订单接到手软",
