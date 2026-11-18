@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-11-18 12:24:10
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-11-18 22:00:28
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -239,8 +239,38 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Wed Nov 18 2026 12:24:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 18 2026 22:00:28 GMT+0800 (China Standard Time) -->
 
+1. [中俄美三国元首历史上首次面对面会晤，有哪些意义？为何会选在这个时间点？](https://www.zhihu.com/question/2105702944855287800)
+1. [美国总统特朗普抵达深圳，出席 APEC 深圳峰会，本次迎接仪式有哪些亮点？还有哪些信息值得关注？](https://www.zhihu.com/question/2106401577850200800)
+1. [十斤木头只能烧出一斤炭，古人为什么还要把柴烧成炭再卖？](https://www.zhihu.com/question/2105266981108766000)
+1. [APEC工商领导人峰会开始，曾毓群、李彦宏、王兴兴、王传福、雷军、董明珠等参会，有哪些看点值得关注？](https://www.zhihu.com/question/2105984976449527800)
+1. [如何评价新版上海小学数学教材规定“平行四边形属于梯形”，但“长方形不是等腰梯形”？](https://www.zhihu.com/question/2104876036001378600)
+1. [为什么好多动物都长尾巴，而我们人类却不长尾巴，长尾巴多好呀，长尾巴没事做的时候就可以摇来摇去？](https://www.zhihu.com/question/2080457352793408800)
+1. [CMF 报告显示，地方债三年间减少 11 万亿，如何看待这一阶段性成效？未来会如何化债？](https://www.zhihu.com/question/2105980726180934000)
+1. [庞统有凤雏的大名，刘备一开始为什么只让他当小小的耒阳县令？](https://www.zhihu.com/question/2105930728441762600)
+1. [每次只喝一点、从不喝醉，长期下来也会影响大脑吗？](https://www.zhihu.com/question/2083346008789075000)
+1. [胖东来模式为啥不能全国推广？](https://www.zhihu.com/question/1916824548122298000)
+1. [前 10 个月全国二手房交易面积同比增长 11.4％，如何看待该数据？这一增长能否延续？](https://www.zhihu.com/question/2105612166095173400)
+1. [为什么草莓和车厘子全国各地都很贵，不能大量种植吗？](https://www.zhihu.com/question/577898749)
+1. [英伟达史上首次单季营收突破千亿美元，数据中心收入占比约九成，AI 算力需求还能支撑英伟达增长多久？](https://www.zhihu.com/question/2106286526703167000)
+1. [为何很多父母只关心孩子小学中学的学业成绩，其实大学读什么专业，将来找什么工作，不是更重要吗？](https://www.zhihu.com/question/2104106280570844200)
+1. [如何看待雷军 APEC 发言紧张，网友称「好像略微有点社恐」？](https://www.zhihu.com/question/2106133971863954400)
+1. [《GTA6》M站开分99，这是一个什么水平？有1分扣在哪了？](https://www.zhihu.com/question/2106462901686858000)
+1. [大排量的车开起来是什么感觉？](https://www.zhihu.com/question/1937457094774207700)
+1. [现货黄金跌破 3800 美元关口，现在适合抄底黄金吗？黄金的长期配置逻辑还成立吗？](https://www.zhihu.com/question/2106345289204373000)
+1. [为什么说年少不努力会老大徒伤悲？](https://www.zhihu.com/question/2104092387735875600)
+1. [业内人士称不建议买500元以下羽绒服，基本不合格，500元真是羽绒服的分水岭吗？选购时应留心哪些标准？](https://www.zhihu.com/question/2105307883109929500)
+1. [如何看待管泽元全程无缘 2026 全球总决赛官方解说席？](https://www.zhihu.com/question/2105143311669229000)
+1. [如何评价2026 TGA电竞类奖项提名，Chovy提名最佳选手，GEN提名最佳电竞战队，BLG掉提？](https://www.zhihu.com/question/2106312387116492300)
+1. [现场观看吴克群生命共创影集《请记得我》感受如何？哪些细节让你深受感动？](https://www.zhihu.com/question/2106357131926398500)
+1. [梭子蟹如何烧更好吃？](https://www.zhihu.com/question/2074116255741695700)
+1. [同事内卷时如何保持心态平衡？](https://www.zhihu.com/question/2014543252276135700)
+1. [洗衣机「15 分钟快洗」模式洗不干净衣物，为什么厂商还要设置这一功能？](https://www.zhihu.com/question/1970439468998717700)
+1. [职场人离职后，工作经验是带走了，还是留在公司了，你怎么看？](https://www.zhihu.com/question/2008490336448684800)
+1. [比亚迪 App 崩了，多位车主反映 App 无法连接车辆开门，故障原因可能是什么？造成的影响有多大？](https://www.zhihu.com/question/2106068791704512000)
+1. [马斯克确认将前往中国，并缺席纽约DealBook峰会，他选择深圳APEC峰会节点赴华是出于什么考虑？](https://www.zhihu.com/question/2106061681793176600)
+1. [有什么好吃的美食可以分享吗？](https://www.zhihu.com/question/10300217718)
 1. [雷军APEC发言称过去几年挣到钱的 AI 公司很少，认为具身智能产业想象力将超汽车产业，对此你怎么看？](https://www.zhihu.com/question/2106085808956560100)
 1. [女子在盒马下单四百多次全部申请仅退款，称「刺激解压」，明知不光彩还是忍不住下单，如何从心理学角度解读？](https://www.zhihu.com/question/2106047811234030300)
 1. [劝表弟读博，他说现在的博士已经不是前几年了，真是这样吗？](https://www.zhihu.com/question/2104959116976329000)
@@ -263,7 +293,6 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [前 PS 高管称 PS6 性能升级不重要，价格便宜才是好，这个观点合理吗？](https://www.zhihu.com/question/2102832555426895400)
 1. [英伟达新任董事长哈维·琼斯表示，无意让黄仁勋回归重新担任 CEO，为何态度如此坚决？背后有哪些考量？](https://www.zhihu.com/question/2106289433519416000)
 1. [61 岁女子登机口抛硬币祈福致航班延误 58 分钟被拘 5 日，该处罚尺度是否合理？](https://www.zhihu.com/question/2105818186549666800)
-1. [洗衣机「15 分钟快洗」模式洗不干净衣物，为什么厂商还要设置这一功能？](https://www.zhihu.com/question/1970439468998717700)
 1. [有哪些「很下酒」的菜?](https://www.zhihu.com/question/1928864190287806700)
 1. [连续坚持10秒不呼吸就奖励100元，每再坚持1秒，奖励就会翻倍一次，你认为你能赚多少？](https://www.zhihu.com/question/2104407572514092000)
 1. [精力充沛的人是怎么做到的？](https://www.zhihu.com/question/15147461541)
