@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-11-19 11:30:39
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-11-19 21:11:15
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -228,12 +228,40 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Thu Nov 19 2026 11:30:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 19 2026 21:11:15 GMT+0800 (China Standard Time) -->
 
+1. [中俄美元首发表和平宣言，三国元首重申核战争打不赢也打不得，哪些信息值得重点关注？](https://www.zhihu.com/question/2106822157141534200)
+1. [为什么大家这么关注APEC会议？](https://www.zhihu.com/question/2105936986515171000)
+1. [中俄美元首同框，有哪些意义？对国际局势有哪些影响？](https://www.zhihu.com/question/2106665457826775000)
+1. [美国总统特朗普称美国不支持「台独」，这一发言释放了哪些信号？](https://www.zhihu.com/question/2106816145466417200)
+1. [腾讯控股公布微信 QQ 月活差 9 亿，为什么腾讯坚持留着 QQ 不合并？QQ 还有哪些市场？](https://www.zhihu.com/question/2106674294499402500)
+1. [马斯克盛赞中国，直言中美合作越多越好，并表示特斯拉会继续在中国提高产量，如何看待他这一发言？](https://www.zhihu.com/question/2106751822610133200)
+1. [一根 1m 长的玻璃棒，摔到地上断成 3 段，最短一段的平均值是多少？](https://www.zhihu.com/question/507262676)
+1. [为什么快到路口的时候，经常有车辆急加速（时速70甚至80公里）从左转车道往直行车道上挤？](https://www.zhihu.com/question/1025508257)
+1. [如何评价一见 auto 的文章《理想宁德，后会友期》？宁德向理想一天发三封催款邮件，其中出了什么问题？](https://www.zhihu.com/question/2106653014534706200)
+1. [国台办回应「建议 2032 年两岸统一货币」，称只要利于两岸关系和平发展都欢迎，统一货币会有哪些影响？](https://www.zhihu.com/question/2106651560688052200)
+1. [男朋友一被领导说就离职，频繁裸辞后长期空窗，是我太计较吗？](https://www.zhihu.com/question/2105339041600350000)
+1. [离婚前男方将游戏账号以 88 万卖给朋友，女方要求分割，法院判决 2:1 比例分，如何从法律角度解读？](https://www.zhihu.com/question/2106406907846182100)
+1. [安徽霍邱拆墙让路老人的女儿否认因买新车拆墙，到底什么情况？后续调查重点是什么？](https://www.zhihu.com/question/2106326337359197400)
+1. [前中国女子体操运动员芦玉菲自曝被单位欠缴91个月社保，最新回应已补缴完成，如何评价？](https://www.zhihu.com/question/2106508372249931800)
+1. [怎么看DeepSeek API 联网搜索与抓页改为免费？](https://www.zhihu.com/question/2106672632099758300)
+1. [美军三航母扎堆阿拉伯海会对伊朗重新开战吗？](https://www.zhihu.com/question/2105777754130101800)
+1. [OpenAI 宣布为全球多达 20 万科学家免费提供前沿模型访问，如何理解这一动作，可能带来哪些影响？](https://www.zhihu.com/question/2106385974116574500)
+1. [如何评价小米AI负责人要将小米AI分家独立出来？](https://www.zhihu.com/question/2106468887957082400)
+1. [谭咏麟为何在香港歌唱界威望那么高？](https://www.zhihu.com/question/28876110)
+1. [工信部同意北京市等 8 个省（市）开展 6G 创新发展部省协同试点工作，如何看待这次试点布局？](https://www.zhihu.com/question/2106044813778994200)
+1. [Ruler 采访称「BLG 也是拿到亚军后才夺冠，未来我们也能夺得S冠」，如何看待他的心态和想法？](https://www.zhihu.com/question/2106337303693976000)
+1. [深圳 APEC 世纪晚宴菜单曝光，以地道粤菜为主，同时融入国际菜肴元素，菜品设计考量了哪些核心因素？](https://www.zhihu.com/question/2103409527672591600)
+1. [如何评价游戏《侠盗猎车手VI》（GTA6），它到底好不好玩？](https://www.zhihu.com/question/2106459198645191400)
+1. [网友让豆包生成一张「盒子里有13个鸡蛋」的图片，豆包连续十几次纠错仍未能数清，这是为什么？](https://www.zhihu.com/question/2106466938230502000)
+1. [河南一学子536分捡漏上北大，曾因分数过低遭北大三次退档，现被公派瑞士读博，如何看待他的求学之路？](https://www.zhihu.com/question/2105965624749054000)
+1. [如何评价S16决赛结束后，王多多的结束语？](https://www.zhihu.com/question/2105987189423216600)
+1. [AI 冲击短剧行业，叶璇称大部分真人演员还不如 AI，这一观点是否站得住脚？](https://www.zhihu.com/question/2105625294812063200)
+1. [如何看待文章《模型一代》？为什么它能传播得如此迅速和广泛？](https://www.zhihu.com/question/2106715344051987200)
+1. [追梦格林明明已经退化得很严重了，为什么勇士还要一直首发他？](https://www.zhihu.com/question/2106692120014583600)
+1. [为什么枪炮类武器注定会成为动漫中的战力垫脚石？](https://www.zhihu.com/question/2106387857120159000)
 1. [中俄美三国元首历史上首次面对面会晤，有哪些意义？为何会选在这个时间点？](https://www.zhihu.com/question/2105702944855287800)
 1. [马斯克确认将前往中国，并缺席纽约DealBook峰会，他选择深圳APEC峰会节点赴华是出于什么考虑？](https://www.zhihu.com/question/2106061681793176600)
-1. [深圳 APEC 世纪晚宴菜单曝光，以地道粤菜为主，同时融入国际菜肴元素，菜品设计考量了哪些核心因素？](https://www.zhihu.com/question/2103409527672591600)
-1. [网友让豆包生成一张「盒子里有13个鸡蛋」的图片，豆包连续十几次纠错仍未能数清，这是为什么？](https://www.zhihu.com/question/2106466938230502000)
 1. [Anthropic 发行定价83美元，超此前发行价区间，成迄今全球最大IPO，怎么看定价过程与估值？](https://www.zhihu.com/question/2106656189337395700)
 1. [WorkBuddy日活用户超1000万，它是怎么做到的？AI Agent已经成为工作刚需了吗？](https://www.zhihu.com/question/2106443459233932800)
 1. [儿子拿笔在墙上乱画，儿子爸爸极力反对说要有规矩，姥姥说让孩子画是保护他的探索欲，谁说得对我该站谁？](https://www.zhihu.com/question/2106047742212686600)
@@ -251,7 +279,6 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [电视剧《甄嬛传》中，为什么连宫女都敢欺负安陵容，却没人敢欺负叶澜依呢？](https://www.zhihu.com/question/667598198)
 1. [英伟达员工大会宣布告别「黄仁勋时代」，并承诺在 12 月为员工加薪，董事会的做法能赢得员工们的支持吗？](https://www.zhihu.com/question/2106685122283926800)
 1. [王羽佳国家大剧院演出迟到17分钟，此前香港站缩减演出时长主办方退款，如何评价这种行为？这算耍大牌吗？](https://www.zhihu.com/question/2106071380613769000)
-1. [如何评价游戏《侠盗猎车手VI》（GTA6），它到底好不好玩？](https://www.zhihu.com/question/2106459198645191400)
 1. [高手是怎么使用AI的？](https://www.zhihu.com/question/2022710256736707300)
 1. [老年人为什么要坚持锻炼？](https://www.zhihu.com/question/2094989947350540800)
 1. [域、界、门、纲、目、科、属、种，生物学还有哪些是我们所不知道的么？](https://www.zhihu.com/question/3538790894)
