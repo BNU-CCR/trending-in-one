@@ -12,7 +12,7 @@
 
 <!-- BEGIN ZHIHUCOOKIE -->
 
-**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-11-20 05:37:48
+**知乎热榜 Cookie**：✅ 有效 ｜ 最近刷新：2026-08-07 13:14 ｜ 最近检测：2026-11-20 11:18:28
 
 <!-- END ZHIHUCOOKIE -->
 
@@ -169,25 +169,48 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Fri Nov 20 2026 05:37:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 20 2026 11:18:28 GMT+0800 (China Standard Time) -->
 
 1. [中俄美元首发表和平宣言，三国元首重申核战争打不赢也打不得，哪些信息值得重点关注？](https://www.zhihu.com/question/2106822157141534200)
+1. [中俄美和平宣言为何特别强调国际刑事法院不得滥用管辖权？具体针对的是什么？这一表述有何现实背景？](https://www.zhihu.com/question/2106848715306526000)
+1. [腾讯披露WorkBuddy近七天年化收入超5亿美元，有用户月付4万元买服务，数据背后有多大「含金量」？](https://www.zhihu.com/question/2106533852478977800)
 1. [美国总统特朗普称美国不支持「台独」，这一发言释放了哪些信号？](https://www.zhihu.com/question/2106816145466417200)
-1. [中俄美元首同框，有哪些意义？对国际局势有哪些影响？](https://www.zhihu.com/question/2106665457826775000)
+1. [如何看待郎平表示，不认同「竞技体育，菜是原罪」这句话，并称「努力一辈子没赢冠军，那也不能算失败者」？](https://www.zhihu.com/question/2106820088896512800)
+1. [如何看待张朝阳回应搜狐「躺平」：没资源做大模型，但每天凌晨4点起床，讲物理课也是工作？](https://www.zhihu.com/question/2106691940146332000)
+1. [为啥中文的一二三笔画简单明了，零的笔画那么多啊?](https://www.zhihu.com/question/606813087)
+1. [腾讯姚顺雨主导AI架构精简，而全公司11万人面临大调整，这类扁平化变革落地难点在哪？](https://www.zhihu.com/question/2104663850607966000)
+1. [直属领导的管理水平，是不是直接决定了职场幸福感？](https://www.zhihu.com/question/2059075711210674200)
+1. [地暖是24小时开着省钱，还是分时段开更省钱？](https://www.zhihu.com/question/437934361)
+1. [周杰伦武汉演唱会580元大屏观演区引热议，此前有人认为是性价比之王，也有人不接受看不到真人，你怎么看？](https://www.zhihu.com/question/2105728003292637000)
+1. [爱奇艺股价已连续 27 个交易日低于 1 美元，最快将于11月23日触发退市警告，它真的会退市吗？](https://www.zhihu.com/question/2106740458650957600)
+1. [感觉身边只剩酒肉朋友，聊的不是孩子上学就是社会新闻，再往深就没话了，有时候不明白交情怎么就停在这儿了？](https://www.zhihu.com/question/2106571582248155000)
+1. [史上最大IPO开始交易，Anthropic首日收涨17%，市值为1.271万亿美元，怎样评价这一表现？](https://www.zhihu.com/question/2106663248388960500)
+1. [前世界亚军中单 Corn 回忆 Uzi 卢锡安打野事件「韩国打野未沟通就秒选」，真相到底是怎样的？](https://www.zhihu.com/question/2106752005976716300)
+1. [离婚前男方将游戏账号以 88 万卖给朋友，女方要求分割，法院判决 2:1 比例分，如何从法律角度解读？](https://www.zhihu.com/question/2106406907846182100)
+1. [S16 总决赛 LPL 夺冠，TI15 CNDOTA 全部止步小组赛，未来他们的成绩差距会越来越大吗？](https://www.zhihu.com/question/2105964975202067700)
+1. [很多人说GTA6或者GTA系列玩法单调，无非就是射击+开车，是不是玩法创新在这种3A上遇到瓶颈了？](https://www.zhihu.com/question/2106787583531409700)
+1. [GTA6是被情怀捧起来的吗？](https://www.zhihu.com/question/2106690691409633800)
+1. [陈晓楠因文吉儿与王子璇在细节问题上持续对抗叫停谈话，处理方式合理吗？文吉儿与王子璇的沟通存在哪些问题？](https://www.zhihu.com/question/2106800026538043100)
+1. [《后会友期》中白小纯称「努力也是一种天赋」，你认可吗？努力究竟是可选的态度还是与生俱来的天赋？](https://www.zhihu.com/question/2106749850322560300)
+1. [如何评价DOTA2的7.42版本改动？](https://www.zhihu.com/question/2106664875657381600)
+1. [现货黄金跌破 3600 美元关口，这意味着什么？这轮下跌会跌到什么位置才有实质性支撑？](https://www.zhihu.com/question/2107019375895238400)
+1. [如何评价27.99万起售的方程豹钛9，方盒子大六座SUV可以是家庭的唯一用车吗？](https://www.zhihu.com/question/2106857547277789000)
+1. [如何看待丰田员工餐摆拍造假？](https://www.zhihu.com/question/2106090303207772400)
+1. [胖东来今年累计销售额超过 258 亿元，同比增长 26.34%，如何看待这份业绩表现？](https://www.zhihu.com/question/2105706046706693000)
+1. [如何评价《GTA6》的剧情以及人物设定？](https://www.zhihu.com/question/321730711)
+1. [长城汽车 2026 年前三季度净利润暴跌 55% ，是什么原因导致的？](https://www.zhihu.com/question/2102286017998988000)
 1. [腾讯控股公布微信 QQ 月活差 9 亿，为什么腾讯坚持留着 QQ 不合并？QQ 还有哪些市场？](https://www.zhihu.com/question/2106674294499402500)
+1. [你家乡最值得专程去吃的非遗美食是什么，为什么？](https://www.zhihu.com/question/2075463766326638300)
+1. [中俄美元首同框，有哪些意义？对国际局势有哪些影响？](https://www.zhihu.com/question/2106665457826775000)
 1. [马斯克盛赞中国，直言中美合作越多越好，并表示特斯拉会继续在中国提高产量，如何看待他这一发言？](https://www.zhihu.com/question/2106751822610133200)
 1. [加州翻红和佛州翻蓝哪个更可怕？](https://www.zhihu.com/question/2101505383613440300)
 1. [一根 1m 长的玻璃棒，摔到地上断成 3 段，最短一段的平均值是多少？](https://www.zhihu.com/question/507262676)
-1. [如何看待郎平表示，不认同「竞技体育，菜是原罪」这句话，并称「努力一辈子没赢冠军，那也不能算失败者」？](https://www.zhihu.com/question/2106820088896512800)
-1. [GTA6是被情怀捧起来的吗？](https://www.zhihu.com/question/2106690691409633800)
-1. [如何评价《GTA6》的剧情以及人物设定？](https://www.zhihu.com/question/321730711)
 1. [安徽霍邱拆墙让路老人的女儿否认因买新车拆墙，到底什么情况？后续调查重点是什么？](https://www.zhihu.com/question/2106326337359197400)
 1. [男朋友一被领导说就离职，频繁裸辞后长期空窗，是我太计较吗？](https://www.zhihu.com/question/2105339041600350000)
 1. [如何看待网传小米大模型业务MiMo或独立融资？](https://www.zhihu.com/question/2106468887957082400)
 1. [前中国女子体操运动员芦玉菲自曝被单位欠缴91个月社保，最新回应已补缴完成，如何评价？](https://www.zhihu.com/question/2106508372249931800)
 1. [为什么大家这么关注APEC会议？](https://www.zhihu.com/question/2105936986515171000)
 1. [如何评价S16决赛结束后，王多多的结束语？](https://www.zhihu.com/question/2105987189423216600)
-1. [腾讯披露WorkBuddy近七天年化收入超5亿美元，有用户月付4万元买服务，数据背后有多大「含金量」？](https://www.zhihu.com/question/2106533852478977800)
 1. [如何评价一见 auto 的文章《理想宁德，后会友期》？宁德向理想一天发三封催款邮件，其中出了什么问题？](https://www.zhihu.com/question/2106653014534706200)
 1. [怎么看DeepSeek API 联网搜索与抓页改为免费？](https://www.zhihu.com/question/2106672632099758300)
 1. [多所高校要求师生论文发表前备案否则不算科研成果，如果解读这一高校新规？](https://www.zhihu.com/question/2106372097987684000)
@@ -196,7 +219,6 @@ gh workflow run "zhihu-questions update" -R nateafish/trending-in-one
 1. [有什么给刚进入大学的女生的忠告？](https://www.zhihu.com/question/2104230623502136800)
 1. [如何评价游戏《侠盗猎车手VI》（GTA6），它到底好不好玩？](https://www.zhihu.com/question/2106459198645191400)
 1. [2627赛季NBA常规赛爵士 109:97 湖人，如何评价这场比赛？](https://www.zhihu.com/question/2106706240739070700)
-1. [离婚前男方将游戏账号以 88 万卖给朋友，女方要求分割，法院判决 2:1 比例分，如何从法律角度解读？](https://www.zhihu.com/question/2106406907846182100)
 1. [泽连斯基公布导弹打击克里米亚大桥致桥拱桥跨坍塌画面，此举将引发哪些连锁反应？](https://www.zhihu.com/question/2106134560761292800)
 1. [选唐尼回归饰演大反派毁灭博士不会造成观众感受混乱吗？为什么非唐尼不可？](https://www.zhihu.com/question/663654542)
 1. [《GTA6》M站开分99，这是一个什么水平？有1分扣在哪了？](https://www.zhihu.com/question/2106462901686858000)
