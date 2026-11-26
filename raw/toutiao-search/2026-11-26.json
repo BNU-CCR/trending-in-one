@@ -1,4 +1,138 @@
 [
+  { "url": "https://so.toutiao.com/search?keyword=中纪委连打三“虎”", "word": "中纪委连打三“虎”" },
+  { "url": "https://so.toutiao.com/search?keyword=遭举报的武大女教授已被免职", "word": "遭举报的武大女教授已被免职" },
+  {
+    "url": "https://so.toutiao.com/search?keyword=一组数据看世界屋脊上的中国速度",
+    "word": "一组数据看世界屋脊上的中国速度"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=董明珠：汽车产业害虫该灭就灭",
+    "word": "董明珠：汽车产业害虫该灭就灭"
+  },
+  { "url": "https://so.toutiao.com/search?keyword=75岁正部级蔡赴朝被开除党籍", "word": "75岁正部级蔡赴朝被开除党籍" },
+  {
+    "url": "https://so.toutiao.com/search?keyword=高市早苗获颁最佳着装奖遭群嘲",
+    "word": "高市早苗获颁最佳着装奖遭群嘲"
+  },
+  { "url": "https://so.toutiao.com/search?keyword=安徽大学副校长付某被免职", "word": "安徽大学副校长付某被免职" },
+  { "url": "https://so.toutiao.com/search?keyword=人民日报就当前供强需弱发声", "word": "人民日报就当前供强需弱发声" },
+  {
+    "url": "https://so.toutiao.com/search?keyword=中方：日方应还中国人民以净土",
+    "word": "中方：日方应还中国人民以净土"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=中方要求菲方拖走非法坐滩军舰",
+    "word": "中方要求菲方拖走非法坐滩军舰"
+  },
+  { "url": "https://so.toutiao.com/search?keyword=重庆小升初有内部选拔？不实", "word": "重庆小升初有内部选拔？不实" },
+  {
+    "url": "https://so.toutiao.com/search?keyword=马天宇愿分一部分遗产给一位挚友",
+    "word": "马天宇愿分一部分遗产给一位挚友"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=向太自曝弟弟妹妹相继烧炭离世",
+    "word": "向太自曝弟弟妹妹相继烧炭离世"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=商务部：坚决反对美对中国加征关税",
+    "word": "商务部：坚决反对美对中国加征关税"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=男子搜到诅咒自家孩子的WiFi名",
+    "word": "男子搜到诅咒自家孩子的WiFi名"
+  },
+  { "url": "https://so.toutiao.com/search?keyword=立陶宛敦促台当局认错", "word": "立陶宛敦促台当局认错" },
+  {
+    "url": "https://so.toutiao.com/search?keyword=全球首个乙肝功能性治愈新药中国获批",
+    "word": "全球首个乙肝功能性治愈新药中国获批"
+  },
+  { "url": "https://so.toutiao.com/search?keyword=中国神华股价创19年新高", "word": "中国神华股价创19年新高" },
+  { "url": "https://so.toutiao.com/search?keyword=乌军6名士兵伪装成俄军被全歼", "word": "乌军6名士兵伪装成俄军被全歼" },
+  {
+    "url": "https://so.toutiao.com/search?keyword=长城推进大电量HEV能扳回一局吗",
+    "word": "长城推进大电量HEV能扳回一局吗"
+  },
+  { "url": "https://so.toutiao.com/search?keyword=为什么冬天适合吃萝卜", "word": "为什么冬天适合吃萝卜" },
+  { "url": "https://so.toutiao.com/search?keyword=年轻人的婚礼能多省", "word": "年轻人的婚礼能多省" },
+  { "url": "https://so.toutiao.com/search?keyword=全球AI竞争只剩下中美了吗", "word": "全球AI竞争只剩下中美了吗" },
+  { "url": "https://so.toutiao.com/search?keyword=董明珠建议长城进军拖拉机", "word": "董明珠建议长城进军拖拉机" },
+  {
+    "url": "https://so.toutiao.com/search?keyword=乌克兰为何将对俄“战刀”挥向非洲",
+    "word": "乌克兰为何将对俄“战刀”挥向非洲"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=女生在七门学科中拿下四科第一",
+    "word": "女生在七门学科中拿下四科第一"
+  },
+  { "url": "https://so.toutiao.com/search?keyword=多国抗议美国拟再挥关税大棒", "word": "多国抗议美国拟再挥关税大棒" },
+  {
+    "url": "https://so.toutiao.com/search?keyword=男子15万交弟弟弟媳代管后要不回",
+    "word": "男子15万交弟弟弟媳代管后要不回"
+  },
+  { "url": "https://so.toutiao.com/search?keyword=巴基斯坦航天员为何要学中文", "word": "巴基斯坦航天员为何要学中文" },
+  { "url": "https://so.toutiao.com/search?keyword=华为将推出新的智驾品牌", "word": "华为将推出新的智驾品牌" },
+  {
+    "url": "https://so.toutiao.com/search?keyword=66岁木匠回应耗费40年复刻应县木塔",
+    "word": "66岁木匠回应耗费40年复刻应县木塔"
+  },
+  { "url": "https://so.toutiao.com/search?keyword=40.98亿元资金今日流入通信股", "word": "40.98亿元资金今日流入通信股" },
+  {
+    "url": "https://so.toutiao.com/search?keyword=解放军舰船模拟围台？国防部回应",
+    "word": "解放军舰船模拟围台？国防部回应"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=普京留下伏特加做深圳酒店回礼",
+    "word": "普京留下伏特加做深圳酒店回礼"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=美国这波301关税对中国影响几何",
+    "word": "美国这波301关税对中国影响几何"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=国防部：有祖国做依靠台胞更安全",
+    "word": "国防部：有祖国做依靠台胞更安全"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=台退将期待何时台胞也能共赴星海",
+    "word": "台退将期待何时台胞也能共赴星海"
+  },
+  { "url": "https://so.toutiao.com/search?keyword=猪油是心血管杀手吗", "word": "猪油是心血管杀手吗" },
+  {
+    "url": "https://so.toutiao.com/search?keyword=俄机飞越日本和台岛周边？国防部回应",
+    "word": "俄机飞越日本和台岛周边？国防部回应"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=华为长鑫将与三星SK海力士正面交锋",
+    "word": "华为长鑫将与三星SK海力士正面交锋"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=理想能打破新车只火3个月行业怪圈吗",
+    "word": "理想能打破新车只火3个月行业怪圈吗"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=评论员：台当局对日充满不切实际幻想",
+    "word": "评论员：台当局对日充满不切实际幻想"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=航天员进入太空对巴基斯坦有多重要",
+    "word": "航天员进入太空对巴基斯坦有多重要"
+  },
+  { "url": "https://so.toutiao.com/search?keyword=北汽为何带机器人来车展", "word": "北汽为何带机器人来车展" },
+  { "url": "https://so.toutiao.com/search?keyword=德国为何惦记法国的五常席位", "word": "德国为何惦记法国的五常席位" },
+  {
+    "url": "https://so.toutiao.com/search?keyword=唐尚珺第一次参加大学篮球赛就夺冠",
+    "word": "唐尚珺第一次参加大学篮球赛就夺冠"
+  },
+  {
+    "url": "https://so.toutiao.com/search?keyword=俄称打击乌军目标%20乌称打击俄机场",
+    "word": "俄称打击乌军目标 乌称打击俄机场"
+  },
+  { "url": "https://so.toutiao.com/search?keyword=国内汽柴油价格迎来两连降", "word": "国内汽柴油价格迎来两连降" },
+  { "url": "https://so.toutiao.com/search?keyword=引望发布辅助驾驶新品牌星驰", "word": "引望发布辅助驾驶新品牌星驰" },
+  {
+    "url": "https://so.toutiao.com/search?keyword=郑州胖东来还没开业周边商户已抢租",
+    "word": "郑州胖东来还没开业周边商户已抢租"
+  },
   {
     "url": "https://so.toutiao.com/search?keyword=普京爱吃粤菜离开前还打包上飞机",
     "word": "普京爱吃粤菜离开前还打包上飞机"
